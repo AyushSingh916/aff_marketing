@@ -18,7 +18,7 @@ const About: React.FC = () => {
       <div className="flex flex-col lg:flex-row items-center gap-12 lg:gap-24 w-full max-w-4xl">
         <div className="w-full lg:w-1/2">
           <Image
-            src="/about-image.jpg"
+            src="/Designer.jpeg"
             width={600}
             height={400}
             alt="About Us Image"
@@ -46,8 +46,8 @@ const About: React.FC = () => {
             competition.
           </p>
           <Link
-            href="/contact-us"
-            className="inline-block mt-6 px-6 py-3 bg-accent text-white font-bold rounded shadow hover:bg-accent-dark"
+            href="/contact"
+            className="inline-block mt-6 px-6 py-3 bg-accent text-white font-bold rounded shadow hover:bg-accent-dark bg-green-700"
           >
             Get in Touch
           </Link>
