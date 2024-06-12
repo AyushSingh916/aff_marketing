@@ -18,187 +18,7 @@ import {
   navigationMenuTriggerStyle,
 } from '@/components/ui/navigation-menu';
 
-type NavLink = {
-  text: string;
-  href: string;
-  sublinks?: NavLink[];
-};
-
-const navmenuItems: NavLink[] = [
-  {
-    text: 'Home',
-    href: '/home-garden',
-    sublinks: [
-      {
-        text: 'Furniture',
-        href: '/home-garden/furniture',
-        sublinks: [
-          { text: 'Living Room', href: '/home-garden/furniture/living-room' },
-          { text: 'Bedroom', href: '/home-garden/furniture/bedroom' },
-        ],
-      },
-      {
-        text: 'Decor',
-        href: '/home-garden/decor',
-        sublinks: [
-          { text: 'Wall Art', href: '/home-garden/decor/wall-art' },
-          { text: 'Lighting', href: '/home-garden/decor/lighting' },
-        ],
-      },
-      { text: 'Outdoor', href: '/home-garden/outdoor' },
-    ],
-  },
-  {
-    text: 'Electronic Devices',
-    href: '/kitchen',
-    sublinks: [
-      {
-        text: 'Appliances',
-        href: '/kitchen/appliances',
-        sublinks: [
-          { text: 'Refrigerators', href: '/kitchen/appliances/refrigerators' },
-          { text: 'Microwaves', href: '/kitchen/appliances/microwaves' },
-        ],
-      },
-      {
-        text: 'Cookware',
-        href: '/kitchen/cookware',
-        sublinks: [
-          { text: 'Pots & Pans', href: '/kitchen/cookware/pots-pans' },
-          { text: 'Utensils', href: '/kitchen/cookware/utensils' },
-        ],
-      },
-      { text: 'Storage', href: '/kitchen/storage' },
-    ],
-  },
-  {
-    text: 'Electronic Appliances',
-    href: '/kitchen',
-    sublinks: [
-      {
-        text: 'Appliances',
-        href: '/kitchen/appliances',
-        sublinks: [
-          { text: 'Refrigerators', href: '/kitchen/appliances/refrigerators' },
-          { text: 'Microwaves', href: '/kitchen/appliances/microwaves' },
-        ],
-      },
-      {
-        text: 'Cookware',
-        href: '/kitchen/cookware',
-        sublinks: [
-          { text: 'Pots & Pans', href: '/kitchen/cookware/pots-pans' },
-          { text: 'Utensils', href: '/kitchen/cookware/utensils' },
-        ],
-      },
-      { text: 'Storage', href: '/kitchen/storage' },
-    ],
-  },
-  {
-    text: 'Automobiles',
-    href: '/tech',
-    sublinks: [
-      {
-        text: 'Computers',
-        href: '/tech/computers',
-        sublinks: [
-          { text: 'Laptops', href: '/tech/computers/laptops' },
-          { text: 'Desktops', href: '/tech/computers/desktops' },
-        ],
-      },
-      {
-        text: 'Mobile',
-        href: '/tech/mobile',
-        sublinks: [
-          { text: 'Smartphones', href: '/tech/mobile/smartphones' },
-          { text: 'Tablets', href: '/tech/mobile/tablets' },
-        ],
-      },
-      { text: 'Gaming', href: '/tech/gaming' },
-    ],
-  },
-  {
-    text: 'Ai-Tools',
-    href: '/tech',
-    sublinks: [
-      {
-        text: 'Computers',
-        href: '/tech/computers',
-        sublinks: [
-          { text: 'Laptops', href: '/tech/computers/laptops' },
-          { text: 'Desktops', href: '/tech/computers/desktops' },
-        ],
-      },
-      {
-        text: 'Mobile',
-        href: '/tech/mobile',
-        sublinks: [
-          { text: 'Smartphones', href: '/tech/mobile/smartphones' },
-          { text: 'Tablets', href: '/tech/mobile/tablets' },
-        ],
-      },
-      { text: 'Gaming', href: '/tech/gaming' },
-    ],
-  },
-  {
-    text: 'Health & Lifestyle',
-    href: '/health-lifestyle',
-    sublinks: [
-      {
-        text: 'Fitness',
-        href: '/health-lifestyle/fitness',
-        sublinks: [
-          { text: 'Equipment', href: '/health-lifestyle/fitness/equipment' },
-          { text: 'Wearables', href: '/health-lifestyle/fitness/wearables' },
-        ],
-      },
-      {
-        text: 'Wellness',
-        href: '/health-lifestyle/wellness',
-        sublinks: [
-          {
-            text: 'Supplements',
-            href: '/health-lifestyle/wellness/supplements',
-          },
-          { text: 'Meditation', href: '/health-lifestyle/wellness/meditation' },
-        ],
-      },
-      { text: 'Nutrition', href: '/health-lifestyle/nutrition' },
-    ],
-  },
-  {
-    text: 'Fashion & Clothing',
-    href: '/baby-kid',
-    sublinks: [
-      {
-        text: 'Toys',
-        href: '/baby-kid/toys',
-        sublinks: [
-          { text: 'Educational', href: '/baby-kid/toys/educational' },
-          { text: 'Outdoor', href: '/baby-kid/toys/outdoor' },
-        ],
-      },
-      {
-        text: 'Clothing',
-        href: '/baby-kid/clothing',
-        sublinks: [
-          { text: 'Infants', href: '/baby-kid/clothing/infants' },
-          { text: 'Toddlers', href: '/baby-kid/clothing/toddlers' },
-        ],
-      },
-      { text: 'Gear', href: '/baby-kid/gear' },
-    ],
-  },
-  {
-    text: 'Deals',
-    href: '/deals',
-    sublinks: [
-      { text: 'Todays Deals', href: '/deals/todays-deals' },
-      { text: 'Upcoming Deals', href: '/deals/upcoming-deals' },
-      { text: 'Expired Deals', href: '/deals/expired-deals' },
-    ],
-  },
-];
+import navmenuItems from '@/data/header_nav_links.json';
 
 const Header: React.FC = () => {
   const [hoveredItem, setHoveredItem] = useState<string | null>(null);
@@ -243,13 +63,13 @@ const Header: React.FC = () => {
     setHoverTimeout(
       setTimeout(() => {
         setHoveredItem(null);
-      }, 2000)
+      }, 500)
     );
   };
 
   return (
-    <header className="flex flex-col w-full h-fit border-b border-gray-200">
-      <div className="flex items-center justify-between h-16 lg:h-24 px-4">
+    <header className="flex flex-col w-full h-fit font-star-jedi" style={{ backgroundColor: '#EEEEEE' }}>
+      <div className="flex items-center justify-between h-16 lg:h-24 px-4 border-b border-black" style={{ boxShadow: '0px 7px 4px 0px rgba(0, 0, 0, 0.25)' }}>
         {/* Search Bar */}
         <div className="hidden lg:flex items-center">
           <input
@@ -277,7 +97,8 @@ const Header: React.FC = () => {
           </Link>
           <Link
             href="/contact-us"
-            className="bg-black text-white rounded px-4 py-2"
+            className="text-white rounded px-4 py-2"
+            style={{ backgroundColor: '#81754C' }}
           >
             Contact Us
           </Link>
@@ -343,7 +164,7 @@ const Header: React.FC = () => {
       </div>
 
       {/* Desktop Navigation Menu */}
-      <NavigationMenu className="hidden lg:flex justify-center gap-8 py-2 relative">
+      <NavigationMenu className="hidden lg:flex justify-center gap-8 py-2 px-8 relative" style={{ boxShadow: '0px 7px 4px 0px rgba(0, 0, 0, 0.25)', backgroundColor: '#EEEEEE' }}>
         <NavigationMenuList className="flex gap-8">
           {navmenuItems.map((item) => (
             <NavigationMenuItem
@@ -353,7 +174,7 @@ const Header: React.FC = () => {
             >
               <NavigationMenuLink asChild className={navigationMenuTriggerStyle()}>
                 <Link href={item.href}>
-                  <div className="hover:bg-accent p-2 rounded-md w-full">
+                  <div className="hover:bg-accent p-2 rounded-md w-full font-bold">
                     {item.text}
                   </div>
                 </Link>
@@ -363,6 +184,7 @@ const Header: React.FC = () => {
                   className="absolute left-0 top-full mt-2 w-full bg-white shadow-lg border rounded"
                   onMouseEnter={() => handleMouseEnter(item.text)}
                   onMouseLeave={handleMouseLeave}
+                  style={{ boxShadow: '0px 7px 4px 0px rgba(0, 0, 0, 0.25)' }}
                 >
                   <div className="grid grid-cols-3 gap-4 p-4">
                     {item.sublinks.map((sublink) => (

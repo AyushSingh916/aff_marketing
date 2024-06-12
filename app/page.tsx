@@ -1,87 +1,132 @@
 import Link from 'next/link';
 import Image from 'next/image';
-
-const featuredProducts = [
-  {
-    name: 'Smartphone XYZ',
-    description: 'The latest smartphone with cutting-edge technology.',
-    href: '/tech/mobile/smartphones',
-    image: 'https://via.placeholder.com/300x200.png?text=Smartphone+XYZ',
-  },
-  {
-    name: 'Modern Sofa',
-    description: 'Comfortable and stylish sofa for your living room.',
-    href: '/home-garden/furniture/living-room',
-    image: 'https://via.placeholder.com/300x200.png?text=Modern+Sofa',
-  },
-  {
-    name: 'Fitness Tracker',
-    description: 'Track your fitness goals with this advanced tracker.',
-    href: '/health-lifestyle/fitness/wearables',
-    image: 'https://via.placeholder.com/300x200.png?text=Fitness+Tracker',
-  },
-];
+import './globals.css';
 
 const Home = () => {
   return (
-    <>
-      <main className="flex flex-col items-center py-8">
-        <section className="text-center mb-8">
-          <h1 className="text-4xl font-bold mb-4">Welcome to Affiliate Market</h1>
-          <p className="text-xl">Your one-stop shop for the best deals and reviews on top products.</p>
-        </section>
-
-        <section className="w-full max-w-7xl px-4">
-          <h2 className="text-3xl font-semibold mb-4">Featured Products</h2>
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-            {featuredProducts.map((product) => (
-              <div key={product.name} className="border rounded-lg overflow-hidden shadow-lg">
-                <Image
-                  src={product.image}
-                  alt={product.name}
-                  width={300}
-                  height={200}
-                  className="w-full h-48 object-cover"
-                />
-                <div className="p-4">
-                  <h3 className="text-2xl font-semibold">{product.name}</h3>
-                  <p className="text-gray-700">{product.description}</p>
-                  <Link href={product.href} className="text-blue-500 hover:underline mt-2 block">
-                    Learn More
-                  </Link>
-                </div>
-              </div>
-            ))}
+    <main className="flex flex-col items-center py-8 min-h-screen" style={{ backgroundColor: '#E6E6E6' }} >
+      <section className="w-full max-w-7xl px-4" style={{ width: '90%' }}>
+        {/* <h1 className="text-4xl font-bold mb-8">Home</h1> */}
+        <div className="flex flex-col lg:flex-row gap-8">
+          {/* Daily Deals Section */}
+          <div
+            className="w-full lg:w-1/4 p-4 rounded-lg shadow-lg"
+            style={{
+              background: '#D9D9D91A',
+              boxShadow: `
+                -31.2px 31.2px 31.2px 0px #AEAEAE66 inset,
+                -15.6px 15.6px 15.6px 0px #FFFFFF66 inset,
+                31.2px -31.2px 31.2px 0px #FFFFFF66 inset,
+                15.6px -15.6px 15.6px 0px #AEAEAE66 inset
+              `,
+            }}
+          >
+            <h2 className="text-2xl font-bold mb-4">DAILY DEALS</h2>
+            <p className="text-sm text-gray-600 mb-6">PRICE DROPS ON PRODUCTS WE LOVE</p>
+            <div className="mb-8">
+              <Image
+                src="/laptop_stand.jpg"
+                alt="Laptop Stand"
+                width={100}
+                height={100}
+                className="w-full h-auto object-cover mb-2"
+              />
+              <h3 className="text-xl font-semibold">Laptop Stand</h3>
+              <p className="text-gray-500 text-sm">
+                $30 <span className="text-green-500 font-bold">$10</span>
+              </p>
+              <p className="text-gray-500 text-sm">50% off from Amazon</p>
+            </div>
+            <div className="mb-8">
+              <Image
+                src="/laptop_stand.jpg"
+                alt="Laptop Stand"
+                width={100}
+                height={100}
+                className="w-full h-auto object-cover mb-2"
+              />
+              <h3 className="text-xl font-semibold">Laptop Stand</h3>
+              <p className="text-gray-500 text-sm">
+                $20 <span className="text-green-500 font-bold">$10</span>
+              </p>
+              <p className="text-gray-500 text-sm">50% off from Amazon</p>
+            </div>
           </div>
-        </section>
 
-        <section className="w-full max-w-7xl px-4 mt-12 text-center">
-          <h2 className="text-3xl font-semibold mb-4">Explore Categories</h2>
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-            <Link href="/home-garden" className="border rounded-lg p-4 hover:bg-gray-100">
-              Home & Garden
-            </Link>
-            <Link href="/tech" className="border rounded-lg p-4 hover:bg-gray-100">
-              Tech
-            </Link>
-            <Link href="/health-lifestyle" className="border rounded-lg p-4 hover:bg-gray-100">
-              Health & Lifestyle
-            </Link>
-            <Link href="/fashion" className="border rounded-lg p-4 hover:bg-gray-100">
-              Fashion & Clothing
-            </Link>
+          {/* Main Content Section */}
+          <div
+            className="w-full lg:w-1/2 p-4 rounded-lg shadow-lg"
+            style={{
+              background: '#D9D9D91A',
+              boxShadow: `
+                -31.2px 31.2px 31.2px 0px #AEAEAE66 inset,
+                -15.6px 15.6px 15.6px 0px #FFFFFF66 inset,
+                31.2px -31.2px 31.2px 0px #FFFFFF66 inset,
+                15.6px -15.6px 15.6px 0px #AEAEAE66 inset
+              `,
+            }}
+          >
+            <Image
+              src="/main.jpg"
+              alt="Main Content"
+              width={600}
+              height={400}
+              className="w-full h-auto object-cover mb-4"
+            />
+            <h2 className="text-3xl font-bold">Lorem Ipsum</h2>
+            <p>
+              Lorem ipsum is placeholder text commonly used in the graphic, print,
+              and publishing industries for previewing layouts and visual
+              mockups.
+            </p>
           </div>
-        </section>
 
-        <section className="w-full max-w-7xl px-4 mt-12 text-center">
-          <h2 className="text-3xl font-semibold mb-4">Deals of the Day</h2>
-          <Link href="/deals/todays-deals" className="bg-black text-white rounded px-4 py-2">
-            Check Today's Deals
-          </Link>
-        </section>
-      </main>
-    </>
+          {/* Latest Updates Section */}
+          <div
+            className="w-full lg:w-1/4 p-4 rounded-lg shadow-lg"
+            style={{
+              background: '#D9D9D91A',
+              boxShadow: `
+                -31.2px 31.2px 31.2px 0px #AEAEAE66 inset,
+                -15.6px 15.6px 15.6px 0px #FFFFFF66 inset,
+                31.2px -31.2px 31.2px 0px #FFFFFF66 inset,
+                15.6px -15.6px 15.6px 0px #AEAEAE66 inset
+              `,
+            }}
+          >
+            <h2 className="text-2xl font-bold mb-4">THE LATEST</h2>
+            <ul>
+              <li className="mb-4">
+                <Link href="#" className="text-blue-500 hover:underline">
+                  Top 10 Gadgets you should try in 2024
+                </Link>
+              </li>
+              <li className="mb-4">
+                <Link href="#" className="text-blue-500 hover:underline">
+                  Trending Stocks you should invest in
+                </Link>
+              </li>
+              <li className="mb-4">
+                <Link href="#" className="text-blue-500 hover:underline">
+                  Trending Stocks you should invest in
+                </Link>
+              </li>
+              <li className="mb-4">
+                <Link href="#" className="text-blue-500 hover:underline">
+                  Trending Stocks you should invest in
+                </Link>
+              </li>
+              <li className="mb-4">
+                <Link href="#" className="text-blue-500 hover:underline">
+                  Trending Stocks you should invest in
+                </Link>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </section>
+    </main>
   );
-}
+};
 
 export default Home;

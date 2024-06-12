@@ -1,0 +1,231 @@
+[
+    {
+        "text": "Home",
+        "href": "/home",
+        "sublinks": [
+            {
+                "text": "Bedroom",
+                "href": "/home-garden/furniture",
+                "sublinks": [
+                    { "text": "Bed", "href": "/home-garden/furniture/bedroom" },
+                    { "text": "Bedsheet", "href": "/home-garden/furniture/bedroom" },
+                    { "text": "Mattress", "href": "/home-garden/furniture/bedroom" },
+                    { "text": "Lamp", "href": "/home-garden/furniture/bedroom" },
+                    { "text": "Study Table", "href": "/home-garden/furniture/bedroom" }
+                ]
+            },
+            {
+                "text": "Living Room",
+                "href": "/home-garden/decor",
+                "sublinks": [
+                    { "text": "Sofa", "href": "/home-garden/decor/living-room" },
+                    { "text": "TV", "href": "/home-garden/decor/living-room" },
+                    { "text": "Couch", "href": "/home-garden/decor/living-room" },
+                    { "text": "TV Set", "href": "/home-garden/decor/living-room" },
+                    { "text": "Curtains", "href": "/home-garden/decor/living-room" }
+                ]
+            },
+            {
+                "text": "Kitchen",
+                "href": "/home-garden/kitchen",
+                "sublinks": [
+                    { "text": "Gas", "href": "/home-garden/kitchen/gas" },
+                    { "text": "Chimney", "href": "/home-garden/kitchen/chimney" },
+                    { "text": "Plates", "href": "/home-garden/kitchen/plates" },
+                    { "text": "Cup Set", "href": "/home-garden/kitchen/cup-set" }
+                ]
+            },
+            {
+                "text": "Miscellaneous",
+                "href": "/home-garden/miscellaneous",
+                "sublinks": [
+                    { "text": "Flower Vase", "href": "/home-garden/miscellaneous/flower-vase" },
+                    { "text": "Vacuum Cleaner", "href": "/home-garden/miscellaneous/vacuum-cleaner" },
+                    { "text": "Mop", "href": "/home-garden/miscellaneous/mop" },
+                    { "text": "Sweeper", "href": "/home-garden/miscellaneous/sweeper" }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Electronic Devices",
+        "href": "/electronic-devices",
+        "sublinks": [
+            {
+                "text": "Phone",
+                "href": "/electronic-devices/phone",
+                "sublinks": [
+                    { "text": "Android Phone", "href": "/electronic-devices/phone/android" },
+                    { "text": "Budget Android Phone", "href": "/electronic-devices/phone/budget-android" },
+                    { "text": "iPhone", "href": "/electronic-devices/phone/iphone" },
+                    { "text": "Budget iPhone", "href": "/electronic-devices/phone/budget-iphone" },
+                    { "text": "Innovative Phone", "href": "/electronic-devices/phone/innovative" }
+                ]
+            },
+            {
+                "text": "Laptop",
+                "href": "/electronic-devices/laptop",
+                "sublinks": [
+                    { "text": "MAC", "href": "/electronic-devices/laptop/mac" },
+                    { "text": "Business Laptop", "href": "/electronic-devices/laptop/business" },
+                    { "text": "College Laptop", "href": "/electronic-devices/laptop/college" },
+                    { "text": "Gaming Laptop", "href": "/electronic-devices/laptop/gaming" },
+                    { "text": "Budget Gaming Laptop", "href": "/electronic-devices/laptop/budget-gaming" }
+                ]
+            },
+            {
+                "text": "Tablets",
+                "href": "/electronic-devices/tablets",
+                "sublinks": [
+                    { "text": "iPad", "href": "/electronic-devices/tablets/ipad" },
+                    { "text": "Android", "href": "/electronic-devices/tablets/android" },
+                    { "text": "College Tablets", "href": "/electronic-devices/tablets/college" },
+                    { "text": "Budget Tablets", "href": "/electronic-devices/tablets/budget" }
+                ]
+            },
+            {
+                "text": "Smart Watch",
+                "href": "/electronic-devices/smart-watch",
+                "sublinks": [
+                    { "text": "Apple", "href": "/electronic-devices/smart-watch/apple" },
+                    { "text": "Boat", "href": "/electronic-devices/smart-watch/boat" },
+                    { "text": "Budget", "href": "/electronic-devices/smart-watch/budget" },
+                    { "text": "Fitness Watch", "href": "/electronic-devices/smart-watch/fitness" }
+                ]
+            },
+            {
+                "text": "Parts",
+                "href": "/electronic-devices/parts",
+                "sublinks": [
+                    { "text": "Wifi Router", "href": "/electronic-devices/parts/wifi-router" },
+                    { "text": "Modem", "href": "/electronic-devices/parts/modem" },
+                    { "text": "SSD", "href": "/electronic-devices/parts/ssd" },
+                    { "text": "RAM", "href": "/electronic-devices/parts/ram" },
+                    { "text": "GPU", "href": "/electronic-devices/parts/gpu" }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Electronic Appliances",
+        "href": "/electronic-appliances",
+        "sublinks": [
+            {
+                "text": "Air Conditioner",
+                "href": "/electronic-appliances/air-conditioner",
+                "sublinks": [
+                    { "text": "Low voltage AC", "href": "/electronic-appliances/air-conditioner/low-voltage" },
+                    { "text": "Budget AC", "href": "/electronic-appliances/air-conditioner/budget" }
+                ]
+            },
+            {
+                "text": "Refrigerator",
+                "href": "/electronic-appliances/refrigerator",
+                "sublinks": [
+                    { "text": "Budget Refrigerator", "href": "/electronic-appliances/refrigerator/budget" },
+                    { "text": "High End Refrigerator", "href": "/electronic-appliances/refrigerator/high-end" }
+                ]
+            },
+            {
+                "text": "Fans",
+                "href": "/electronic-appliances/fans",
+                "sublinks": [
+                    { "text": "Smart Fans", "href": "/electronic-appliances/fans/smart" },
+                    { "text": "Budget Fans", "href": "/electronic-appliances/fans/budget" }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "Automobiles",
+        "href": "/automobiles",
+        "sublinks": [
+            {
+                "text": "Computers",
+                "href": "/automobiles/computers",
+                "sublinks": [
+                    { "text": "Laptops", "href": "/automobiles/computers/laptops" },
+                    { "text": "Desktops", "href": "/automobiles/computers/desktops" }
+                ]
+            },
+            {
+                "text": "Mobile",
+                "href": "/automobiles/mobile",
+                "sublinks": [
+                    { "text": "Smartphones", "href": "/automobiles/mobile/smartphones" },
+                    { "text": "Tablets", "href": "/automobiles/mobile/tablets" }
+                ]
+            },
+            { "text": "Gaming", "href": "/automobiles/gaming" }
+        ]
+    },
+    {
+        "text": "Ai-Tools",
+        "href": "/ai-tools",
+        "sublinks": [
+            {
+                "text": "Computers",
+                "href": "/ai-tools/computers",
+                "sublinks": [
+                    { "text": "Laptops", "href": "/ai-tools/computers/laptops" },
+                    { "text": "Desktops", "href": "/ai-tools/computers/desktops" }
+                ]
+            },
+            {
+                "text": "Mobile",
+                "href": "/ai-tools/mobile",
+                "sublinks": [
+                    { "text": "Smartphones", "href": "/ai-tools/mobile/smartphones" },
+                    { "text": "Tablets", "href": "/ai-tools/mobile/tablets" }
+                ]
+            },
+            { "text": "Gaming", "href": "/ai-tools/gaming" }
+        ]
+    },
+    {
+        "text": "Health & Lifestyle",
+        "href": "/health-lifestyle",
+        "sublinks": [
+            {
+                "text": "Fitness",
+                "href": "/health-lifestyle/fitness",
+                "sublinks": [
+                    { "text": "Equipment", "href": "/health-lifestyle/fitness/equipment" },
+                    { "text": "Wearables", "href": "/health-lifestyle/fitness/wearables" }
+                ]
+            },
+            {
+                "text": "Wellness",
+                "href": "/health-lifestyle/wellness",
+                "sublinks": [
+                    { "text": "Supplements", "href": "/health-lifestyle/wellness/supplements" },
+                    { "text": "Meditation", "href": "/health-lifestyle/wellness/meditation" }
+                ]
+            },
+            { "text": "Nutrition", "href": "/health-lifestyle/nutrition" }
+        ]
+    },
+    {
+        "text": "Fashion & Clothing",
+        "href": "/fashion-clothing",
+        "sublinks": [
+            {
+                "text": "Toys",
+                "href": "/fashion-clothing/toys",
+                "sublinks": [
+                    { "text": "Educational", "href": "/fashion-clothing/toys/educational" },
+                    { "text": "Outdoor", "href": "/fashion-clothing/toys/outdoor" }
+                ]
+            },
+            {
+                "text": "Clothing",
+                "href": "/fashion-clothing/clothing",
+                "sublinks": [
+                    { "text": "Infants", "href": "/fashion-clothing/clothing/infants" },
+                    { "text": "Toddlers", "href": "/fashion-clothing/clothing/toddlers" }
+                ]
+            },
+            { "text": "Gear", "href": "/fashion-clothing/gear" }
+        ]
+    }
+]
