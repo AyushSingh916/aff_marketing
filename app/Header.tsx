@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect, useRef, MouseEvent } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import { ChevronDownIcon, MenuIcon } from 'lucide-react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -36,7 +36,7 @@ const Header: React.FC = () => {
   };
 
   useEffect(() => {
-    const handleClickOutside = (event: MouseEvent) => {
+    const handleClickOutside = (event: Event) => {
       if (menuRef.current && !menuRef.current.contains(event.target as Node)) {
         setOpenedItem(null);
       }
@@ -71,7 +71,7 @@ const Header: React.FC = () => {
     <header className="flex flex-col w-full h-fit font-star-jedi" style={{ backgroundColor: '#EEEEEE' }}>
       <div className="flex items-center justify-between h-16 lg:h-24 px-4 border-b border-black" style={{ boxShadow: '0px 7px 4px 0px rgba(0, 0, 0, 0.25)' }}>
         {/* Search Bar */}
-        <div className="hidden lg:flex items-center">
+        <div className="hidden lg:flex items-center" >
           <input
             type="text"
             placeholder="Help me decide on..."
@@ -96,7 +96,7 @@ const Header: React.FC = () => {
             About
           </Link>
           <Link
-            href="/contact-us"
+            href="/contact"
             className="text-white rounded px-4 py-2"
             style={{ backgroundColor: '#81754C' }}
           >
@@ -172,8 +172,8 @@ const Header: React.FC = () => {
               onMouseEnter={() => handleMouseEnter(item.text)}
               onMouseLeave={handleMouseLeave}
             >
-              <NavigationMenuLink asChild className={navigationMenuTriggerStyle()}>
-                <Link href={item.href}>
+              <NavigationMenuLink asChild className={navigationMenuTriggerStyle()} style={{ backgroundColor: '#EEEEEE' }}>
+                <Link href={item.href} >
                   <div className="hover:bg-accent p-2 rounded-md w-full font-bold">
                     {item.text}
                   </div>

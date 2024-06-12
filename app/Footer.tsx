@@ -26,7 +26,7 @@ function XIcon({ size, className }: { size: string, className?: string } = { siz
 
 function Footer() {
   return (
-    <footer className="mt-auto flex flex-col lg:items-center bg-dwd-primary text-white text-xs w-full h-fit px-8 py-4 gap-8">
+    <footer className="mt-auto flex flex-col lg:items-center bg-black text-white text-xs w-full h-fit px-8 py-4 gap-8">
       <div className='w-full flex flex-col lg:flex-row gap-4 items-start justify-between max-w-7xl'>
         <div className="flex flex-col w-fit gap-2">
           <h2 className="w-fit font-bold text-lg lg:text-2xl mt-4 half-underline">Follow Us</h2>

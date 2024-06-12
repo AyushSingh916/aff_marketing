@@ -1,9 +1,5 @@
 {
   "extends": "next/core-web-vitals",
-  "rules": {
-    "indent": ["warn", 2],
-    "quotes": ["warn", "single"]
-  },
   "ignorePatterns": [
     "tailwind.config.ts",
     "postcss.config.mjs",

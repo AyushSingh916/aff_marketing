@@ -6,7 +6,6 @@ const Home = () => {
   return (
     <main className="flex flex-col items-center py-8 min-h-screen" style={{ backgroundColor: '#E6E6E6' }} >
       <section className="w-full max-w-7xl px-4" style={{ width: '90%' }}>
-        {/* <h1 className="text-4xl font-bold mb-8">Home</h1> */}
         <div className="flex flex-col lg:flex-row gap-8">
           {/* Daily Deals Section */}
           <div
@@ -14,10 +13,10 @@ const Home = () => {
             style={{
               background: '#D9D9D91A',
               boxShadow: `
-                -31.2px 31.2px 31.2px 0px #AEAEAE66 inset,
-                -15.6px 15.6px 15.6px 0px #FFFFFF66 inset,
-                31.2px -31.2px 31.2px 0px #FFFFFF66 inset,
-                15.6px -15.6px 15.6px 0px #AEAEAE66 inset
+                -15px 15px 20px rgba(0, 0, 0, 0.1),
+                -10px 10px 14px rgba(0, 0, 0, 0.08),
+                15px -15px 20px rgba(255, 255, 255, 0.8) inset,
+                10px -10px 14px rgba(255, 255, 255, 0.6) inset
               `,
             }}
           >
@@ -37,20 +36,7 @@ const Home = () => {
               </p>
               <p className="text-gray-500 text-sm">50% off from Amazon</p>
             </div>
-            <div className="mb-8">
-              <Image
-                src="/laptop_stand.jpg"
-                alt="Laptop Stand"
-                width={100}
-                height={100}
-                className="w-full h-auto object-cover mb-2"
-              />
-              <h3 className="text-xl font-semibold">Laptop Stand</h3>
-              <p className="text-gray-500 text-sm">
-                $20 <span className="text-green-500 font-bold">$10</span>
-              </p>
-              <p className="text-gray-500 text-sm">50% off from Amazon</p>
-            </div>
+            {/* Add more deal items here */}
           </div>
 
           {/* Main Content Section */}
@@ -59,10 +45,10 @@ const Home = () => {
             style={{
               background: '#D9D9D91A',
               boxShadow: `
-                -31.2px 31.2px 31.2px 0px #AEAEAE66 inset,
-                -15.6px 15.6px 15.6px 0px #FFFFFF66 inset,
-                31.2px -31.2px 31.2px 0px #FFFFFF66 inset,
-                15.6px -15.6px 15.6px 0px #AEAEAE66 inset
+                -15px 15px 20px rgba(0, 0, 0, 0.1),
+                -10px 10px 14px rgba(0, 0, 0, 0.08),
+                15px -15px 20px rgba(255, 255, 255, 0.8) inset,
+                10px -10px 14px rgba(255, 255, 255, 0.6) inset
               `,
             }}
           >
@@ -87,10 +73,10 @@ const Home = () => {
             style={{
               background: '#D9D9D91A',
               boxShadow: `
-                -31.2px 31.2px 31.2px 0px #AEAEAE66 inset,
-                -15.6px 15.6px 15.6px 0px #FFFFFF66 inset,
-                31.2px -31.2px 31.2px 0px #FFFFFF66 inset,
-                15.6px -15.6px 15.6px 0px #AEAEAE66 inset
+                -15px 15px 20px rgba(0, 0, 0, 0.1),
+                -10px 10px 14px rgba(0, 0, 0, 0.08),
+                15px -15px 20px rgba(255, 255, 255, 0.8) inset,
+                10px -10px 14px rgba(255, 255, 255, 0.6) inset
               `,
             }}
           >
@@ -106,21 +92,7 @@ const Home = () => {
                   Trending Stocks you should invest in
                 </Link>
               </li>
-              <li className="mb-4">
-                <Link href="#" className="text-blue-500 hover:underline">
-                  Trending Stocks you should invest in
-                </Link>
-              </li>
-              <li className="mb-4">
-                <Link href="#" className="text-blue-500 hover:underline">
-                  Trending Stocks you should invest in
-                </Link>
-              </li>
-              <li className="mb-4">
-                <Link href="#" className="text-blue-500 hover:underline">
-                  Trending Stocks you should invest in
-                </Link>
-              </li>
+              {/* Add more latest updates */}
             </ul>
           </div>
         </div>
