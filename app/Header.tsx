@@ -95,13 +95,17 @@ const Header: React.FC = () => {
 
         {/* Logo */}
         <Link href="/" className="flex justify-center">
-          <Image
-            src="/logo.png"
-            width={150}
-            height={24}
-            alt="Affiliate Marketing Logo"
-            priority
-          />
+          <div className="relative w-[100px] sm:w-[100px] md:w-[100px] lg:w-[150px] h-auto">
+            <Image
+              src="/logo.png"
+              layout="responsive"
+              width={150}
+              height={24}
+              alt="Affiliate Marketing Logo"
+              priority
+              className="w-full h-auto"
+            />
+          </div>
         </Link>
 
         {/* About and Contact Us Buttons */}
@@ -119,69 +123,72 @@ const Header: React.FC = () => {
 
           {/* Mobile Menu Button */}
           <Sheet>
-            <SheetTrigger asChild>
-              <div className="lg:hidden">
-                <MenuIcon size="2rem" />
-              </div>
-            </SheetTrigger>
-            <SheetContent side="left">
-              <div ref={menuRef} className="flex flex-col gap-2 mt-4 -mr-2">
-                {navmenuItems.map((item) => (
-                  <div key={item.text}>
-                    <div
-                      className="flex justify-between items-center cursor-pointer"
-                      onClick={() => handleItemClick(item.text)}
+  <SheetTrigger asChild>
+    <div className="lg:hidden">
+      <MenuIcon size="2rem" />
+    </div>
+  </SheetTrigger>
+  <SheetContent side="left">
+    <div ref={menuRef} className="flex flex-col gap-2 mt-4 -mr-2">
+      {navmenuItems.map((item) => (
+        <div key={item.text}>
+          <div
+            className="flex justify-between items-center cursor-pointer"
+            onClick={() => handleItemClick(item.text)}
+          >
+            <SheetClose asChild>
+              <Link className="hover:underline" href={item.href}>
+                {item.text}
+              </Link>
+            </SheetClose>
+            {item.sublinks && (
+              <ChevronDownIcon
+                className={`transition-transform duration-300 ${
+                  openedItem === item.text ? 'rotate-180' : ''
+                }`}
+              />
+            )}
+          </div>
+          {openedItem === item.text && item.sublinks && (
+            <div className="flex flex-col pl-4">
+              {item.sublinks.map((sublink) => (
+                <div key={sublink.text} className="mt-2">
+                  <SheetClose asChild>
+                    <Link
+                      className="hover:underline block"
+                      href={sublink.href}
+                      onClick={handleSublinkClick}
                     >
-                      <SheetClose asChild>
-                        <Link className="hover:underline" href={item.href}>
-                          {item.text}
-                        </Link>
-                      </SheetClose>
-                      {item.sublinks && (
-                        <ChevronDownIcon
-                          className={`transition-transform duration-300 ${
-                            openedItem === item.text ? 'rotate-180' : ''
-                          }`}
-                        />
-                      )}
+                      {sublink.text}
+                    </Link>
+                  </SheetClose>
+                  {sublink.sublinks && (
+                    <div className="flex flex-col pl-4">
+                      {sublink.sublinks.map((subsublink) => (
+                        <div key={subsublink.text} className="mt-2">
+                          <SheetClose asChild>
+                            <Link
+                              className="hover:underline block"
+                              href={'/category' + subsublink.href}
+                              onClick={handleSublinkClick}
+                            >
+                              {subsublink.text}
+                            </Link>
+                          </SheetClose>
+                        </div>
+                      ))}
                     </div>
-                    {openedItem === item.text && item.sublinks && (
-                      <div className="pl-4">
-                        {item.sublinks.map((sublink) => (
-                          <div key={sublink.text}>
-                            <SheetClose asChild>
-                              <Link
-                                className="hover:underline"
-                                href={sublink.href}
-                                onClick={handleSublinkClick} // Close submenu on click
-                              >
-                                {sublink.text}
-                              </Link>
-                            </SheetClose>
-                            {sublink.sublinks && (
-                              <div className="pl-4">
-                                {sublink.sublinks.map((subsublink) => (
-                                  <SheetClose key={subsublink.text} asChild>
-                                    <Link
-                                      className="hover:underline"
-                                      href={'/category' + subsublink.href}
-                                      onClick={handleSublinkClick} // Close submenu on click
-                                    >
-                                      {subsublink.text}
-                                    </Link>
-                                  </SheetClose>
-                                ))}
-                              </div>
-                            )}
-                          </div>
-                        ))}
-                      </div>
-                    )}
-                  </div>
-                ))}
-              </div>
-            </SheetContent>
-          </Sheet>
+                  )}
+                </div>
+              ))}
+            </div>
+          )}
+        </div>
+      ))}
+    </div>
+  </SheetContent>
+</Sheet>
+
         </div>
       </div>
 
