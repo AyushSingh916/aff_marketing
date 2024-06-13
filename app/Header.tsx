@@ -19,11 +19,15 @@ import {
 } from '@/components/ui/navigation-menu';
 
 import navmenuItems from '@/data/header_nav_links.json';
+import autocompleteData from '@/data/autocomplete.json';
 
 const Header: React.FC = () => {
   const [hoveredItem, setHoveredItem] = useState<string | null>(null);
   const [openedItem, setOpenedItem] = useState<string | null>(null);
   const [hoverTimeout, setHoverTimeout] = useState<NodeJS.Timeout | null>(null);
+  const [searchInput, setSearchInput] = useState<string>('');
+  const [suggestions, setSuggestions] = useState<{ text: string; href: string }[]>([]);
+  const [showSuggestions, setShowSuggestions] = useState<boolean>(false);
 
   const menuRef = useRef<HTMLDivElement>(null);
 
@@ -39,6 +43,7 @@ const Header: React.FC = () => {
     const handleClickOutside = (event: Event) => {
       if (menuRef.current && !menuRef.current.contains(event.target as Node)) {
         setOpenedItem(null);
+        setShowSuggestions(false);
       }
     };
 
@@ -71,6 +76,27 @@ const Header: React.FC = () => {
     setHoveredItem(null);
   };
 
+  const handleSearchInputChange = (event: React.ChangeEvent<HTMLInputElement>) => {
+    const value = event.target.value;
+    setSearchInput(value);
+
+    if (value) {
+      const filteredSuggestions = autocompleteData.filter((item) =>
+        item.text.toLowerCase().includes(value.toLowerCase())
+      );
+      setSuggestions(filteredSuggestions);
+      setShowSuggestions(true);
+    } else {
+      setShowSuggestions(false);
+    }
+  };
+
+  const handleSuggestionClick = (href: string) => {
+    setSearchInput('');
+    setShowSuggestions(false);
+    window.location.href = href;
+  };
+
   return (
     <header
       className="flex flex-col w-full h-fit font-star-jedi"
@@ -81,7 +107,7 @@ const Header: React.FC = () => {
         style={{ boxShadow: '0px 7px 4px 0px rgba(0, 0, 0, 0.25)' }}
       >
         {/* Search Bar */}
-        <div className="hidden lg:flex items-center">
+        <div className="hidden lg:flex items-center relative">
           <input
             type="text"
             placeholder="Help me decide on..."
@@ -90,7 +116,26 @@ const Header: React.FC = () => {
               boxShadow:
                 '-2px -2px 4px 0px rgba(0, 0, 0, 0.25) inset, 2px 2px 4px 0px rgba(0, 0, 0, 0.25) inset',
             }}
+            value={searchInput}
+            onChange={handleSearchInputChange}
           />
+          {showSuggestions && (
+            <div className="absolute top-full mt-2 w-full bg-white shadow-lg border rounded z-10">
+              {suggestions.length > 0 ? (
+                suggestions.map((suggestion) => (
+                  <div
+                    key={suggestion.text}
+                    className="p-2 hover:bg-gray-200 cursor-pointer"
+                    onClick={() => handleSuggestionClick(suggestion.href)}
+                  >
+                    {suggestion.text}
+                  </div>
+                ))
+              ) : (
+                <div className="p-2 text-red-500">Sorry, not found</div>
+              )}
+            </div>
+          )}
         </div>
 
         {/* Logo */}
@@ -123,78 +168,77 @@ const Header: React.FC = () => {
 
           {/* Mobile Menu Button */}
           <Sheet>
-  <SheetTrigger asChild>
-    <div className="lg:hidden">
-      <MenuIcon size="2rem" />
-    </div>
-  </SheetTrigger>
-  <SheetContent side="left">
-    <div ref={menuRef} className="flex flex-col gap-2 mt-4 -mr-2">
-      {navmenuItems.map((item) => (
-        <div key={item.text}>
-          <div
-            className="flex justify-between items-center cursor-pointer"
-            onClick={() => handleItemClick(item.text)}
-          >
-            <SheetClose asChild>
-              <Link className="hover:underline" href={item.href}>
-                {item.text}
-              </Link>
-            </SheetClose>
-            {item.sublinks && (
-              <ChevronDownIcon
-                className={`transition-transform duration-300 ${
-                  openedItem === item.text ? 'rotate-180' : ''
-                }`}
-              />
-            )}
-          </div>
-          {openedItem === item.text && item.sublinks && (
-            <div className="flex flex-col pl-4">
-              {item.sublinks.map((sublink) => (
-                <div key={sublink.text} className="mt-2">
-                  <SheetClose asChild>
-                    <Link
-                      className="hover:underline block"
-                      href={sublink.href}
-                      onClick={handleSublinkClick}
+            <SheetTrigger asChild>
+              <div className="lg:hidden">
+                <MenuIcon size="2rem" />
+              </div>
+            </SheetTrigger>
+            <SheetContent side="left">
+              <div ref={menuRef} className="flex flex-col gap-2 mt-4 -mr-2">
+                {navmenuItems.map((item) => (
+                  <div key={item.text}>
+                    <div
+                      className="flex justify-between items-center cursor-pointer"
+                      onClick={() => handleItemClick(item.text)}
                     >
-                      {sublink.text}
-                    </Link>
-                  </SheetClose>
-                  {sublink.sublinks && (
-                    <div className="flex flex-col pl-4">
-                      {sublink.sublinks.map((subsublink) => (
-                        <div key={subsublink.text} className="mt-2">
-                          <SheetClose asChild>
-                            <Link
-                              className="hover:underline block"
-                              href={'/category' + subsublink.href}
-                              onClick={handleSublinkClick}
-                            >
-                              {subsublink.text}
-                            </Link>
-                          </SheetClose>
-                        </div>
-                      ))}
+                      <SheetClose asChild>
+                        <Link className="hover:underline" href={item.href}>
+                          {item.text}
+                        </Link>
+                      </SheetClose>
+                      {item.sublinks && (
+                        <ChevronDownIcon
+                          className={`transition-transform duration-300 ${
+                            openedItem === item.text ? 'rotate-180' : ''
+                          }`}
+                        />
+                      )}
                     </div>
-                  )}
-                </div>
-              ))}
-            </div>
-          )}
-        </div>
-      ))}
-    </div>
-  </SheetContent>
-</Sheet>
-
+                    {openedItem === item.text && item.sublinks && (
+                      <div className="flex flex-col pl-4">
+                        {item.sublinks.map((sublink) => (
+                          <div key={sublink.text} className="mt-2">
+                            <SheetClose asChild>
+                              <Link
+                                className="hover:underline block"
+                                href={sublink.href}
+                                onClick={handleSublinkClick}
+                              >
+                                {sublink.text}
+                              </Link>
+                            </SheetClose>
+                            {sublink.sublinks && (
+                              <div className="flex flex-col pl-4">
+                                {sublink.sublinks.map((subsublink) => (
+                                  <div key={subsublink.text} className="mt-2">
+                                    <SheetClose asChild>
+                                      <Link
+                                        className="hover:underline block"
+                                        href={subsublink.href}
+                                        onClick={handleSublinkClick}
+                                      >
+                                        {subsublink.text}
+                                      </Link>
+                                    </SheetClose>
+                                  </div>
+                                ))}
+                              </div>
+                            )}
+                          </div>
+                        ))}
+                      </div>
+                    )}
+                  </div>
+                ))}
+              </div>
+            </SheetContent>
+          </Sheet>
         </div>
       </div>
 
       {/* Desktop Navigation Menu */}
       <NavigationMenu
-        className="hidden lg:flex justify-center gap-8 py-2 px-8 relative"
+        className="hidden lg:flex justify-center gap-8 py-2 px-8 relative z-0"
         style={{
           boxShadow: '0px 7px 4px 0px rgba(0, 0, 0, 0.25)',
           backgroundColor: '#EEEEEE',
@@ -238,7 +282,7 @@ const Header: React.FC = () => {
                             {sublink.sublinks.map((subsublink) => (
                               <Link
                                 key={subsublink.text}
-                                href={'/category' + subsublink.href}
+                                href={subsublink.href}
                                 onClick={handleSublinkClick}
                               >
                                 <div className="hover:underline">
