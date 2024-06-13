@@ -1,0 +1,381 @@
+[
+    {
+      "slug": ["home", "home-decor", "carpets"],
+      "name": "Luxurious Persian Carpet",
+      "image": "/main.jpg",
+      "description": "A beautiful Persian carpet that enhances the elegance of your home decor.",
+      "rating": 4.5,
+      "review": {
+        "overview": "This Persian carpet is a luxurious addition to any home. Its intricate designs and vibrant colors make it a centerpiece in any room.",
+        "details": "Handcrafted with care, this carpet offers unmatched quality. The dense fibers ensure durability, while the soft texture provides comfort underfoot. It's perfect for adding a touch of sophistication to your living space.",
+        "pros": ["High-quality material", "Elegant design", "Durable"],
+        "cons": ["Expensive", "Requires regular maintenance"]
+      },
+      "affiliateLink": "https://example.com/persian-carpet"
+    },
+    {
+      "slug": ["home", "home-decor", "chandeliers"],
+      "name": "Elegant Crystal Chandelier",
+      "image": "/images/crystal-chandelier.jpg",
+      "description": "An elegant crystal chandelier that adds a touch of luxury to any room.",
+      "rating": 4.8,
+      "review": {
+        "overview": "This chandelier's stunning crystals and elegant design make it a focal point in any space.",
+        "details": "With its exquisite craftsmanship, this chandelier illuminates your room beautifully while serving as a piece of art.",
+        "pros": ["Beautiful design", "Bright lighting", "High-quality materials"],
+        "cons": ["Expensive", "Challenging to install"]
+      },
+      "affiliateLink": "https://example.com/crystal-chandelier"
+    },
+    {
+      "slug": ["home", "home-decor", "hanging-lights"],
+      "name": "Modern Hanging Lights",
+      "image": "/images/hanging-lights.jpg",
+      "description": "Modern hanging lights that provide stylish and functional lighting.",
+      "rating": 4.4,
+      "review": {
+        "overview": "These hanging lights add a modern touch to any room, combining style and functionality.",
+        "details": "The sleek design and efficient lighting make these hanging lights a perfect addition to contemporary homes.",
+        "pros": ["Modern design", "Energy-efficient", "Easy to install"],
+        "cons": ["Limited color options"]
+      },
+      "affiliateLink": "https://example.com/hanging-lights"
+    },
+    {
+      "slug": ["home", "home-decor", "sofa-tables-chairs"],
+      "name": "Elegant Sofa Set",
+      "image": "/images/sofa-set.jpg",
+      "description": "A comfortable and elegant sofa set that enhances your living room.",
+      "rating": 4.6,
+      "review": {
+        "overview": "This sofa set combines comfort and style, making it a perfect addition to your living room.",
+        "details": "With its plush cushions and stylish design, this sofa set offers both comfort and elegance.",
+        "pros": ["Comfortable", "Stylish design", "Durable"],
+        "cons": ["Large size", "Expensive"]
+      },
+      "affiliateLink": "https://example.com/sofa-set"
+    },
+    {
+      "slug": ["home", "bathroom-appliances", "toilet", "toilet-papers"],
+      "name": "Premium Toilet Paper",
+      "image": "/images/toilet-paper.jpg",
+      "description": "Soft and strong toilet paper for a comfortable and hygienic experience.",
+      "rating": 4.7,
+      "review": {
+        "overview": "This premium toilet paper offers the perfect balance of softness and strength.",
+        "details": "With its high-quality material, this toilet paper provides a comfortable and hygienic experience.",
+        "pros": ["Soft", "Strong", "Eco-friendly"],
+        "cons": ["Expensive"]
+      },
+      "affiliateLink": "https://example.com/toilet-paper"
+    },
+    {
+      "slug": ["home", "bathroom-appliances", "toilet", "toilet-cleaners"],
+      "name": "Effective Toilet Cleaner",
+      "image": "/images/toilet-cleaner.jpg",
+      "description": "A powerful toilet cleaner that removes stains and disinfects.",
+      "rating": 4.5,
+      "review": {
+        "overview": "This toilet cleaner effectively removes stains and disinfects your toilet, leaving it sparkling clean.",
+        "details": "Its powerful formula ensures thorough cleaning and disinfection, making it a must-have for bathroom hygiene.",
+        "pros": ["Powerful cleaning", "Disinfects", "Pleasant scent"],
+        "cons": ["Strong chemical smell", "Requires careful handling"]
+      },
+      "affiliateLink": "https://example.com/toilet-cleaner"
+    },
+    {
+      "slug": ["home", "bathroom-appliances", "toilet", "toilet-accessories"],
+      "name": "Stylish Toilet Accessories Set",
+      "image": "/images/toilet-accessories.jpg",
+      "description": "A stylish set of toilet accessories that enhance your bathroom decor.",
+      "rating": 4.6,
+      "review": {
+        "overview": "This set of toilet accessories combines style and functionality, making your bathroom look elegant.",
+        "details": "The set includes a toilet brush, holder, and other accessories made from high-quality materials.",
+        "pros": ["Stylish", "High-quality", "Functional"],
+        "cons": ["Expensive"]
+      },
+      "affiliateLink": "https://example.com/toilet-accessories"
+    },
+    {
+      "slug": ["home", "bathroom-appliances", "toilet", "handwash"],
+      "name": "Gentle Handwash",
+      "image": "/images/handwash.jpg",
+      "description": "A gentle handwash that cleanses and moisturizes your hands.",
+      "rating": 4.5,
+      "review": {
+        "overview": "This handwash cleanses and moisturizes your hands, leaving them soft and clean.",
+        "details": "Its gentle formula is suitable for all skin types and ensures thorough cleaning without drying your hands.",
+        "pros": ["Gentle", "Moisturizing", "Pleasant scent"],
+        "cons": ["Expensive"]
+      },
+      "affiliateLink": "https://example.com/handwash"
+    },
+    {
+      "slug": ["home", "bathroom-appliances", "bathroom", "shower"],
+      "name": "Luxury Shower Head",
+      "image": "/images/shower-head.jpg",
+      "description": "A luxury shower head that provides a spa-like experience at home.",
+      "rating": 4.8,
+      "review": {
+        "overview": "This luxury shower head offers multiple settings for a customizable and relaxing shower experience.",
+        "details": "Its high-pressure jets and adjustable settings make every shower feel like a spa treatment.",
+        "pros": ["High pressure", "Multiple settings", "Easy to install"],
+        "cons": ["Expensive"]
+      },
+      "affiliateLink": "https://example.com/shower-head"
+    },
+    {
+      "slug": ["home", "bathroom-appliances", "bathroom", "water-heater"],
+      "name": "Instant Water Heater",
+      "image": "/images/water-heater.jpg",
+      "description": "An instant water heater that provides hot water on demand.",
+      "rating": 4.7,
+      "review": {
+        "overview": "This instant water heater heats water quickly and efficiently, providing hot water whenever you need it.",
+        "details": "Its compact design and energy-efficient technology make it a perfect addition to any bathroom.",
+        "pros": ["Fast heating", "Energy-efficient", "Compact design"],
+        "cons": ["Expensive"]
+      },
+      "affiliateLink": "https://example.com/water-heater"
+    },
+    {
+      "slug": ["home", "bathroom-appliances", "bathroom", "curtains"],
+      "name": "Elegant Shower Curtains",
+      "image": "/images/shower-curtains.jpg",
+      "description": "Elegant shower curtains that add style and privacy to your bathroom.",
+      "rating": 4.4,
+      "review": {
+        "overview": "These shower curtains are stylish and functional, providing privacy and enhancing your bathroom decor.",
+        "details": "Made from high-quality materials, these curtains are durable and easy to clean.",
+        "pros": ["Stylish", "Durable", "Easy to clean"],
+        "cons": ["Limited design options"]
+      },
+      "affiliateLink": "https://example.com/shower-curtains"
+    },
+    {
+      "slug": ["home", "bathroom-appliances", "bathroom", "towels"],
+      "name": "Soft Bath Towels",
+      "image": "/images/bath-towels.jpg",
+      "description": "Soft and absorbent bath towels for a luxurious drying experience.",
+      "rating": 4.6,
+      "review": {
+        "overview": "These bath towels are incredibly soft and absorbent, making them perfect for everyday use.",
+        "details": "Made from high-quality cotton, these towels offer excellent durability and comfort.",
+        "pros": ["Soft", "Absorbent", "Durable"],
+        "cons": ["Expensive"]
+      },
+      "affiliateLink": "https://example.com/bath-towels"
+    },
+    {
+      "slug": ["home", "bathroom-appliances", "bathroom", "soap-shampoo"],
+      "name": "Organic Soap and Shampoo Set",
+      "image": "/images/soap-shampoo.jpg",
+      "description": "A set of organic soap and shampoo that cleanses and nourishes your skin and hair.",
+      "rating": 4.5,
+      "review": {
+        "overview": "This set of organic soap and shampoo provides gentle cleansing and nourishment for your skin and hair.",
+        "details": "Made with natural ingredients, these products are free from harmful chemicals and suitable for all skin types.",
+        "pros": ["Natural ingredients", "Gentle", "Nourishing"],
+        "cons": ["Expensive"]
+      },
+      "affiliateLink": "https://example.com/soap-shampoo"
+    },
+    {
+      "slug": ["home", "bathroom-appliances", "bathroom", "bucket-tool"],
+      "name": "Multipurpose Bucket and Tool Set",
+      "image": "/images/bucket-tool.jpg",
+      "description": "A multipurpose bucket and tool set for all your cleaning needs.",
+      "rating": 4.3,
+      "review": {
+        "overview": "This bucket and tool set is versatile and durable, perfect for various cleaning tasks around the house.",
+        "details": "The set includes a sturdy bucket and a range of cleaning tools made from high-quality materials.",
+        "pros": ["Versatile", "Durable", "High-quality"],
+        "cons": ["Bulky"]
+      },
+      "affiliateLink": "https://example.com/bucket-tool"
+    },
+    {
+      "slug": ["home", "bedroom-appliances", "bed", "mattress"],
+      "name": "Comfortable Memory Foam Mattress",
+      "image": "/images/mattress.jpg",
+      "description": "A comfortable memory foam mattress that provides excellent support and comfort.",
+      "rating": 4.7,
+      "review": {
+        "overview": "This memory foam mattress offers superior comfort and support, ensuring a good night's sleep.",
+        "details": "Its high-density foam conforms to your body's shape, relieving pressure points and providing optimal support.",
+        "pros": ["Comfortable", "Supportive", "Durable"],
+        "cons": ["Expensive"]
+      },
+      "affiliateLink": "https://example.com/mattress"
+    },
+    {
+      "slug": ["home", "bedroom-appliances", "bed", "bedsheet"],
+      "name": "Luxury Bedsheet Set",
+      "image": "/images/bedsheet.jpg",
+      "description": "A luxury bedsheet set that adds elegance and comfort to your bedroom.",
+      "rating": 4.6,
+      "review": {
+        "overview": "This bedsheet set combines elegance and comfort, making it a perfect addition to any bedroom.",
+        "details": "Made from high-quality materials, these bedsheets are soft, durable, and easy to maintain.",
+        "pros": ["Elegant", "Comfortable", "Durable"],
+        "cons": ["Expensive"]
+      },
+      "affiliateLink": "https://example.com/bedsheet"
+    },
+    {
+      "slug": ["home", "bedroom-appliances", "bed", "pillows"],
+      "name": "Soft and Supportive Pillows",
+      "image": "/images/pillows.jpg",
+      "description": "Soft and supportive pillows that provide comfort and support for a good night's sleep.",
+      "rating": 4.5,
+      "review": {
+        "overview": "These pillows offer the perfect balance of softness and support, ensuring a comfortable sleep.",
+        "details": "Filled with high-quality materials, these pillows maintain their shape and provide lasting comfort.",
+        "pros": ["Soft", "Supportive", "Durable"],
+        "cons": ["Expensive"]
+      },
+      "affiliateLink": "https://example.com/pillows"
+    },
+    {
+      "slug": ["home", "bedroom-appliances", "bed", "bed-furniture"],
+      "name": "Modern Bed Furniture Set",
+      "image": "/images/bed-furniture.jpg",
+      "description": "A modern bed furniture set that enhances the style and functionality of your bedroom.",
+      "rating": 4.6,
+      "review": {
+        "overview": "This bed furniture set offers a modern design and excellent functionality, making it a great addition to any bedroom.",
+        "details": "The set includes a bed frame, nightstands, and a dresser, all made from high-quality materials.",
+        "pros": ["Modern design", "Functional", "Durable"],
+        "cons": ["Expensive"]
+      },
+      "affiliateLink": "https://example.com/bed-furniture"
+    },
+    {
+      "slug": ["home", "bedroom-appliances", "bed", "blankets"],
+      "name": "Warm and Cozy Blankets",
+      "image": "/images/blankets.jpg",
+      "description": "Warm and cozy blankets that provide comfort and warmth during cold nights.",
+      "rating": 4.5,
+      "review": {
+        "overview": "These blankets are incredibly warm and cozy, making them perfect for cold nights.",
+        "details": "Made from high-quality materials, these blankets are soft, durable, and easy to care for.",
+        "pros": ["Warm", "Cozy", "Durable"],
+        "cons": ["Expensive"]
+      },
+      "affiliateLink": "https://example.com/blankets"
+    },
+    {
+      "slug": ["home", "bedroom-appliances", "lamp"],
+      "name": "Stylish Bedside Lamp",
+      "image": "/images/bedside-lamp.jpg",
+      "description": "A stylish bedside lamp that provides soft and ambient lighting.",
+      "rating": 4.6,
+      "review": {
+        "overview": "This bedside lamp offers a stylish design and soft lighting, making it perfect for reading and relaxation.",
+        "details": "Its adjustable brightness and sleek design make it a great addition to any bedroom.",
+        "pros": ["Stylish", "Adjustable brightness", "Durable"],
+        "cons": ["Expensive"]
+      },
+      "affiliateLink": "https://example.com/bedside-lamp"
+    },
+    {
+      "slug": ["home", "bedroom-appliances", "mirror"],
+      "name": "Elegant Wall Mirror",
+      "image": "/images/wall-mirror.jpg",
+      "description": "An elegant wall mirror that adds a touch of sophistication to your bedroom.",
+      "rating": 4.5,
+      "review": {
+        "overview": "This wall mirror offers a sleek design and high-quality glass, making it a stylish addition to any room.",
+        "details": "Its elegant frame and clear reflection make it perfect for adding light and space to your bedroom.",
+        "pros": ["Elegant design", "High-quality glass", "Durable"],
+        "cons": ["Expensive"]
+      },
+      "affiliateLink": "https://example.com/wall-mirror"
+    },
+    {
+      "slug": ["home", "bedroom-appliances", "cupboard-cabinet"],
+      "name": "Spacious Cupboard Cabinet",
+      "image": "/images/cupboard-cabinet.jpg",
+      "description": "A spacious cupboard cabinet that provides ample storage for your bedroom.",
+      "rating": 4.6,
+      "review": {
+        "overview": "This cupboard cabinet offers ample storage space and a modern design, making it a great addition to any bedroom.",
+        "details": "Made from high-quality materials, this cabinet is durable and stylish.",
+        "pros": ["Spacious", "Stylish", "Durable"],
+        "cons": ["Expensive"]
+      },
+      "affiliateLink": "https://example.com/cupboard-cabinet"
+    },
+    {
+      "slug": ["home", "bedroom-appliances", "ac-coolers-fans"],
+      "name": "Efficient AC Cooler Fan",
+      "image": "/images/ac-cooler-fan.jpg",
+      "description": "An efficient AC cooler fan that provides excellent cooling for your bedroom.",
+      "rating": 4.5,
+      "review": {
+        "overview": "This AC cooler fan offers efficient cooling and a modern design, making it perfect for hot summer nights.",
+        "details": "Its energy-efficient technology and powerful airflow make it a must-have for any bedroom.",
+        "pros": ["Efficient cooling", "Energy-efficient", "Modern design"],
+        "cons": ["Expensive"]
+      },
+      "affiliateLink": "https://example.com/ac-cooler-fan"
+    },
+    {
+      "slug": ["home", "kitchen-appliances", "gas"],
+      "name": "High-Efficiency Gas Stove",
+      "image": "/images/gas-stove.jpg",
+      "description": "A high-efficiency gas stove that provides powerful and consistent cooking performance.",
+      "rating": 4.7,
+      "review": {
+        "overview": "This gas stove offers high efficiency and reliable performance, making it perfect for any kitchen.",
+        "details": "Its durable construction and powerful burners ensure excellent cooking results every time.",
+        "pros": ["High efficiency", "Powerful burners", "Durable"],
+        "cons": ["Expensive"]
+      },
+      "affiliateLink": "https://example.com/gas-stove"
+    },
+    {
+      "slug": ["home", "kitchen-appliances", "chimney"],
+      "name": "Advanced Kitchen Chimney",
+      "image": "/images/kitchen-chimney.jpg",
+      "description": "An advanced kitchen chimney that effectively removes smoke and odors from your kitchen.",
+      "rating": 4.6,
+      "review": {
+        "overview": "This kitchen chimney offers advanced features and efficient smoke removal, keeping your kitchen clean and fresh.",
+        "details": "Its powerful suction and easy maintenance make it a great addition to any kitchen.",
+        "pros": ["Efficient smoke removal", "Powerful suction", "Easy maintenance"],
+        "cons": ["Expensive"]
+      },
+      "affiliateLink": "https://example.com/kitchen-chimney"
+    },
+    {
+      "slug": ["home", "kitchen-appliances", "plates"],
+      "name": "Elegant Dinner Plate Set",
+      "image": "/images/dinner-plate-set.jpg",
+      "description": "An elegant dinner plate set that adds style to your dining table.",
+      "rating": 4.5,
+      "review": {
+        "overview": "This dinner plate set combines elegance and functionality, making it perfect for any dining occasion.",
+        "details": "Made from high-quality materials, these plates are durable and easy to clean.",
+        "pros": ["Elegant", "Durable", "Easy to clean"],
+        "cons": ["Expensive"]
+      },
+      "affiliateLink": "https://example.com/dinner-plate-set"
+    },
+    {
+      "slug": ["home", "kitchen-appliances", "cup-set"],
+      "name": "Stylish Cup Set",
+      "image": "/images/cup-set.jpg",
+      "description": "A stylish cup set that enhances your drinking experience.",
+      "rating": 4.5,
+      "review": {
+        "overview": "This cup set offers a stylish design and excellent durability, making it perfect for any occasion.",
+        "details": "Made from high-quality materials, these cups are comfortable to hold and easy to clean.",
+        "pros": ["Stylish", "Durable", "Comfortable to hold"],
+        "cons": ["Expensive"]
+      },
+      "affiliateLink": "https://example.com/cup-set"
+    }
+  ]
+  

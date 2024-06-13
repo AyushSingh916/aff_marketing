@@ -1,0 +1,26 @@
+[
+    {
+      "image": "/laptop_stand.jpg",
+      "alt": "Laptop Stand",
+      "name": "Laptop Stand",
+      "originalPrice": "$30",
+      "discountedPrice": "$10",
+      "discountPercentage": "50% off from Amazon"
+    },
+    {
+        "image": "/laptop_stand.jpg",
+        "alt": "Laptop Stand",
+        "name": "Laptop Stand",
+        "originalPrice": "$30",
+        "discountedPrice": "$10",
+        "discountPercentage": "50% off from Amazon"
+      },
+      {
+        "image": "/laptop_stand.jpg",
+        "alt": "Laptop Stand",
+        "name": "Laptop Stand",
+        "originalPrice": "$30",
+        "discountedPrice": "$10",
+        "discountPercentage": "50% off from Amazon"
+      }
+  ]

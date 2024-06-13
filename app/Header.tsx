@@ -67,15 +67,29 @@ const Header: React.FC = () => {
     );
   };
 
+  const handleSublinkClick = () => {
+    setHoveredItem(null);
+  };
+
   return (
-    <header className="flex flex-col w-full h-fit font-star-jedi" style={{ backgroundColor: '#EEEEEE' }}>
-      <div className="flex items-center justify-between h-16 lg:h-24 px-4 border-b border-black" style={{ boxShadow: '0px 7px 4px 0px rgba(0, 0, 0, 0.25)' }}>
+    <header
+      className="flex flex-col w-full h-fit font-star-jedi"
+      style={{ backgroundColor: '#EEEEEE' }}
+    >
+      <div
+        className="flex items-center justify-between h-16 lg:h-24 px-4 border-b border-black"
+        style={{ boxShadow: '0px 7px 4px 0px rgba(0, 0, 0, 0.25)' }}
+      >
         {/* Search Bar */}
-        <div className="hidden lg:flex items-center" >
+        <div className="hidden lg:flex items-center">
           <input
             type="text"
             placeholder="Help me decide on..."
-            className="border rounded px-4 py-2"
+            className="rounded-md border border-[#D9D9D9] bg-[rgba(217,217,217,0.20)] w-[218px] h-[49px] flex-shrink-0 px-4 py-2"
+            style={{
+              boxShadow:
+                '-2px -2px 4px 0px rgba(0, 0, 0, 0.25) inset, 2px 2px 4px 0px rgba(0, 0, 0, 0.25) inset',
+            }}
           />
         </div>
 
@@ -136,7 +150,11 @@ const Header: React.FC = () => {
                         {item.sublinks.map((sublink) => (
                           <div key={sublink.text}>
                             <SheetClose asChild>
-                              <Link className="hover:underline" href={sublink.href}>
+                              <Link
+                                className="hover:underline"
+                                href={sublink.href}
+                                onClick={handleSublinkClick} // Close submenu on click
+                              >
                                 {sublink.text}
                               </Link>
                             </SheetClose>
@@ -144,7 +162,11 @@ const Header: React.FC = () => {
                               <div className="pl-4">
                                 {sublink.sublinks.map((subsublink) => (
                                   <SheetClose key={subsublink.text} asChild>
-                                    <Link className="hover:underline" href={subsublink.href}>
+                                    <Link
+                                      className="hover:underline"
+                                      href={'/category' + subsublink.href}
+                                      onClick={handleSublinkClick} // Close submenu on click
+                                    >
                                       {subsublink.text}
                                     </Link>
                                   </SheetClose>
@@ -164,7 +186,13 @@ const Header: React.FC = () => {
       </div>
 
       {/* Desktop Navigation Menu */}
-      <NavigationMenu className="hidden lg:flex justify-center gap-8 py-2 px-8 relative" style={{ boxShadow: '0px 7px 4px 0px rgba(0, 0, 0, 0.25)', backgroundColor: '#EEEEEE' }}>
+      <NavigationMenu
+        className="hidden lg:flex justify-center gap-8 py-2 px-8 relative"
+        style={{
+          boxShadow: '0px 7px 4px 0px rgba(0, 0, 0, 0.25)',
+          backgroundColor: '#EEEEEE',
+        }}
+      >
         <NavigationMenuList className="flex gap-8">
           {navmenuItems.map((item) => (
             <NavigationMenuItem
@@ -172,8 +200,12 @@ const Header: React.FC = () => {
               onMouseEnter={() => handleMouseEnter(item.text)}
               onMouseLeave={handleMouseLeave}
             >
-              <NavigationMenuLink asChild className={navigationMenuTriggerStyle()} style={{ backgroundColor: '#EEEEEE' }}>
-                <Link href={item.href} >
+              <NavigationMenuLink
+                asChild
+                className={navigationMenuTriggerStyle()}
+                style={{ backgroundColor: '#EEEEEE' }}
+              >
+                <Link href={item.href}>
                   <div className="hover:bg-accent p-2 rounded-md w-full font-bold">
                     {item.text}
                   </div>
@@ -189,7 +221,7 @@ const Header: React.FC = () => {
                   <div className="grid grid-cols-3 gap-4 p-4">
                     {item.sublinks.map((sublink) => (
                       <div key={sublink.text}>
-                        <Link href={sublink.href}>
+                        <Link href={sublink.href} onClick={handleSublinkClick}>
                           <div className="font-semibold hover:underline">
                             {sublink.text}
                           </div>
@@ -197,7 +229,11 @@ const Header: React.FC = () => {
                         {sublink.sublinks && (
                           <div className="pl-4">
                             {sublink.sublinks.map((subsublink) => (
-                              <Link key={subsublink.text} href={subsublink.href}>
+                              <Link
+                                key={subsublink.text}
+                                href={'/category' + subsublink.href}
+                                onClick={handleSublinkClick}
+                              >
                                 <div className="hover:underline">
                                   {subsublink.text}
                                 </div>
