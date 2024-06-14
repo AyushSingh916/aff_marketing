@@ -53,35 +53,65 @@ export default function ProductPage({ params }: ProductPageProps) {
             </p>
           </Link>
         </div>
-        <p className="text-gray-800 whitespace-pre-line leading-relaxed">{product.description}</p>
+        <p className="text-gray-800 whitespace-pre-line leading-relaxed">
+          {product.description}
+        </p>
       </div>
       <div className="bg-white shadow-lg rounded-lg p-8 space-y-4">
         <h2 className="text-2xl font-bold mb-4">Why You Should Trust Us</h2>
         <p className="text-gray-800 mb-2">
-          At OurCompany, we are dedicated to providing you with the best quality products that are meticulously tested and reviewed. Here’s why you should trust us:
+          At OurCompany, we are dedicated to providing you with the best quality
+          products that are meticulously tested and reviewed. Here’s why you
+          should trust us:
         </p>
         <ul className="list-disc list-inside text-gray-800 mb-4">
-          <li>We spend weeks researching and testing each product to ensure they meet our high standards.</li>
-          <li>Our team of experts has extensive experience in the industry and understands what makes a product worth your investment.</li>
-          <li>We value transparency and honesty, providing you with comprehensive reviews and insights.</li>
-          <li>Your satisfaction is our priority, and we strive to offer products that improve your everyday life.</li>
+          <li>
+            We spend weeks researching and testing each product to ensure they
+            meet our high standards.
+          </li>
+          <li>
+            Our team of experts has extensive experience in the industry and
+            understands what makes a product worth your investment.
+          </li>
+          <li>
+            We value transparency and honesty, providing you with comprehensive
+            reviews and insights.
+          </li>
+          <li>
+            Your satisfaction is our priority, and we strive to offer products
+            that improve your everyday life.
+          </li>
         </ul>
         <p className="text-gray-800 mb-4">
-          By choosing our recommended products, you are not just making a purchase; you are investing in quality, reliability, and exceptional service.
+          By choosing our recommended products, you are not just making a
+          purchase; you are investing in quality, reliability, and exceptional
+          service.
         </p>
         <div className="text-gray-800">
           <h3 className="text-xl font-bold mb-2">Our Research Process</h3>
           <p className="mb-2">
-            We take pride in our thorough research process. Our team begins by identifying the needs and preferences of our audience. We then scour the market for products that meet these criteria, taking into account customer reviews, expert opinions, and industry standards.
+            We take pride in our thorough research process. Our team begins by
+            identifying the needs and preferences of our audience. We then scour
+            the market for products that meet these criteria, taking into
+            account customer reviews, expert opinions, and industry standards.
           </p>
           <p className="mb-2">
-            Once we have a list of potential products, we purchase them ourselves to ensure an unbiased review. Each product is tested in real-world conditions over a period of weeks. We assess their performance, durability, ease of use, and overall value.
+            Once we have a list of potential products, we purchase them
+            ourselves to ensure an unbiased review. Each product is tested in
+            real-world conditions over a period of weeks. We assess their
+            performance, durability, ease of use, and overall value.
           </p>
           <p className="mb-2">
-            After testing, our team convenes to discuss our findings and compare notes. We consider both the pros and cons of each product and weigh them against our criteria to determine which products truly stand out.
+            After testing, our team convenes to discuss our findings and compare
+            notes. We consider both the pros and cons of each product and weigh
+            them against our criteria to determine which products truly stand
+            out.
           </p>
           <p>
-            Our final recommendations are products that we believe offer the best combination of quality, performance, and value. We are committed to helping you make informed decisions and are confident that our recommendations will meet your expectations.
+            Our final recommendations are products that we believe offer the
+            best combination of quality, performance, and value. We are
+            committed to helping you make informed decisions and are confident
+            that our recommendations will meet your expectations.
           </p>
         </div>
       </div>
@@ -102,7 +132,8 @@ export default function ProductPage({ params }: ProductPageProps) {
               Top Pick
             </span>
           </div>
-          <h3 className="text-lg font-semibold mb-2">Who it's for:</h3>
+          <h3 className="text-lg font-semibold mb-2">Who it&apos;s for:</h3>
+
           <p className="text-gray-700 mb-6">
             People who need a sturdy bed frame and DIY enthusiasts who want the
             option of personalizing the raw wood to match any style will like
