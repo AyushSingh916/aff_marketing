@@ -1,0 +1,43 @@
+{
+  "sleepMain": {
+    "src": "/Bed.png",
+    "alt": "Sleep Image",
+    "title": "Upgrades to Make a Sleeper Sofa Worth Sleeping On",
+    "description": "Sleeping on a sofa bed doesn’t have to be a nightmare. Here’s our advice on how to make it more comfortable."
+  },
+  "sleepArticles": [
+    {
+      "image": { "src": "/Bed.png", "alt": "Article Image" },
+      "title": "How Often You Should Wash Your Sheets (And How to Get Them Really Clean)",
+      "date": "UPDATED MAY 29, 2024 by Jackie Reeve"
+    },
+    {
+      "image": { "src": "/Bed.png", "alt": "Article Image" },
+      "title": "The Best Mattresses for Stomach Sleepers",
+      "date": "UPDATED MAY 29, 2024 by Joanne Chen"
+    },
+    {
+      "image": { "src": "/Bed.png", "alt": "Article Image" },
+      "title": "The Best Mattresses for 2024",
+      "date": "UPDATED MAY 25, 2024 by Joanne Chen and Caira Blackwell"
+    }
+  ],
+  "electronicsMain": {
+    "src": "/Bed.png",
+    "alt": "Electronics Image",
+    "title": "The Best 3D Printer",
+    "description": "The Bambu Lab A1 Mini is the fastest and easiest-to-use 3D printer we've found that is also compact enough to fit on a desk."
+  },
+  "electronicsArticles": [
+    {
+      "image": { "src": "/Bed.png", "alt": "Article Image" },
+      "title": "The Best Stylus for Your iPad",
+      "date": "UPDATED JUNE 13, 2024 by Arthur Gies"
+    },
+    {
+      "image": { "src": "/Bed.png", "alt": "Article Image" },
+      "title": "All the Headphones Wirecutter Recommends",
+      "date": "UPDATED JUNE 13, 2024 by Lauren Dragan"
+    }
+  ]
+}
