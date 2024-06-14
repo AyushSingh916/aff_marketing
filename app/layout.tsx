@@ -21,8 +21,8 @@ export default function RootLayout({
 
 export const metadata: Metadata = {
   title: {
-    template: '%s | IIIT Dharwad',
-    default: 'IIIT Dharwad',
+    template: '%s | BestDeal',
+    default: 'BestDeal',
   },
-  description: 'IIIT Dharwad',
+  description: 'We do research and find the best deal for you',
 };

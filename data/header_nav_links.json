@@ -322,25 +322,34 @@
         "text": "Cars",
         "href": "/automobiles/cars",
         "sublinks": [
-          { "text": "Sedans", "href": "/automobiles/cars/sedans" },
-          { "text": "SUVs", "href": "/automobiles/cars/suvs" },
-          { "text": "Electric Cars", "href": "/automobiles/cars/electric" }
+          { "text": "Electric Car", "href": "/automobiles/cars/sedans" },
+          { "text": "Manual Gear Car", "href": "/automobiles/cars/suvs" },
+          { "text": "Auto Gear Cars", "href": "/automobiles/cars/electric" },
+          { "text": "Sports Car", "href": "/automobiles/cars/electric" },
+          { "text": "SUV's", "href": "/automobiles/cars/electric" },
+          { "text": "Sedans", "href": "/automobiles/cars/electric" }
         ]
       },
       {
         "text": "Motorcycles",
         "href": "/automobiles/motorcycles",
         "sublinks": [
-          { "text": "Sport Bikes", "href": "/automobiles/motorcycles/sport" },
-          { "text": "Cruisers", "href": "/automobiles/motorcycles/cruisers" }
+          { "text": "Electric Scooter", "href": "/automobiles/motorcycles/sport" },
+          { "text": "Fuel Based Scooter", "href": "/automobiles/motorcycles/cruisers" },
+          { "text": "Electric Bikes", "href": "/automobiles/motorcycles/cruisers" },
+          { "text": "Fuel Based Bikes", "href": "/automobiles/motorcycles/cruisers" },
+          { "text": "Electric Cycle", "href": "/automobiles/motorcycles/cruisers" },
+          { "text": "Manual Cycle", "href": "/automobiles/motorcycles/cruisers" }
         ]
       },
       {
-        "text": "Trucks",
+        "text": "Other Vehicles",
         "href": "/automobiles/trucks",
         "sublinks": [
-          { "text": "Pickup Trucks", "href": "/automobiles/trucks/pickup" },
-          { "text": "Heavy Trucks", "href": "/automobiles/trucks/heavy" }
+          { "text": "Electric Rickshaw", "href": "/automobiles/trucks/pickup" },
+          { "text": "Trucks", "href": "/automobiles/trucks/heavy" },
+          { "text": "Bus", "href": "/automobiles/trucks/heavy" },
+          { "text": "Van", "href": "/automobiles/trucks/heavy" }
         ]
       }
     ]
@@ -350,40 +359,126 @@
     "href": "/ai-tools",
     "sublinks": [
       {
-        "text": "Machine Learning",
+        "text": "Text Generator",
         "href": "/ai-tools/machine-learning",
         "sublinks": [
           {
-            "text": "Frameworks",
+            "text": "Content Generator",
             "href": "/ai-tools/machine-learning/frameworks"
           },
           {
-            "text": "Libraries",
+            "text": "Prompt Generator",
             "href": "/ai-tools/machine-learning/libraries"
-          }
-        ]
-      },
-      {
-        "text": "Natural Language Processing",
-        "href": "/ai-tools/nlp",
-        "sublinks": [
-          { "text": "Text Analysis", "href": "/ai-tools/nlp/text-analysis" },
+          },
           {
-            "text": "Speech Recognition",
+            "text": "Copy Writer",
+            "href": "/ai-tools/nlp/speech-recognition"
+          },
+          {
+            "text": "Translator",
             "href": "/ai-tools/nlp/speech-recognition"
           }
         ]
       },
       {
-        "text": "Computer Vision",
+        "text": "Vedio Tools",
+        "href": "/ai-tools/nlp",
+        "sublinks": [
+          { "text": "Vedio Editor", "href": "/ai-tools/nlp/text-analysis" },
+          {
+            "text": "Vedio Generator",
+            "href": "/ai-tools/nlp/speech-recognition"
+          },
+          {
+            "text": "Text to Video",
+            "href": "/ai-tools/nlp/speech-recognition"
+          },
+          {
+            "text": "Vedio Enhancer",
+            "href": "/ai-tools/nlp/speech-recognition"
+          }
+        ]
+      },
+      {
+        "text": "Image Generator",
         "href": "/ai-tools/computer-vision",
         "sublinks": [
           {
-            "text": "Image Recognition",
+            "text": "Image Editting",
             "href": "/ai-tools/computer-vision/image-recognition"
           },
           {
-            "text": "Video Analysis",
+            "text": "Text to Image",
+            "href": "/ai-tools/computer-vision/video-analysis"
+          },
+          {
+            "text": "Design Image/Enhance",
+            "href": "/ai-tools/computer-vision/video-analysis"
+          }
+        ]
+      },
+      {
+        "text": "Audio Generator",
+        "href": "/ai-tools/computer-vision",
+        "sublinks": [
+          {
+            "text": "Voice Generator",
+            "href": "/ai-tools/computer-vision/image-recognition"
+          },
+          {
+            "text": "Voice Changer/Dubber",
+            "href": "/ai-tools/computer-vision/video-analysis"
+          },
+          {
+            "text": "Audio Enhancer",
+            "href": "/ai-tools/computer-vision/video-analysis"
+          },
+          {
+            "text": "Text to Speech",
+            "href": "/ai-tools/computer-vision/video-analysis"
+          }
+        ]
+      },
+      {
+        "text": "Design/Art Generator",
+        "href": "/ai-tools/computer-vision",
+        "sublinks": [
+          {
+            "text": "Cartoon Generator",
+            "href": "/ai-tools/computer-vision/image-recognition"
+          },
+          {
+            "text": "3D Object Generator",
+            "href": "/ai-tools/computer-vision/video-analysis"
+          },
+          {
+            "text": "Logo Generator",
+            "href": "/ai-tools/computer-vision/video-analysis"
+          },
+          {
+            "text": "Text to Art",
+            "href": "/ai-tools/computer-vision/video-analysis"
+          }
+        ]
+      },
+      {
+        "text": "Developer Tools",
+        "href": "/ai-tools/computer-vision",
+        "sublinks": [
+          {
+            "text": "Code Generator",
+            "href": "/ai-tools/computer-vision/image-recognition"
+          },
+          {
+            "text": "SQL Query Writer",
+            "href": "/ai-tools/computer-vision/video-analysis"
+          },
+          {
+            "text": "Code Assistant",
+            "href": "/ai-tools/computer-vision/video-analysis"
+          },
+          {
+            "text": "Testing Helper",
             "href": "/ai-tools/computer-vision/video-analysis"
           }
         ]

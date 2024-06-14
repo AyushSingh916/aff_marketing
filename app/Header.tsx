@@ -17,11 +17,9 @@ import {
   NavigationMenuList,
   navigationMenuTriggerStyle,
 } from '@/components/ui/navigation-menu';
-import '@/components/SeachBar';
 
 import navmenuItems from '@/data/header_nav_links.json';
-import autocompleteData from '@/data/autocomplete.json';
-import SearchBar from '@/components/SeachBar';
+import SearchBar from '@/components/SearchBar';
 
 const Header: React.FC = () => {
   const [hoveredItem, setHoveredItem] = useState<string | null>(null);

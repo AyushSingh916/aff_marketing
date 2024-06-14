@@ -1,12 +1,25 @@
-'use client';
-
-import { useState } from 'react';
+import React, { useState, useRef, useEffect } from 'react';
 import autocompleteData from '@/data/autocomplete.json';
 
 const SearchBar: React.FC = () => {
   const [searchInput, setSearchInput] = useState<string>('');
   const [suggestions, setSuggestions] = useState<{ text: string; href: string }[]>([]);
   const [showSuggestions, setShowSuggestions] = useState<boolean>(false);
+  const suggestionRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    const handleClickOutside = (event: MouseEvent) => {
+      if (suggestionRef.current && !suggestionRef.current.contains(event.target as Node)) {
+        setShowSuggestions(false);
+      }
+    };
+
+    document.addEventListener('mousedown', handleClickOutside);
+
+    return () => {
+      document.removeEventListener('mousedown', handleClickOutside);
+    };
+  }, []);
 
   const handleSearchInputChange = (event: React.ChangeEvent<HTMLInputElement>) => {
     const value = event.target.value;
@@ -30,7 +43,7 @@ const SearchBar: React.FC = () => {
   };
 
   return (
-    <div className="hidden lg:flex items-center relative">
+    <div className="hidden lg:flex items-center relative z-20">
       <input
         type="text"
         placeholder="Help me decide on..."
@@ -43,7 +56,7 @@ const SearchBar: React.FC = () => {
         onChange={handleSearchInputChange}
       />
       {showSuggestions && (
-        <div className="absolute top-full mt-2 w-full bg-white shadow-lg border rounded z-10">
+        <div ref={suggestionRef} className="absolute top-full mt-2 w-full bg-white shadow-lg border rounded z-10">
           {suggestions.length > 0 ? (
             suggestions.map((suggestion) => (
               <div
