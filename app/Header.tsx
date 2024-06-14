@@ -17,17 +17,16 @@ import {
   NavigationMenuList,
   navigationMenuTriggerStyle,
 } from '@/components/ui/navigation-menu';
+import '@/components/SeachBar';
 
 import navmenuItems from '@/data/header_nav_links.json';
 import autocompleteData from '@/data/autocomplete.json';
+import SearchBar from '@/components/SeachBar';
 
 const Header: React.FC = () => {
   const [hoveredItem, setHoveredItem] = useState<string | null>(null);
   const [openedItem, setOpenedItem] = useState<string | null>(null);
   const [hoverTimeout, setHoverTimeout] = useState<NodeJS.Timeout | null>(null);
-  const [searchInput, setSearchInput] = useState<string>('');
-  const [suggestions, setSuggestions] = useState<{ text: string; href: string }[]>([]);
-  const [showSuggestions, setShowSuggestions] = useState<boolean>(false);
 
   const menuRef = useRef<HTMLDivElement>(null);
 
@@ -43,7 +42,6 @@ const Header: React.FC = () => {
     const handleClickOutside = (event: Event) => {
       if (menuRef.current && !menuRef.current.contains(event.target as Node)) {
         setOpenedItem(null);
-        setShowSuggestions(false);
       }
     };
 
@@ -76,26 +74,6 @@ const Header: React.FC = () => {
     setHoveredItem(null);
   };
 
-  const handleSearchInputChange = (event: React.ChangeEvent<HTMLInputElement>) => {
-    const value = event.target.value;
-    setSearchInput(value);
-
-    if (value) {
-      const filteredSuggestions = autocompleteData.filter((item) =>
-        item.text.toLowerCase().includes(value.toLowerCase())
-      );
-      setSuggestions(filteredSuggestions);
-      setShowSuggestions(true);
-    } else {
-      setShowSuggestions(false);
-    }
-  };
-
-  const handleSuggestionClick = (href: string) => {
-    setSearchInput('');
-    setShowSuggestions(false);
-    window.location.href = href;
-  };
 
   return (
     <header
@@ -107,36 +85,7 @@ const Header: React.FC = () => {
         style={{ boxShadow: '0px 7px 4px 0px rgba(0, 0, 0, 0.25)' }}
       >
         {/* Search Bar */}
-        <div className="hidden lg:flex items-center relative">
-          <input
-            type="text"
-            placeholder="Help me decide on..."
-            className="rounded-md border border-[#D9D9D9] bg-[rgba(217,217,217,0.20)] w-[218px] h-[49px] flex-shrink-0 px-4 py-2"
-            style={{
-              boxShadow:
-                '-2px -2px 4px 0px rgba(0, 0, 0, 0.25) inset, 2px 2px 4px 0px rgba(0, 0, 0, 0.25) inset',
-            }}
-            value={searchInput}
-            onChange={handleSearchInputChange}
-          />
-          {showSuggestions && (
-            <div className="absolute top-full mt-2 w-full bg-white shadow-lg border rounded z-10">
-              {suggestions.length > 0 ? (
-                suggestions.map((suggestion) => (
-                  <div
-                    key={suggestion.text}
-                    className="p-2 hover:bg-gray-200 cursor-pointer"
-                    onClick={() => handleSuggestionClick(suggestion.href)}
-                  >
-                    {suggestion.text}
-                  </div>
-                ))
-              ) : (
-                <div className="p-2 text-red-500">Sorry, not found</div>
-              )}
-            </div>
-          )}
-        </div>
+        <SearchBar />
 
         {/* Logo */}
         <Link href="/" className="flex justify-center">
