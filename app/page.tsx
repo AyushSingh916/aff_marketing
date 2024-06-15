@@ -8,31 +8,39 @@ import deals from '@/data/daily_deals.json';
 import Horizontal from '@/components/Horizontal';
 import Vertical from '@/components/Vertical';
 import data from '@/data/home_products.json';
-import { Data } from '@/lib/types';
+import { CategoryData } from '@/lib/types';
 
-const Home = () => {
-  // Data for Horizontal and Vertical components
-  const { sleepMain, sleepArticles, electronicsMain, electronicsArticles } =
-    data as Data;
+const Home: React.FC = () => {
+
+  const renderSection = (data: CategoryData, Component: React.FC<any>) => (
+    <section className="w-full max-w-7xl px-4 mb-12">
+      <Component
+        mainImage={data.main}
+        mainTitle={data.main.title}
+        mainDescription={data.main.description}
+        articles={data.articles}
+      />
+    </section>
+  );
 
   return (
     <main
       className="flex flex-col items-center py-8 min-h-screen"
-      style={{ backgroundColor: '#E6E6E6' }}
+      style={{ backgroundColor: '#F5F5F7' }}
     >
       <section className="w-full max-w-7xl px-4" style={{ width: '90%' }}>
-        <div className="flex flex-col lg:flex-row gap-8 mb-8">
+        <div className="flex flex-col lg:flex-row gap-8 mb-12">
           {/* Daily Deals Section */}
           <div
-            className="w-full lg:w-1/4 p-4 rounded-lg shadow-lg"
+            className="w-full lg:w-1/4 p-6 rounded-xl shadow-lg"
             style={{
-              background: '#D9D9D91A',
-              boxShadow: `-15px 15px 20px rgba(0, 0, 0, 0.1), -10px 10px 14px rgba(0, 0, 0, 0.08), 15px -15px 20px rgba(255, 255, 255, 0.8) inset, 10px -10px 14px rgba(255, 255, 255, 0.6) inset`,
+              background: '#FFFFFF',
+              boxShadow: `0 4px 6px rgba(0, 0, 0, 0.1)`,
             }}
           >
-            <h2 className="text-2xl font-bold mb-4">DAILY DEALS</h2>
+            <h2 className="text-2xl font-bold mb-4">Daily Deals</h2>
             <p className="text-sm text-gray-600 mb-6">
-              PRICE DROPS ON PRODUCTS WE LOVE
+              Price drops on products we love
             </p>
             {deals.map((deal, index) => (
               <div key={index} className="mb-8">
@@ -41,17 +49,17 @@ const Home = () => {
                   alt={deal.alt}
                   width={100}
                   height={100}
-                  className="w-full h-auto object-cover mb-2"
+                  className="w-full h-auto object-cover mb-2 rounded-lg"
                 />
                 <h3 className="text-xl font-semibold">{deal.name}</h3>
                 <p className="text-gray-500 text-sm">
-                  {deal.originalPrice}{' '}
+                  <span className="line-through">{deal.originalPrice}</span>{' '}
                   <span className="text-green-500 font-bold">
                     {deal.discountedPrice}
                   </span>
                 </p>
                 <p className="text-gray-500 text-sm">
-                  {deal.discountPercentage}
+                  {deal.discountPercentage} off
                 </p>
               </div>
             ))}
@@ -59,10 +67,10 @@ const Home = () => {
 
           {/* Main Content Section */}
           <div
-            className="w-full lg:w-1/2 p-4 rounded-lg shadow-lg"
+            className="w-full lg:w-1/2 p-6 rounded-xl shadow-lg"
             style={{
-              background: '#D9D9D91A',
-              boxShadow: `-15px 15px 20px rgba(0, 0, 0, 0.1), -10px 10px 14px rgba(0, 0, 0, 0.08), 15px -15px 20px rgba(255, 255, 255, 0.8) inset, 10px -10px 14px rgba(255, 255, 255, 0.6) inset`,
+              background: '#FFFFFF',
+              boxShadow: `0 4px 6px rgba(0, 0, 0, 0.1)`,
             }}
           >
             <Image
@@ -70,10 +78,10 @@ const Home = () => {
               alt="Main Content"
               width={600}
               height={400}
-              className="w-full h-auto object-cover mb-4"
+              className="w-full h-auto object-cover mb-4 rounded-lg"
             />
-            <h2 className="text-3xl font-bold">Lorem Ipsum</h2>
-            <p>
+            <h2 className="text-3xl font-bold mb-4">Lorem Ipsum</h2>
+            <p className="text-gray-600">
               Lorem ipsum is placeholder text commonly used in the graphic,
               print, and publishing industries for previewing layouts and visual
               mockups.
@@ -82,14 +90,14 @@ const Home = () => {
 
           {/* Latest Updates Section */}
           <div
-            className="w-full lg:w-1/4 p-4 rounded-lg shadow-lg"
+            className="w-full lg:w-1/4 p-6 rounded-xl shadow-lg"
             style={{
-              background: '#D9D9D91A',
-              boxShadow: `-15px 15px 20px rgba(0, 0, 0, 0.1), -10px 10px 14px rgba(0, 0, 0, 0.08), 15px -15px 20px rgba(255, 255, 255, 0.8) inset, 10px -10px 14px rgba(255, 255, 255, 0.6) inset`,
+              background: '#FFFFFF',
+              boxShadow: `0 4px 6px rgba(0, 0, 0, 0.1)`,
             }}
           >
-            <h2 className="text-2xl font-bold mb-4">LATEST UPDATES</h2>
-            <p className="text-sm text-gray-600 mb-6">TOP REVIEWS AND DEALS</p>
+            <h2 className="text-2xl font-bold mb-4">Latest Updates</h2>
+            <p className="text-sm text-gray-600 mb-6">Top reviews and deals</p>
             {latestUpdates.map((update, index) => (
               <div key={index} className="mb-8">
                 <h3 className="text-lg font-semibold">{update.title}</h3>
@@ -100,41 +108,14 @@ const Home = () => {
         </div>
       </section>
 
-      <section className="w-full max-w-7xl px-4">
-        <Horizontal
-          mainImage={sleepMain}
-          mainTitle={sleepMain.title}
-          mainDescription={sleepMain.description}
-          articles={sleepArticles}
-        />
-      </section>
-
-      <section className="w-full max-w-7xl px-4">
-        <Vertical
-          mainImage={electronicsMain}
-          mainTitle={electronicsMain.title}
-          mainDescription={electronicsMain.description}
-          articles={electronicsArticles}
-        />
-      </section>
-
-      <section className="w-full max-w-7xl px-4">
-        <Horizontal
-          mainImage={sleepMain}
-          mainTitle={sleepMain.title}
-          mainDescription={sleepMain.description}
-          articles={sleepArticles}
-        />
-      </section>
-
-      <section className="w-full max-w-7xl px-4">
-        <Vertical
-          mainImage={electronicsMain}
-          mainTitle={electronicsMain.title}
-          mainDescription={electronicsMain.description}
-          articles={electronicsArticles}
-        />
-      </section>
+      {renderSection(data.home, Horizontal)}
+      {renderSection(data.electronicDevices, Vertical)}
+      {renderSection(data.electronicAppliances, Horizontal)}
+      {renderSection(data.automobiles, Vertical)}
+      {renderSection(data.aiTools, Horizontal)}
+      {renderSection(data.healthLifestyle, Vertical)}
+      {renderSection(data.clothingBags, Horizontal)}
+      {renderSection(data.shoes, Vertical)}
     </main>
   );
 };

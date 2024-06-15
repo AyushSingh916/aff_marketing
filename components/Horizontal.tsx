@@ -22,7 +22,7 @@ interface HorizontalProps {
 const Horizontal: React.FC<HorizontalProps> = ({ mainImage, mainTitle, mainDescription, articles }) => {
   return (
     <div className="p-4 bg-white shadow-lg rounded-lg mt-4">
-      <h2 className="text-2xl font-bold mb-4">Sleep</h2>
+      <h2 className="text-2xl font-bold mb-4">{mainTitle}</h2>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
         <div className="col-span-2">
           <Image src={mainImage.src} alt={mainImage.alt} width={600} height={400} />

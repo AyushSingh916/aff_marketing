@@ -1,43 +1,162 @@
 {
-  "sleepMain": {
-    "src": "/Bed.png",
-    "alt": "Sleep Image",
-    "title": "Upgrades to Make a Sleeper Sofa Worth Sleeping On",
-    "description": "Sleeping on a sofa bed doesn’t have to be a nightmare. Here’s our advice on how to make it more comfortable."
+  "home": {
+    "main": {
+      "src": "/home_main.png",
+      "alt": "Home Image",
+      "title": "10 Essential Upgrades for a Cozy Home",
+      "description": "Transform your living space into a haven of comfort with these easy upgrades."
+    },
+    "articles": [
+      {
+        "image": { "src": "/home_article_1.png", "alt": "Home Article Image" },
+        "title": "How to Decorate Your Living Room",
+        "date": "UPDATED JUNE 10, 2024 by Jane Doe"
+      },
+      {
+        "image": { "src": "/home_article_2.png", "alt": "Home Article Image" },
+        "title": "The Best Vacuum Cleaners for 2024",
+        "date": "UPDATED JUNE 8, 2024 by John Smith"
+      }
+    ]
   },
-  "sleepArticles": [
-    {
-      "image": { "src": "/Bed.png", "alt": "Article Image" },
-      "title": "How Often You Should Wash Your Sheets (And How to Get Them Really Clean)",
-      "date": "UPDATED MAY 29, 2024 by Jackie Reeve"
+  "electronicDevices": {
+    "main": {
+      "src": "/devices_main.png",
+      "alt": "Electronic Devices Image",
+      "title": "Top 5 Smartphones of 2024",
+      "description": "Discover the best smartphones of the year with cutting-edge features and performance."
     },
-    {
-      "image": { "src": "/Bed.png", "alt": "Article Image" },
-      "title": "The Best Mattresses for Stomach Sleepers",
-      "date": "UPDATED MAY 29, 2024 by Joanne Chen"
-    },
-    {
-      "image": { "src": "/Bed.png", "alt": "Article Image" },
-      "title": "The Best Mattresses for 2024",
-      "date": "UPDATED MAY 25, 2024 by Joanne Chen and Caira Blackwell"
-    }
-  ],
-  "electronicsMain": {
-    "src": "/Bed.png",
-    "alt": "Electronics Image",
-    "title": "The Best 3D Printer",
-    "description": "The Bambu Lab A1 Mini is the fastest and easiest-to-use 3D printer we've found that is also compact enough to fit on a desk."
+    "articles": [
+      {
+        "image": { "src": "/devices_article_1.png", "alt": "Devices Article Image" },
+        "title": "Best Laptops for Students",
+        "date": "UPDATED MAY 30, 2024 by Alex Johnson"
+      },
+      {
+        "image": { "src": "/devices_article_2.png", "alt": "Devices Article Image" },
+        "title": "The Best Tablets for Drawing",
+        "date": "UPDATED MAY 28, 2024 by Emily Davis"
+      }
+    ]
   },
-  "electronicsArticles": [
-    {
-      "image": { "src": "/Bed.png", "alt": "Article Image" },
-      "title": "The Best Stylus for Your iPad",
-      "date": "UPDATED JUNE 13, 2024 by Arthur Gies"
+  "electronicAppliances": {
+    "main": {
+      "src": "/appliances_main.png",
+      "alt": "Electronic Appliances Image",
+      "title": "Top 10 Kitchen Appliances for 2024",
+      "description": "Upgrade your kitchen with the latest and greatest appliances for cooking and convenience."
     },
-    {
-      "image": { "src": "/Bed.png", "alt": "Article Image" },
-      "title": "All the Headphones Wirecutter Recommends",
-      "date": "UPDATED JUNE 13, 2024 by Lauren Dragan"
-    }
-  ]
+    "articles": [
+      {
+        "image": { "src": "/appliances_article_1.png", "alt": "Appliances Article Image" },
+        "title": "Best Refrigerators of 2024",
+        "date": "UPDATED JUNE 1, 2024 by Mark Lee"
+      },
+      {
+        "image": { "src": "/appliances_article_2.png", "alt": "Appliances Article Image" },
+        "title": "Top 5 Microwave Ovens",
+        "date": "UPDATED MAY 25, 2024 by Sarah Kim"
+      }
+    ]
+  },
+  "automobiles": {
+    "main": {
+      "src": "/automobiles_main.png",
+      "alt": "Automobiles Image",
+      "title": "The Best Electric Cars of 2024",
+      "description": "Explore the most efficient and eco-friendly electric cars available this year."
+    },
+    "articles": [
+      {
+        "image": { "src": "/automobiles_article_1.png", "alt": "Automobiles Article Image" },
+        "title": "Top SUVs for Families",
+        "date": "UPDATED JUNE 5, 2024 by Michael Brown"
+      },
+      {
+        "image": { "src": "/automobiles_article_2.png", "alt": "Automobiles Article Image" },
+        "title": "Best Sedans for 2024",
+        "date": "UPDATED MAY 30, 2024 by Olivia Wilson"
+      }
+    ]
+  },
+  "aiTools": {
+    "main": {
+      "src": "/ai_tools_main.png",
+      "alt": "AI Tools Image",
+      "title": "AI Tools That Will Boost Your Productivity",
+      "description": "Harness the power of AI with these innovative tools designed to enhance efficiency."
+    },
+    "articles": [
+      {
+        "image": { "src": "/ai_tools_article_1.png", "alt": "AI Tools Article Image" },
+        "title": "The Best AI Writing Assistants",
+        "date": "UPDATED JUNE 12, 2024 by Rachel Green"
+      },
+      {
+        "image": { "src": "/ai_tools_article_2.png", "alt": "AI Tools Article Image" },
+        "title": "AI Tools for Graphic Design",
+        "date": "UPDATED JUNE 8, 2024 by Monica Bing"
+      }
+    ]
+  },
+  "healthLifestyle": {
+    "main": {
+      "src": "/health_main.png",
+      "alt": "Health & Lifestyle Image",
+      "title": "How to Maintain a Healthy Lifestyle",
+      "description": "Tips and tricks to keep you fit, healthy, and happy."
+    },
+    "articles": [
+      {
+        "image": { "src": "/health_article_1.png", "alt": "Health Article Image" },
+        "title": "The Best Home Workout Equipment",
+        "date": "UPDATED JUNE 15, 2024 by Joey Tribbiani"
+      },
+      {
+        "image": { "src": "/health_article_2.png", "alt": "Health Article Image" },
+        "title": "Healthy Eating Habits for 2024",
+        "date": "UPDATED JUNE 10, 2024 by Chandler Bing"
+      }
+    ]
+  },
+  "clothingBags": {
+    "main": {
+      "src": "/clothing_main.png",
+      "alt": "Clothing & Bags Image",
+      "title": "Fashion Trends for 2024",
+      "description": "Stay stylish with the latest fashion trends in clothing and bags."
+    },
+    "articles": [
+      {
+        "image": { "src": "/clothing_article_1.png", "alt": "Clothing Article Image" },
+        "title": "The Best Backpacks for Travel",
+        "date": "UPDATED JUNE 14, 2024 by Phoebe Buffay"
+      },
+      {
+        "image": { "src": "/clothing_article_2.png", "alt": "Clothing Article Image" },
+        "title": "Summer Fashion Essentials",
+        "date": "UPDATED JUNE 5, 2024 by Ross Geller"
+      }
+    ]
+  },
+  "shoes": {
+    "main": {
+      "src": "/shoes_main.png",
+      "alt": "Shoes Image",
+      "title": "The Best Running Shoes of 2024",
+      "description": "Find the perfect running shoes that combine comfort, style, and performance."
+    },
+    "articles": [
+      {
+        "image": { "src": "/shoes_article_1.png", "alt": "Shoes Article Image" },
+        "title": "Top 5 Sneakers for Everyday Wear",
+        "date": "UPDATED JUNE 3, 2024 by Rachel Green"
+      },
+      {
+        "image": { "src": "/shoes_article_2.png", "alt": "Shoes Article Image" },
+        "title": "Best Hiking Boots for 2024",
+        "date": "UPDATED MAY 29, 2024 by Monica Geller"
+      }
+    ]
+  }
 }
