@@ -1,0 +1,201 @@
+{
+  "productReview": [
+    {
+      "slug": ["home", "home-decor", "carpets"],
+      "image": "/Bed.png",
+      "title": "The Best Platform Bed Frames Under $600",
+      "updatedDate": "April 29, 2024",
+      "researchLink": "/research-link",
+      "authors": "Arsalan",
+      "description": "You don't have to spend big bucks to boost the ambience in your bedroom—the addition of a simple platform bed frame can be a game changer.\nAn easy and affordable way to support your mattress, a platform bed frame will make your bed comfier to climb into and prevent mold from forming underneath.\nWe spent weeks researching and testing bed frames to find our favorites—each one is easy to assemble, sturdy, stylish, and costs less than $600.",
+      "whyTrustUs": {
+        "title": "Why You Should Trust Us",
+        "content": "At OurCompany, we are dedicated to providing you with the best quality products that are meticulously tested and reviewed. Here’s why you should trust us:",
+        "points": [
+          "We spend weeks researching and testing each product to ensure they meet our high standards.",
+          "Our team of experts has extensive experience in the industry and understands what makes a product worth your investment.",
+          "We value transparency and honesty, providing you with comprehensive reviews and insights.",
+          "Your satisfaction is our priority, and we strive to offer products that improve your everyday life."
+        ],
+        "conclusion": "By choosing our recommended products, you are not just making a purchase; you are investing in quality, reliability, and exceptional service."
+      },
+      "researchProcess": {
+        "title": "Our Research Process",
+        "content": [
+          "We take pride in our thorough research process. Our team begins by identifying the needs and preferences of our audience. We then scour the market for products that meet these criteria, taking into account customer reviews, expert opinions, and industry standards.",
+          "Once we have a list of potential products, we purchase them ourselves to ensure an unbiased review. Each product is tested in real-world conditions over a period of weeks. We assess their performance, durability, ease of use, and overall value.",
+          "After testing, our team convenes to discuss our findings and compare notes. We consider both the pros and cons of each product and weigh them against our criteria to determine which products truly stand out.",
+          "Our final recommendations are products that we believe offer the best combination of quality, performance, and value. We are committed to helping you make informed decisions and are confident that our recommendations will meet your expectations."
+        ]
+      },
+      "comparisonSection": {
+        "title": "Who it’s for:",
+        "content": "People who need a sturdy bed frame and DIY enthusiasts who want the option of personalizing the raw wood to match any style will like this frame.",
+        "keyPoints": [
+          "Key point 1",
+          "Key point 2",
+          "1 more image from the site",
+          "Key point 3",
+          "Variety of Colors of the bed",
+          "Size of the bed",
+          "Other available info from the site",
+          "Warranty, etc"
+        ]
+      },
+      "topPick": {
+        "rank": 1,
+        "image": "/competitor1.png",
+        "title": "Zinus Moiz Wood Platform Bed Frame (Standard)",
+        "description": "A stylish, lightweight platform bed frame.",
+        "details": "This simple yet stylish platform bed frame is lightweight, making it easy for one person to assemble and move. However, note that its availability can be inconsistent.",
+        "metrics": [
+          {
+            "name": "Customer Reviews and Ratings",
+            "rating": 4.5
+          },
+          {
+            "name": "Price and Value for Money",
+            "rating": 2
+          },
+          {
+            "name": "Product Quality and Features",
+            "rating": 3
+          },
+          {
+            "name": "Brand Reputation and Trustworthiness",
+            "rating": 5
+          }
+        ],
+        "purchaseLinks": [
+          {
+            "store": "Amazon",
+            "price": "$38",
+            "link": "https://amazon.com"
+          },
+          {
+            "store": "eBay",
+            "price": "$36",
+            "link": "https://ebay.com"
+          }
+        ],
+        "topPick": true
+      },
+      "competitionSection": {
+        "title": "The Competition",
+        "competitors": [
+          {
+            "rank": 2,
+            "image": "/competitor1.png",
+            "title": "Zinus Moiz Wood Platform Bed Frame (Standard)",
+            "description": "A stylish, lightweight platform bed frame.",
+            "details": "This simple yet stylish platform bed frame is lightweight, making it easy for one person to assemble and move. However, note that its availability can be inconsistent.",
+            "metrics": [
+              {
+                "name": "Customer Reviews and Ratings",
+                "rating": 4.5
+              },
+              {
+                "name": "Price and Value for Money",
+                "rating": 2
+              },
+              {
+                "name": "Product Quality and Features",
+                "rating": 3
+              },
+              {
+                "name": "Brand Reputation and Trustworthiness",
+                "rating": 5
+              }
+            ],
+            "purchaseLinks": [
+              {
+                "store": "Amazon",
+                "price": "$38",
+                "link": "https://amazon.com"
+              },
+              {
+                "store": "eBay",
+                "price": "$36",
+                "link": "https://ebay.com"
+              }
+            ]
+          },
+          {
+            "rank": 3,
+            "image": "/competitor1.png",
+            "title": "Zinus Moiz Wood Platform Bed Frame (Standard)",
+            "description": "A stylish, lightweight platform bed frame.",
+            "details": "This simple yet stylish platform bed frame is lightweight, making it easy for one person to assemble and move. However, note that its availability can be inconsistent.",
+            "metrics": [
+              {
+                "name": "Customer Reviews and Ratings",
+                "rating": 4.5
+              },
+              {
+                "name": "Price and Value for Money",
+                "rating": 2
+              },
+              {
+                "name": "Product Quality and Features",
+                "rating": 3
+              },
+              {
+                "name": "Brand Reputation and Trustworthiness",
+                "rating": 5
+              }
+            ],
+            "purchaseLinks": [
+              {
+                "store": "Amazon",
+                "price": "$38",
+                "link": "https://amazon.com"
+              },
+              {
+                "store": "eBay",
+                "price": "$36",
+                "link": "https://ebay.com"
+              }
+            ]
+          },
+          {
+            "rank": 4,
+            "image": "/competitor1.png",
+            "title": "Zinus Moiz Wood Platform Bed Frame (Standard)",
+            "description": "A stylish, lightweight platform bed frame.",
+            "details": "This simple yet stylish platform bed frame is lightweight, making it easy for one person to assemble and move. However, note that its availability can be inconsistent.",
+            "metrics": [
+              {
+                "name": "Customer Reviews and Ratings",
+                "rating": 4.5
+              },
+              {
+                "name": "Price and Value for Money",
+                "rating": 2
+              },
+              {
+                "name": "Product Quality and Features",
+                "rating": 3
+              },
+              {
+                "name": "Brand Reputation and Trustworthiness",
+                "rating": 5
+              }
+            ],
+            "purchaseLinks": [
+              {
+                "store": "Amazon",
+                "price": "$38",
+                "link": "https://amazon.com"
+              },
+              {
+                "store": "eBay",
+                "price": "$36",
+                "link": "https://ebay.com"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

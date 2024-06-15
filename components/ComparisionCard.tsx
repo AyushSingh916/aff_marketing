@@ -1,9 +1,37 @@
+// /app/globals.css
+import '@/app/globals.css';
+
+// /components/ComparisionCard.tsx
 import React from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 
-const BedFrameCard = () => {
-  // Helper function to render stars
+interface CardProps {
+  imageSrc: string;
+  altText: string;
+  rank: number;
+  title: string;
+  description: string;
+  metrics: {
+    name: string;
+    rating: number;
+  }[];
+  priceLinks: {
+    store: string;
+    price: string;
+    link: string;
+  }[];
+}
+
+const Card: React.FC<CardProps> = ({
+  imageSrc,
+  altText,
+  rank,
+  title,
+  description,
+  metrics,
+  priceLinks,
+}) => {
   const renderStars = (rating: number) => {
     const fullStars = Math.floor(rating);
     const halfStar = rating % 1 !== 0;
@@ -59,79 +87,52 @@ const BedFrameCard = () => {
   return (
     <div className="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl mt-5">
       <div className="md:flex">
-        {/* Image Section */}
         <div className="md:flex-shrink-0">
           <div className="relative w-full h-48 md:h-full md:w-48">
             <Image
-              src="/Bed.png"
-              alt="Bed Frame"
+              src={imageSrc}
+              alt={altText}
               layout="fill"
               objectFit="cover"
               objectPosition="center"
             />
           </div>
         </div>
-
-        {/* Content Section */}
         <div className="p-8">
           <div className="uppercase tracking-wide text-sm text-indigo-500 font-semibold">
-            Rank 2
+            Rank {rank}
           </div>
           <h1 className="block mt-1 text-lg leading-tight font-medium text-black">
-            Zinus Moiz Wood Platform Bed Frame (Standard)
+            {title}
           </h1>
-          <p className="mt-2 text-gray-600">
-            A stylish, lightweight platform bed frame.
-          </p>
-          <p className="mt-2 text-gray-600">
-            This simple yet stylish platform bed frame is lightweight, making it easy for one person to assemble and move. However, note that its availability can be inconsistent.
-          </p>
-
-          {/* Metrics Section */}
+          <p className="mt-2 text-gray-600">{description}</p>
           <div className="mt-4">
             <h2 className="text-md font-semibold text-gray-700">Product Metrics</h2>
             <ul className="mt-2 space-y-2">
-              <li className="flex justify-between text-gray-600">
-                <span>Customer Reviews and Ratings:</span>
-                <span className="flex">{renderStars(4.5)}</span>
-              </li>
-              <li className="flex justify-between text-gray-600">
-                <span>Price and Value for Money:</span>
-                <span className="flex">{renderStars(2)}</span>
-              </li>
-              <li className="flex justify-between text-gray-600">
-                <span>Product Quality and Features:</span>
-                <span className="flex">{renderStars(3)}</span>
-              </li>
-              <li className="flex justify-between text-gray-600">
-                <span>Brand Reputation and Trustworthiness:</span>
-                <span className="flex">{renderStars(5)}</span>
-              </li>
+              {metrics.map((metric, index) => (
+                <li key={index} className="flex justify-between text-gray-600">
+                  <span>{metric.name}:</span>
+                  <span className="flex">{renderStars(metric.rating)}</span>
+                </li>
+              ))}
             </ul>
           </div>
-
-          {/* Purchase Links */}
           <div className="mt-4 flex justify-between">
-            <Link href="https://amazon.com">
-              <p className="text-blue-500 hover:underline">
-                $38 from Amazon
-              </p>
-            </Link>
-            <Link href="https://amazon.com">
-              <p className="text-blue-500 hover:underline">
-                $38 from Amazon
-              </p>
-            </Link>
+            {priceLinks.map((link, index) => (
+              <Link key={index} href={link.link}>
+                <p className="text-blue-500 hover:underline">{link.price}</p>
+              </Link>
+            ))}
           </div>
-
-          {/* Top Pick Badge */}
-          <div className="mt-4 px-3 py-1 bg-blue-100 text-blue-500 rounded-full inline-block">
-            Top Pick
-          </div>
+          {rank === 1 && (
+            <div className="mt-4 px-3 py-1 bg-blue-100 text-blue-500 rounded-full inline-block">
+              Top Pick
+            </div>
+          )}
         </div>
       </div>
     </div>
   );
 };
 
-export default BedFrameCard;
+export default Card;

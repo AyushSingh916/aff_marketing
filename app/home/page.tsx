@@ -1,7 +1,6 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import { FaRegCircleUser } from 'react-icons/fa6';
-import ComparisionCard from '@/components/ComparisionCard';
 import data from '@/data/productsData/Home.json';
 import Card from '@/components/ComparisionCard';
 

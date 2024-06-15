@@ -1,7 +1,6 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import { FaRegCircleUser } from 'react-icons/fa6';
-import ComparisionCard from '@/components/ComparisionCard';
 import data from '@/data/productsData/Home.json';
 import Card from '@/components/ComparisionCard';
 
@@ -11,6 +10,8 @@ interface ProductPageProps {
 
 export default function ProductPage({ params }: ProductPageProps) {
   const product = data.productReview[0]; // Adjust this based on how you want to fetch the product
+
+  console.log(params);
 
   return (
     <div className="container mx-auto p-6 space-y-8">

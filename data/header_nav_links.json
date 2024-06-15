@@ -238,6 +238,14 @@
           {
             "text": "Budget AC",
             "href": "/electronic-appliances/air-conditioner/budget"
+          },
+          {
+            "text": "Portable air conditioners",
+            "href": "/electronic-appliances/air-conditioner/portable"
+          },
+          {
+            "text": "Ductless air conditioners",
+            "href": "/electronic-appliances/air-conditioner/ductless"
           }
         ]
       },
@@ -308,6 +316,64 @@
           {
             "text": "Smart TVs",
             "href": "/electronic-appliances/televisions/smart"
+          }
+        ]
+      },
+      {
+        "text": "Heating",
+        "href": "/electronic-appliances/heating",
+        "sublinks": [
+          {
+            "text": "Space heaters",
+            "href": "/electronic-appliances/heating/space-heaters"
+          },
+          {
+            "text": "Heat pumps",
+            "href": "/electronic-appliances/heating/heat-pumps"
+          }
+        ]
+      },
+      {
+        "text": "Air Quality",
+        "href": "/electronic-appliances/air-quality",
+        "sublinks": [
+          {
+            "text": "Air purifiers",
+            "href": "/electronic-appliances/air-quality/air-purifiers"
+          },
+          {
+            "text": "Humidifiers",
+            "href": "/electronic-appliances/air-quality/humidifiers"
+          },
+          {
+            "text": "Dehumidifiers",
+            "href": "/electronic-appliances/air-quality/dehumidifiers"
+          },
+          {
+            "text": "Home air quality monitors",
+            "href": "/electronic-appliances/air-quality/monitors"
+          }
+        ]
+      },
+      {
+        "text": "Water Quality",
+        "href": "/electronic-appliances/water-quality",
+        "sublinks": [
+          {
+            "text": "Water filter pitchers",
+            "href": "/electronic-appliances/water-quality/filter-pitchers"
+          },
+          {
+            "text": "Under-sink water filters",
+            "href": "/electronic-appliances/water-quality/under-sink"
+          },
+          {
+            "text": "Faucet-mounted water filters",
+            "href": "/electronic-appliances/water-quality/faucet-mounted"
+          },
+          {
+            "text": "Water quality test kits",
+            "href": "/electronic-appliances/water-quality/test-kits"
           }
         ]
       }
