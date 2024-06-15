@@ -1,40 +1,16 @@
 'use client';
 
 import { useState, useEffect, useRef } from 'react';
-import { ChevronDownIcon, MenuIcon } from 'lucide-react';
 import Link from 'next/link';
 import Image from 'next/image';
-import {
-  Sheet,
-  SheetClose,
-  SheetContent,
-  SheetTrigger,
-} from '@/components/ui/sheet';
-import {
-  NavigationMenu,
-  NavigationMenuItem,
-  NavigationMenuLink,
-  NavigationMenuList,
-  navigationMenuTriggerStyle,
-} from '@/components/ui/navigation-menu';
-
-import navmenuItems from '@/data/header_nav_links.json';
 import SearchBar from '@/components/SearchBar';
+import DesktopMenu from '@/components/DesktopMenu';
+import MobileMenu from '@/components/MobileMenu';
 
 const Header: React.FC = () => {
-  const [hoveredItem, setHoveredItem] = useState<string | null>(null);
   const [openedItem, setOpenedItem] = useState<string | null>(null);
-  const [hoverTimeout, setHoverTimeout] = useState<NodeJS.Timeout | null>(null);
 
   const menuRef = useRef<HTMLDivElement>(null);
-
-  const handleItemClick = (itemText: string) => {
-    if (openedItem === itemText) {
-      setOpenedItem(null);
-    } else {
-      setOpenedItem(itemText);
-    }
-  };
 
   useEffect(() => {
     const handleClickOutside = (event: Event) => {
@@ -49,29 +25,6 @@ const Header: React.FC = () => {
       document.removeEventListener('mousedown', handleClickOutside);
     };
   }, []);
-
-  const handleMouseEnter = (itemText: string) => {
-    if (hoverTimeout) {
-      clearTimeout(hoverTimeout);
-    }
-    setHoveredItem(itemText);
-  };
-
-  const handleMouseLeave = () => {
-    if (hoverTimeout) {
-      clearTimeout(hoverTimeout);
-    }
-    setHoverTimeout(
-      setTimeout(() => {
-        setHoveredItem(null);
-      }, 500)
-    );
-  };
-
-  const handleSublinkClick = () => {
-    setHoveredItem(null);
-  };
-
 
   return (
     <header
@@ -114,140 +67,12 @@ const Header: React.FC = () => {
           </Link>
 
           {/* Mobile Menu Button */}
-          <Sheet>
-            <SheetTrigger asChild>
-              <div className="lg:hidden">
-                <MenuIcon size="2rem" />
-              </div>
-            </SheetTrigger>
-            <SheetContent side="left">
-              <div ref={menuRef} className="flex flex-col gap-2 mt-4 -mr-2">
-                {navmenuItems.map((item) => (
-                  <div key={item.text}>
-                    <div
-                      className="flex justify-between items-center cursor-pointer"
-                      onClick={() => handleItemClick(item.text)}
-                    >
-                      <SheetClose asChild>
-                        <Link className="hover:underline" href={item.href}>
-                          {item.text}
-                        </Link>
-                      </SheetClose>
-                      {item.sublinks && (
-                        <ChevronDownIcon
-                          className={`transition-transform duration-300 ${
-                            openedItem === item.text ? 'rotate-180' : ''
-                          }`}
-                        />
-                      )}
-                    </div>
-                    {openedItem === item.text && item.sublinks && (
-                      <div className="flex flex-col pl-4">
-                        {item.sublinks.map((sublink) => (
-                          <div key={sublink.text} className="mt-2">
-                            <SheetClose asChild>
-                              <Link
-                                className="hover:underline block"
-                                href={sublink.href}
-                                onClick={handleSublinkClick}
-                              >
-                                {sublink.text}
-                              </Link>
-                            </SheetClose>
-                            {sublink.sublinks && (
-                              <div className="flex flex-col pl-4">
-                                {sublink.sublinks.map((subsublink) => (
-                                  <div key={subsublink.text} className="mt-2">
-                                    <SheetClose asChild>
-                                      <Link
-                                        className="hover:underline block"
-                                        href={subsublink.href}
-                                        onClick={handleSublinkClick}
-                                      >
-                                        {subsublink.text}
-                                      </Link>
-                                    </SheetClose>
-                                  </div>
-                                ))}
-                              </div>
-                            )}
-                          </div>
-                        ))}
-                      </div>
-                    )}
-                  </div>
-                ))}
-              </div>
-            </SheetContent>
-          </Sheet>
+          <MobileMenu />
         </div>
       </div>
 
       {/* Desktop Navigation Menu */}
-      <NavigationMenu
-        className="hidden lg:flex justify-center gap-8 py-2 px-8 relative z-0"
-        style={{
-          boxShadow: '0px 7px 4px 0px rgba(0, 0, 0, 0.25)',
-          backgroundColor: '#EEEEEE',
-        }}
-      >
-        <NavigationMenuList className="flex gap-8">
-          {navmenuItems.map((item) => (
-            <NavigationMenuItem
-              key={item.text}
-              onMouseEnter={() => handleMouseEnter(item.text)}
-              onMouseLeave={handleMouseLeave}
-            >
-              <NavigationMenuLink
-                asChild
-                className={navigationMenuTriggerStyle()}
-                style={{ backgroundColor: '#EEEEEE' }}
-              >
-                <Link href={item.href}>
-                  <div className="hover:bg-accent p-2 rounded-md w-full font-bold">
-                    {item.text}
-                  </div>
-                </Link>
-              </NavigationMenuLink>
-              {hoveredItem === item.text && item.sublinks && (
-                <div
-                  className="absolute left-0 top-full mt-2 w-full bg-white shadow-lg border rounded"
-                  onMouseEnter={() => handleMouseEnter(item.text)}
-                  onMouseLeave={handleMouseLeave}
-                  style={{ boxShadow: '0px 7px 4px 0px rgba(0, 0, 0, 0.25)' }}
-                >
-                  <div className="grid grid-cols-3 gap-4 p-4">
-                    {item.sublinks.map((sublink) => (
-                      <div key={sublink.text}>
-                        <Link href={sublink.href} onClick={handleSublinkClick}>
-                          <div className="font-semibold hover:underline">
-                            {sublink.text}
-                          </div>
-                        </Link>
-                        {sublink.sublinks && (
-                          <div className="pl-4">
-                            {sublink.sublinks.map((subsublink) => (
-                              <Link
-                                key={subsublink.text}
-                                href={subsublink.href}
-                                onClick={handleSublinkClick}
-                              >
-                                <div className="hover:underline">
-                                  {subsublink.text}
-                                </div>
-                              </Link>
-                            ))}
-                          </div>
-                        )}
-                      </div>
-                    ))}
-                  </div>
-                </div>
-              )}
-            </NavigationMenuItem>
-          ))}
-        </NavigationMenuList>
-      </NavigationMenu>
+      <DesktopMenu />
     </header>
   );
 };
