@@ -28,7 +28,7 @@ const Header: React.FC = () => {
 
   return (
     <header
-      className="flex flex-col w-full h-fit font-star-jedi"
+      className="flex flex-col w-full h-fit font-star-jedi header"
       style={{ backgroundColor: '#EEEEEE' }}
     >
       <div
@@ -45,7 +45,7 @@ const Header: React.FC = () => {
               src="/logo.png"
               layout="responsive"
               width={150}
-              height={24}
+              height={29}
               alt="Affiliate Marketing Logo"
               priority
               className="w-full h-auto"

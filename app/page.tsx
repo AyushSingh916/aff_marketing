@@ -12,8 +12,8 @@ import { CategoryData } from '@/lib/types';
 
 const Home: React.FC = () => {
 
-  const renderSection = (data: CategoryData, Component: React.FC<any>) => (
-    <section className="w-full max-w-7xl px-4 mb-12">
+  const renderSection = (data: CategoryData, Component: React.FC<any>, sectionId: string) => (
+    <section id={sectionId} className="w-full max-w-7xl px-4 mb-12">
       <Component
         mainImage={data.main}
         mainTitle={data.main.title}
@@ -108,14 +108,14 @@ const Home: React.FC = () => {
         </div>
       </section>
 
-      {renderSection(data.home, Horizontal)}
-      {renderSection(data.electronicDevices, Vertical)}
-      {renderSection(data.electronicAppliances, Horizontal)}
-      {renderSection(data.automobiles, Vertical)}
-      {renderSection(data.aiTools, Horizontal)}
-      {renderSection(data.healthLifestyle, Vertical)}
-      {renderSection(data.clothingBags, Horizontal)}
-      {renderSection(data.shoes, Vertical)}
+      {renderSection(data.home, Horizontal, '/home')}
+      {renderSection(data.electronicDevices, Vertical, '/electronic-devices')}
+      {renderSection(data.electronicAppliances, Horizontal, '/electronic-appliances')}
+      {renderSection(data.automobiles, Vertical, '/automobiles')}
+      {renderSection(data.aiTools, Horizontal, '/ai-tools')}
+      {renderSection(data.healthLifestyle, Vertical, '/health-lifestyle')}
+      {renderSection(data.clothingBags, Horizontal, '/clothing')}
+      {renderSection(data.shoes, Vertical, '/shoes')}
     </main>
   );
 };

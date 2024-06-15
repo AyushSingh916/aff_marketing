@@ -30,6 +30,13 @@ const DesktopMenu: React.FC = () => {
     setHoveredItem(null);
   };
 
+  const scrollToSection = (sectionId: string) => {
+    const section = document.getElementById(sectionId);
+    if (section) {
+      section.scrollIntoView({ behavior: 'smooth' });
+    }
+  };
+
   return (
     <div
       className="hidden lg:flex justify-center gap-8 py-2 px-8 relative z-0"
@@ -51,7 +58,8 @@ const DesktopMenu: React.FC = () => {
               className="hover:bg-accent p-2 rounded-md w-full font-bold"
               style={{ backgroundColor: '#EEEEEE' }}
             >
-              <Link href={item.href}>{item.text}</Link>
+              {/* <Link href={item.href}>{item.text}</Link> */}
+              <button onClick={() => scrollToSection(item.href)}>{item.text}</button>
             </div>
             {hoveredItem === item.text && item.sublinks && (
               <div

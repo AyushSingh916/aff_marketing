@@ -6,6 +6,7 @@ import {
   TwitterIcon,
   YoutubeIcon,
 } from 'lucide-react';
+import { Metadata } from 'next';
 
 import Link from 'next/link';
 
@@ -98,3 +99,11 @@ function Footer() {
 }
 
 export default Footer;
+
+export const metadata: Metadata = {
+  title: {
+    template: '%s | BestDeal',
+    default: 'BestDeal',
+  },
+  description: 'We do research and find the best deal for you',
+};
