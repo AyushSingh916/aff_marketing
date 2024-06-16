@@ -6,6 +6,7 @@ import Image from 'next/image';
 import SearchBar from '@/components/SearchBar';
 import DesktopMenu from '@/components/DesktopMenu';
 import MobileMenu from '@/components/MobileMenu';
+import Logo from '@/components/Logo';
 
 const Header: React.FC = () => {
   const [openedItem, setOpenedItem] = useState<string | null>(null);
@@ -39,19 +40,7 @@ const Header: React.FC = () => {
         <SearchBar />
 
         {/* Logo */}
-        <Link href="/" className="flex justify-center">
-          <div className="relative w-[100px] sm:w-[100px] md:w-[100px] lg:w-[150px] h-auto">
-            <Image
-              src="/logo.png"
-              layout="responsive"
-              width={150}
-              height={29}
-              alt="Affiliate Marketing Logo"
-              priority
-              className="w-full h-auto"
-            />
-          </div>
-        </Link>
+        <Logo />
 
         {/* About and Contact Us Buttons */}
         <div className="flex items-center gap-4">

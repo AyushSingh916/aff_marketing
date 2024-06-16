@@ -5,10 +5,10 @@ const Logo = () => {
   return (
     <>
       <Link href="/" className="flex justify-center">
-        <div className="relative w-[100px] sm:w-[100px] md:w-[100px] lg:w-[150px] h-auto">
+        <div className="relative w-[75px] sm:w-[75px] md:w-[75px] lg:w-[115px] h-auto">
           <Image
             src="/logo.png"
-            layout="responsive"
+            layout="intrinsic"
             width={150}
             height={24}
             alt="Affiliate Marketing Logo"
@@ -20,6 +20,5 @@ const Logo = () => {
     </>
   );
 };
-
 
 export default Logo;
