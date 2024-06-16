@@ -208,6 +208,14 @@
         ]
       },
       {
+        "text": "Virtual Reality",
+        "href": "/electronic-devices/vr",
+        "sublinks": [
+          { "text": "Apple Vision Pro", "href": "/electronic-devices/tablets/ipad" },
+          { "text": "Meta Quest 2", "href": "/electronic-devices/tablets/android" }
+        ]
+      },
+      {
         "text": "Parts",
         "href": "/electronic-devices/parts",
         "sublinks": [

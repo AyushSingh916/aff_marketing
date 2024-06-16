@@ -72,7 +72,6 @@ function Footer() {
         <div className="flex flex-col w-fit gap-2">
           <h2 className="w-fit font-bold text-lg lg:text-2xl mt-4 mb-2 half-underline">Quick Links</h2>
           <Link className='hover:underline' href="/about">About Us</Link>
-          <Link className='hover:underline' href="/blog">Blog</Link>
           <Link className='hover:underline' href="/contact">Contact Us</Link>
           <Link className='hover:underline' href="/privacy">Privacy Policy</Link>
           <Link className='hover:underline' href="/terms">Terms of Service</Link>
@@ -92,7 +91,7 @@ function Footer() {
       </div>
 
       <div className='flex justify-between lg:justify-center w-full max-w-7xl'>
-        <div>Copyright &copy; 2024, All Rights Reserved | <Link href="/disclaimer" className='hover:underline underline-offset-2'>Affiliate Disclaimer</Link></div>
+        <div>Copyright &copy; 2024, All Rights Reserved</div>
       </div>
     </footer>
   );
