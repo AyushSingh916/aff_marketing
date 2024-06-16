@@ -1,11 +1,8 @@
 'use client';
 
-// pages/contact-us.tsx
-
 import { useState } from 'react';
-import { EnvelopeIcon, PhoneIcon } from '@heroicons/react/24/solid';
 import { FaFacebookF, FaTwitter, FaInstagram } from 'react-icons/fa';
-import Image from 'next/image';
+import { sendEmail } from '@/lib/utils';
 
 const ContactUs: React.FC = () => {
   const [name, setName] = useState('');
@@ -15,8 +12,13 @@ const ContactUs: React.FC = () => {
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    // Handle form submission logic here, such as sending the data to an API
+
+    sendEmail(e, email, message);
+
     setSubmitted(true);
+    setName('');
+    setEmail('');
+    setMessage('');
   };
 
   return (
@@ -86,7 +88,7 @@ const ContactUs: React.FC = () => {
           )}
         </div>
         <div className="w-full lg:w-1/2">
-          <h2 className="text-3xl lg:text-4xl font-star-jedi mb-4">Reach Out to US</h2>
+          <h2 className="text-3xl lg:text-4xl font-star-jedi mb-4">Reach Out to Us</h2>
           <div className="flex gap-6">
             <a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer">
               <FaFacebookF className="h-8 w-8 text-gray-700 hover:text-accent transition-colors" />
@@ -105,4 +107,3 @@ const ContactUs: React.FC = () => {
 };
 
 export default ContactUs;
-
