@@ -45,7 +45,7 @@ const TermsOfService = () => {
 
         <h2 className="text-2xl font-bold mb-4">Indemnification</h2>
         <p className="text-gray-800 mb-4">
-          You hereby indemnify to the fullest extent [Your Company Name] from and against any and all liabilities, costs, demands, causes of action, damages, and expenses (including reasonable attorney's fees) arising out of or in any way related to your breach of any of the provisions of these Terms.
+          You hereby indemnify to the fullest extent [Your Company Name] from and against any and all liabilities, costs, demands, causes of action, damages, and expenses (including reasonable attorney&apos;s fees) arising out of or in any way related to your breach of any of the provisions of these Terms.
         </p>
 
         <h2 className="text-2xl font-bold mb-4">Severability</h2>
@@ -63,7 +63,7 @@ const TermsOfService = () => {
           These Terms constitute the entire agreement between [Your Company Name] and you in relation to your use of this website and supersede all prior agreements and understandings.
         </p>
 
-        <h2 className="text-2xl font-bold mb-4">Governing Law & Jurisdiction</h2>
+        <h2 className="text-2xl font-bold mb-4">Governing Law &amp; Jurisdiction</h2>
         <p className="text-gray-800 mb-4">
           These Terms will be governed by and interpreted in accordance with the laws of the State of [Your State], and you submit to the non-exclusive jurisdiction of the state and federal courts located in [Your State] for the resolution of any disputes.
         </p>
