@@ -4,6 +4,7 @@ import { Metadata } from 'next';
 import React from 'react';
 import Header from './Header';
 import Footer from './Footer';
+import { Analytics } from "@vercel/analytics/react"
 
 export default function RootLayout({
   children,
@@ -12,6 +13,7 @@ export default function RootLayout({
     <html lang="en" className='scroll-smooth'>
       <body>
         <Header />
+        <Analytics />
         {children}
         <Footer />
       </body>
