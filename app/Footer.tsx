@@ -32,7 +32,7 @@ function Footer() {
         <div className="flex flex-col w-fit gap-2">
           <h2 className="w-fit font-bold text-lg lg:text-2xl mt-4 half-underline">Follow Us</h2>
           <div className="flex flex-col gap-2">
-            <a
+            {/* <a
               href="https://www.linkedin.com"
               className="group flex items-center justify-center gap-2 hover:bg-blue-800 rounded-sm overflow-clip w-fit"
             >
@@ -52,21 +52,21 @@ function Footer() {
             >
               <span className='group-hover:bg-white p-1'><XIcon className='group-hover:stroke-black' size="1rem" /></span>
               <div className='h-min pr-2'>Twitter</div>
-            </a>
+            </a> */}
             <a
-              href="https://www.instagram.com"
+              href="https://www.instagram.com/peakpicksinsta"
               className="group flex items-center justify-center gap-2 hover:bg-purple-600 rounded-sm overflow-clip w-fit"
             >
               <span className='group-hover:bg-white p-1'><InstagramIcon className='group-hover:stroke-black' size="1rem" /></span>
               <div className='h-min pr-2'>Instagram</div>
             </a>
-            <a
+            {/* <a
               href="https://www.youtube.com"
               className="group flex items-center justify-center gap-2 hover:bg-red-600 rounded-sm overflow-clip w-fit"
             >
               <span className='group-hover:bg-white p-1'><YoutubeIcon className='group-hover:stroke-black' size="1rem" /></span>
               <div className='h-min pr-2'>YouTube</div>
-            </a>
+            </a> */}
           </div>
         </div>
         <div className="flex flex-col w-fit gap-2">
