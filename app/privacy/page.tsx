@@ -36,15 +36,9 @@ const PrivacyPolicy = () => {
         </p>
         <p className="text-gray-800 mb-4">
           PeakPicks  
-          <br />
-          [Your Company Address]  
-          <br />
-          [City, State, PIN Code]  
-          <br />
-          India  
         </p>
         <p className="text-gray-800 mb-4">
-          Email: [Your Email Address]  
+          Email: contact@peakpicks.in 
         </p>
       </div>
     </div>

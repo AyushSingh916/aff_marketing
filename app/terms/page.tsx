@@ -62,11 +62,6 @@ const TermsOfService = () => {
         <p className="text-gray-800 mb-4">
           These Terms constitute the entire agreement between PeakPicks and you in relation to your use of this website and supersede all prior agreements and understandings.
         </p>
-
-        <h2 className="text-2xl font-bold mb-4">Governing Law &amp; Jurisdiction</h2>
-        <p className="text-gray-800 mb-4">
-          These Terms will be governed by and interpreted in accordance with the laws of the State of [Your State], and you submit to the non-exclusive jurisdiction of the state and federal courts located in [Your State] for the resolution of any disputes.
-        </p>
       </div>
     </div>
   );
