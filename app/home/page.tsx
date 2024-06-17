@@ -58,20 +58,16 @@ export default function ProductPage({ params }: ProductPageProps) {
         </div>
       </div>
       <div className="bg-white shadow-lg rounded-lg p-8">
-        <h2 className="text-2xl font-bold mb-4">Top Pick</h2>
-        <div className="flex flex-col md:flex-row">
-          <div className="md:w-1/2 mb-4 md:mb-0">
-            <Image
-              src={data.productReview[0].topPick.image}
-              alt={data.productReview[0].topPick.title}
-              width={500}
-              height={300}
-              className="rounded-md"
-              layout="responsive"
-            />
-          </div>
-          <div className="md:w-1/2 md:pl-8">
-            <Card
+        <h2 className="text-2xl font-bold mb-4">{product.title}</h2>
+        <Image
+          src={product.image}
+          alt={product.title}
+          width={1000}
+          height={600}
+          className="rounded-md mb-4"
+          layout="responsive"
+        />
+        <Card
               imageSrc={data.productReview[0].topPick.image}
               altText={data.productReview[0].topPick.title}
               rank={data.productReview[0].topPick.rank}
@@ -87,19 +83,17 @@ export default function ProductPage({ params }: ProductPageProps) {
                 link: link.link,
               }))}
             />
-            <div className="bg-gray-100 p-6 rounded-lg shadow-inner mt-6">
-              <div className="mb-4">
-                <span className="bg-red-500 text-white px-3 py-1 rounded-full">Top Pick</span>
-              </div>
-              <h3 className="text-lg font-semibold mb-2">Who it&apos;s for:</h3>
-              <p className="text-gray-700 mb-6">{product.comparisonSection.content}</p>
-              <ul className="list-disc list-inside space-y-2">
-                {product.comparisonSection.keyPoints.map((point, index) => (
-                  <li key={index} className="font-bold">{point}</li>
-                ))}
-              </ul>
-            </div>
+        <div className="bg-gray-100 p-6 rounded-lg shadow-inner mt-6">
+          <div className="mb-4">
+            <span className="bg-red-500 text-white px-3 py-1 rounded-full">Top Pick</span>
           </div>
+          <h3 className="text-lg font-semibold mb-2">Who it&apos;s for:</h3>
+          <p className="text-gray-700 mb-6">{product.comparisonSection.content}</p>
+          <ul className="list-disc list-inside space-y-2">
+            {product.comparisonSection.keyPoints.map((point, index) => (
+              <li key={index} className="font-bold">{point}</li>
+            ))}
+          </ul>
         </div>
       </div>
       <div className="bg-white shadow-lg rounded-lg p-8">
