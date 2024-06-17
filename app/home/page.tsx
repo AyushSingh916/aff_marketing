@@ -1,6 +1,7 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import { FaRegCircleUser } from 'react-icons/fa6';
+import ComparisionCard from '@/components/ComparisionCard';
 import data from '@/data/productsData/Home.json';
 import Card from '@/components/ComparisionCard';
 
@@ -13,28 +14,32 @@ export default function ProductPage({ params }: ProductPageProps) {
 
   return (
     <div className="container mx-auto p-6 space-y-8">
-      <div className="bg-white shadow-lg rounded-lg p-8">
-        <Image
-          src={product.image}
-          alt={product.title}
-          width={1000}
-          height={600}
-          className="rounded-md mb-4"
-          layout="responsive"
-        />
-        <h1 className="text-3xl font-bold mb-4">{product.title}</h1>
-        <div className="flex justify-between items-center text-gray-600 mb-6">
-          <p>{`Updated ${product.updatedDate}`}</p>
-          <Link href={product.researchLink}>
-            <p className="flex items-center gap-2 text-blue-600 hover:underline">
-              <FaRegCircleUser size={20} />
-              <span>Research By {product.authors}</span>
-            </p>
-          </Link>
+      <div className="bg-white shadow-lg rounded-lg p-8 flex flex-col md:flex-row">
+        <div className="md:w-1/2 mb-4 md:mb-0">
+          <Image
+            src={product.image}
+            alt={product.title}
+            width={500}
+            height={300}
+            className="rounded-md"
+            layout="responsive"
+          />
         </div>
-        <p className="text-gray-800 whitespace-pre-line leading-relaxed">
-          {product.description}
-        </p>
+        <div className="md:w-1/2 md:pl-8">
+          <h1 className="text-3xl font-bold mb-4">{product.title}</h1>
+          <div className="flex justify-between items-center text-gray-600 mb-6">
+            <p>{`Updated ${product.updatedDate}`}</p>
+            <Link href={product.researchLink}>
+              <p className="flex items-center gap-2 text-blue-600 hover:underline">
+                <FaRegCircleUser size={20} />
+                <span>Research By {product.authors}</span>
+              </p>
+            </Link>
+          </div>
+          <p className="text-gray-800 whitespace-pre-line leading-relaxed">
+            {product.description}
+          </p>
+        </div>
       </div>
       <div className="bg-white shadow-lg rounded-lg p-8 space-y-4">
         <h2 className="text-2xl font-bold mb-4">Why You Should Trust Us</h2>
@@ -53,16 +58,20 @@ export default function ProductPage({ params }: ProductPageProps) {
         </div>
       </div>
       <div className="bg-white shadow-lg rounded-lg p-8">
-        <h2 className="text-2xl font-bold mb-4">{product.title}</h2>
-        <Image
-          src={product.image}
-          alt={product.title}
-          width={1000}
-          height={600}
-          className="rounded-md mb-4"
-          layout="responsive"
-        />
-        <Card
+        <h2 className="text-2xl font-bold mb-4">Top Pick</h2>
+        <div className="flex flex-col md:flex-row">
+          <div className="md:w-1/2 mb-4 md:mb-0">
+            <Image
+              src={data.productReview[0].topPick.image}
+              alt={data.productReview[0].topPick.title}
+              width={500}
+              height={300}
+              className="rounded-md"
+              layout="responsive"
+            />
+          </div>
+          <div className="md:w-1/2 md:pl-8">
+            <Card
               imageSrc={data.productReview[0].topPick.image}
               altText={data.productReview[0].topPick.title}
               rank={data.productReview[0].topPick.rank}
@@ -78,17 +87,19 @@ export default function ProductPage({ params }: ProductPageProps) {
                 link: link.link,
               }))}
             />
-        <div className="bg-gray-100 p-6 rounded-lg shadow-inner mt-6">
-          <div className="mb-4">
-            <span className="bg-red-500 text-white px-3 py-1 rounded-full">Top Pick</span>
+            <div className="bg-gray-100 p-6 rounded-lg shadow-inner mt-6">
+              <div className="mb-4">
+                <span className="bg-red-500 text-white px-3 py-1 rounded-full">Top Pick</span>
+              </div>
+              <h3 className="text-lg font-semibold mb-2">Who it&apos;s for:</h3>
+              <p className="text-gray-700 mb-6">{product.comparisonSection.content}</p>
+              <ul className="list-disc list-inside space-y-2">
+                {product.comparisonSection.keyPoints.map((point, index) => (
+                  <li key={index} className="font-bold">{point}</li>
+                ))}
+              </ul>
+            </div>
           </div>
-          <h3 className="text-lg font-semibold mb-2">Who it&apos;s for:</h3>
-          <p className="text-gray-700 mb-6">{product.comparisonSection.content}</p>
-          <ul className="list-disc list-inside space-y-2">
-            {product.comparisonSection.keyPoints.map((point, index) => (
-              <li key={index} className="font-bold">{point}</li>
-            ))}
-          </ul>
         </div>
       </div>
       <div className="bg-white shadow-lg rounded-lg p-8">

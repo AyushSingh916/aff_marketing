@@ -7,15 +7,23 @@
         "text": "Home Decor",
         "href": "/home/home-decor",
         "sublinks": [
-          { "text": "Carpets", "href": "/home/home-decor/carpets" },
+          { "text": "Rugs", "href": "/home/home-decor/rugs" },
           { "text": "Chandeliers", "href": "/home/home-decor/chandeliers" },
           {
             "text": "Hanging Lights",
             "href": "/home/home-decor/hanging-lights"
           },
           {
-            "text": "Sofa & Tables & Chairs",
-            "href": "/home/home-decor/sofa-tables-chairs"
+            "text": "Sofa",
+            "href": "/home/home-decor/sofa"
+          },
+          {
+            "text": "Tables",
+            "href": "/home/home-decor/tables"
+          },
+          {
+            "text": "Chairs",
+            "href": "/home/home-decor/chairs"
           }
         ]
       },

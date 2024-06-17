@@ -1,8 +1,8 @@
 {
   "productReview": [
     {
-      "slug": ["home", "home-decor", "carpets"],
-      "image": "/Bed.png",
+      "slug": ["home", "home-decor", "rugs"],
+      "image": "https://m.media-amazon.com/images/I/A1MY25C-yiL._AC_SL1500_.jpg",
       "title": "The Best Platform Bed Frames Under $600",
       "updatedDate": "April 29, 2024",
       "researchLink": "/research-link",
