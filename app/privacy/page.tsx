@@ -7,7 +7,7 @@ const PrivacyPolicy = () => {
         <h1 className="text-3xl font-bold mb-4">Privacy Policy</h1>
 
         <p className="text-gray-800 mb-4">
-          Welcome to [Your Website Name] (referred to as &quot;we&quot;, &quot;us&quot;, or &quot;our&quot;). We are committed to protecting your personal information and your right to privacy. This Privacy Policy explains how we handle your personal information when you visit our website.
+          Welcome to PeakPicks (referred to as &quot;we&quot;, &quot;us&quot;, or &quot;our&quot;). We are committed to protecting your personal information and your right to privacy. This Privacy Policy explains how we handle your personal information when you visit our website.
         </p>
 
         <h2 className="text-2xl font-bold mb-4">Information We Collect</h2>
@@ -35,7 +35,7 @@ const PrivacyPolicy = () => {
           If you have any questions about this Privacy Policy, you can contact us at:
         </p>
         <p className="text-gray-800 mb-4">
-          [Your Company Name]  
+          PeakPicks  
           <br />
           [Your Company Address]  
           <br />
