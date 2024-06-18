@@ -95,7 +95,7 @@ export default function ProductPage({ params }: ProductPageProps) {
           <div className="mb-4">
             <span className="bg-red-500 text-white px-3 py-1 rounded-full">Top Pick</span>
           </div>
-          <h3 className="text-lg font-semibold mb-2">Who it's for:</h3>
+          <h3 className="text-lg font-semibold mb-2">Who it&apos;s for:</h3>
           <p className="text-gray-700 mb-6">{product.comparisonSection.content}</p>
           <ul className="list-disc list-inside space-y-2">
             {product.comparisonSection.keyPoints.map((point, index) => (
