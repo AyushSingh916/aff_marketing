@@ -7,75 +7,17 @@
         "text": "Home Decor",
         "href": "/home/home-decor",
         "sublinks": [
-          { "text": "Rugs", "href": "/home/home-decor/rugs" },
-          { "text": "Chandeliers", "href": "/home/home-decor/chandeliers" },
           {
-            "text": "Hanging Lights",
-            "href": "/home/home-decor/hanging-lights"
+            "text": "Rugs",
+            "href": "/home/home-decor/rugs"
           },
           {
-            "text": "Sofa",
-            "href": "/home/home-decor/sofa"
-          },
-          {
-            "text": "Tables",
-            "href": "/home/home-decor/tables"
-          },
-          {
-            "text": "Chairs",
-            "href": "/home/home-decor/chairs"
-          }
-        ]
-      },
-      {
-        "text": "Bathroom & Appliances",
-        "href": "/home/bathroom-appliances",
-        "sublinks": [
-          {
-            "text": "Toilet",
-            "href": "/home/bathroom-appliances/toilet",
-            "sublinks": [
-              {
-                "text": "Toilet Papers",
-                "href": "/home/bathroom-appliances/toilet/toilet-papers"
-              },
-              {
-                "text": "Toilet Cleaners",
-                "href": "/home/bathroom-appliances/toilet/toilet-cleaners"
-              },
-              {
-                "text": "Toilet Accessories",
-                "href": "/home/bathroom-appliances/toilet/toilet-accessories"
-              },
-              {
-                "text": "Handwash",
-                "href": "/home/bathroom-appliances/toilet/handwash"
-              }
-            ]
-          },
-          {
-            "text": "Shower",
-            "href": "/home/bathroom-appliances/bathroom/shower"
-          },
-          {
-            "text": "Water Heater",
-            "href": "/home/bathroom-appliances/bathroom/water-heater"
+            "text": "Chandeliers",
+            "href": "/home/home-decor/chandeliers"
           },
           {
             "text": "Curtains",
-            "href": "/home/bathroom-appliances/bathroom/curtains"
-          },
-          {
-            "text": "Towels",
-            "href": "/home/bathroom-appliances/bathroom/towels"
-          },
-          {
-            "text": "Soap & Shampoo",
-            "href": "/home/bathroom-appliances/bathroom/soap-shampoo"
-          },
-          {
-            "text": "Bucket & Tool",
-            "href": "/home/bathroom-appliances/bathroom/bucket-tool"
+            "href": "/home/home-decor/curtains"
           }
         ]
       },
@@ -84,40 +26,20 @@
         "href": "/home/bedroom-appliances",
         "sublinks": [
           {
-            "text": "Bed",
-            "href": "/home/bedroom-appliances/bed",
-            "sublinks": [
-              {
-                "text": "Mattress",
-                "href": "/home/bedroom-appliances/bed/mattress"
-              },
-              {
-                "text": "Bedsheet",
-                "href": "/home/bedroom-appliances/bed/bedsheet"
-              },
-              {
-                "text": "Pillows",
-                "href": "/home/bedroom-appliances/bed/pillows"
-              },
-              {
-                "text": "Bed Furniture",
-                "href": "/home/bedroom-appliances/bed/bed-furniture"
-              },
-              {
-                "text": "Blankets",
-                "href": "/home/bedroom-appliances/bed/blankets"
-              }
-            ]
-          },
-          { "text": "Lamp", "href": "/home/bedroom-appliances/lamp" },
-          { "text": "Mirror", "href": "/home/bedroom-appliances/mirror" },
-          {
-            "text": "Cupboard/Cabinet",
-            "href": "/home/bedroom-appliances/cupboard-cabinet"
+            "text": "Mattress",
+            "href": "/home/bedroom-appliances/mattress"
           },
           {
-            "text": "AC & Coolers & Fans",
-            "href": "/home/bedroom-appliances/ac-coolers-fans"
+            "text": "Bedsheet",
+            "href": "/home/bedroom-appliances/bedsheet"
+          },
+          {
+            "text": "Pillows",
+            "href": "/home/bedroom-appliances/pillows"
+          },
+          {
+            "text": "Blankets",
+            "href": "/home/bedroom-appliances/blankets"
           }
         ]
       },
@@ -125,10 +47,24 @@
         "text": "Kitchen & Appliances",
         "href": "/home/kitchen-appliances",
         "sublinks": [
-          { "text": "Gas", "href": "/home/kitchen-appliances/gas" },
-          { "text": "Chimney", "href": "/home/kitchen-appliances/chimney" },
-          { "text": "Plates", "href": "/home/kitchen-appliances/plates" },
-          { "text": "Cup Set", "href": "/home/kitchen-appliances/cup-set" }
+          { "text": "Gas", "href": "/home/kitchen/gas" },
+          { "text": "Chimney", "href": "/home/kitchen/chimney" },
+          { "text": "Plates", "href": "/home/kitchen/plates" },
+          { "text": "Cup Set", "href": "/home/kitchen/cup-set" }
+        ]
+      },
+      {
+        "text": "Furniture",
+        "href": "/home/furniture",
+        "sublinks": [
+          { "text": "Sofa", "href": "/home/furniture/sofa" },
+          { "text": "Tables", "href": "/home/furniture/tables" },
+          { "text": "Chairs", "href": "/home/furniture/chairs" },
+          {
+            "text": "Cupboard/Cabinet",
+            "href": "/home/furniture/cupboard"
+          },
+          { "text": "Bed Furniture", "href": "/home/furniture/bed-furniture" }
         ]
       }
     ]
@@ -219,8 +155,14 @@
         "text": "Virtual Reality",
         "href": "/electronic-devices/vr",
         "sublinks": [
-          { "text": "Apple Vision Pro", "href": "/electronic-devices/tablets/ipad" },
-          { "text": "Meta Quest 2", "href": "/electronic-devices/tablets/android" }
+          {
+            "text": "Apple Vision Pro",
+            "href": "/electronic-devices/tablets/ipad"
+          },
+          {
+            "text": "Meta Quest 2",
+            "href": "/electronic-devices/tablets/android"
+          }
         ]
       },
       {

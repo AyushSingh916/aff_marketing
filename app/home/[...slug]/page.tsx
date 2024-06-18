@@ -10,7 +10,15 @@ interface ProductPageProps {
 }
 
 export default function ProductPage({ params }: ProductPageProps) {
-  const product = data.productReview[0]; // Adjust this based on how you want to fetch the product
+  const { slug } = params;
+  console.log(slug);
+  const updatedSlug = ['home', ...slug];
+  console.log(updatedSlug);
+  const product = data.find((item) => item.slug.join('/') === updatedSlug.join('/'));
+
+  if (!product) {
+    return <div>Product not found</div>;
+  }
 
   return (
     <div className="container mx-auto p-6 space-y-8">
@@ -28,7 +36,7 @@ export default function ProductPage({ params }: ProductPageProps) {
         <div className="md:w-1/2 md:pl-8">
           <h1 className="text-3xl font-bold mb-4">{product.title}</h1>
           <div className="flex justify-between items-center text-gray-600 mb-6">
-            <p>{`Updated ${product.updatedDate}`}</p>
+            <p>Updated {product.updatedDate}</p>
             <Link href={product.researchLink}>
               <p className="flex items-center gap-2 text-blue-600 hover:underline">
                 <FaRegCircleUser size={20} />
@@ -58,7 +66,7 @@ export default function ProductPage({ params }: ProductPageProps) {
         </div>
       </div>
       <div className="bg-white shadow-lg rounded-lg p-8">
-        <h2 className="text-2xl font-bold mb-4">{product.title}</h2>
+        <h2 className="text-2xl font-bold mb-4">{product.comparisonSection.title}</h2>
         <Image
           src={product.image}
           alt={product.title}
@@ -68,26 +76,26 @@ export default function ProductPage({ params }: ProductPageProps) {
           layout="responsive"
         />
         <Card
-              imageSrc={data.productReview[0].topPick.image}
-              altText={data.productReview[0].topPick.title}
-              rank={data.productReview[0].topPick.rank}
-              title={data.productReview[0].topPick.title}
-              description={data.productReview[0].topPick.description}
-              metrics={data.productReview[0].topPick.metrics.map((metric) => ({
-                name: metric.name,
-                rating: metric.rating,
-              }))}
-              priceLinks={data.productReview[0].topPick.purchaseLinks.map((link) => ({
-                store: link.store,
-                price: link.price,
-                link: link.link,
-              }))}
-            />
+          imageSrc={product.topPick.image}
+          altText={product.topPick.title}
+          rank={product.topPick.rank}
+          title={product.topPick.title}
+          description={product.topPick.description}
+          metrics={product.topPick.metrics.map((metric) => ({
+            name: metric.name,
+            rating: metric.rating,
+          }))}
+          priceLinks={product.topPick.purchaseLinks.map((link) => ({
+            store: link.store,
+            price: link.price,
+            link: link.link,
+          }))}
+        />
         <div className="bg-gray-100 p-6 rounded-lg shadow-inner mt-6">
           <div className="mb-4">
             <span className="bg-red-500 text-white px-3 py-1 rounded-full">Top Pick</span>
           </div>
-          <h3 className="text-lg font-semibold mb-2">Who it&apos;s for:</h3>
+          <h3 className="text-lg font-semibold mb-2">Who it's for:</h3>
           <p className="text-gray-700 mb-6">{product.comparisonSection.content}</p>
           <ul className="list-disc list-inside space-y-2">
             {product.comparisonSection.keyPoints.map((point, index) => (
