@@ -191,7 +191,7 @@
       }
     ]
   },
-  
+
   {
     "text": "Shoes",
     "href": "/shoes",
@@ -237,6 +237,21 @@
           { "text": "No-show socks", "href": "/shoes/socks/no-show-socks" }
         ]
       }
+    ]
+  },
+
+  {
+    "text": "Parts",
+    "href": "/electronic-devices/parts",
+    "sublinks": [
+      {
+        "text": "Wifi Router",
+        "href": "/electronic-devices/parts/wifi-router"
+      },
+      { "text": "Modem", "href": "/electronic-devices/parts/modem" },
+      { "text": "SSD", "href": "/electronic-devices/parts/ssd" },
+      { "text": "RAM", "href": "/electronic-devices/parts/ram" },
+      { "text": "GPU", "href": "/electronic-devices/parts/gpu" }
     ]
   }
 ]

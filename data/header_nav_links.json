@@ -152,26 +152,12 @@
         "sublinks": [
           {
             "text": "Apple Vision Pro",
-            "href": "/electronic-devices/tablets/ipad"
+            "href": "/electronic-devices/vr/applevisionpro"
           },
           {
             "text": "Meta Quest 2",
-            "href": "/electronic-devices/tablets/android"
+            "href": "/electronic-devices/vr/metaquest2"
           }
-        ]
-      },
-      {
-        "text": "Parts",
-        "href": "/electronic-devices/parts",
-        "sublinks": [
-          {
-            "text": "Wifi Router",
-            "href": "/electronic-devices/parts/wifi-router"
-          },
-          { "text": "Modem", "href": "/electronic-devices/parts/modem" },
-          { "text": "SSD", "href": "/electronic-devices/parts/ssd" },
-          { "text": "RAM", "href": "/electronic-devices/parts/ram" },
-          { "text": "GPU", "href": "/electronic-devices/parts/gpu" }
         ]
       }
     ]
@@ -213,20 +199,6 @@
           {
             "text": "High End Refrigerator",
             "href": "/electronic-appliances/refrigerator/high-end"
-          }
-        ]
-      },
-      {
-        "text": "Fans",
-        "href": "/electronic-appliances/fans",
-        "sublinks": [
-          {
-            "text": "Smart Fans",
-            "href": "/electronic-appliances/fans/smart"
-          },
-          {
-            "text": "Budget Fans",
-            "href": "/electronic-appliances/fans/budget"
           }
         ]
       },
@@ -341,12 +313,11 @@
         "text": "Cars",
         "href": "/automobiles/cars",
         "sublinks": [
-          { "text": "Electric Car", "href": "/automobiles/cars/sedans" },
-          { "text": "Manual Gear Car", "href": "/automobiles/cars/suvs" },
-          { "text": "Auto Gear Cars", "href": "/automobiles/cars/electric" },
-          { "text": "Sports Car", "href": "/automobiles/cars/electric" },
-          { "text": "SUV's", "href": "/automobiles/cars/electric" },
-          { "text": "Sedans", "href": "/automobiles/cars/electric" }
+          { "text": "Electric Car", "href": "/automobiles/cars/electric" },
+          { "text": "Manual Gear Car", "href": "/automobiles/cars/manualgear" },
+          { "text": "Auto Gear Cars", "href": "/automobiles/cars/autogear" },
+          { "text": "Sports Car", "href": "/automobiles/cars/sportscar" },
+          { "text": "SUV's", "href": "/automobiles/cars/suv" }
         ]
       },
       {
@@ -354,28 +325,28 @@
         "href": "/automobiles/motorcycles",
         "sublinks": [
           {
-            "text": "Electric Scooter",
-            "href": "/automobiles/motorcycles/sport"
+            "text": "Electric Scooty",
+            "href": "/automobiles/motorcycles/electric-scooty"
           },
           {
-            "text": "Fuel Based Scooter",
-            "href": "/automobiles/motorcycles/cruisers"
+            "text": "Fuel Based Scooty",
+            "href": "/automobiles/motorcycles/fuel-scooty"
           },
           {
             "text": "Electric Bikes",
-            "href": "/automobiles/motorcycles/cruisers"
+            "href": "/automobiles/motorcycles/electric-bike"
           },
           {
             "text": "Fuel Based Bikes",
-            "href": "/automobiles/motorcycles/cruisers"
+            "href": "/automobiles/motorcycles/fuel-bike"
           },
           {
             "text": "Electric Cycle",
-            "href": "/automobiles/motorcycles/cruisers"
+            "href": "/automobiles/motorcycles/electric-cycle"
           },
           {
             "text": "Manual Cycle",
-            "href": "/automobiles/motorcycles/cruisers"
+            "href": "/automobiles/motorcycles/manual-cycle"
           }
         ]
       },
@@ -383,10 +354,10 @@
         "text": "Other Vehicles",
         "href": "/automobiles/trucks",
         "sublinks": [
-          { "text": "Electric Rickshaw", "href": "/automobiles/trucks/pickup" },
-          { "text": "Trucks", "href": "/automobiles/trucks/heavy" },
-          { "text": "Bus", "href": "/automobiles/trucks/heavy" },
-          { "text": "Van", "href": "/automobiles/trucks/heavy" }
+          { "text": "Electric Rickshaw", "href": "/automobiles/other-vehicle/electric-rickshaw" },
+          { "text": "Trucks", "href": "/automobiles/other-vehicle/trucks" },
+          { "text": "Bus", "href": "/automobiles/other-vehicle/bus" },
+          { "text": "Van", "href": "/automobiles/other-vehicle/van" }
         ]
       }
     ]
@@ -397,23 +368,23 @@
     "sublinks": [
       {
         "text": "Text Generator",
-        "href": "/ai-tools/machine-learning",
+        "href": "/ai-tools/text-generator",
         "sublinks": [
           {
             "text": "Content Generator",
-            "href": "/ai-tools/machine-learning/frameworks"
+            "href": "/ai-tools/text-generator/content-generation"
           },
           {
             "text": "Prompt Generator",
-            "href": "/ai-tools/machine-learning/libraries"
+            "href": "/ai-tools/text-generator/prompt-generation"
           },
           {
             "text": "Copy Writer",
-            "href": "/ai-tools/nlp/speech-recognition"
+            "href": "/ai-tools/text-generator/copy-writer"
           },
           {
             "text": "Translator",
-            "href": "/ai-tools/nlp/speech-recognition"
+            "href": "/ai-tools/text-generator/translator"
           }
         ]
       },

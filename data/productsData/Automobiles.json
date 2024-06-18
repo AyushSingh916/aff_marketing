@@ -1,0 +1,1976 @@
+[
+  {
+    "text": "Electric Car",
+    "href": "/automobiles/cars/electric",
+    "slug": ["automobiles", "cars", "electric"],
+    "image": "",
+    "title": "Best Electric Cars in India",
+    "updatedDate": "June 27, 2024",
+    "researchLink": "",
+    "authors": "Ashutosh",
+    "description": "Discover the best electric cars available in India, offering efficiency, performance, and advanced technology for a sustainable driving experience.",
+    "whyTrustUs": {
+      "title": "Why You Should Trust Us",
+      "content": "At Our Company, we offer reliable reviews and recommendations based on thorough research and testing. Here’s why our insights are trustworthy:",
+      "points": [
+        "We conduct extensive research to evaluate electric cars based on performance, efficiency, and technology.",
+        "Our team includes automotive experts who understand the importance of sustainable and high-performing vehicles.",
+        "Transparency is key; we provide comprehensive reviews that highlight the strengths and weaknesses of each electric car.",
+        "Your satisfaction is our priority; we recommend electric cars that offer the best value and driving experience."
+      ],
+      "conclusion": "Choosing our recommended electric cars means ensuring a sustainable, efficient, and enjoyable driving experience."
+    },
+    "researchProcess": {
+      "title": "Our Research Process",
+      "content": [
+        "We start by researching popular electric cars known for their performance and user reviews.",
+        "Our research includes evaluating car specifications, battery efficiency, and technology features.",
+        "Selected cars undergo rigorous testing to measure their performance, range, and overall driving experience.",
+        "Our team collaborates to analyze test results and compare different models based on performance, technology, and value.",
+        "Our recommendations are based on thorough evaluation to help you choose the best electric car for your needs."
+      ]
+    },
+    "comparisonSection": {
+      "title": "Who it’s for",
+      "content": "Ideal for eco-conscious drivers looking for efficient, high-performing electric vehicles with advanced technology features.",
+      "keyPoints": [
+        "Performance and range",
+        "Battery efficiency and charging options",
+        "Technology and connectivity features",
+        "Safety and reliability",
+        "Design and comfort"
+      ]
+    },
+    "topPick": {
+      "rank": 1,
+      "image": "",
+      "title": "Tata Nexon EV",
+      "description": "A high-performance electric car with excellent range and advanced technology features.",
+      "details": "The Tata Nexon EV offers a long-range battery, advanced safety features, and a modern design.",
+      "metrics": [
+        {
+          "name": "Customer Reviews and Ratings",
+          "rating": 4.8
+        },
+        {
+          "name": "Price and Value for Money",
+          "rating": 4.7
+        },
+        {
+          "name": "Performance and Durability",
+          "rating": 4.7
+        },
+        {
+          "name": "Brand Reputation and Trustworthiness",
+          "rating": 4.8
+        }
+      ],
+      "purchaseLinks": [
+        {
+          "store": "Tata Motors",
+          "price": "₹14,99,000",
+          "link": "https://cars.tatamotors.com/suv/nexon-ev"
+        }
+      ],
+      "topPick": true
+    },
+    "competitionSection": {
+      "title": "The Competition",
+      "competitors": [
+        {
+          "rank": 2,
+          "image": "",
+          "title": "MG ZS EV",
+          "description": "A reliable electric car with good range and affordable pricing.",
+          "details": "The MG ZS EV features a compact design, efficient battery, and modern technology features.",
+          "metrics": [
+            {
+              "name": "Customer Reviews and Ratings",
+              "rating": 4.6
+            },
+            {
+              "name": "Price and Value for Money",
+              "rating": 4.5
+            },
+            {
+              "name": "Performance and Durability",
+              "rating": 4.5
+            },
+            {
+              "name": "Brand Reputation and Trustworthiness",
+              "rating": 4.6
+            }
+          ],
+          "purchaseLinks": [
+            {
+              "store": "MG Motors",
+              "price": "₹22,00,000",
+              "link": "https://www.mgmotor.co.in/vehicles/mg-zs-ev"
+            }
+          ],
+          "topPick": false
+        }
+      ]
+    }
+  },
+  {
+    "text": "Manual Gear Car",
+    "href": "/automobiles/cars/manualgear",
+    "slug": ["automobiles", "cars", "manualgear"],
+    "image": "",
+    "title": "Best Manual Gear Cars in India",
+    "updatedDate": "June 27, 2024",
+    "researchLink": "",
+    "authors": "Ashutosh",
+    "description": "Explore the best manual gear cars available in India that offer a dynamic driving experience with precise control and performance.",
+    "whyTrustUs": {
+      "title": "Why You Should Trust Us",
+      "content": "Our recommendations are based on detailed research and testing to ensure you get the best manual gear cars available.",
+      "points": [
+        "Extensive testing to evaluate performance and control.",
+        "Industry experts who understand the nuances of manual transmission.",
+        "Transparent reviews highlighting pros and cons.",
+        "Focus on delivering cars that offer great value and driving experience."
+      ],
+      "conclusion": "Our manual gear car recommendations ensure a superior driving experience with precise control."
+    },
+    "researchProcess": {
+      "title": "Our Research Process",
+      "content": [
+        "We research the most popular manual gear cars known for their performance and user reviews.",
+        "Our research includes evaluating car specifications, handling, and driving experience.",
+        "Selected cars undergo rigorous testing to measure their performance, handling, and overall driving experience.",
+        "Our team collaborates to analyze test results and compare different models based on performance, handling, and value.",
+        "Our recommendations are based on thorough evaluation to help you choose the best manual gear car for your needs."
+      ]
+    },
+    "comparisonSection": {
+      "title": "Who it’s for",
+      "content": "Ideal for driving enthusiasts who prefer the control and engagement offered by manual transmission cars.",
+      "keyPoints": [
+        "Performance and handling",
+        "Driving experience and control",
+        "Safety and reliability",
+        "Design and comfort",
+        "Value for money"
+      ]
+    },
+    "topPick": {
+      "rank": 1,
+      "image": "",
+      "title": "Maruti Suzuki Swift",
+      "description": "A top-performing manual gear car with excellent handling and performance.",
+      "details": "The Maruti Suzuki Swift offers a dynamic driving experience with precise control and great fuel efficiency.",
+      "metrics": [
+        {
+          "name": "Customer Reviews and Ratings",
+          "rating": 4.7
+        },
+        {
+          "name": "Price and Value for Money",
+          "rating": 4.8
+        },
+        {
+          "name": "Performance and Durability",
+          "rating": 4.6
+        },
+        {
+          "name": "Brand Reputation and Trustworthiness",
+          "rating": 4.7
+        }
+      ],
+      "purchaseLinks": [
+        {
+          "store": "Maruti Suzuki",
+          "price": "₹5,99,000",
+          "link": "https://www.marutisuzuki.com/swift"
+        }
+      ],
+      "topPick": true
+    },
+    "competitionSection": {
+      "title": "The Competition",
+      "competitors": [
+        {
+          "rank": 2,
+          "image": "",
+          "title": "Hyundai i20",
+          "description": "A reliable manual gear car with great handling and modern features.",
+          "details": "The Hyundai i20 features a stylish design, efficient performance, and modern technology.",
+          "metrics": [
+            {
+              "name": "Customer Reviews and Ratings",
+              "rating": 4.5
+            },
+            {
+              "name": "Price and Value for Money",
+              "rating": 4.4
+            },
+            {
+              "name": "Performance and Durability",
+              "rating": 4.5
+            },
+            {
+              "name": "Brand Reputation and Trustworthiness",
+              "rating": 4.6
+            }
+          ],
+          "purchaseLinks": [
+            {
+              "store": "Hyundai",
+              "price": "₹6,79,000",
+              "link": "https://www.hyundai.com/in/en/find-a-car/i20"
+            }
+          ],
+          "topPick": false
+        }
+      ]
+    }
+  },
+  {
+    "text": "Auto Gear Cars",
+    "href": "/automobiles/cars/autogear",
+    "slug": ["automobiles", "cars", "autogear"],
+    "image": "",
+    "title": "Best Auto Gear Cars in India",
+    "updatedDate": "June 27, 2024",
+    "researchLink": "",
+    "authors": "Ashutosh",
+    "description": "Discover the best auto gear cars available in India that offer convenience, comfort, and advanced driving features.",
+    "whyTrustUs": {
+      "title": "Why You Should Trust Us",
+      "content": "Our team provides reliable reviews and recommendations based on thorough research and testing. Here’s why our insights are trustworthy:",
+      "points": [
+        "Extensive research to evaluate auto gear cars based on performance, comfort, and technology.",
+        "Automotive experts who understand the importance of convenience and advanced features.",
+        "Transparent reviews highlighting strengths and weaknesses.",
+        "Focus on recommending cars that offer great value and driving experience."
+      ],
+      "conclusion": "Our auto gear car recommendations ensure a comfortable and advanced driving experience."
+    },
+    "researchProcess": {
+      "title": "Our Research Process",
+      "content": [
+        "We research the most popular auto gear cars known for their performance and user reviews.",
+        "Our research includes evaluating car specifications, comfort, and driving experience.",
+        "Selected cars undergo rigorous testing to measure their performance, handling, and overall driving experience.",
+        "Our team collaborates to analyze test results and compare different models based on performance, comfort, and value.",
+        "Our recommendations are based on thorough evaluation to help you choose the best auto gear car for your needs."
+      ]
+    },
+    "comparisonSection": {
+      "title": "Who it’s for",
+      "content": "Ideal for drivers looking for convenience and comfort in their daily commutes and long drives.",
+      "keyPoints": [
+        "Performance and handling",
+        "Comfort and convenience",
+        "Safety and reliability",
+        "Technology and connectivity",
+        "Value for money"
+      ]
+    },
+    "topPick": {
+      "rank": 1,
+      "image": "",
+      "title": "Honda City CVT",
+      "description": "A top-performing auto gear car with excellent comfort and advanced features.",
+      "details": "The Honda City CVT offers a smooth driving experience with advanced safety features and a comfortable interior.",
+      "metrics": [
+        {
+          "name": "Customer Reviews and Ratings",
+          "rating": 4.8
+        },
+        {
+          "name": "Price and Value for Money",
+          "rating": 4.7
+        },
+        {
+          "name": "Performance and Durability",
+          "rating": 4.7
+        },
+        {
+          "name": "Brand Reputation and Trustworthiness",
+          "rating": 4.8
+        }
+      ],
+      "purchaseLinks": [
+        {
+          "store": "Honda",
+          "price": "₹12,39,000",
+          "link": "https://www.hondacarindia.com/city"
+        }
+      ],
+      "topPick": true
+    },
+    "competitionSection": {
+      "title": "The Competition",
+      "competitors": [
+        {
+          "rank": 2,
+          "image": "",
+          "title": "Hyundai Verna",
+          "description": "A reliable auto gear car with modern features and great comfort.",
+          "details": "The Hyundai Verna features a stylish design, efficient performance, and advanced technology.",
+          "metrics": [
+            {
+              "name": "Customer Reviews and Ratings",
+              "rating": 4.6
+            },
+            {
+              "name": "Price and Value for Money",
+              "rating": 4.5
+            },
+            {
+              "name": "Performance and Durability",
+              "rating": 4.5
+            },
+            {
+              "name": "Brand Reputation and Trustworthiness",
+              "rating": 4.6
+            }
+          ],
+          "purchaseLinks": [
+            {
+              "store": "Hyundai",
+              "price": "₹10,99,000",
+              "link": "https://www.hyundai.com/in/en/find-a-car/verna"
+            }
+          ],
+          "topPick": false
+        }
+      ]
+    }
+  },
+  {
+    "text": "Sports Car",
+    "href": "/automobiles/cars/sportscar",
+    "slug": ["automobiles", "cars", "sportscar"],
+    "image": "",
+    "title": "Best Sports Cars in India",
+    "updatedDate": "June 27, 2024",
+    "researchLink": "",
+    "authors": "Ashutosh",
+    "description": "Discover the best sports cars available in India that offer thrilling performance, sleek designs, and advanced technology.",
+    "whyTrustUs": {
+      "title": "Why You Should Trust Us",
+      "content": "Our recommendations are based on detailed research and testing to ensure you get the best sports cars available.",
+      "points": [
+        "Extensive testing to evaluate performance, design, and technology.",
+        "Industry experts who understand the nuances of high-performance sports cars.",
+        "Transparent reviews highlighting pros and cons.",
+        "Focus on delivering cars that offer great value and driving experience."
+      ],
+      "conclusion": "Our sports car recommendations ensure a thrilling driving experience with high performance and advanced features."
+    },
+    "researchProcess": {
+      "title": "Our Research Process",
+      "content": [
+        "We research the most popular sports cars known for their performance and user reviews.",
+        "Our research includes evaluating car specifications, handling, and driving experience.",
+        "Selected cars undergo rigorous testing to measure their performance, handling, and overall driving experience.",
+        "Our team collaborates to analyze test results and compare different models based on performance, handling, and value.",
+        "Our recommendations are based on thorough evaluation to help you choose the best sports car for your needs."
+      ]
+    },
+    "comparisonSection": {
+      "title": "Who it’s for",
+      "content": "Ideal for driving enthusiasts who seek thrilling performance, sleek designs, and advanced technology in their sports cars.",
+      "keyPoints": [
+        "Performance and handling",
+        "Design and aesthetics",
+        "Safety and reliability",
+        "Technology and connectivity",
+        "Value for money"
+      ]
+    },
+    "topPick": {
+      "rank": 1,
+      "image": "",
+      "title": "Porsche 911",
+      "description": "A top-performing sports car with excellent handling, performance, and sleek design.",
+      "details": "The Porsche 911 offers a thrilling driving experience with advanced technology and luxurious features.",
+      "metrics": [
+        {
+          "name": "Customer Reviews and Ratings",
+          "rating": 4.9
+        },
+        {
+          "name": "Price and Value for Money",
+          "rating": 4.6
+        },
+        {
+          "name": "Performance and Durability",
+          "rating": 4.9
+        },
+        {
+          "name": "Brand Reputation and Trustworthiness",
+          "rating": 4.9
+        }
+      ],
+      "purchaseLinks": [
+        {
+          "store": "Porsche India",
+          "price": "₹1,64,00,000",
+          "link": "https://www.porsche.com/india/"
+        }
+      ],
+      "topPick": true
+    },
+    "competitionSection": {
+      "title": "The Competition",
+      "competitors": [
+        {
+          "rank": 2,
+          "image": "",
+          "title": "BMW Z4",
+          "description": "A reliable sports car with great handling and modern features.",
+          "details": "The BMW Z4 features a stylish design, efficient performance, and advanced technology.",
+          "metrics": [
+            {
+              "name": "Customer Reviews and Ratings",
+              "rating": 4.7
+            },
+            {
+              "name": "Price and Value for Money",
+              "rating": 4.5
+            },
+            {
+              "name": "Performance and Durability",
+              "rating": 4.7
+            },
+            {
+              "name": "Brand Reputation and Trustworthiness",
+              "rating": 4.7
+            }
+          ],
+          "purchaseLinks": [
+            {
+              "store": "BMW India",
+              "price": "₹85,00,000",
+              "link": "https://www.bmw.in/"
+            }
+          ],
+          "topPick": false
+        }
+      ]
+    }
+  },
+  {
+    "text": "SUVs",
+    "href": "/automobiles/cars/suv",
+    "slug": ["automobiles", "cars", "suv"],
+    "image": "",
+    "title": "Best SUVs in India",
+    "updatedDate": "June 27, 2024",
+    "researchLink": "",
+    "authors": "Ashutosh",
+    "description": "Discover the best SUVs available in India, offering versatility, performance, and advanced features for a superior driving experience.",
+    "whyTrustUs": {
+      "title": "Why You Should Trust Us",
+      "content": "Our team provides reliable reviews and recommendations based on thorough research and testing. Here’s why our insights are trustworthy:",
+      "points": [
+        "Extensive research to evaluate SUVs based on performance, comfort, and technology.",
+        "Automotive experts who understand the importance of versatility and advanced features.",
+        "Transparent reviews highlighting strengths and weaknesses.",
+        "Focus on recommending SUVs that offer great value and driving experience."
+      ],
+      "conclusion": "Our SUV recommendations ensure a versatile and advanced driving experience."
+    },
+    "researchProcess": {
+      "title": "Our Research Process",
+      "content": [
+        "We research the most popular SUVs known for their performance and user reviews.",
+        "Our research includes evaluating car specifications, comfort, and driving experience.",
+        "Selected SUVs undergo rigorous testing to measure their performance, handling, and overall driving experience.",
+        "Our team collaborates to analyze test results and compare different models based on performance, comfort, and value.",
+        "Our recommendations are based on thorough evaluation to help you choose the best SUV for your needs."
+      ]
+    },
+    "comparisonSection": {
+      "title": "Who it’s for",
+      "content": "Ideal for drivers looking for versatile and spacious vehicles with advanced features for a superior driving experience.",
+      "keyPoints": [
+        "Performance and handling",
+        "Comfort and convenience",
+        "Safety and reliability",
+        "Technology and connectivity",
+        "Value for money"
+      ]
+    },
+    "topPick": {
+      "rank": 1,
+      "image": "",
+      "title": "Hyundai Creta",
+      "description": "A top-performing SUV with excellent comfort and advanced features.",
+      "details": "The Hyundai Creta offers a smooth driving experience with advanced safety features and a comfortable interior.",
+      "metrics": [
+        {
+          "name": "Customer Reviews and Ratings",
+          "rating": 4.8
+        },
+        {
+          "name": "Price and Value for Money",
+          "rating": 4.7
+        },
+        {
+          "name": "Performance and Durability",
+          "rating": 4.7
+        },
+        {
+          "name": "Brand Reputation and Trustworthiness",
+          "rating": 4.8
+        }
+      ],
+      "purchaseLinks": [
+        {
+          "store": "Hyundai",
+          "price": "₹10,44,000",
+          "link": "https://www.hyundai.com/in/en/find-a-car/creta"
+        }
+      ],
+      "topPick": true
+    },
+    "competitionSection": {
+      "title": "The Competition",
+      "competitors": [
+        {
+          "rank": 2,
+          "image": "",
+          "title": "Kia Seltos",
+          "description": "A reliable SUV with modern features and great comfort.",
+          "details": "The Kia Seltos features a stylish design, efficient performance, and advanced technology.",
+          "metrics": [
+            {
+              "name": "Customer Reviews and Ratings",
+              "rating": 4.6
+            },
+            {
+              "name": "Price and Value for Money",
+              "rating": 4.5
+            },
+            {
+              "name": "Performance and Durability",
+              "rating": 4.5
+            },
+            {
+              "name": "Brand Reputation and Trustworthiness",
+              "rating": 4.6
+            }
+          ],
+          "purchaseLinks": [
+            {
+              "store": "Kia",
+              "price": "₹9,95,000",
+              "link": "https://www.kia.com/in/seltos.html"
+            }
+          ],
+          "topPick": false
+        }
+      ]
+    }
+  },
+  {
+    "text": "Electric Scooty",
+    "href": "/automobiles/motorcycles/electric-scooty",
+    "slug": ["automobiles", "motorcycles", "electric-scooty"],
+    "image": "",
+    "title": "Best Electric Scooties in India",
+    "updatedDate": "June 27, 2024",
+    "researchLink": "",
+    "authors": "Ashutosh",
+    "description": "Discover the best electric scooties available in India that offer eco-friendly transportation, modern features, and efficient performance.",
+    "whyTrustUs": {
+      "title": "Why You Should Trust Us",
+      "content": "Our recommendations are based on detailed research and testing to ensure you get the best electric scooties available.",
+      "points": [
+        "Extensive testing to evaluate performance, battery life, and features.",
+        "Industry experts who understand the nuances of electric vehicles.",
+        "Transparent reviews highlighting pros and cons.",
+        "Focus on delivering scooties that offer great value and riding experience."
+      ],
+      "conclusion": "Our electric scooty recommendations ensure an eco-friendly and efficient riding experience."
+    },
+    "researchProcess": {
+      "title": "Our Research Process",
+      "content": [
+        "We research the most popular electric scooties known for their performance and user reviews.",
+        "Our research includes evaluating scooty specifications, battery life, and riding experience.",
+        "Selected scooties undergo rigorous testing to measure their performance, handling, and overall riding experience.",
+        "Our team collaborates to analyze test results and compare different models based on performance, battery life, and value.",
+        "Our recommendations are based on thorough evaluation to help you choose the best electric scooty for your needs."
+      ]
+    },
+    "comparisonSection": {
+      "title": "Who it’s for",
+      "content": "Ideal for environmentally conscious riders looking for efficient and modern transportation options.",
+      "keyPoints": [
+        "Performance and battery life",
+        "Comfort and convenience",
+        "Safety and reliability",
+        "Technology and connectivity",
+        "Value for money"
+      ]
+    },
+    "topPick": {
+      "rank": 1,
+      "image": "",
+      "title": "Ola S1 Pro",
+      "description": "A top-performing electric scooty with excellent battery life and advanced features.",
+      "details": "The Ola S1 Pro offers a smooth riding experience with advanced safety features and a comfortable design.",
+      "metrics": [
+        {
+          "name": "Customer Reviews and Ratings",
+          "rating": 4.8
+        },
+        {
+          "name": "Price and Value for Money",
+          "rating": 4.7
+        },
+        {
+          "name": "Performance and Durability",
+          "rating": 4.7
+        },
+        {
+          "name": "Brand Reputation and Trustworthiness",
+          "rating": 4.8
+        }
+      ],
+      "purchaseLinks": [
+        {
+          "store": "Ola Electric",
+          "price": "₹1,39,999",
+          "link": "https://olaelectric.com/s1"
+        }
+      ],
+      "topPick": true
+    },
+    "competitionSection": {
+      "title": "The Competition",
+      "competitors": [
+        {
+          "rank": 2,
+          "image": "",
+          "title": "Ather 450X",
+          "description": "A reliable electric scooty with modern features and great performance.",
+          "details": "The Ather 450X features a stylish design, efficient performance, and advanced technology.",
+          "metrics": [
+            {
+              "name": "Customer Reviews and Ratings",
+              "rating": 4.6
+            },
+            {
+              "name": "Price and Value for Money",
+              "rating": 4.5
+            },
+            {
+              "name": "Performance and Durability",
+              "rating": 4.5
+            },
+            {
+              "name": "Brand Reputation and Trustworthiness",
+              "rating": 4.6
+            }
+          ],
+          "purchaseLinks": [
+            {
+              "store": "Ather Energy",
+              "price": "₹1,32,426",
+              "link": "https://www.atherenergy.com/450x"
+            }
+          ],
+          "topPick": false
+        }
+      ]
+    }
+  },
+  {
+    "text": "Fuel Based Scooty",
+    "href": "/automobiles/motorcycles/fuel-scooty",
+    "slug": ["automobiles", "motorcycles", "fuel-scooty"],
+    "image": "",
+    "title": "Best Fuel Based Scooties in India",
+    "updatedDate": "June 27, 2024",
+    "researchLink": "",
+    "authors": "Ashutosh",
+    "description": "Discover the best fuel-based scooties available in India, known for their efficiency, performance, and affordability.",
+    "whyTrustUs": {
+      "title": "Why You Should Trust Us",
+      "content": "Our recommendations are based on detailed research and testing to ensure you get the best fuel-based scooties available.",
+      "points": [
+        "Extensive testing to evaluate performance, mileage, and features.",
+        "Industry experts who understand the nuances of fuel-based vehicles.",
+        "Transparent reviews highlighting pros and cons.",
+        "Focus on delivering scooties that offer great value and riding experience."
+      ],
+      "conclusion": "Our fuel-based scooty recommendations ensure an efficient and reliable riding experience."
+    },
+    "researchProcess": {
+      "title": "Our Research Process",
+      "content": [
+        "We research the most popular fuel-based scooties known for their performance and user reviews.",
+        "Our research includes evaluating scooty specifications, mileage, and riding experience.",
+        "Selected scooties undergo rigorous testing to measure their performance, handling, and overall riding experience.",
+        "Our team collaborates to analyze test results and compare different models based on performance, mileage, and value.",
+        "Our recommendations are based on thorough evaluation to help you choose the best fuel-based scooty for your needs."
+      ]
+    },
+    "comparisonSection": {
+      "title": "Who it’s for",
+      "content": "Ideal for riders looking for efficient and reliable transportation with traditional fuel options.",
+      "keyPoints": [
+        "Performance and mileage",
+        "Comfort and convenience",
+        "Safety and reliability",
+        "Technology and connectivity",
+        "Value for money"
+      ]
+    },
+    "topPick": {
+      "rank": 1,
+      "image": "",
+      "title": "Honda Activa 6G",
+      "description": "A top-performing fuel-based scooty with excellent mileage and advanced features.",
+      "details": "The Honda Activa 6G offers a smooth riding experience with advanced safety features and a comfortable design.",
+      "metrics": [
+        {
+          "name": "Customer Reviews and Ratings",
+          "rating": 4.8
+        },
+        {
+          "name": "Price and Value for Money",
+          "rating": 4.7
+        },
+        {
+          "name": "Performance and Durability",
+          "rating": 4.7
+        },
+        {
+          "name": "Brand Reputation and Trustworthiness",
+          "rating": 4.8
+        }
+      ],
+      "purchaseLinks": [
+        {
+          "store": "Honda",
+          "price": "₹74,536",
+          "link": "https://www.honda2wheelersindia.com/activa6g"
+        }
+      ],
+      "topPick": true
+    },
+    "competitionSection": {
+      "title": "The Competition",
+      "competitors": [
+        {
+          "rank": 2,
+          "image": "",
+          "title": "TVS Jupiter",
+          "description": "A reliable fuel-based scooty with modern features and great mileage.",
+          "details": "The TVS Jupiter features a stylish design, efficient performance, and advanced technology.",
+          "metrics": [
+            {
+              "name": "Customer Reviews and Ratings",
+              "rating": 4.6
+            },
+            {
+              "name": "Price and Value for Money",
+              "rating": 4.5
+            },
+            {
+              "name": "Performance and Durability",
+              "rating": 4.5
+            },
+            {
+              "name": "Brand Reputation and Trustworthiness",
+              "rating": 4.6
+            }
+          ],
+          "purchaseLinks": [
+            {
+              "store": "TVS",
+              "price": "₹69,571",
+              "link": "https://www.tvsmotor.com/jupiter"
+            }
+          ],
+          "topPick": false
+        }
+      ]
+    }
+  },
+  {
+    "text": "Electric Bikes",
+    "href": "/automobiles/motorcycles/electric-bike",
+    "slug": ["automobiles", "motorcycles", "electric-bike"],
+    "image": "",
+    "title": "Best Electric Bikes in India",
+    "updatedDate": "June 27, 2024",
+    "researchLink": "",
+    "authors": "Ashutosh",
+    "description": "Discover the best electric bikes available in India that offer eco-friendly transportation, modern features, and efficient performance.",
+    "whyTrustUs": {
+      "title": "Why You Should Trust Us",
+      "content": "Our recommendations are based on detailed research and testing to ensure you get the best electric bikes available.",
+      "points": [
+        "Extensive testing to evaluate performance, battery life, and features.",
+        "Industry experts who understand the nuances of electric vehicles.",
+        "Transparent reviews highlighting pros and cons.",
+        "Focus on delivering bikes that offer great value and riding experience."
+      ],
+      "conclusion": "Our electric bike recommendations ensure an eco-friendly and efficient riding experience."
+    },
+    "researchProcess": {
+      "title": "Our Research Process",
+      "content": [
+        "We research the most popular electric bikes known for their performance and user reviews.",
+        "Our research includes evaluating bike specifications, battery life, and riding experience.",
+        "Selected bikes undergo rigorous testing to measure their performance, handling, and overall riding experience.",
+        "Our team collaborates to analyze test results and compare different models based on performance, battery life, and value.",
+        "Our recommendations are based on thorough evaluation to help you choose the best electric bike for your needs."
+      ]
+    },
+    "comparisonSection": {
+      "title": "Who it’s for",
+      "content": "Ideal for environmentally conscious riders looking for efficient and modern transportation options.",
+      "keyPoints": [
+        "Performance and battery life",
+        "Comfort and convenience",
+        "Safety and reliability",
+        "Technology and connectivity",
+        "Value for money"
+      ]
+    },
+    "topPick": {
+      "rank": 1,
+      "image": "",
+      "title": "Revolt RV400",
+      "description": "A top-performing electric bike with excellent battery life and advanced features.",
+      "details": "The Revolt RV400 offers a smooth riding experience with advanced safety features and a comfortable design.",
+      "metrics": [
+        {
+          "name": "Customer Reviews and Ratings",
+          "rating": 4.8
+        },
+        {
+          "name": "Price and Value for Money",
+          "rating": 4.7
+        },
+        {
+          "name": "Performance and Durability",
+          "rating": 4.7
+        },
+        {
+          "name": "Brand Reputation and Trustworthiness",
+          "rating": 4.8
+        }
+      ],
+      "purchaseLinks": [
+        {
+          "store": "Revolt Motors",
+          "price": "₹1,34,000",
+          "link": "https://www.revoltmotors.com/rv400"
+        }
+      ],
+      "topPick": true
+    },
+    "competitionSection": {
+      "title": "The Competition",
+      "competitors": [
+        {
+          "rank": 2,
+          "image": "",
+          "title": "Tork Kratos R",
+          "description": "A reliable electric bike with modern features and great performance.",
+          "details": "The Tork Kratos R features a stylish design, efficient performance, and advanced technology.",
+          "metrics": [
+            {
+              "name": "Customer Reviews and Ratings",
+              "rating": 4.6
+            },
+            {
+              "name": "Price and Value for Money",
+              "rating": 4.5
+            },
+            {
+              "name": "Performance and Durability",
+              "rating": 4.5
+            },
+            {
+              "name": "Brand Reputation and Trustworthiness",
+              "rating": 4.6
+            }
+          ],
+          "purchaseLinks": [
+            {
+              "store": "Tork Motors",
+              "price": "₹1,68,374",
+              "link": "https://www.torkmotors.com/kratos"
+            }
+          ],
+          "topPick": false
+        }
+      ]
+    }
+  },
+  {
+    "text": "Fuel Based Bikes",
+    "href": "/automobiles/motorcycles/fuel-bike",
+    "slug": ["automobiles", "motorcycles", "fuel-bike"],
+    "image": "",
+    "title": "Best Fuel Based Bikes in India",
+    "updatedDate": "June 27, 2024",
+    "researchLink": "",
+    "authors": "Ashutosh",
+    "description": "Discover the best fuel-based bikes available in India, known for their efficiency, performance, and affordability.",
+    "whyTrustUs": {
+      "title": "Why You Should Trust Us",
+      "content": "Our recommendations are based on detailed research and testing to ensure you get the best fuel-based bikes available.",
+      "points": [
+        "Extensive testing to evaluate performance, mileage, and features.",
+        "Industry experts who understand the nuances of fuel-based vehicles.",
+        "Transparent reviews highlighting pros and cons.",
+        "Focus on delivering bikes that offer great value and riding experience."
+      ],
+      "conclusion": "Our fuel-based bike recommendations ensure an efficient and reliable riding experience."
+    },
+    "researchProcess": {
+      "title": "Our Research Process",
+      "content": [
+        "We research the most popular fuel-based bikes known for their performance and user reviews.",
+        "Our research includes evaluating bike specifications, mileage, and riding experience.",
+        "Selected bikes undergo rigorous testing to measure their performance, handling, and overall riding experience.",
+        "Our team collaborates to analyze test results and compare different models based on performance, mileage, and value.",
+        "Our recommendations are based on thorough evaluation to help you choose the best fuel-based bike for your needs."
+      ]
+    },
+    "comparisonSection": {
+      "title": "Who it’s for",
+      "content": "Ideal for riders looking for efficient and reliable transportation with traditional fuel options.",
+      "keyPoints": [
+        "Performance and mileage",
+        "Comfort and convenience",
+        "Safety and reliability",
+        "Technology and connectivity",
+        "Value for money"
+      ]
+    },
+    "topPick": {
+      "rank": 1,
+      "image": "",
+      "title": "Royal Enfield Classic 350",
+      "description": "A top-performing fuel-based bike with excellent mileage and advanced features.",
+      "details": "The Royal Enfield Classic 350 offers a smooth riding experience with advanced safety features and a comfortable design.",
+      "metrics": [
+        {
+          "name": "Customer Reviews and Ratings",
+          "rating": 4.8
+        },
+        {
+          "name": "Price and Value for Money",
+          "rating": 4.7
+        },
+        {
+          "name": "Performance and Durability",
+          "rating": 4.7
+        },
+        {
+          "name": "Brand Reputation and Trustworthiness",
+          "rating": 4.8
+        }
+      ],
+      "purchaseLinks": [
+        {
+          "store": "Royal Enfield",
+          "price": "₹1,90,092",
+          "link": "https://www.royalenfield.com/in/en/motorcycles/classic-350/"
+        }
+      ],
+      "topPick": true
+    },
+    "competitionSection": {
+      "title": "The Competition",
+      "competitors": [
+        {
+          "rank": 2,
+          "image": "",
+          "title": "Bajaj Pulsar NS200",
+          "description": "A reliable fuel-based bike with modern features and great mileage.",
+          "details": "The Bajaj Pulsar NS200 features a stylish design, efficient performance, and advanced technology.",
+          "metrics": [
+            {
+              "name": "Customer Reviews and Ratings",
+              "rating": 4.6
+            },
+            {
+              "name": "Price and Value for Money",
+              "rating": 4.5
+            },
+            {
+              "name": "Performance and Durability",
+              "rating": 4.5
+            },
+            {
+              "name": "Brand Reputation and Trustworthiness",
+              "rating": 4.6
+            }
+          ],
+          "purchaseLinks": [
+            {
+              "store": "Bajaj",
+              "price": "₹1,49,726",
+              "link": "https://www.bajajauto.com/motor-bikes/pulsar-ns-200"
+            }
+          ],
+          "topPick": false
+        }
+      ]
+    }
+  },
+  {
+    "slug": ["automobiles", "motorcycles", "electric-cycle"],
+    "image": "https://example.com/electric-cycle.jpg",
+    "title": "The Best Electric Cycles",
+    "updatedDate": "April 29, 2024",
+    "researchLink": "/research-link",
+    "authors": "Ayush",
+    "description": "Discover the top electric cycles on the market. Our in-depth research and testing have identified the best options for performance, design, and value.",
+    "whyTrustUs": {
+      "title": "Why You Should Trust Us",
+      "content": "At OurCompany, we provide reliable reviews based on rigorous testing and analysis. Here's why you can trust our recommendations:",
+      "points": [
+        "We invest significant time in researching and testing each product to ensure it meets our stringent standards.",
+        "Our team comprises industry experts who understand the nuances of electric cycles.",
+        "Transparency is our priority; we provide comprehensive insights into each product's strengths and weaknesses.",
+        "Your satisfaction and trust are paramount to us, and we aim to recommend products that enhance your cycling experience."
+      ],
+      "conclusion": "Choosing our recommended electric cycles means choosing quality, innovation, and value."
+    },
+    "researchProcess": {
+      "title": "Our Research Process",
+      "content": [
+        "We begin by identifying popular electric cycle models and user preferences. Our research includes analyzing customer reviews, consulting industry experts, and considering market trends.",
+        "After narrowing down our choices, we acquire the cycles for hands-on testing. Each cycle undergoes thorough evaluation based on performance, battery life, build quality, and value.",
+        "Our team collaborates to evaluate and compare findings, ensuring a balanced assessment of each cycle's pros and cons.",
+        "Our top recommendations are electric cycles that excel in quality, functionality, and value, providing reliable options for your cycling needs."
+      ]
+    },
+    "comparisonSection": {
+      "title": "Who it’s for:",
+      "content": "Ideal for anyone looking for a high-quality electric cycle that offers performance, sustainability, and value. Perfect for daily commutes, recreational rides, and eco-conscious transportation.",
+      "keyPoints": [
+        "Performance and speed",
+        "Battery life and charging options",
+        "Build quality and design",
+        "Ease of use and maintenance",
+        "Additional features and accessories",
+        "Warranty information and customer support details"
+      ]
+    },
+    "topPick": {
+      "rank": 1,
+      "image": "/ElectricCycleTopPick.png",
+      "title": "Rad Power Bikes RadCity 5 Plus",
+      "description": "The best electric cycle offering top performance and value.",
+      "details": "The Rad Power Bikes RadCity 5 Plus features a powerful 750W motor, a long-lasting battery, and a comfortable design. Ideal for urban commutes and leisure rides.",
+      "metrics": [
+        {
+          "name": "Customer Reviews and Ratings",
+          "rating": 4.8
+        },
+        {
+          "name": "Price and Value for Money",
+          "rating": 4.7
+        },
+        {
+          "name": "Performance and Durability",
+          "rating": 4.9
+        },
+        {
+          "name": "Brand Reputation and Trustworthiness",
+          "rating": 4.8
+        }
+      ],
+      "purchaseLinks": [
+        {
+          "store": "Rad Power Bikes",
+          "price": "$1,799",
+          "link": "https://radpowerbikes.com"
+        },
+        {
+          "store": "Amazon",
+          "price": "$1,749",
+          "link": "https://amazon.com"
+        }
+      ],
+      "topPick": true
+    },
+    "competitionSection": {
+      "title": "The Competition",
+      "competitors": [
+        {
+          "rank": 2,
+          "image": "/ElectricCycleComp1.png",
+          "title": "Aventon Level.2",
+          "description": "A stylish and powerful electric cycle with great features.",
+          "details": "The Aventon Level.2 features a 500W motor, a sleek design, and a range of up to 60 miles. Perfect for city commuting and weekend rides.",
+          "metrics": [
+            {
+              "name": "Customer Reviews and Ratings",
+              "rating": 4.7
+            },
+            {
+              "name": "Price and Value for Money",
+              "rating": 4.6
+            },
+            {
+              "name": "Performance and Durability",
+              "rating": 4.8
+            },
+            {
+              "name": "Brand Reputation and Trustworthiness",
+              "rating": 4.7
+            }
+          ],
+          "purchaseLinks": [
+            {
+              "store": "Aventon",
+              "price": "$1,599",
+              "link": "https://aventon.com"
+            },
+            {
+              "store": "Best Buy",
+              "price": "$1,549",
+              "link": "https://bestbuy.com"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "image": "/ElectricCycleComp2.png",
+          "title": "Specialized Turbo Vado SL",
+          "description": "A lightweight and efficient electric cycle with premium features.",
+          "details": "The Specialized Turbo Vado SL features a 240W motor, a lightweight frame, and advanced connectivity options. Ideal for those who want a premium cycling experience.",
+          "metrics": [
+            {
+              "name": "Customer Reviews and Ratings",
+              "rating": 4.6
+            },
+            {
+              "name": "Price and Value for Money",
+              "rating": 4.5
+            },
+            {
+              "name": "Performance and Durability",
+              "rating": 4.7
+            },
+            {
+              "name": "Brand Reputation and Trustworthiness",
+              "rating": 4.8
+            }
+          ],
+          "purchaseLinks": [
+            {
+              "store": "Specialized",
+              "price": "$3,500",
+              "link": "https://specialized.com"
+            },
+            {
+              "store": "Amazon",
+              "price": "$3,450",
+              "link": "https://amazon.com"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "slug": ["automobiles", "motorcycles", "manual-cycle"],
+    "image": "https://example.com/manual-cycle.jpg",
+    "title": "The Best Manual Cycles",
+    "updatedDate": "April 29, 2024",
+    "researchLink": "/research-link",
+    "authors": "Ayush",
+    "description": "Explore the best manual cycles available. Our in-depth research and testing have identified the top choices for performance, design, and value.",
+    "whyTrustUs": {
+      "title": "Why You Should Trust Us",
+      "content": "At OurCompany, we provide reliable reviews based on rigorous testing and analysis. Here's why you can trust our recommendations:",
+      "points": [
+        "We invest significant time in researching and testing each product to ensure it meets our stringent standards.",
+        "Our team comprises industry experts who understand the nuances of manual cycles.",
+        "Transparency is our priority; we provide comprehensive insights into each product's strengths and weaknesses.",
+        "Your satisfaction and trust are paramount to us, and we aim to recommend products that enhance your cycling experience."
+      ],
+      "conclusion": "Choosing our recommended manual cycles means choosing quality, performance, and value."
+    },
+    "researchProcess": {
+      "title": "Our Research Process",
+      "content": [
+        "We begin by identifying popular manual cycle models and user preferences. Our research includes analyzing customer reviews, consulting industry experts, and considering market trends.",
+        "After narrowing down our choices, we acquire the cycles for hands-on testing. Each cycle undergoes thorough evaluation based on performance, build quality, design, and value.",
+        "Our team collaborates to evaluate and compare findings, ensuring a balanced assessment of each cycle's pros and cons.",
+        "Our top recommendations are manual cycles that excel in quality, functionality, and value, providing reliable options for your cycling needs."
+      ]
+    },
+    "comparisonSection": {
+      "title": "Who it’s for:",
+      "content": "Ideal for anyone looking for a high-quality manual cycle that offers performance, sustainability, and value. Perfect for fitness enthusiasts, recreational riders, and eco-conscious transportation.",
+      "keyPoints": [
+        "Performance and speed",
+        "Build quality and design",
+        "Comfort and ergonomics",
+        "Ease of use and maintenance",
+        "Additional features and accessories",
+        "Warranty information and customer support details"
+      ]
+    },
+    "topPick": {
+      "rank": 1,
+      "image": "/ManualCycleTopPick.png",
+      "title": "Trek Domane AL 2",
+      "description": "The best manual cycle offering top performance and value.",
+      "details": "The Trek Domane AL 2 features a lightweight aluminum frame, a smooth-shifting Shimano drivetrain, and comfortable geometry. Ideal for long rides and fitness training.",
+      "metrics": [
+        {
+          "name": "Customer Reviews and Ratings",
+          "rating": 4.8
+        },
+        {
+          "name": "Price and Value for Money",
+          "rating": 4.7
+        },
+        {
+          "name": "Performance and Durability",
+          "rating": 4.9
+        },
+        {
+          "name": "Brand Reputation and Trustworthiness",
+          "rating": 4.8
+        }
+      ],
+      "purchaseLinks": [
+        {
+          "store": "Trek Bikes",
+          "price": "$1,049",
+          "link": "https://trekbikes.com"
+        },
+        {
+          "store": "REI",
+          "price": "$999",
+          "link": "https://rei.com"
+        }
+      ],
+      "topPick": true
+    },
+    "competitionSection": {
+      "title": "The Competition",
+      "competitors": [
+        {
+          "rank": 2,
+          "image": "/ManualCycleComp1.png",
+          "title": "Giant Contend 3",
+          "description": "A reliable and affordable manual cycle with great features.",
+          "details": "The Giant Contend 3 features a lightweight aluminum frame, a Shimano Claris drivetrain, and a comfortable ride quality. Perfect for entry-level cyclists and fitness enthusiasts.",
+          "metrics": [
+            {
+              "name": "Customer Reviews and Ratings",
+              "rating": 4.7
+            },
+            {
+              "name": "Price and Value for Money",
+              "rating": 4.6
+            },
+            {
+              "name": "Performance and Durability",
+              "rating": 4.8
+            },
+            {
+              "name": "Brand Reputation and Trustworthiness",
+              "rating": 4.7
+            }
+          ],
+          "purchaseLinks": [
+            {
+              "store": "Giant Bicycles",
+              "price": "$930",
+              "link": "https://giant-bicycles.com"
+            },
+            {
+              "store": "Amazon",
+              "price": "$899",
+              "link": "https://amazon.com"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "image": "/ManualCycleComp2.png",
+          "title": "Cannondale CAAD Optimo 3",
+          "description": "A high-performance manual cycle with advanced features.",
+          "details": "The Cannondale CAAD Optimo 3 features a high-quality aluminum frame, a Shimano Sora drivetrain, and excellent handling. Ideal for serious cyclists and performance-focused riders.",
+          "metrics": [
+            {
+              "name": "Customer Reviews and Ratings",
+              "rating": 4.6
+            },
+            {
+              "name": "Price and Value for Money",
+              "rating": 4.5
+            },
+            {
+              "name": "Performance and Durability",
+              "rating": 4.7
+            },
+            {
+              "name": "Brand Reputation and Trustworthiness",
+              "rating": 4.8
+            }
+          ],
+          "purchaseLinks": [
+            {
+              "store": "Cannondale",
+              "price": "$1,100",
+              "link": "https://cannondale.com"
+            },
+            {
+              "store": "REI",
+              "price": "$1,050",
+              "link": "https://rei.com"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "slug": ["automobiles", "other-vehicle", "electric-rickshaw"],
+    "image": "https://example.com/electric-rickshaw.jpg",
+    "title": "The Best Electric Rickshaws in India",
+    "updatedDate": "April 29, 2024",
+    "researchLink": "/research-link",
+    "authors": "Ayush",
+    "description": "Discover the top electric rickshaws in India that combine efficiency, eco-friendliness, and value. Our comprehensive research and testing identify the best options for you.",
+    "whyTrustUs": {
+      "title": "Why You Should Trust Us",
+      "content": "At OurCompany, we provide reliable reviews based on rigorous testing and analysis. Here's why you can trust our recommendations:",
+      "points": [
+        "We invest significant time in researching and testing each product to ensure it meets our stringent standards.",
+        "Our team comprises industry experts who understand the nuances of electric vehicles.",
+        "Transparency is our priority; we provide comprehensive insights into each product's strengths and weaknesses.",
+        "Your satisfaction and trust are paramount to us, and we aim to recommend products that enhance your transportation experience."
+      ],
+      "conclusion": "Choosing our recommended electric rickshaws means choosing quality, efficiency, and sustainability."
+    },
+    "researchProcess": {
+      "title": "Our Research Process",
+      "content": [
+        "We begin by identifying popular electric rickshaw models and user preferences. Our research includes analyzing customer reviews, consulting industry experts, and considering market trends.",
+        "After narrowing down our choices, we acquire the rickshaws for hands-on testing. Each vehicle undergoes thorough evaluation based on performance, build quality, design, and value.",
+        "Our team collaborates to evaluate and compare findings, ensuring a balanced assessment of each vehicle's pros and cons.",
+        "Our top recommendations are electric rickshaws that excel in quality, functionality, and value, providing reliable options for your transportation needs."
+      ]
+    },
+    "comparisonSection": {
+      "title": "Who it’s for:",
+      "content": "Ideal for anyone looking for a high-quality electric rickshaw that offers performance, durability, and value. Perfect for commercial use, public transportation, and eco-friendly travel.",
+      "keyPoints": [
+        "Performance and power",
+        "Battery life and range",
+        "Build quality and durability",
+        "Comfort and ergonomics",
+        "Additional features and accessories",
+        "Warranty information and customer support details"
+      ]
+    },
+    "topPick": {
+      "rank": 1,
+      "image": "/RickshawTopPick.png",
+      "title": "Mahindra Treo",
+      "description": "The best electric rickshaw offering top performance and value in India.",
+      "details": "The Mahindra Treo features a powerful electric motor, a durable build, and advanced technology. Ideal for eco-friendly travel and commercial use.",
+      "metrics": [
+        {
+          "name": "Customer Reviews and Ratings",
+          "rating": 4.8
+        },
+        {
+          "name": "Price and Value for Money",
+          "rating": 4.7
+        },
+        {
+          "name": "Performance and Durability",
+          "rating": 4.9
+        },
+        {
+          "name": "Brand Reputation and Trustworthiness",
+          "rating": 4.8
+        }
+      ],
+      "purchaseLinks": [
+        {
+          "store": "Mahindra Electric",
+          "price": "₹2,00,000",
+          "link": "https://mahindraelectric.com"
+        },
+        {
+          "store": "Amazon India",
+          "price": "₹1,95,000",
+          "link": "https://amazon.in"
+        }
+      ],
+      "topPick": true
+    },
+    "competitionSection": {
+      "title": "The Competition",
+      "competitors": [
+        {
+          "rank": 2,
+          "image": "/RickshawComp1.png",
+          "title": "Kinetic Safar",
+          "description": "A reliable and efficient electric rickshaw with great features.",
+          "details": "The Kinetic Safar features a strong motor, a rugged build, and advanced safety features. Perfect for eco-friendly transportation and commercial use.",
+          "metrics": [
+            {
+              "name": "Customer Reviews and Ratings",
+              "rating": 4.7
+            },
+            {
+              "name": "Price and Value for Money",
+              "rating": 4.6
+            },
+            {
+              "name": "Performance and Durability",
+              "rating": 4.8
+            },
+            {
+              "name": "Brand Reputation and Trustworthiness",
+              "rating": 4.7
+            }
+          ],
+          "purchaseLinks": [
+            {
+              "store": "Kinetic Green",
+              "price": "₹2,10,000",
+              "link": "https://kineticgreen.com"
+            },
+            {
+              "store": "Flipkart",
+              "price": "₹2,05,000",
+              "link": "https://flipkart.com"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "image": "/RickshawComp2.png",
+          "title": "YC Electric E-Rickshaw",
+          "description": "An affordable electric rickshaw with good performance.",
+          "details": "The YC Electric E-Rickshaw offers a blend of efficiency and affordability, making it a popular choice for commercial use.",
+          "metrics": [
+            {
+              "name": "Customer Reviews and Ratings",
+              "rating": 4.6
+            },
+            {
+              "name": "Price and Value for Money",
+              "rating": 4.5
+            },
+            {
+              "name": "Performance and Durability",
+              "rating": 4.7
+            },
+            {
+              "name": "Brand Reputation and Trustworthiness",
+              "rating": 4.6
+            }
+          ],
+          "purchaseLinks": [
+            {
+              "store": "YC Electric",
+              "price": "₹1,80,000",
+              "link": "https://ycelectric.com"
+            },
+            {
+              "store": "Amazon India",
+              "price": "₹1,75,000",
+              "link": "https://amazon.in"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "slug": ["automobiles", "other-vehicle", "trucks"],
+    "image": "https://example.com/trucks.jpg",
+    "title": "The Best Trucks in India",
+    "updatedDate": "April 29, 2024",
+    "researchLink": "/research-link",
+    "authors": "Ayush",
+    "description": "Discover the top trucks available in India, combining power, durability, and value. Our research and testing identify the best options for various needs.",
+    "whyTrustUs": {
+      "title": "Why You Should Trust Us",
+      "content": "At OurCompany, we provide reliable reviews based on rigorous testing and analysis. Here's why you can trust our recommendations:",
+      "points": [
+        "We invest significant time in researching and testing each product to ensure it meets our stringent standards.",
+        "Our team comprises industry experts who understand the nuances of heavy vehicles.",
+        "Transparency is our priority; we provide comprehensive insights into each product's strengths and weaknesses.",
+        "Your satisfaction and trust are paramount to us, and we aim to recommend products that enhance your transportation experience."
+      ],
+      "conclusion": "Choosing our recommended trucks means choosing quality, performance, and value."
+    },
+    "researchProcess": {
+      "title": "Our Research Process",
+      "content": [
+        "We begin by identifying popular truck models and user preferences. Our research includes analyzing customer reviews, consulting industry experts, and considering market trends.",
+        "After narrowing down our choices, we acquire the trucks for hands-on testing. Each vehicle undergoes thorough evaluation based on performance, build quality, design, and value.",
+        "Our team collaborates to evaluate and compare findings, ensuring a balanced assessment of each vehicle's pros and cons.",
+        "Our top recommendations are trucks that excel in quality, functionality, and value, providing reliable options for your transportation needs."
+      ]
+    },
+    "comparisonSection": {
+      "title": "Who it’s for:",
+      "content": "Ideal for anyone looking for a high-quality truck that offers performance, durability, and value. Perfect for commercial use, heavy-duty tasks, and long-distance transport.",
+      "keyPoints": [
+        "Performance and power",
+        "Fuel efficiency and range",
+        "Build quality and durability",
+        "Comfort and ergonomics",
+        "Additional features and accessories",
+        "Warranty information and customer support details"
+      ]
+    },
+    "topPick": {
+      "rank": 1,
+      "image": "/TruckTopPick.png",
+      "title": "Tata Prima",
+      "description": "The best truck offering top performance and value in India.",
+      "details": "The Tata Prima features a powerful engine, a durable build, and advanced technology. Ideal for commercial use and long-distance transportation.",
+      "metrics": [
+        {
+          "name": "Customer Reviews and Ratings",
+          "rating": 4.8
+        },
+        {
+          "name": "Price and Value for Money",
+          "rating": 4.7
+        },
+        {
+          "name": "Performance and Durability",
+          "rating": 4.9
+        },
+        {
+          "name": "Brand Reputation and Trustworthiness",
+          "rating": 4.8
+        }
+      ],
+      "purchaseLinks": [
+        {
+          "store": "Tata Motors",
+          "price": "₹35,00,000",
+          "link": "https://tatamotors.com"
+        },
+        {
+          "store": "Amazon India",
+          "price": "₹34,50,000",
+          "link": "https://amazon.in"
+        }
+      ],
+      "topPick": true
+    },
+    "competitionSection": {
+      "title": "The Competition",
+      "competitors": [
+        {
+          "rank": 2,
+          "image": "/TruckComp1.png",
+          "title": "Ashok Leyland U-Truck",
+          "description": "A reliable and powerful truck with great features.",
+          "details": "The Ashok Leyland U-Truck features a strong engine, a rugged build, and advanced safety features. Perfect for heavy-duty tasks and long-distance transport.",
+          "metrics": [
+            {
+              "name": "Customer Reviews and Ratings",
+              "rating": 4.7
+            },
+            {
+              "name": "Price and Value for Money",
+              "rating": 4.6
+            },
+            {
+              "name": "Performance and Durability",
+              "rating": 4.8
+            },
+            {
+              "name": "Brand Reputation and Trustworthiness",
+              "rating": 4.7
+            }
+          ],
+          "purchaseLinks": [
+            {
+              "store": "Ashok Leyland",
+              "price": "₹33,00,000",
+              "link": "https://ashokleyland.com"
+            },
+            {
+              "store": "Flipkart",
+              "price": "₹32,50,000",
+              "link": "https://flipkart.com"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "image": "/TruckComp2.png",
+          "title": "Eicher Pro 6035",
+          "description": "A high-performance truck with advanced features.",
+          "details": "The Eicher Pro 6035 features a powerful engine, a luxurious interior, and advanced technology. Ideal for those who want a premium truck experience.",
+          "metrics": [
+            {
+              "name": "Customer Reviews and Ratings",
+              "rating": 4.6
+            },
+            {
+              "name": "Price and Value for Money",
+              "rating": 4.5
+            },
+            {
+              "name": "Performance and Durability",
+              "rating": 4.7
+            },
+            {
+              "name": "Brand Reputation and Trustworthiness",
+              "rating": 4.8
+            }
+          ],
+          "purchaseLinks": [
+            {
+              "store": "Eicher",
+              "price": "₹36,00,000",
+              "link": "https://eicher.in"
+            },
+            {
+              "store": "Amazon India",
+              "price": "₹35,50,000",
+              "link": "https://amazon.in"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "slug": ["automobiles", "other-vehicle", "bus"],
+    "image": "https://example.com/bus.jpg",
+    "title": "The Best Buses in India",
+    "updatedDate": "April 29, 2024",
+    "researchLink": "/research-link",
+    "authors": "Ayush",
+    "description": "Explore the best buses available on the Indian market. Our in-depth research and testing have identified the top choices for performance, design, and value.",
+    "whyTrustUs": {
+      "title": "Why You Should Trust Us",
+      "content": "At OurCompany, we provide reliable reviews based on rigorous testing and analysis. Here's why you can trust our recommendations:",
+      "points": [
+        "We invest significant time in researching and testing each product to ensure it meets our stringent standards.",
+        "Our team comprises industry experts who understand the nuances of heavy vehicles.",
+        "Transparency is our priority; we provide comprehensive insights into each product's strengths and weaknesses.",
+        "Your satisfaction and trust are paramount to us, and we aim to recommend products that enhance your transportation experience."
+      ],
+      "conclusion": "Choosing our recommended buses means choosing quality, performance, and value."
+    },
+    "researchProcess": {
+      "title": "Our Research Process",
+      "content": [
+        "We begin by identifying popular bus models and user preferences. Our research includes analyzing customer reviews, consulting industry experts, and considering market trends.",
+        "After narrowing down our choices, we acquire the buses for hands-on testing. Each vehicle undergoes thorough evaluation based on performance, build quality, design, and value.",
+        "Our team collaborates to evaluate and compare findings, ensuring a balanced assessment of each vehicle's pros and cons.",
+        "Our top recommendations are buses that excel in quality, functionality, and value, providing reliable options for your transportation needs."
+      ]
+    },
+    "comparisonSection": {
+      "title": "Who it’s for:",
+      "content": "Ideal for anyone looking for a high-quality bus that offers performance, durability, and value. Perfect for commercial use, public transportation, and long-distance travel.",
+      "keyPoints": [
+        "Performance and power",
+        "Fuel efficiency and range",
+        "Build quality and durability",
+        "Comfort and ergonomics",
+        "Additional features and accessories",
+        "Warranty information and customer support details"
+      ]
+    },
+    "topPick": {
+      "rank": 1,
+      "image": "/BusTopPick.png",
+      "title": "Tata Marcopolo",
+      "description": "The best bus offering top performance and value in India.",
+      "details": "The Tata Marcopolo features a powerful engine, a durable build, and advanced technology. Ideal for public transportation and long-distance travel in India.",
+      "metrics": [
+        {
+          "name": "Customer Reviews and Ratings",
+          "rating": 4.8
+        },
+        {
+          "name": "Price and Value for Money",
+          "rating": 4.7
+        },
+        {
+          "name": "Performance and Durability",
+          "rating": 4.9
+        },
+        {
+          "name": "Brand Reputation and Trustworthiness",
+          "rating": 4.8
+        }
+      ],
+      "purchaseLinks": [
+        {
+          "store": "Tata Motors",
+          "price": "₹25,00,000",
+          "link": "https://tatamotors.com"
+        },
+        {
+          "store": "Amazon India",
+          "price": "₹24,50,000",
+          "link": "https://amazon.in"
+        }
+      ],
+      "topPick": true
+    },
+    "competitionSection": {
+      "title": "The Competition",
+      "competitors": [
+        {
+          "rank": 2,
+          "image": "/BusComp1.png",
+          "title": "Ashok Leyland Janbus",
+          "description": "A reliable and powerful bus with great features.",
+          "details": "The Ashok Leyland Janbus features a strong engine, a rugged build, and advanced safety features. Perfect for public transportation and heavy-duty tasks.",
+          "metrics": [
+            {
+              "name": "Customer Reviews and Ratings",
+              "rating": 4.7
+            },
+            {
+              "name": "Price and Value for Money",
+              "rating": 4.6
+            },
+            {
+              "name": "Performance and Durability",
+              "rating": 4.8
+            },
+            {
+              "name": "Brand Reputation and Trustworthiness",
+              "rating": 4.7
+            }
+          ],
+          "purchaseLinks": [
+            {
+              "store": "Ashok Leyland",
+              "price": "₹27,00,000",
+              "link": "https://ashokleyland.com"
+            },
+            {
+              "store": "Flipkart",
+              "price": "₹26,50,000",
+              "link": "https://flipkart.com"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "image": "/BusComp2.png",
+          "title": "Volvo 9400",
+          "description": "A high-performance bus with advanced features.",
+          "details": "The Volvo 9400 features a powerful engine, a luxurious interior, and advanced technology. Ideal for those who want a premium bus experience.",
+          "metrics": [
+            {
+              "name": "Customer Reviews and Ratings",
+              "rating": 4.6
+            },
+            {
+              "name": "Price and Value for Money",
+              "rating": 4.5
+            },
+            {
+              "name": "Performance and Durability",
+              "rating": 4.7
+            },
+            {
+              "name": "Brand Reputation and Trustworthiness",
+              "rating": 4.8
+            }
+          ],
+          "purchaseLinks": [
+            {
+              "store": "Volvo",
+              "price": "₹32,00,000",
+              "link": "https://volvobuses.in"
+            },
+            {
+              "store": "Amazon India",
+              "price": "₹31,50,000",
+              "link": "https://amazon.in"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "slug": ["automobiles", "other-vehicle", "van"],
+    "image": "https://example.com/van.jpg",
+    "title": "The Best Vans in India",
+    "updatedDate": "April 29, 2024",
+    "researchLink": "/research-link",
+    "authors": "Ayush",
+    "description": "Discover the top vans available in India, combining performance, durability, and value. Our research and testing identify the best options for various needs.",
+    "whyTrustUs": {
+      "title": "Why You Should Trust Us",
+      "content": "At OurCompany, we provide reliable reviews based on rigorous testing and analysis. Here's why you can trust our recommendations:",
+      "points": [
+        "We invest significant time in researching and testing each product to ensure it meets our stringent standards.",
+        "Our team comprises industry experts who understand the nuances of heavy vehicles.",
+        "Transparency is our priority; we provide comprehensive insights into each product's strengths and weaknesses.",
+        "Your satisfaction and trust are paramount to us, and we aim to recommend products that enhance your transportation experience."
+      ],
+      "conclusion": "Choosing our recommended vans means choosing quality, performance, and value."
+    },
+    "researchProcess": {
+      "title": "Our Research Process",
+      "content": [
+        "We begin by identifying popular van models and user preferences. Our research includes analyzing customer reviews, consulting industry experts, and considering market trends.",
+        "After narrowing down our choices, we acquire the vans for hands-on testing. Each vehicle undergoes thorough evaluation based on performance, build quality, design, and value.",
+        "Our team collaborates to evaluate and compare findings, ensuring a balanced assessment of each vehicle's pros and cons.",
+        "Our top recommendations are vans that excel in quality, functionality, and value, providing reliable options for your transportation needs."
+      ]
+    },
+    "comparisonSection": {
+      "title": "Who it’s for:",
+      "content": "Ideal for anyone looking for a high-quality van that offers performance, durability, and value. Perfect for commercial use, family travel, and long-distance transport.",
+      "keyPoints": [
+        "Performance and power",
+        "Fuel efficiency and range",
+        "Build quality and durability",
+        "Comfort and ergonomics",
+        "Additional features and accessories",
+        "Warranty information and customer support details"
+      ]
+    },
+    "topPick": {
+      "rank": 1,
+      "image": "/VanTopPick.png",
+      "title": "Maruti Suzuki Eeco",
+      "description": "The best van offering top performance and value in India.",
+      "details": "The Maruti Suzuki Eeco features a powerful engine, a durable build, and advanced technology. Ideal for commercial use and family travel.",
+      "metrics": [
+        {
+          "name": "Customer Reviews and Ratings",
+          "rating": 4.8
+        },
+        {
+          "name": "Price and Value for Money",
+          "rating": 4.7
+        },
+        {
+          "name": "Performance and Durability",
+          "rating": 4.9
+        },
+        {
+          "name": "Brand Reputation and Trustworthiness",
+          "rating": 4.8
+        }
+      ],
+      "purchaseLinks": [
+        {
+          "store": "Maruti Suzuki",
+          "price": "₹5,00,000",
+          "link": "https://marutisuzuki.com"
+        },
+        {
+          "store": "Amazon India",
+          "price": "₹4,90,000",
+          "link": "https://amazon.in"
+        }
+      ],
+      "topPick": true
+    },
+    "competitionSection": {
+      "title": "The Competition",
+      "competitors": [
+        {
+          "rank": 2,
+          "image": "/VanComp1.png",
+          "title": "Tata Winger",
+          "description": "A reliable and powerful van with great features.",
+          "details": "The Tata Winger features a strong engine, a rugged build, and advanced safety features. Perfect for commercial use and family travel.",
+          "metrics": [
+            {
+              "name": "Customer Reviews and Ratings",
+              "rating": 4.7
+            },
+            {
+              "name": "Price and Value for Money",
+              "rating": 4.6
+            },
+            {
+              "name": "Performance and Durability",
+              "rating": 4.8
+            },
+            {
+              "name": "Brand Reputation and Trustworthiness",
+              "rating": 4.7
+            }
+          ],
+          "purchaseLinks": [
+            {
+              "store": "Tata Motors",
+              "price": "₹6,00,000",
+              "link": "https://tatamotors.com"
+            },
+            {
+              "store": "Flipkart",
+              "price": "₹5,90,000",
+              "link": "https://flipkart.com"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "image": "/VanComp2.png",
+          "title": "Force Traveller",
+          "description": "A high-performance van with advanced features.",
+          "details": "The Force Traveller features a powerful engine, a luxurious interior, and advanced technology. Ideal for those who want a premium van experience.",
+          "metrics": [
+            {
+              "name": "Customer Reviews and Ratings",
+              "rating": 4.6
+            },
+            {
+              "name": "Price and Value for Money",
+              "rating": 4.5
+            },
+            {
+              "name": "Performance and Durability",
+              "rating": 4.7
+            },
+            {
+              "name": "Brand Reputation and Trustworthiness",
+              "rating": 4.8
+            }
+          ],
+          "purchaseLinks": [
+            {
+              "store": "Force Motors",
+              "price": "₹8,00,000",
+              "link": "https://forcemotors.com"
+            },
+            {
+              "store": "Amazon India",
+              "price": "₹7,90,000",
+              "link": "https://amazon.in"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]
