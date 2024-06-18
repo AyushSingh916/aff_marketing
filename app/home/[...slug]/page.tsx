@@ -39,8 +39,8 @@ export default function ProductPage({ params }: ProductPageProps) {
             <p>Updated {product.updatedDate}</p>
             <Link href={product.researchLink}>
               <p className="flex items-center gap-2 text-blue-600 hover:underline">
-                <FaRegCircleUser size={20} />
-                <span>Research By {product.authors}</span>
+                {/* <FaRegCircleUser size={20} /> */}
+                {/* <span>Research By {product.authors}</span> */}
               </p>
             </Link>
           </div>

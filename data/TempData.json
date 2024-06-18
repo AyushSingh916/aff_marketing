@@ -1,0 +1,242 @@
+[
+  {
+    "text": "Health & Lifestyle",
+    "href": "/health-lifestyle",
+    "sublinks": [
+      {
+        "text": "Health Care Product",
+        "href": "/health-lifestyle/health-care-products",
+        "sublinks": [
+          {
+            "text": "Body lotions",
+            "href": "/health-lifestyle/health-care-products/body-lotions"
+          },
+          {
+            "text": "Hair Oils",
+            "href": "/health-lifestyle/health-care-products/hair-oils"
+          },
+          {
+            "text": "Health Care Machines",
+            "href": "/health-lifestyle/health-care-products/health-care-machines"
+          }
+        ]
+      },
+      {
+        "text": "Wellness & Nutrition",
+        "href": "/health-lifestyle/wellness-nutrition",
+        "sublinks": [
+          {
+            "text": "Protein & Vitamin Supplements",
+            "href": "/health-lifestyle/wellness-nutrition/protein-vitamin-supplements"
+          },
+          {
+            "text": "Nutritional Drinks & Powder",
+            "href": "/health-lifestyle/wellness-nutrition/nutritional-drinks-powders"
+          },
+          {
+            "text": "Diet & Weight Gain & Loss Products",
+            "href": "/health-lifestyle/wellness-nutrition/diet-weight-gain-loss-products"
+          }
+        ]
+      },
+      {
+        "text": "Beauty Products",
+        "href": "/health-lifestyle/beauty-products",
+        "sublinks": [
+          {
+            "text": "Skin Care Products",
+            "href": "/health-lifestyle/beauty-products/skin-care-products"
+          },
+          {
+            "text": "Makeup Products",
+            "href": "/health-lifestyle/beauty-products/makeup-products"
+          },
+          {
+            "text": "Perfumes",
+            "href": "/health-lifestyle/beauty-products/perfumes"
+          }
+        ]
+      },
+      {
+        "text": "Household Supplies",
+        "href": "/health-lifestyle/household-supplies",
+        "sublinks": [
+          {
+            "text": "Detergents & Cleaners",
+            "href": "/health-lifestyle/household-supplies/detergents-cleaners"
+          },
+          {
+            "text": "Dairy Products",
+            "href": "/health-lifestyle/household-supplies/dairy-products"
+          },
+          {
+            "text": "Breakfast Products",
+            "href": "/health-lifestyle/household-supplies/breakfast-products"
+          }
+        ]
+      },
+      {
+        "text": "Personal Care",
+        "href": "/health-lifestyle/personal-care",
+        "sublinks": [
+          {
+            "text": "Oral care",
+            "href": "/health-lifestyle/personal-care/oral-care"
+          },
+          {
+            "text": "Women's Care",
+            "href": "/health-lifestyle/personal-care/womens-care"
+          },
+          {
+            "text": "Men's Grooming",
+            "href": "/health-lifestyle/personal-care/mens-grooming"
+          },
+          {
+            "text": "Sexual Wellness",
+            "href": "/health-lifestyle/personal-care/sexual-wellness"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "text": "Clothing&Bags",
+    "href": "/clothing",
+    "sublinks": [
+      {
+        "text": "Tops",
+        "href": "/clothing/tops",
+        "sublinks": [
+          {
+            "text": "Men's button-up shirts",
+            "href": "/clothing/tops/mens-button-up-shirts"
+          },
+          {
+            "text": "Men's white t-shirts",
+            "href": "/clothing/tops/mens-white-t-shirts"
+          },
+          {
+            "text": "Women's white t-shirts",
+            "href": "/clothing/tops/womens-white-t-shirts"
+          },
+          {
+            "text": "Cashmere sweaters",
+            "href": "/clothing/tops/cashmere-sweaters"
+          }
+        ]
+      },
+      {
+        "text": "Pants",
+        "href": "/clothing/pants",
+        "sublinks": [
+          { "text": "Men's jeans", "href": "/clothing/pants/mens-jeans" },
+          { "text": "Women's jeans", "href": "/clothing/pants/womens-jeans" },
+          { "text": "Leggings", "href": "/clothing/pants/leggings" },
+          { "text": "Rain pants", "href": "/clothing/pants/rain-pants" }
+        ]
+      },
+      {
+        "text": "Jackets",
+        "href": "/clothing/jackets",
+        "sublinks": [
+          { "text": "Rain jackets", "href": "/clothing/jackets/rain-jackets" },
+          { "text": "Down jackets", "href": "/clothing/jackets/down-jackets" },
+          {
+            "text": "Insulated vests",
+            "href": "/clothing/jackets/insulated-vests"
+          }
+        ]
+      },
+      {
+        "text": "Underwear",
+        "href": "/clothing/underwear",
+        "sublinks": [
+          { "text": "Bras", "href": "/clothing/underwear/bras" },
+          {
+            "text": "Women's underwear",
+            "href": "/clothing/underwear/womens-underwear"
+          },
+          {
+            "text": "Period underwear",
+            "href": "/clothing/underwear/period-underwear"
+          },
+          {
+            "text": "Boxer briefs",
+            "href": "/clothing/underwear/boxer-briefs"
+          },
+          {
+            "text": "Thermal underwear",
+            "href": "/clothing/underwear/thermal-underwear"
+          }
+        ]
+      },
+      {
+        "text": "Kids",
+        "href": "/clothing/kids",
+        "sublinks": [
+          { "text": "Kids pajamas", "href": "/clothing/kids/kids-pajamas" },
+          { "text": "Kids underwear", "href": "/clothing/kids/kids-underwear" }
+        ]
+      },
+      {
+        "text": "Sleep",
+        "href": "/clothing/sleep",
+        "sublinks": [
+          { "text": "Robes", "href": "/clothing/sleep/robes" },
+          { "text": "Pajamas", "href": "/clothing/sleep/pajamas" },
+          { "text": "Slippers", "href": "/clothing/sleep/slippers" },
+          { "text": "Sleep masks", "href": "/clothing/sleep/sleep-masks" }
+        ]
+      }
+    ]
+  },
+  
+  {
+    "text": "Shoes",
+    "href": "/shoes",
+    "sublinks": [
+      {
+        "text": "Boots",
+        "href": "/shoes/boots",
+        "sublinks": [
+          { "text": "Winter boots", "href": "/shoes/boots/winter-boots" },
+          { "text": "Rain boots", "href": "/shoes/boots/rain-boots" },
+          { "text": "Hiking boots", "href": "/shoes/boots/hiking-boots" }
+        ]
+      },
+      {
+        "text": "Sneakers",
+        "href": "/shoes/sneakers",
+        "sublinks": [
+          { "text": "Running shoes", "href": "/shoes/sneakers/running-shoes" },
+          { "text": "White sneakers", "href": "/shoes/sneakers/white-sneakers" }
+        ]
+      },
+      {
+        "text": "Seasonal",
+        "href": "/shoes/seasonal",
+        "sublinks": [
+          { "text": "Sandals", "href": "/shoes/seasonal/sandals" },
+          { "text": "Water shoes", "href": "/shoes/seasonal/water-shoes" },
+          {
+            "text": "Ice cleats for shoes",
+            "href": "/shoes/seasonal/ice-cleats-for-shoes"
+          }
+        ]
+      },
+      {
+        "text": "Socks",
+        "href": "/shoes/socks",
+        "sublinks": [
+          {
+            "text": "Compression socks",
+            "href": "/shoes/socks/compression-socks"
+          },
+          { "text": "Hiking socks", "href": "/shoes/socks/hiking-socks" },
+          { "text": "No-show socks", "href": "/shoes/socks/no-show-socks" }
+        ]
+      }
+    ]
+  }
+]

@@ -1,351 +1,331 @@
-{
-    "slug": ["IEM","IN EAR MONITOR"],
+[
+  {
+    "slug": ["electronic-devices", "audio-equipment", "earphone"],
     "image": "",
     "title": "Best IEM'S under 2000rs ",
-    "updatedDate": "june 27 2024",
+    "updatedDate": "June 27, 2024",
     "researchLink": "",
     "authors": "Ashutosh",
-    "description": "Best In-Ear Monitors (IEMs) Under 2000rs
-     If you're an audiophile seeking the ultimate listening experience, a set of premium in-ear monitors (IEMs) under 2000rs can offer unparalleled sound quality, comfort, and craftsmanship. 
-     Here are some top contenders that excel in various aspects, ensuring an immersive audio experience",
+    "description": "Best In-Ear Monitors (IEMs) Under 2000rs If you're an audiophile seeking the ultimate listening experience, a set of premium in-ear monitors (IEMs) under 2000rs can offer unparalleled sound quality, comfort, and craftsmanship. Here are some top contenders that excel in various aspects, ensuring an immersive audio experience",
     "whyTrustUs": {
       "title": "Why You Should Trust Us",
-      "content": "At Our Company, we are committed to delivering top-quality products that undergo rigorous testing and thorough reviews. This dedication is why you can trust us. ;) ",
-      "points": [“We dedicate weeks to researching and testing each product, ensuring they meet our high standards.”,
-  
-          “Our team of industry experts understands what makes a product truly worth your investment.”,
-  
-          “Transparency and honesty are our core values, reflected in our comprehensive reviews and insights.”,
-  
-          “Your satisfaction is our top priority, and we aim to provide products that enhance your daily life.”
-  ],
+      "content": "At Our Company, we are committed to delivering top-quality products that undergo rigorous testing and thorough reviews. This dedication is why you can trust us. ;)",
+      "points": [
+        "We dedicate weeks to researching and testing each product, ensuring they meet our high standards.",
+        "Our team of industry experts understands what makes a product truly worth your investment.",
+        "Transparency and honesty are our core values, reflected in our comprehensive reviews and insights.",
+        "Your satisfaction is our top priority, and we aim to provide products that enhance your daily life."
+      ],
       "conclusion": "When you opt for our recommended products, you’re not simply buying; you’re investing in quality, reliability, and outstanding service."
     },
     "researchProcess": {
       "title": "Our Research Process",
-      "content": ["We take pride in our thorough research process. Our team begins by identifying the needs and preferences of our audience. 
-      We then scour the market for products that meet these criteria, taking   into account customer reviews, expert opinions, and industry standards.",
-  
-            "Once we have a list of potential products, we purchase them ourselves to ensure an unbiased review. 
-      Each product is tested in real-world conditions over a period of weeks. We assess their performance, durability, ease of use, and overall value.",
-  
-            "After testing, our team convenes to discuss our findings and compare notes.
-       We consider both the pros and cons of each product and weigh them against our criteria to determine which products truly stand out.",
-  
-            "Our final recommendations are products that we believe offer the best combination of quality, performance, and value.
-       We are committed to helping you make informed decisions and are confident that our recommendations will meet your expectations."
-  ]
+      "content": [
+        "We take pride in our thorough research process. Our team begins by identifying the needs and preferences of our audience. We then scour the market for products that meet these criteria, taking into account customer reviews, expert opinions, and industry standards.",
+        "Once we have a list of potential products, we purchase them ourselves to ensure an unbiased review. Each product is tested in real-world conditions over a period of weeks. We assess their performance, durability, ease of use, and overall value.",
+        "After testing, our team convenes to discuss our findings and compare notes. We consider both the pros and cons of each product and weigh them against our criteria to determine which products truly stand out.",
+        "Our final recommendations are products that we believe offer the best combination of quality, performance, and value. We are committed to helping you make informed decisions and are confident that our recommendations will meet your expectations."
+      ]
     },
     "comparisonSection": {
       "title": "Who it’s for",
-      "content": "Our recommended IEMs cater to both budget-conscious listeners seeking neutral yet crisp sound with good trebles and some bass for fun
-       we love catering for  those looking to upgrade their listening experience.",
+      "content": "Our recommended IEMs cater to both budget-conscious listeners seeking neutral yet crisp sound with good trebles and some bass for fun. We love catering for those looking to upgrade their listening experience.",
       "keyPoints": []
     },
     "topPick": {
       "rank": 1,
       "image": "",
       "title": "KZ - ZEX",
-      "description": "Electrostatic + Dynamic Hybrid Technology: By combining a 6.8mm low-voltage electrostatic unit with a 10mm dual magnetic dynamic unit, these earphones deliver rich music details and an 	impressive listening experience.
-  
-      20-40kHz Wide Sound Field: The electrostatic unit excels in the 20kHz frequency band, creating a deep and ethereal sound reminiscent of whale hums. The wide sound field immerses listeners.
-  
-      Impeccable Craftsmanship: Crafted from cast zinc alloy and imported resin, the seamless design showcases rare texture and aesthetics.
-  
-      Comfortable Ergonomic Design: The ear canal contour, informed by extensive auricle data, ensures a comfortable fit for extended wear.
-  
-      Professional Silver-plated Flat Cables: These cables prevent tangling, reduce signal loss, and enhance resolution, making them ideal for HiFi sound quality.",
-  
-      "details": " Sound Signature: V-Shaped: An equal amount of bass and treble that adds excitement & is enjoyable.
-  
-           Driver Configuration: 1 X Dynamic + 1 X EST Drivers
-  
-           Noise Control: ‎Sound Isolation 
-  
-           Our Take:The KZ ZEX stands out as one of the most meticulously designed and well-constructed budget IEMs from KZ in recent times.
-           Whether you’re new to high-quality earphones or seeking an all-rounder, the KZ ZEX delivers captivating sound without straining your wallet.
-  
-           Plug Type: 3.5mm Single-Ended
-  
-           Frequency Response:	‎40000 Hz 
-           
-           In The Box :KZ ZEX Earphones, Silver-Plated Cable
-  
-           IMPEDANCE:	25 Ohms
-  
-           Detachable Cable: 2-Pin Upgradable Cables
-  
-           Build: Plastic
-  
-          "metrics": [{
+      "description": "Electrostatic + Dynamic Hybrid Technology: By combining a 6.8mm low-voltage electrostatic unit with a 10mm dual magnetic dynamic unit, these earphones deliver rich music details and an impressive listening experience. 20-40kHz Wide Sound Field: The electrostatic unit excels in the 20kHz frequency band, creating a deep and ethereal sound reminiscent of whale hums. The wide sound field immerses listeners. Impeccable Craftsmanship: Crafted from cast zinc alloy and imported resin, the seamless design showcases rare texture and aesthetics. Comfortable Ergonomic Design: The ear canal contour, informed by extensive auricle data, ensures a comfortable fit for extended wear. Professional Silver-plated Flat Cables: These cables prevent tangling, reduce signal loss, and enhance resolution, making them ideal for HiFi sound quality.",
+      "details": "Sound Signature: V-Shaped: An equal amount of bass and treble that adds excitement & is enjoyable. Driver Configuration: 1 X Dynamic + 1 X EST Drivers Noise Control: Sound Isolation Our Take:The KZ ZEX stands out as one of the most meticulously designed and well-constructed budget IEMs from KZ in recent times. Whether you’re new to high-quality earphones or seeking an all-rounder, the KZ ZEX delivers captivating sound without straining your wallet. Plug Type: 3.5mm Single-Ended Frequency Response: 40000 Hz In The Box: KZ ZEX Earphones, Silver-Plated Cable IMPEDANCE: 25 Ohms Detachable Cable: 2-Pin Upgradable Cables Build: Plastic",
+      "metrics": [
+        {
+          "name": "Customer Reviews and Ratings",
+          "rating": 4.3
+        },
+        {
+          "name": "Price and Value for Money",
+          "rating": 4.5
+        },
+        {
+          "name": "Product Build Quality",
+          "rating": 3
+        },
+        {
+          "name": "Brand Reputation and Trustworthiness",
+          "rating": 4
+        }
+      ],
+      "purchaseLinks": [
+        {
+          "store": "Amazon",
+          "price": "2,133",
+          "link": "https://www.amazon.in/KZ-ZEX-electrostatic-Headphone-Detachable/dp/B09HQQK7DY?th=1"
+        },
+        {
+          "store": "Headphone zone",
+          "price": "1790",
+          "link": "https://www.headphonezone.in/products/kz-zex"
+        }
+      ],
+      "topPick": true
+    },
+    "competitionSection": {
+      "title": "The Competition",
+      "competitors": [
+        {
+          "rank": 2,
+          "image": "",
+          "title": "7Hz Salnotes Zero",
+          "description": "Revolutionary 10mm Dynamic Driver: The 7Hz Salnotes Zero features a 10mm dynamic driver with a metal composite diaphragm, revolutionizing sound quality. The high-quality metallic diaphragm resonates effortlessly with sound waves, ensuring exceptional audio transmission. Ergonomic Shape & Metal Housing: Crafted with precision, these IEMs combine an environment-friendly plastic chassis with a stainless-steel faceplate. The ergonomic design enhances acoustic performance, comfort, and durability. Ultimate Audio Experience: Whether on smartphones, laptops, or desktop computers, the 7Hz Salnotes Zero delivers an unparalleled audio experience. Fine-tuned dynamic drivers ensure accurate and efficient sound reproduction, free from distortion. High Purity Oxygen-Free Copper Cable: The detachable cable features gold-plated 0.78mm 2-pin connectors. Made of 4-core high-purity oxygen-free copper in a parallel structure, it minimizes signal loss for high-fidelity transmission. The Depth of Zero: By naming the product “ZERO,” 7Hz aims to convey their philosophy of life. Zero represents both eternity and mortality, allowing boundless imagination and endless possibilities.",
+          "details": "Drivers: 10mm Dynamic Driver Microphone: 3.5mm - With Mic/Without Mic Type-C - Yes Wired Connectivity: 3.5mm/Type-C Pin Type: 0.78mm 2-Pin Impedance: >32 ohms Sound Pressure Level: 108dB/V@1kHz Frequency Response: 10-20000Hz THD: <1%/1khz Compatibility: Universal Wearing Style: In-Ear Detachable Cable: Yes Housing Material: Metal Cable: High Purity OFC Cable Box Contents: 1. 7HZ Salnotes Zero 2. Standard 2pin Cable With a 3.5mm/Type-C Termination 3. 5 Pairs Of Silicone Eartips 4. Manual",
+          "metrics": [
+            {
               "name": "Customer Reviews and Ratings",
-              "rating": 4.3
+              "rating": 4
             },
             {
               "name": "Price and Value for Money",
-              "rating": 4.5
+              "rating": 4.4
             },
             {
               "name": "Product Build Quality",
-              "rating": 3
+              "rating": 4.2
             },
             {
               "name": "Brand Reputation and Trustworthiness",
               "rating": 4
             }
-  ],
-      "purchaseLinks": [{
+          ],
+          "purchaseLinks": [
+            {
               "store": "Amazon",
-              "price": "2,133",
-              "link": "https://www.amazon.in/KZ-ZEX-electrostatic-Headphone-Detachable/dp/B09HQQK7DY?th=1"
+              "price": "2036",
+              "link": "https://www.amazon.in/Mecha-Composite-Detachable-Leatherette-Red/dp/B0BPP5V6XJ/ref=sr_1_1?crid=2ZP0T1YMTL1CU&dib=eyJ2IjoiMSJ9.DhcEkI-Fgi7qf6BKtAQgnAARORMHVRQlTEkE3HRQRJ_MkKSkOJlA-L2yoc6tnuNfCONeMqG36uG6oQ5f5stZs0uMweOmfwl3oaZFQAcfyqm63DGaMAIryGiRGkeE5ssRwSfUgMOj10cL_PQ7lJwNIRDiCScfnrI-g_qYLzpAy5i6FenSs11MgdH7r0m2P2IVCav7gLi6eL0bkuJKxtXgrmqw1l5-wavzo1CjsggjB3xWWc-sl56zNN62-SyRZImzjQXaIMmVpPu6PtYhY680iBpwQ0JxFKEoU3vXiG8jqaA.tpD5wdLn402_C_mTrZw_z-vGb7HdiFidA3HCKJmfVaA&dib_tag=se&keywords=7Hz+Salnotes+Zero+%2B+earphones&qid=1670064034&sprefix=7hz+salnotes+zero+%2Caps%2C311&sr=8-1"
             },
             {
               "store": "Headphone zone",
-              "price": "1790",
-              "link": "https://www.headphonezone.in/products/kz-zex"
+              "price": "1799",
+              "link": "https://www.headphonezone.in/products/7hz-salnotes-zero"
             }
-  ],
-      "topPick": True
+          ],
+          "topPick": false
+        },
+        {
+          "rank": 3,
+          "image": "",
+          "title": "CCA CRA",
+          "description": "Superior Quality at an Affordable Price: CCA CRA in-ear monitors deliver an unparalleled audio experience, setting a new standard in quality within its price range. Enjoy high-fidelity sound without breaking the bank. High-Fidelity Sound with 3D Effects: Equipped with an all-new 3D stereoscopic sound effect, these earphones create a rich, immersive auditory environment. The balanced sound signature, paired with a powerful bass response, ensures an engaging listening experience. Ergonomic and Comfortable Design: The CCA CRA IEMs are designed for long listening sessions. The ergonomic fit ensures comfort while maintaining excellent sound isolation. Durability and Longevity: Built with high-quality materials, these earphones are designed to withstand daily wear and tear, making them a reliable choice for everyday use. Customizable Options: The detachable cable allows for easy upgrades, enabling users to customize their listening experience to suit their preferences.",
+          "details": "Drive units: 10mm dual magnetic dynamic driver Frequency response range: 20Hz-40kHz Sensitivity: 105dB Impedance: 25 ohms Cable length: 1.2m Connector type: 3.5mm gold-plated plug Shell material: zinc alloy + plastic Cable material: high-purity OFC silver-plated cable Our Take: The CCA CRA offers a balanced sound signature with a slight emphasis on bass, making them suitable for various music genres. The detachable cable allows for easy replacement or upgrades, and the ergonomic design ensures a comfortable fit for extended listening sessions.",
+          "metrics": [
+            {
+              "name": "Customer Reviews and Ratings",
+              "rating": 3.8
+            },
+            {
+              "name": "Price and Value for Money",
+              "rating": 4.2
+            },
+            {
+              "name": "Product Build Quality",
+              "rating": 3.7
+            },
+            {
+              "name": "Brand Reputation and Trustworthiness",
+              "rating": 3.9
+            }
+          ],
+          "purchaseLinks": [
+            {
+              "store": "Amazon",
+              "price": "1899",
+              "link": "https://www.amazon.in/CRA-Earphone-Monitor-Detachable-Audiophile/dp/B09PXL7G2Y/ref=sr_1_1?crid=2SJ8MG7D2FFJS&keywords=cca+cra+earphone&qid=1670064108&sprefix=cca+cra+earphone%2Caps%2C285&sr=8-1"
+            },
+            {
+              "store": "Headphone zone",
+              "price": "1890",
+              "link": "https://www.headphonezone.in/products/cca-cra"
+            }
+          ],
+          "topPick": false
+        }
+      ]
+    },
+    "careSection": {
+      "title": "How to Care for Your IEMs",
+      "content": [
+        "Proper care of your IEMs ensures longevity and optimal performance. Here are some tips to keep your earphones in great shape:",
+        "1. **Clean Regularly**: Use a soft, dry cloth to wipe your IEMs after each use. Avoid using water or cleaning agents, as they can damage the electronics.",
+        "2. **Store Properly**: When not in use, store your IEMs in a protective case to prevent tangling and damage.",
+        "3. **Avoid Extreme Temperatures**: Do not expose your IEMs to extreme temperatures, as this can affect their performance and durability.",
+        "4. **Handle with Care**: Be gentle when inserting and removing your IEMs. Pulling on the cables can cause damage over time.",
+        "5. **Regularly Check for Damage**: Periodically inspect your IEMs for signs of wear and tear. If you notice any issues, address them promptly to avoid further damage."
+      ]
+    }
+  },
+  {
+    "slug": ["electronic-devices", "audio-equipment", "headphone"],
+    "image": "",
+    "title": "Best Headphones Under 2000rs",
+    "updatedDate": "June 27, 2024",
+    "researchLink": "",
+    "authors": "Ashutosh",
+    "description": "Best Headphones Under 2000rs If you're an audiophile seeking the ultimate listening experience, a set of premium headphones under 2000rs can offer unparalleled sound quality, comfort, and craftsmanship. Here are some top contenders that excel in various aspects, ensuring an immersive audio experience.",
+    "whyTrustUs": {
+      "title": "Why You Should Trust Us",
+      "content": "At Our Company, we are committed to delivering top-quality products that undergo rigorous testing and thorough reviews. This dedication is why you can trust us. ;)",
+      "points": [
+        "We dedicate weeks to researching and testing each product, ensuring they meet our high standards.",
+        "Our team of industry experts understands what makes a product truly worth your investment.",
+        "Transparency and honesty are our core values, reflected in our comprehensive reviews and insights.",
+        "Your satisfaction is our top priority, and we aim to provide products that enhance your daily life."
+      ],
+      "conclusion": "When you opt for our recommended products, you’re not simply buying; you’re investing in quality, reliability, and outstanding service."
+    },
+    "researchProcess": {
+      "title": "Our Research Process",
+      "content": [
+        "We take pride in our thorough research process. Our team begins by identifying the needs and preferences of our audience. We then scour the market for products that meet these criteria, taking into account customer reviews, expert opinions, and industry standards.",
+        "Once we have a list of potential products, we purchase them ourselves to ensure an unbiased review. Each product is tested in real-world conditions over a period of weeks. We assess their performance, durability, ease of use, and overall value.",
+        "After testing, our team convenes to discuss our findings and compare notes. We consider both the pros and cons of each product and weigh them against our criteria to determine which products truly stand out.",
+        "Our final recommendations are products that we believe offer the best combination of quality, performance, and value. We are committed to helping you make informed decisions and are confident that our recommendations will meet your expectations."
+      ]
+    },
+    "comparisonSection": {
+      "title": "Who it’s for",
+      "content": "Our recommended headphones cater to both budget-conscious listeners seeking neutral yet crisp sound with good trebles and some bass for fun. We love catering for those looking to upgrade their listening experience.",
+      "keyPoints": []
+    },
+    "topPick": {
+      "rank": 1,
+      "image": "",
+      "title": "Sony WH-CH510",
+      "description": "Wireless Freedom: The Sony WH-CH510 offers wireless connectivity with Bluetooth, providing freedom from tangled cables. All-Day Battery Life: With up to 35 hours of battery life, these headphones are perfect for long listening sessions. Compact and Lightweight: The lightweight design and swivel ear cups make these headphones easy to carry and comfortable to wear. Clear Sound Quality: Enjoy clear and crisp sound with 30mm drivers that deliver a balanced audio experience.",
+      "details": "Sound Signature: Balanced: A mix of highs, mids, and lows for all-around listening. Driver Configuration: 30mm Dynamic Drivers Noise Control: Passive Noise Isolation Our Take: The Sony WH-CH510 stands out with its impressive battery life and balanced sound quality, making it an excellent choice for everyday use. Connectivity: Bluetooth 5.0 Frequency Response: 20-20,000 Hz In The Box: Sony WH-CH510 Headphones, USB-C Charging Cable IMPEDANCE: 32 Ohms Build: Plastic",
+      "metrics": [
+        {
+          "name": "Customer Reviews and Ratings",
+          "rating": 4.3
+        },
+        {
+          "name": "Price and Value for Money",
+          "rating": 4.5
+        },
+        {
+          "name": "Product Build Quality",
+          "rating": 4
+        },
+        {
+          "name": "Brand Reputation and Trustworthiness",
+          "rating": 4.2
+        }
+      ],
+      "purchaseLinks": [
+        {
+          "store": "Amazon",
+          "price": "2,499",
+          "link": "https://www.amazon.in/Sony-WH-CH510-Wireless-Headphones/dp/B07WZWGV6S/"
+        },
+        {
+          "store": "Flipkart",
+          "price": "2,299",
+          "link": "https://www.flipkart.com/sony-wh-ch510-bluetooth-headset/p/itm60f8d4b4b3d2d"
+        }
+      ],
+      "topPick": true
     },
     "competitionSection": {
       "title": "The Competition",
-      "competitors": ["rank": 2,
-              "image": "",
-              "title": "7Hz Salnotes Zero",
-              "description": "Revolutionary 10mm Dynamic Driver: The 7Hz Salnotes Zero features a 10mm dynamic driver with a metal composite diaphragm, revolutionizing sound quality. The high-quality metallic 			diaphragm resonates effortlessly with sound waves, ensuring exceptional audio transmission.
-  
-          Ergonomic Shape & Metal Housing: Crafted with precision, these IEMs combine an environment-friendly plastic chassis with a stainless-steel faceplate. The ergonomic design enhances acoustic 			performance, comfort, and durability.
-  
-          Ultimate Audio Experience: Whether on smartphones, laptops, or desktop computers, the 7Hz Salnotes Zero delivers an unparalleled audio experience. Fine-tuned dynamic drivers ensure accurate and 		efficient sound reproduction, free from distortion.
-  
-          High Purity Oxygen-Free Copper Cable: The detachable cable features gold-plated 0.78mm 2-pin connectors. Made of 4-core high-purity oxygen-free copper in a parallel structure, it minimizes 			signal loss for high-fidelity transmission.
-  
-          The Depth of Zero: By naming the product “ZERO,” 7Hz aims to convey their philosophy of life. Zero represents both eternity and mortality,
-          allowing boundless imagination and endless possibilities.
-  ",
-              "details": " Drivers: 10mm Dynamic Driver
-  
-                       Microphone: 3.5mm - With Mic/Without Mic
-  
-               Type-C - Yes
-  
-               Wired Connectivity: 3.5mm/Type-C
-  
-               Pin Type: 0.78mm 2-Pin
-  
-               Impedance: >32 ohms
-  
-               Sound Pressure Level: 108dB/V@1kHz
-  
-               Frequency Response: 10-20000Hz
-  
-               THD: <1%/1khz
-  
-               Compatibility: Universal
-  
-               Wearing Style: In-Ear
-  
-               Detachable Cable: Yes
-  
-               Housing Material: Metal
-  
-               Cable: High Purity OFC Cable
-  
-               Box Contents:
-               1. 7HZ Salnotes Zero
-               2. Standard 2pin Cable With a 3.5mm/Type-C Termination
-               3. 5 Pairs Of Silicone Eartips
-               4. Manual",
-              "metrics": [
-                {
-                  "name": "Customer Reviews and Ratings",
-                  "rating": 4
-                },
-                {
-                  "name": "Price and Value for Money",
-                  "rating": 4.4
-                },
-                {
-                  "name": "Product Build Quality",
-                  "rating": 4.2
-                },
-                {
-                  "name": "Brand Reputation and Trustworthiness",
-                  "rating": 4
-                }
-              ],
-              "purchaseLinks": [
-                {
-                  "store": "Amazon",
-                  "price": "2036",
-                  "link": "https://www.amazon.in/Mecha-Composite-Detachable-Leatherette-Red/dp/B0BPP5V6XJ/ref=sr_1_1?crid=2ZP0T1YMTL1CU&dib=eyJ2IjoiMSJ9.DhcEkI-Fgi7qf6BKtAQgnAARORMHVRQlTEkE3HRQRJ_MkKSkOJlA-L2yoc6tnuNfCONeMqG36uG6oQ5f5stZs0uMweOmfwl3oaZFQAcfyqm63DGaMAIryGiRGkeE5ssRwSfUgMOj10cL_PQ7lJwNIRDiCScfnrI-g_qYLzpAy5i6FenSs11MgdH7r0m2P2IVCav7gLi6eL0bkuJKxtXgrmqw1l5-wavzo1CjsggjB3xWWc-sl56zNN62-SyRZImzjQXaIMmVpPu6PtYhY680iBpwQ0JxFKEoU3vXiG8jqaA.tpD5wdLn402_C_mTrZw_z-vGb7HdiFidA3HCKJmfVaA&dib_tag=se&keywords=7Hz+Salnotes+Zero&qid=1718648666&s=electronics&sprefix=7hz+salnotes+zero%2Celectronics%2C517&sr=1-1"
-                },
-                {
-                  "store": "Headphone zone",
-                  "price": "1890",
-                  "link": "https://www.headphonezone.in/products/7hz-salnotes-zero?_pos=1&_psq=7hz&_ss=e&_v=1.0&variant=42607178088636"
-                }
-              ]
+      "competitors": [
+        {
+          "rank": 2,
+          "image": "",
+          "title": "JBL Tune 500",
+          "description": "Pure Bass Sound: The JBL Tune 500 delivers JBL's signature Pure Bass sound for an immersive audio experience. Lightweight and Comfortable: The lightweight design and padded ear cups ensure comfort for long listening sessions. One-Button Remote/Mic: The built-in microphone and remote allow for hands-free calls and easy music control. Foldable Design: The foldable design makes it easy to carry and store these headphones.",
+          "details": "Drivers: 32mm Dynamic Drivers Frequency Response: 20-20,000 Hz Impedance: 32 Ohms Cable Length: 1.2m Connector Type: 3.5mm Our Take: The JBL Tune 500 offers a rich bass sound and comfortable fit, making it a great choice for bass lovers. In The Box: JBL Tune 500 Headphones, Warranty Card Build: Plastic",
+          "metrics": [
+            {
+              "name": "Customer Reviews and Ratings",
+              "rating": 4.2
             },
-  {
-              "rank": 3,
-              "image": "",
-              "title": "",
-              "description": "The Chu 2 DSP features an Aluminum-Magnesium Alloy Dome Composite Diaphragm which offers the dual benefits of high stiffness and low weight, characteristics typically reserved for 		premium headphones. This enhances the extension of high frequencies, allowing for the detection of finer sonic details.
-  
-          Crafted with MOONDROP’s advanced alloy casting technique, the Alloy Casting Cavity of the Chu 2 DSP boasts both structural strength and a refined surface texture. It is further safeguarded by a 		robust paint coating that prevents metal corrosion.
-  
-          For personalized audio experiences, the Chu 2 DSP includes three bass preset tunings within its acoustic design, complemented by precise DSP tuning. Users can switch between these presets using 		the MOONDROP LINK APP to find their preferred bass response.
-  
-          The Brass CNC Acoustic Nozzle is a distinct brass CNC machined element that contributes to greater accuracy, density, and stability in performance, enriching the overall sound quality.
-  
-          Lastly, the Chu 2 DSP employs a universal 0.78mm interchangeable cable system, enhancing its versatility. This allows for easy cable replacement or connection to Bluetooth neckbands/TWS ear-			hooks to suit various listening environments.",
-  
-              "details": " Driver: 10mm High-Performance Dynamic Driver
-               Wired Connectivity: 3.5mm Single-ended
-  
-               Connectors: 0.78mm 2-Pin
-  
-               Microphone: No
-  
-               Impedance: 18Ω ± 15% (@1KHz)
-  
-               Sensitivity: 119dB/Vrms (@1KHz)
-  
-               Frequency Response: 15Hz - 38kHz
-  
-               Effective FR: 20Hz - 20kHz (IEC60318-4, -3dB)
-  
-               THD: THD≤0.5% (@1KHz, 94dB)
-  
-               Compatibility: Universal
-  
-               Diaphragm: Aluminum-manesium Alloy Composite Diaphragm
-  
-               Cavity Material: ZN Alloy
-  
-               Wearing Style: In-Ear
-  
-               Box Contents
-               1. Moondrop Chu II Earphones
-               2. Cable
-               3. Storage Bag
-               4. Eartips (S, M, L)
-               5. Manual
-               6. QC Certificated Card
-               7. Wearing method card",
-              "metrics": [
-                {
-                  "name": "Customer Reviews and Ratings",
-                  "rating": 4.2
-                },
-                {
-                  "name": "Price and Value for Money",
-                  "rating": 4.5
-                },
-                {
-                  "name": "Product Build Quality ",
-                  "rating": 4.5
-                },
-                {
-                  "name": "Brand Reputation and Trustworthiness",
-                  "rating": 4
-                }
-              ],
-              "purchaseLinks": [
-                {
-                  "store": "Amazon",
-                  "price": "6413",
-                  "link": "https://www.amazon.in/Moondrop-CHU-II-DSP-Performance/dp/B0CRP76PVM/ref=sr_1_1?dib=eyJ2IjoiMSJ9.HFmxI8PJfMzqRRPMXelhkh6STMblZOl2PapZhKS9cSsKaYnw0HdOjP92Jk5ku_PNYwXZVCHXbjS7cAd6FeFCy5E3ZJqwTwJboMcoiG9NWc9tQigEySvOO_Qh0Ult9MfB2-j1MVEwWpvQN4U2BJBGPHHQcLlckwq2Qcw5WY0rO1D1m2DA35mG84zy5bMuOwmDCoOU8gOyCQ_mj46BBZov-5bTaIbpZhHlezhEbmx3fZQ.mpfb9xveZBAywTXFgWNZDJxiOL8WqhrfnNHVM8EReZY&dib_tag=se&keywords=Moondrop+-+Chu+II&qid=1718685365&sr=8-1"
-                },
-                {
-                  "store": "Headphone zone",
-                  "price": "1,890",
-                  "link": "https://www.headphonezone.in/products/moondrop-chu-ii"
-                }
-              ]
+            {
+              "name": "Price and Value for Money",
+              "rating": 4.4
             },
-   {
-              "rank": 4,
-              "image": "",
-              "title": "TANGZU WAN’ER ",
-              "description": "The TANGZU WAN’ER S.G is outfitted with a 10mm single dynamic driver, delivering a sound that is both smooth and rich, thanks to extensive fine-tuning. This model features a high-			performance driver powered by an N52 magnet and high-quality PET diaphragm coils, ensuring a clear and expansive sound across the spectrum.
-  
-          In terms of sound adjustment, the WAN’ER S.G has undergone meticulous tuning across all three frequency ranges, incorporating extensive user feedback to achieve a more universally appealing 			balance. The resulting audio profile is noticeably distinct from its predecessors, Zetian Wu and Shimin Li, offering a smoother and more harmonious listening experience.
-  
-          The included stock cable of the WAN’ER S.G is of superior quality and detachable, providing flexibility for easy swapping between devices or for those who prefer to use their own cables. It 			also supports HD calls with its compatible microphone.
-  
-          TANGZU has designed the WAN’ER S.G with ergonomics in mind, ensuring a snug and comfortable fit for most users. This is achieved through comprehensive analysis of ear shapes and precise shell 		measurements.
-  
-          Lastly, the WAN’ER S.G is an in-ear monitor that boasts high-resolution audio with low impedance, making it effortlessly compatible with any source. Its 107dB sensitivity and 19Ω impedance mean 		it can easily deliver a high-fidelity audio experience from smartphones or other portable devices.",
-  
-              "details": " Driver: 10 Mm Dynamic Driver
-  
-              Impedance: 20 Ω
-  
-              Microphone: With Mic (1 Button)
-  
-              Wired Connectivity: 3.5mm
-  
-              Pin Type: 0.78mm QDC 2Pin Connector
-  
-              Frequency Response: 20-20kHz
-  
-              Sensitivity: 107dB (1kHz)
-  
-              Distortion Rate: <0.5%
-  
-              Channel Difference: 1dB (1kHz)
-  
-              Compatibility: Universal
-  
-              Wearing Style: In-Ear
-  
-              Cable: 5N OFC 4 Braid*38 Wire (0.05)
-  
-              Cable Length: 1.2m± 5%
-  
-              Box Contents
-              1. TANGZU Wan'er S.G Earphones
-              2. Oxygen-Free Copper Plated Silver Wire
-              3. 3 Pairs of Balanced Silicone Ear Tips
-              4. 3 Pairs of Bass Silicone Ear Tips
-              5. Classical Chinese Style Handkerchief",
-  
-              "metrics": [
-                {
-                  "name": "Customer Reviews and Ratings",
-                  "rating": 3.6
-                },
-                {
-                  "name": "Price and Value for Money",
-                  "rating": 4
-                },
-                {
-                  "name": "Product Quality and Features",
-                  "rating": 3
-                },
-                {
-                  "name": "Brand Reputation and Trustworthiness",
-                  "rating": 4
-                }
-              ],
-              "purchaseLinks": [
-                {
-                  "store": "Amazon",
-                  "price": "2,182",
-                  "link": "https://www.amazon.in/TANGZU-Earphone-Dynamic-Monitor-Detachable/dp/B0BZDLH9KP/ref=sr_1_1?crid=124L3H7CATGG9&dib=eyJ2IjoiMSJ9.Mkc40Zz-XgGXADY4RjcHDmclyEdOtkUej3RWmyMvoybs7gM30J12Xz4prcUMk1jH365iojz0LGSXYygPa0fh1wwMHLeTo08neHsG-EmaqyRKzNmlWyAxxlqFAEpfTJZYE_7YgE68F1dRl15FMzJ_b7kI6IsT9k9BOPNziEya2pB0YgUFAMfpB4rE9b6pEyYDpZGxGZGXon1aeE2RqM_SOap0PGHr4IQV7S6LnFTdDqQ.7js88arSctgmzg7N8z0fTKH9euMBSHDchNmtHpZcWvw&dib_tag=se&keywords=TANGZU+Wan%27er&qid=1718686487&sprefix=tangzu+wan%27er+%2Caps%2C373&sr=8-1"
-                },
-                {
-                  "store": "Headphone zone",
-                  "price": "1,790",
-                  "link": "https://www.headphonezone.in/products/tangzu-waner-s-g?_pos=1&_sid=7699a2843&_ss=r"
-                }
-              ]
+            {
+              "name": "Product Build Quality",
+              "rating": 4
+            },
+            {
+              "name": "Brand Reputation and Trustworthiness",
+              "rating": 4.1
             }
-          ]
+          ],
+          "purchaseLinks": [
+            {
+              "store": "Amazon",
+              "price": "1,999",
+              "link": "https://www.amazon.in/JBL-Tune-500-Pure-Bass-Headphones/dp/B07N2ZHFY9/"
+            },
+            {
+              "store": "Flipkart",
+              "price": "1,849",
+              "link": "https://www.flipkart.com/jbl-tune-500-wired-headset/p/itm50515f8deffb5"
+            }
+          ],
+          "topPick": false
+        },
+        {
+          "rank": 3,
+          "image": "",
+          "title": "boAt Rockerz 450",
+          "description": "HD Sound Quality: The boAt Rockerz 450 offers HD sound quality with its 40mm dynamic drivers. Long Battery Life: Enjoy up to 15 hours of playtime on a single charge. Dual Modes: These headphones support both wireless and wired modes for versatile use. Ergonomic Design: The ergonomic design and padded ear cushions provide comfort during extended listening sessions.",
+          "details": "Drivers: 40mm Dynamic Drivers Frequency Response: 20-20,000 Hz Impedance: 32 Ohms Connectivity: Bluetooth 4.2 Our Take: The boAt Rockerz 450 is a budget-friendly option with good sound quality and long battery life, suitable for all-day use. In The Box: boAt Rockerz 450 Headphones, Micro-USB Charging Cable, User Manual Build: Plastic",
+          "metrics": [
+            {
+              "name": "Customer Reviews and Ratings",
+              "rating": 4.1
+            },
+            {
+              "name": "Price and Value for Money",
+              "rating": 4.3
+            },
+            {
+              "name": "Product Build Quality",
+              "rating": 3.8
+            },
+            {
+              "name": "Brand Reputation and Trustworthiness",
+              "rating": 4
+            }
+          ],
+          "purchaseLinks": [
+            {
+              "store": "Amazon",
+              "price": "1,499",
+              "link": "https://www.amazon.in/boAt-Rockerz-450-Headphone-Playtime/dp/B07X1XQ2D5/"
+            },
+            {
+              "store": "Flipkart",
+              "price": "1,399",
+              "link": "https://www.flipkart.com/boat-rockerz-450-bluetooth-headset/p/itm17b3fbf4af7c5"
+            }
+          ],
+          "topPick": false
         }
-      }
-  ]
+      ]
+    },
+    "careSection": {
+      "title": "How to Care for Your Headphones",
+      "content": [
+        "Proper care of your headphones ensures longevity and optimal performance. Here are some tips to keep your headphones in great shape:",
+        "1. **Clean Regularly**: Use a soft, dry cloth to wipe your headphones after each use. Avoid using water or cleaning agents, as they can damage the electronics.",
+        "2. **Store Properly**: When not in use, store your headphones in a protective case to prevent tangling and damage.",
+        "3. **Avoid Extreme Temperatures**: Do not expose your headphones to extreme temperatures, as this can affect their performance and durability.",
+        "4. **Handle with Care**: Be gentle when putting on and taking off your headphones. Pulling on the cables can cause damage over time.",
+        "5. **Regularly Check for Damage**: Periodically inspect your headphones for signs of wear and tear. If you notice any issues, address them promptly to avoid further damage."
+      ]
     }
-}  
+  }
+  
+]
