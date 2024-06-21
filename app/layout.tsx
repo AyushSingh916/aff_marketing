@@ -25,8 +25,8 @@ export default function RootLayout({
 
 export const metadata: Metadata = {
   title: {
-    template: '%s | BestDeal',
-    default: 'BestDeal',
+    template: '%s | PeakPicks',
+    default: 'PeakPicks',
   },
   description: 'We do research and find the best deal for you',
 };

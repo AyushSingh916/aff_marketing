@@ -1,19 +1,20 @@
 import Image from 'next/image';
 import Link from 'next/link';
-import { FaRegCircleUser } from 'react-icons/fa6';
-import data from '@/data/productsData/AiTools.json';
+import data from '@/data/productsData/ElectronicDevices.json';
 import Card from '@/components/ComparisionCard';
 
 interface ProductPageProps {
-  params: { slug: string[] };
+  params: { slug: string; sublink: string };
+}
+
+export function generateStaticParams(): { slug: string; sublink: string }[] {
+  return data.map((p) => ({ slug: p.slug[1], sublink: p.slug[2] }));
 }
 
 export default function ProductPage({ params }: ProductPageProps) {
-  const { slug } = params;
-  console.log(slug);
-  const updatedSlug = ['ai-tools', ...slug];
-  console.log(updatedSlug);
-  const product = data.find((item) => item.slug.join('/') === updatedSlug.join('/'));
+  const { slug, sublink } = params;
+  console.log("Params:", params);
+  const product = data.find((item) => item.slug[2] === sublink);
 
   if (!product) {
     return <div>Product not found</div>;
@@ -29,7 +30,6 @@ export default function ProductPage({ params }: ProductPageProps) {
             width={500}
             height={300}
             className="rounded-md"
-            layout="responsive"
           />
         </div>
         <div className="md:w-1/2 md:pl-8">
@@ -72,7 +72,6 @@ export default function ProductPage({ params }: ProductPageProps) {
           width={1000}
           height={600}
           className="rounded-md mb-4"
-          layout="responsive"
         />
         <Card
           imageSrc={product.topPick.image}
@@ -111,9 +110,7 @@ export default function ProductPage({ params }: ProductPageProps) {
           width={1000}
           height={600}
           className="rounded-md mb-4"
-          layout="responsive"
         />
-        {/* <ComparisionCard /> */}
       </div>
       <div className="bg-white shadow-lg rounded-lg p-8">
         <h2 className="text-2xl font-bold text-center mb-4">{product.competitionSection.title}</h2>
