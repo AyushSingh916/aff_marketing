@@ -1,12 +1,11 @@
 [
   {
-    "slug": ["home", "home-decor", "rugs"],
-    "image": "https://m.media-amazon.com/images/I/A1MY25C-yiL._AC_SL1500_.jpg",
-    "title": "The Best Rug",
+    "slug": ["home", "home-decor", "carpets"],
+    "image": "https://m.media-amazon.com/images/I/81ABZ75FBPL._SL1500_.jpg",
+    "title": "The Best Carpet",
     "updatedDate": "April 29, 2024",
-    "researchLink": "/research-link",
     "authors": "Ayush",
-    "description": "Enhance your living space with a perfect rug that complements your style. Our extensive research and testing have uncovered the top contenders in the rug market, offering both quality and affordability.",
+    "description": "Enhance your living space with a perfect carpet that complements your style. Our extensive research and testing have uncovered the top contenders in the carpet market, offering both quality and affordability.",
     "whyTrustUs": {
       "title": "Why You Should Trust Us",
       "content": "At OurCompany, we are committed to delivering reliable reviews based on rigorous testing and analysis. Here's why you can trust our recommendations:",
@@ -16,22 +15,22 @@
         "Transparency is our priority; we provide comprehensive insights into each product's strengths and weaknesses.",
         "Your satisfaction and trust are paramount to us, and we aim to recommend products that enhance your home decor."
       ],
-      "conclusion": "Choosing our recommended rugs means choosing quality, reliability, and style for your living space."
+      "conclusion": "Choosing our recommended carpets means choosing quality, reliability, and style for your living space."
     },
     "researchProcess": {
       "title": "Our Research Process",
       "content": [
-        "We begin by identifying popular rug styles and customer preferences. Our research includes analyzing customer reviews, consulting design experts, and considering industry trends.",
-        "After narrowing down our choices, we acquire the rugs for hands-on testing. Each rug undergoes thorough evaluation based on durability, comfort, ease of maintenance, and aesthetic appeal.",
-        "Our team collaborates to evaluate and compare findings, ensuring a balanced assessment of each rug's pros and cons.",
-        "Our top recommendations are rugs that excel in quality, craftsmanship, and value, providing you with reliable options for your home."
+        "We begin by identifying popular carpet styles and customer preferences. Our research includes analyzing customer reviews, consulting design experts, and considering industry trends.",
+        "After narrowing down our choices, we acquire the carpets for hands-on testing. Each carpet undergoes thorough evaluation based on durability, comfort, ease of maintenance, and aesthetic appeal.",
+        "Our team collaborates to evaluate and compare findings, ensuring a balanced assessment of each carpet's pros and cons.",
+        "Our top recommendations are carpets that excel in quality, craftsmanship, and value, providing you with reliable options for your home."
       ]
     },
     "comparisonSection": {
       "title": "Who it’s for:",
-      "content": "Ideal for homeowners and renters looking to elevate their interior design with a high-quality rug that fits their budget and style preferences.",
+      "content": "Ideal for homeowners and renters looking to elevate their interior design with a high-quality carpet that fits their budget and style preferences.",
       "keyPoints": [
-        "Wide variety of rug sizes and designs",
+        "Wide variety of carpet sizes and designs",
         "Materials and construction details",
         "Ease of cleaning and maintenance",
         "Available colors and patterns",
@@ -39,102 +38,61 @@
         "Warranty information and customer support details"
       ]
     },
-    "topPick": {
+    "topPick" : {
       "rank": 1,
-      "image": "/Rug.png",
-      "title": "Amazon Basics Modern Plush Moroccan Trellis Area Rug",
-      "description": "A stylish and durable rug that complements modern interiors.",
-      "details": "This plush Moroccan trellis rug combines style with functionality, offering a soft texture and easy maintenance. Available in various sizes and colors to suit different room aesthetics.",
+      "image": "https://m.media-amazon.com/images/I/81ABZ75FBPL._SL1500_.jpg",
+      "title": "ishro home 3 x 5 Feet 3D Jet Multi Printed 3D Jet Vintage Persian Carpet Rug Runner and Carpets for Bedroom/Living Area/Home with Anti Slip Backing (3x5 ft, Persian Retro)",
+      "description": "A stylish and durable carpet that complements modern interiors.",
+      "details": "This plush Persian carpet combines style with functionality, offering a soft texture and easy maintenance. Available in various sizes and colors to suit different room aesthetics.",
       "metrics": [
         {
           "name": "Customer Reviews and Ratings",
-          "rating": 4.8
+          "rating": 3.9
         },
         {
           "name": "Price and Value for Money",
-          "rating": 4.5
+          "rating": 3.9
         },
         {
-          "name": "Rug Quality and Durability",
-          "rating": 4.7
+          "name": "Carpet Quality and Durability",
+          "rating": 4.0
         },
         {
           "name": "Brand Reputation and Trustworthiness",
-          "rating": 4.9
+          "rating": 3.7
         }
       ],
       "purchaseLinks": [
         {
           "store": "Amazon",
-          "price": "$75",
-          "link": "https://amazon.com"
-        },
-        {
-          "store": "Walmart",
-          "price": "$70",
-          "link": "https://walmart.com"
+          "price": "₹898.00",
+          "link": "https://www.amazon.in/dp/B085HNNLR9"
         }
       ],
       "topPick": true
     },
+    
     "competitionSection": {
       "title": "The Competition",
       "competitors": [
         {
           "rank": 2,
-          "image": "/Rug.png",
-          "title": "Safavieh Madison Collection Bohemian Chic Vintage Distressed Area Rug",
-          "description": "An elegant and versatile rug with a vintage appeal.",
-          "details": "The Safavieh Madison rug combines chic Bohemian style with durable construction, suitable for high-traffic areas. Available in various sizes and colors.",
+          "image": "https://m.media-amazon.com/images/I/91B-+XLLdUS._SX679_.jpg",
+          "title": "MUEZZA CARPETS Soft Fluffy Shag Area Rugs for Living Room, Shaggy Floor Carpet for Bedroom, Girls Carpets Kids Home Decor Rugs, Cute Luxury Non-Slip [Size 3x5 feet]",
+          "description": "A luxurious and fluffy shag area rug designed to add comfort and style to any living space, perfect for bedrooms, living rooms, and kids' rooms.",
+          "details": "The MUEZZA CARPETS Soft Fluffy Shag Area Rug is made from high-quality microfiber and features a hand-made, handwoven, and hand-tufted weave type. With a size of 3x5 feet and a pile height of 2 inches, this carpet offers both comfort and elegance. Its latex and jute backing ensures non-slip performance, making it safe for high foot traffic areas. Easy to maintain, this rug is perfect for modern home decor.",
           "metrics": [
             {
               "name": "Customer Reviews and Ratings",
-              "rating": 4.7
-            },
-            {
-              "name": "Price and Value for Money",
-              "rating": 4.4
-            },
-            {
-              "name": "Rug Quality and Durability",
-              "rating": 4.6
-            },
-            {
-              "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.8
-            }
-          ],
-          "purchaseLinks": [
-            {
-              "store": "Amazon",
-              "price": "$90",
-              "link": "https://amazon.com"
-            },
-            {
-              "store": "Wayfair",
-              "price": "$85",
-              "link": "https://wayfair.com"
-            }
-          ]
-        },
-        {
-          "rank": 3,
-          "image": "/Rug.png",
-          "title": "nuLOOM Moroccan Blythe Area Rug",
-          "description": "A stylish and affordable option for contemporary interiors.",
-          "details": "The nuLOOM Moroccan Blythe rug offers a blend of traditional Moroccan design with modern durability. Available in various sizes and colors to match different decor styles.",
-          "metrics": [
-            {
-              "name": "Customer Reviews and Ratings",
-              "rating": 4.6
-            },
-            {
-              "name": "Price and Value for Money",
               "rating": 4.3
             },
             {
-              "name": "Rug Quality and Durability",
-              "rating": 4.5
+              "name": "Price and Value for Money",
+              "rating": 4.6
+            },
+            {
+              "name": "Carpet Quality and Durability",
+              "rating": 4.6
             },
             {
               "name": "Brand Reputation and Trustworthiness",
@@ -144,59 +102,81 @@
           "purchaseLinks": [
             {
               "store": "Amazon",
-              "price": "$60",
-              "link": "https://amazon.com"
-            },
-            {
-              "store": "Overstock",
-              "price": "$55",
-              "link": "https://overstock.com"
+              "price": "₹2,499.00",
+              "link": "https://amzn.to/3VRsor9"
             }
           ]
-        },
+        } ,      
         {
-          "rank": 4,
-          "image": "/Rug.png",
-          "title": "Unique Loom Sofia Traditional Area Rug",
-          "description": "A budget-friendly rug with traditional motifs and modern durability.",
-          "details": "The Unique Loom Sofia rug offers intricate traditional patterns with enhanced stain and fade resistance. Available in various sizes and colors to suit different room settings.",
+          "rank": 3,
+          "image": "https://m.media-amazon.com/images/I/71mvm8lNxaL._SX679_.jpg",
+          "title": "BSB HOME Designer Superfine Chenille Carpet | 500 GSM Velvet Carpet/Area Rug/Durries with Fine Gold Yarn for Living Room, Bedroom, Runner| 150x210 cm or 5x7 ft, Blue",
+          "description": "A luxurious and trendy Chenille carpet designed to enhance the decor of any room with its fine gold yarn and velvet touch.",
+          "details": "The BSB HOME Designer Superfine Chenille Carpet is a stylish addition to any living space. Measuring 5x7 feet, it is made from high-quality cotton with a power loomed weave. The low pile construction ensures durability, while the non-shedding fibers make maintenance easy. Ideal for living rooms, bedrooms, and more, this carpet offers both comfort and elegance.",
           "metrics": [
             {
               "name": "Customer Reviews and Ratings",
-              "rating": 4.5
+              "rating": 3.6
             },
             {
               "name": "Price and Value for Money",
-              "rating": 4.2
+              "rating": 3.5
             },
             {
-              "name": "Rug Quality and Durability",
-              "rating": 4.4
+              "name": "Carpet Quality and Durability",
+              "rating": 3.6
             },
             {
               "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.6
+              "rating": 3.5
             }
           ],
           "purchaseLinks": [
             {
               "store": "Amazon",
-              "price": "$50",
-              "link": "https://amazon.com"
-            },
-            {
-              "store": "Home Depot",
-              "price": "$45",
-              "link": "https://homedepot.com"
+              "price": "₹649.00",
+              "link": "https://amzn.to/4cdUHpC"
             }
           ]
-        }
+        }, 
+        {
+          "rank": 4,
+          "image": "https://m.media-amazon.com/images/I/A1czi53s8gL._SX679_.jpg",
+          "title": "Amazon Brand - Solimo 3D Printed Persian Carpet with Anti Skid Backing for Living Room | Dinning | Office (4x6 feet), Multi-Colored, Rectangular",
+          "description": "A vibrant and durable Persian-style carpet that adds a touch of elegance to any living space.",
+          "details": "This Persian carpet by Amazon Brand - Solimo is designed for style and practicality. Made from 100% polyester with an anti-skid rubber gel backing, it's perfect for living rooms, dining areas, and offices. The carpet absorbs moisture, dries quickly, and is easy to clean. Its construction ensures durability and safety, making it ideal for both indoor and outdoor use.",
+          "metrics": [
+            {
+              "name": "Customer Reviews and Ratings",
+              "rating": 4.1
+            },
+            {
+              "name": "Price and Value for Money",
+              "rating": 3.8
+            },
+            {
+              "name": "Carpet Quality and Durability",
+              "rating": 3.6
+            },
+            {
+              "name": "Brand Reputation and Trustworthiness",
+              "rating": 3.0
+            }
+          ],
+          "purchaseLinks": [
+            {
+              "store": "Amazon",
+              "price": "₹1,120.97",
+              "link": "https://amzn.to/3VRMmlC"
+            }
+          ]
+        }            
       ]
     }
   },
   {
     "slug": ["home", "home-decor", "chandeliers"],
-    "image": "https://example.com/chandelier.jpg",
+    "image": "https://m.media-amazon.com/images/I/51r2CHmWWYL._SX679_.jpg",
     "title": "The Best Chandeliers",
     "updatedDate": "June 17, 2024",
     "researchLink": "/chandeliers-research",
@@ -236,153 +216,100 @@
     },
     "topPick": {
       "rank": 1,
-      "image": "/chandelier-top-pick.jpg",
-      "title": "Sputnik Modern Chandelier",
-      "description": "A striking modern chandelier with adjustable arms and a sleek finish.",
-      "details": "The Sputnik chandelier combines contemporary design with functionality, featuring adjustable arms for customized lighting arrangements. Available in various finishes to complement different interiors.",
+      "image": "https://m.media-amazon.com/images/I/51r2CHmWWYL._SX679_.jpg",
+      "title": "RSKVA Black Mamba Round Chandelier (400 MM) Glass",
+      "description": "A stunning round chandelier with a black and golden finish, perfect for adding a touch of elegance to any room. This Italianate style light fixture is ideal for bedrooms, dining rooms, living rooms, and hallways.",
+      "details": "The RSKVA Black Mamba Round Chandelier features high-quality glass and a luxurious black and golden finish. With dimensions of 40L x 50W x 80H centimeters, this chandelier is designed for indoor use and is perfect for various spaces like dining rooms, living rooms, and bedrooms. The chandelier is crafted with high-quality aluminum and acrylic, finished with two times powder coating and polishing, making it resistant to high temperatures, corrosion, fading, and scratches. It offers a corded electric power source and fits well in modern home decor.",
       "metrics": [
         {
           "name": "Customer Reviews and Ratings",
-          "rating": 4.9
+          "rating": 4.2
         },
         {
           "name": "Price and Value for Money",
           "rating": 4.5
         },
         {
-          "name": "Chandelier Design and Craftsmanship",
-          "rating": 4.8
+          "name": "Product Quality and Durability",
+          "rating": 4.4
         },
         {
           "name": "Brand Reputation and Trustworthiness",
-          "rating": 4.7
+          "rating": 4.3
         }
       ],
       "purchaseLinks": [
         {
           "store": "Amazon",
-          "price": "$250",
-          "link": "https://amazon.com/sputnik-chandelier"
-        },
-        {
-          "store": "Wayfair",
-          "price": "$240",
-          "link": "https://wayfair.com/sputnik-chandelier"
+          "price": "₹2,769.00",
+          "link": "https://amzn.to/4czdN9B"
         }
-      ],
-      "topPick": true
+      ]
     },
     "competitionSection": {
       "title": "The Competition",
       "competitors": [
         {
           "rank": 2,
-          "image": "/chandelier-competitor1.jpg",
-          "title": "Vintage Crystal Chandelier",
-          "description": "An elegant crystal chandelier with traditional design elements.",
-          "details": "The Vintage Crystal chandelier exudes timeless elegance with its crystal accents and intricate design. Suitable for formal dining rooms and grand living spaces.",
+          "image": "https://m.media-amazon.com/images/I/71mB6pAJQJL._SX679_.jpg",
+          "title": "ADWAIT 5 Lamp Gold Plated Brass and Glass Antique Chandelier, Jhoomer, for Living Room, Dining Area, Hall, Office, Banquet Hall",
+          "description": "An antique gold plated brass and glass chandelier with 5 lamps, perfect for adding a touch of elegance and sophistication to any living room, dining area, hall, office, or banquet hall.",
+          "details": "The ADWAIT 5 Lamp Antique Chandelier features a beautiful handmade design with glass shades and a brass finish. This light fixture is highly durable, lightweight, and best suited for dining rooms, bedrooms, living rooms, bars, restaurants, study rooms, aisles, corridors, and coffee shops.",
           "metrics": [
             {
               "name": "Customer Reviews and Ratings",
-              "rating": 4.7
+              "rating": 4.0
             },
             {
               "name": "Price and Value for Money",
-              "rating": 4.4
+              "rating": 4.5
             },
             {
-              "name": "Chandelier Design and Craftsmanship",
-              "rating": 4.6
+              "name": "Product Quality and Durability",
+              "rating": 4.2
             },
             {
               "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.8
+              "rating": 4.0
             }
           ],
           "purchaseLinks": [
             {
               "store": "Amazon",
-              "price": "$350",
-              "link": "https://amazon.com/vintage-crystal-chandelier"
-            },
-            {
-              "store": "Home Depot",
-              "price": "$330",
-              "link": "https://homedepot.com/vintage-crystal-chandelier"
+              "price": "₹1,499.00",
+              "link": "https://amzn.to/4betTEt"
             }
           ]
         },
         {
           "rank": 3,
-          "image": "/chandelier-competitor2.jpg",
-          "title": "Rustic Farmhouse Wood Chandelier",
-          "description": "A rustic chandelier crafted from wood with a farmhouse-inspired design.",
-          "details": "The Rustic Farmhouse chandelier offers charm and warmth with its wooden frame and candelabra-style lights. Ideal for country-style kitchens and dining areas.",
+          "image": "https://m.media-amazon.com/images/I/618NkefisRL._SX569_.jpg",
+          "title": "GANE-SHART GA Two Color Crystal Ceiling Light Glass Chandelier Stainless Steel Rectangular Modern Led Light Home Decor Light for Hall, 9 inch Width",
+          "description": "A modern crystal chandelier featuring two color LED lights, designed to illuminate and decorate hallways and living spaces with elegance and style.",
+          "details": "The GANE-SHART GA Crystal Ceiling Light is constructed with 30 mm sparkling K9 crystal balls and 8 mm octagon-shaped glass beads, complemented by a stainless steel base plate for a mirror effect. It comes with LED lights that can switch between three colors: White, Warm White, and a mix of both. Assembly is required, and an installation manual is provided for setup.",
           "metrics": [
             {
               "name": "Customer Reviews and Ratings",
-              "rating": 4.6
+              "rating": 3.8
             },
             {
               "name": "Price and Value for Money",
-              "rating": 4.3
+              "rating": 4.0
             },
             {
-              "name": "Chandelier Design and Craftsmanship",
-              "rating": 4.5
+              "name": "Quality and Durability",
+              "rating": 3.9
             },
             {
               "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.7
+              "rating": 3.7
             }
           ],
           "purchaseLinks": [
             {
               "store": "Amazon",
-              "price": "$180",
-              "link": "https://amazon.com/rustic-wood-chandelier"
-            },
-            {
-              "store": "Wayfair",
-              "price": "$170",
-              "link": "https://wayfair.com/rustic-wood-chandelier"
-            }
-          ]
-        },
-        {
-          "rank": 4,
-          "image": "/chandelier-competitor3.jpg",
-          "title": "Modern LED Globe Chandelier",
-          "description": "A contemporary chandelier featuring energy-efficient LED lighting and a sleek globe design.",
-          "details": "The Modern LED Globe chandelier combines energy efficiency with modern aesthetics, offering adjustable brightness settings and a minimalist design. Suitable for various interior styles.",
-          "metrics": [
-            {
-              "name": "Customer Reviews and Ratings",
-              "rating": 4.5
-            },
-            {
-              "name": "Price and Value for Money",
-              "rating": 4.2
-            },
-            {
-              "name": "Chandelier Design and Craftsmanship",
-              "rating": 4.4
-            },
-            {
-              "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.6
-            }
-          ],
-          "purchaseLinks": [
-            {
-              "store": "Amazon",
-              "price": "$200",
-              "link": "https://amazon.com/modern-led-globe-chandelier"
-            },
-            {
-              "store": "Lumens",
-              "price": "$190",
-              "link": "https://lumens.com/modern-led-globe-chandelier"
+              "price": "₹2,660.00",
+              "link": "https://amzn.to/3VTnKcr"
             }
           ]
         }
@@ -391,7 +318,7 @@
   },
   {
     "slug": ["home", "home-decor", "curtains"],
-    "image": "https://example.com/curtain.jpg",
+    "image": "https://m.media-amazon.com/images/I/813tzrKnhEL._SX569_.jpg",
     "title": "The Best Curtains",
     "updatedDate": "June 17, 2024",
     "researchLink": "/curtains-research",
@@ -431,153 +358,105 @@
     },
     "topPick": {
       "rank": 1,
-      "image": "/curtain-top-pick.jpg",
-      "title": "Thermal Insulated Blackout Curtains",
-      "description": "High-quality blackout curtains with thermal insulation.",
-      "details": "These thermal insulated blackout curtains are perfect for bedrooms or living rooms, providing complete light blockage and thermal insulation to help regulate room temperature. Available in various sizes and colors.",
+      "image": "https://m.media-amazon.com/images/I/813tzrKnhEL._SX569_.jpg",
+      "title": "Home Sizzler 2 Piece Garden Panel Eyelet Polyester Window Curtains - 5 Feet, Brown",
+      "description": "A set of two polyester window curtains with eyelet design, ideal for enhancing the décor of any room with its semi-transparent and lightweight fabric.",
+      "details": "These curtains from Home Sizzler are made from 150 GSM polyester, offering semi-transparency and easy maintenance. Each curtain measures 46 inches in width and 60 inches in length (116 cm x 152 cm). They are easy to clean with normal hand wash or machine wash.",
       "metrics": [
         {
           "name": "Customer Reviews and Ratings",
-          "rating": 4.9
+          "rating": 4.1
         },
         {
           "name": "Price and Value for Money",
-          "rating": 4.7
+          "rating": 4.1
         },
         {
-          "name": "Material Quality and Light Control",
-          "rating": 4.8
+          "name": "Quality of Material",
+          "rating": 4.1
         },
         {
-          "name": "Brand Reputation and Trustworthiness",
-          "rating": 4.9
+          "name": "Ease of Cleaning",
+          "rating": 4.1
         }
       ],
       "purchaseLinks": [
         {
           "store": "Amazon",
-          "price": "$40",
-          "link": "https://amazon.com/thermal-insulated-blackout-curtains"
-        },
-        {
-          "store": "Wayfair",
-          "price": "$45",
-          "link": "https://wayfair.com/thermal-insulated-blackout-curtains"
+          "price": "₹299.00",
+          "link": "https://amzn.to/3XxxsCk"
         }
-      ],
-      "topPick": true
-    },
+      ]
+    }
+    ,
     "competitionSection": {
       "title": "The Competition",
       "competitors": [
         {
           "rank": 2,
-          "image": "/curtain-competitor1.jpg",
-          "title": "Sheer Linen Curtains",
-          "description": "Elegant sheer curtains made from high-quality linen.",
-          "details": "The Sheer Linen curtains offer a light and airy feel, perfect for living rooms or dining areas where natural light is desired. Made from high-quality linen, they add a touch of elegance to any room.",
+          "image": "https://m.media-amazon.com/images/I/51YtQZUkqML._SX300_SY300_QL70_FMwebp_.jpg",
+          "title": "Home Sizzler 2 Pieces Geometrical Panel Eyelet Polyester Door Curtains 7 Feet, Blue",
+          "description": "A set of two polyester door curtains featuring a modern geometrical pattern, designed to enhance room décor with their contemporary style and easy installation.",
+          "details": "These curtains from Home Sizzler are tailored for 7-feet doors, each curtain measuring 46 inches in width and 84 inches in length (1.16 meters x 2.13 meters). They are made from 150 GSM polyester fabric, offering durability, lightweight, and semi-transparency. Installation is quick and hassle-free with eyelet rings.",
           "metrics": [
             {
               "name": "Customer Reviews and Ratings",
-              "rating": 4.7
+              "rating": 4.1
             },
             {
-              "name": "Price and Value for Money",
-              "rating": 4.6
+              "name": "Value for Money",
+              "rating": 4.0
             },
             {
-              "name": "Material Quality and Light Control",
-              "rating": 4.6
+              "name": "Quality of Material",
+              "rating": 3.8
             },
             {
-              "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.8
+              "name": "Sheerness",
+              "rating": 3.7
+            },
+            {
+              "name": "Thickness",
+              "rating": 3.6
             }
           ],
           "purchaseLinks": [
             {
-              "store": "Pottery Barn",
-              "price": "$60",
-              "link": "https://potterybarn.com/sheer-linen-curtains"
-            },
-            {
-              "store": "West Elm",
-              "price": "$65",
-              "link": "https://westelm.com/sheer-linen-curtains"
+              "store": "Amazon",
+              "price": "₹419.00",
+              "link": "https://amzn.to/4eyhZYQ"
             }
           ]
         },
         {
-          "rank": 3,
-          "image": "/curtain-competitor2.jpg",
-          "title": "Velvet Room Darkening Curtains",
-          "description": "Luxurious velvet curtains with room darkening properties.",
-          "details": "The Velvet Room Darkening curtains add a touch of luxury and are perfect for bedrooms or media rooms. They provide excellent light control and add a rich texture to your decor.",
+          "rank": 2,
+          "image": "https://m.media-amazon.com/images/I/71-mDlGKWEL._SL1000_.jpg",
+          "title": "Cortina 2 Piece Leaf Design Panel Eyelet Polyester Door Curtain - 7-Feet, Brown",
+          "description": "A set of two polyester door curtains featuring a modern leaf design, designed to enhance room decor with their light-filtering and semi-transparent properties.",
+          "details": "These curtains from Cortina are tailored for 7-feet doors, each curtain measuring 46 inches in width and 84 inches in length (115CM X 210CM). Made from 150 GSM polyester fabric, they are light-filtering and easy to maintain with normal hand wash or machine wash.",
           "metrics": [
             {
               "name": "Customer Reviews and Ratings",
-              "rating": 4.6
+              "rating": 4.0
             },
             {
-              "name": "Price and Value for Money",
-              "rating": 4.5
+              "name": "Quality of Material",
+              "rating": 4.0
             },
             {
-              "name": "Material Quality and Light Control",
-              "rating": 4.5
+              "name": "Value for Money",
+              "rating": 4.0
             },
             {
-              "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.7
+              "name": "Sheerness",
+              "rating": 3.9
             }
           ],
           "purchaseLinks": [
             {
-              "store": "Wayfair",
-              "price": "$80",
-              "link": "https://wayfair.com/velvet-room-darkening-curtains"
-            },
-            {
-              "store": "CB2",
-              "price": "$85",
-              "link": "https://cb2.com/velvet-room-darkening-curtains"
-            }
-          ]
-        },
-        {
-          "rank": 4,
-          "image": "/curtain-competitor3.jpg",
-          "title": "Patterned Light Filtering Curtains",
-          "description": "Stylish patterned curtains with light filtering properties.",
-          "details": "The Patterned Light Filtering curtains are perfect for adding a decorative touch while allowing some natural light to filter through. Ideal for living rooms, dining areas, or kitchens.",
-          "metrics": [
-            {
-              "name": "Customer Reviews and Ratings",
-              "rating": 4.5
-            },
-            {
-              "name": "Price and Value for Money",
-              "rating": 4.4
-            },
-            {
-              "name": "Material Quality and Light Control",
-              "rating": 4.4
-            },
-            {
-              "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.6
-            }
-          ],
-          "purchaseLinks": [
-            {
-              "store": "Target",
-              "price": "$30",
-              "link": "https://target.com/patterned-light-filtering-curtains"
-            },
-            {
-              "store": "IKEA",
-              "price": "$35",
-              "link": "https://ikea.com/patterned-light-filtering-curtains"
+              "store": "Amazon",
+              "price": "₹249.00",
+              "link": "https://amzn.to/3VwaqcB"
             }
           ]
         }
@@ -586,7 +465,7 @@
   },
   {
     "slug": ["home", "bedroom-appliances", "mattress"],
-    "image": "https://example.com/mattress.jpg",
+    "image": "https://m.media-amazon.com/images/I/61KbBogOOWL._SX679_.jpg",
     "title": "The Best Mattress",
     "updatedDate": "May 15, 2024",
     "researchLink": "/research-link",
@@ -627,153 +506,113 @@
     },
     "topPick": {
       "rank": 1,
-      "image": "/mattress-top-pick.jpg",
-      "title": "Nectar Memory Foam Mattress",
-      "description": "A premium memory foam mattress that offers exceptional comfort and pressure relief.",
-      "details": "The Nectar Memory Foam Mattress is designed to contour to your body shape, providing superior pressure relief and motion isolation. Its cooling technology and breathable cover ensure a comfortable sleeping experience throughout the night.",
+      "image": "https://m.media-amazon.com/images/I/61KbBogOOWL._SX679_.jpg",
+      "title": "Wakefit Mattress | 10 Years Warranty | ShapeSense Orthopedic Classic Memory Foam Mattress, King Size",
+      "description": "An orthopedic memory foam mattress by Wakefit, designed for optimal comfort and support with a medium firm feel. Features breathable premium fabric cover and TruDensity technology.",
+      "details": "Dimensions: 78 x 72 x 6 Inches (198.12 x 182.88 x 15.24 cm). Material: ShapeSense Ortho Memory Foam, Responsive Support Foam, High Density Foam Base. Medium firmness suitable for adults. Removable, machine-washable outer cover. 10-year manufacturer warranty included.",
       "metrics": [
         {
           "name": "Customer Reviews and Ratings",
-          "rating": 4.7
+          "rating": 4.5
         },
         {
-          "name": "Price and Value for Money",
-          "rating": 4.6
+          "name": "Quality Sleep",
+          "rating": 4.5
         },
         {
-          "name": "Mattress Quality and Durability",
-          "rating": 4.8
+          "name": "Support",
+          "rating": 4.5
         },
         {
-          "name": "Brand Reputation and Trustworthiness",
-          "rating": 4.9
+          "name": "Value for Money",
+          "rating": 4.5
+        },
+        {
+          "name": "Comfort",
+          "rating": 4.4
         }
       ],
       "purchaseLinks": [
         {
-          "store": "Nectar Sleep",
-          "price": "$999",
-          "link": "https://nectarsleep.com"
-        },
-        {
           "store": "Amazon",
-          "price": "$1099",
-          "link": "https://amazon.com"
+          "price": "₹12,999.00",
+          "link": "https://amzn.to/4cvGPXt"
         }
-      ],
-      "topPick": true
+      ]
     },
     "competitionSection": {
       "title": "The Competition",
       "competitors": [
         {
           "rank": 2,
-          "image": "/mattress-competitor-1.jpg",
-          "title": "Casper Original Mattress",
-          "description": "A popular all-foam mattress known for its balanced comfort and support.",
-          "details": "The Casper Original Mattress combines multiple layers of foam to provide pressure relief and spinal alignment. Its zoned support system and open-cell design ensure proper airflow and cooling.",
+          "image": "https://m.media-amazon.com/images/I/617UrOPRq8L._SX569_.jpg",
+          "title": "Sleepyhead Flip - Dual Sided High Density Foam Mattress, Queen Size",
+          "description": "A dual-sided reversible mattress by Sleepyhead, offering both soft and firm sides for versatile comfort. Features high-density foam construction, low motion transfer, breathable fabric, and a 7-year warranty.",
+          "details": "Dimensions: 78 x 60 x 5 Inches (198.1 x 152.4 x 12.7 cm). Material: High Density Foam. Dual-sided with plush soft foam on one side and firm support on the other. Includes a soft knit fabric cover to manage body humidity during sleep.",
           "metrics": [
             {
               "name": "Customer Reviews and Ratings",
-              "rating": 4.6
+              "rating": 4.5
             },
             {
-              "name": "Price and Value for Money",
+              "name": "Quality Sleep",
+              "rating": 4.5
+            },
+            {
+              "name": "Comfort",
+              "rating": 4.5
+            },
+            {
+              "name": "Value for Money",
+              "rating": 4.5
+            },
+            {
+              "name": "Support",
               "rating": 4.4
-            },
-            {
-              "name": "Mattress Quality and Durability",
-              "rating": 4.7
-            },
-            {
-              "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.8
             }
           ],
           "purchaseLinks": [
             {
-              "store": "Casper",
-              "price": "$1195",
-              "link": "https://casper.com"
-            },
-            {
               "store": "Amazon",
-              "price": "$1099",
-              "link": "https://amazon.com"
+              "price": "₹8,177.00",
+              "link": "https://amzn.to/4ezJBNd"
             }
           ]
-        },
+        }
+        ,
         {
           "rank": 3,
-          "image": "/mattress-competitor-2.jpg",
-          "title": "Tuft & Needle Original Mattress",
-          "description": "A budget-friendly foam mattress that offers excellent value for money.",
-          "details": "The Tuft & Needle Original Mattress is a simple yet effective foam mattress that provides good pressure relief and motion isolation. Its straightforward design and competitive pricing make it an attractive option for those on a budget.",
+          "image": "https://m.media-amazon.com/images/I/51GvwVPNRsL._SX679_.jpg",
+          "title": "duroflex Livein - Pressure Relieving, Memory Foam, Roll Pack, 6 Inch Single Size Medium Firm Mattress",
+          "description": "A single size medium firm mattress by duroflex featuring pressure-relieving memory foam and antimicrobial fabric. Comes vacuum-packed for easy setup and includes a 10-year warranty against manufacturing defects.",
+          "details": "Dimensions: 72 x 36 x 6 Inches (182.9 x 91.4 x 15.2 cm). Material: Memory Foam. Special features include orthopedic support, triple anti-microbial fabric, and a medium firmness for contoured comfort.",
           "metrics": [
             {
               "name": "Customer Reviews and Ratings",
-              "rating": 4.5
+              "rating": 4.2
             },
             {
-              "name": "Price and Value for Money",
-              "rating": 4.7
+              "name": "Softness",
+              "rating": 4.3
             },
             {
-              "name": "Mattress Quality and Durability",
-              "rating": 4.4
+              "name": "Value for Money",
+              "rating": 4.2
             },
             {
-              "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.6
+              "name": "Comfort",
+              "rating": 4.2
+            },
+            {
+              "name": "Support",
+              "rating": 4.1
             }
           ],
           "purchaseLinks": [
             {
-              "store": "Tuft & Needle",
-              "price": "$695",
-              "link": "https://tuftandneedle.com"
-            },
-            {
               "store": "Amazon",
-              "price": "$795",
-              "link": "https://amazon.com"
-            }
-          ]
-        },
-        {
-          "rank": 4,
-          "image": "/mattress-competitor-3.jpg",
-          "title": "Leesa Hybrid Mattress",
-          "description": "A hybrid mattress that combines the benefits of foam and coils.",
-          "details": "The Leesa Hybrid Mattress features a combination of foam layers and pocketed coils, delivering exceptional pressure relief and support. Its breathable design and edge reinforcement ensure a comfortable sleeping experience.",
-          "metrics": [
-            {
-              "name": "Customer Reviews and Ratings",
-              "rating": 4.6
-            },
-            {
-              "name": "Price and Value for Money",
-              "rating": 4.5
-            },
-            {
-              "name": "Mattress Quality and Durability",
-              "rating": 4.7
-            },
-            {
-              "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.8
-            }
-          ],
-          "purchaseLinks": [
-            {
-              "store": "Leesa",
-              "price": "$1499",
-              "link": "https://leesa.com"
-            },
-            {
-              "store": "Amazon",
-              "price": "$1399",
-              "link": "https://amazon.com"
+              "price": "₹8,998.00",
+              "link": "https://amzn.to/3VyHnVQ"
             }
           ]
         }

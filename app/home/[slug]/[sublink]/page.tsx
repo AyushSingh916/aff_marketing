@@ -36,12 +36,12 @@ export default function ProductPage({ params }: ProductPageProps) {
           <h1 className="text-3xl font-bold mb-4">{product.title}</h1>
           <div className="flex justify-between items-center text-gray-600 mb-6">
             <p>Updated {product.updatedDate}</p>
-            <Link href={product.researchLink}>
+            <div>
               <p className="flex items-center gap-2 text-blue-600 hover:underline">
                 {/* <FaRegCircleUser size={20} /> */}
                 {/* <span>Research By {product.authors}</span> */}
               </p>
-            </Link>
+            </div>
           </div>
           <p className="text-gray-800 whitespace-pre-line leading-relaxed">
             {product.description}
@@ -65,14 +65,18 @@ export default function ProductPage({ params }: ProductPageProps) {
         </div>
       </div>
       <div className="bg-white shadow-lg rounded-lg p-8">
-        <h2 className="text-2xl font-bold mb-4">{product.comparisonSection.title}</h2>
-        <Image
-          src={product.image}
-          alt={product.title}
-          width={1000}
-          height={600}
-          className="rounded-md mb-4"
-        />
+        <div className="bg-gray-100 p-6 rounded-lg shadow-inner mt-6">
+          <div className="mb-4">
+            <span className="bg-red-500 text-white px-3 py-1 rounded-full">Top Pick</span>
+          </div>
+          <h3 className="text-lg font-semibold mb-2">Who it&apos;s for:</h3>
+          <p className="text-gray-700 mb-6">{product.comparisonSection.content}</p>
+          <ul className="list-disc list-inside space-y-2">
+            {product.comparisonSection.keyPoints.map((point, index) => (
+              <li key={index} className="font-bold">{point}</li>
+            ))}
+          </ul>
+        </div>
         <Card
           imageSrc={product.topPick.image}
           altText={product.topPick.title}
@@ -89,20 +93,8 @@ export default function ProductPage({ params }: ProductPageProps) {
             link: link.link,
           }))}
         />
-        <div className="bg-gray-100 p-6 rounded-lg shadow-inner mt-6">
-          <div className="mb-4">
-            <span className="bg-red-500 text-white px-3 py-1 rounded-full">Top Pick</span>
-          </div>
-          <h3 className="text-lg font-semibold mb-2">Who it&apos;s for:</h3>
-          <p className="text-gray-700 mb-6">{product.comparisonSection.content}</p>
-          <ul className="list-disc list-inside space-y-2">
-            {product.comparisonSection.keyPoints.map((point, index) => (
-              <li key={index} className="font-bold">{point}</li>
-            ))}
-          </ul>
-        </div>
       </div>
-      <div className="bg-white shadow-lg rounded-lg p-8">
+      {/* <div className="bg-white shadow-lg rounded-lg p-8">
         <h2 className="text-2xl font-bold mb-4">{product.title}</h2>
         <Image
           src={product.image}
@@ -111,7 +103,7 @@ export default function ProductPage({ params }: ProductPageProps) {
           height={600}
           className="rounded-md mb-4"
         />
-      </div>
+      </div> */}
       <div className="bg-white shadow-lg rounded-lg p-8">
         <h2 className="text-2xl font-bold text-center mb-4">{product.competitionSection.title}</h2>
         <div className="space-y-4">
