@@ -805,24 +805,24 @@
       "title": "Urban Space 100% Cotton Blankets Single Bed, All Season Reversible AC Blanket Comforter, 3 Layered Quilted Dohar (Venus Beige, 145 cm x 225 cm AC Blanket Single Bed)",
       "description": "Experience all-season comfort with the Urban Space 100% Cotton Blankets. This reversible AC blanket is perfect for single beds and features a stylish, quilted design. Made from soft, triple-layered cotton, it is lightweight, skin-friendly, and easy to maintain.",
       "details": "Size: Single. Material: Cotton. Colour: Venus Beige. Brand: Urban Space. Special Features: 100% Malmal Cotton, Multi-use of Dohar and comforter, Skin-friendly & cozy, Lightweight, All Season AC Blanket. Style: Modern. Blanket Form: Comforter. Age Range: Adult. Product Dimensions: 2.25L x 1.45W Meters. Pattern: Venus Beige.",
-        "metrics": [
-          {
-            "name": "Customer Reviews and Ratings",
-            "rating": 4.0
-          },
-          {
-            "name": "Price and Value for Money",
-            "rating": 4.1
-          },
-          {
-            "name": "Fabric Quality and Durability",
-            "rating": 4.0
-          },
-          {
-            "name": "Brand Reputation and Trustworthiness",
-            "rating": 4.2
-          }
-        ],
+      "metrics": [
+        {
+          "name": "Customer Reviews and Ratings",
+          "rating": 4.0
+        },
+        {
+          "name": "Price and Value for Money",
+          "rating": 4.1
+        },
+        {
+          "name": "Fabric Quality and Durability",
+          "rating": 4.0
+        },
+        {
+          "name": "Brand Reputation and Trustworthiness",
+          "rating": 4.2
+        }
+      ],
       "purchaseLinks": [
         {
           "store": "Amazon",
@@ -1208,75 +1208,34 @@
         },
         {
           "rank": 3,
-          "image": "/lamp-competitor2.jpg",
-          "title": "Smart Table Lamp",
-          "description": "A smart table lamp that provides customizable lighting and integrates with your smart home devices.",
-          "details": "The Smart Table Lamp offers customizable lighting options, including adjustable color temperature and brightness. It integrates with smart home systems for voice control and scheduling.",
+          "image": "https://m.media-amazon.com/images/I/81GFx88bOML._SX679_.jpg",
+          "title": "Homesake® Rustic Algae French Trophy Carved Table Lamp with Shade, Night Lamp Home Decor Items, Lamp for Living Room, Light Lamp, Bedside Lamp (Off White)",
+          "description": "Add a touch of rustic elegance to your home with the Homesake® Rustic Algae French Trophy Carved Table Lamp. Perfect for living rooms, bedrooms, and more, this lamp features a wood base and beige fabric shade.",
+          "details": "Colour: Turquoise. Finish Type: Unfinished. Base Material: Wood. Bulb Base: E27. Product Dimensions: 33D x 33W x 50H Centimeters. Item Weight: 1200 Grams. Lamp Type: Rustic. Shade Colour: Beige. Shade Material: Fabric. Switch Type: Rocker. Style: Classic.",
           "metrics": [
             {
               "name": "Customer Reviews and Ratings",
-              "rating": 4.6
+              "rating": 4.1
             },
             {
-              "name": "Price and Value for Money",
+              "name": "Design and Aesthetics",
               "rating": 4.5
             },
             {
-              "name": "Material Quality and Design",
-              "rating": 4.7
+              "name": "Build Quality and Durability",
+              "rating": 4.5
             },
             {
-              "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.6
+              "name": "Light Quality and Brightness",
+              "rating": 4.3
             }
           ],
           "purchaseLinks": [
-            {
-              "store": "Wayfair",
-              "price": "$60",
-              "link": "https://wayfair.com/smart-table-lamp"
-            },
-            {
-              "store": "LL Bean",
-              "price": "$65",
-              "link": "https://llbean.com/smart-table-lamp"
-            }
-          ]
-        },
-        {
-          "rank": 4,
-          "image": "/lamp-competitor3.jpg",
-          "title": "Bedside Lamp",
-          "description": "A bedside lamp designed to provide soft, calming light for your bedroom.",
-          "details": "The Bedside Lamp is perfect for creating a calming atmosphere in your bedroom. It features a touch-sensitive control for easy operation and adjustable brightness levels.",
-          "metrics": [
-            {
-              "name": "Customer Reviews and Ratings",
-              "rating": 4.5
-            },
-            {
-              "name": "Price and Value for Money",
-              "rating": 4.4
-            },
-            {
-              "name": "Material Quality and Design",
-              "rating": 4.6
-            },
-            {
-              "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.5
-            }
-          ],
-          "purchaseLinks": [
-            {
-              "store": "Target",
-              "price": "$30",
-              "link": "https://target.com/bedside-lamp"
-            },
             {
               "store": "Amazon",
-              "price": "$35",
-              "link": "https://amazon.com/bedside-lamp"
+              "price": "₹1,329.00",
+              "discount": "58% off",
+              "link": "https://amzn.to/3RGaYvf"
             }
           ]
         }
@@ -1285,7 +1244,7 @@
   },
   {
     "slug": ["home", "furniture", "sofa"],
-    "image": "https://example.com/sofa.jpg",
+    "image": "https://m.media-amazon.com/images/I/81Sx6JZKBoL._SX679_.jpg",
     "title": "The Best Sofas",
     "updatedDate": "June 17, 2024",
     "researchLink": "/sofas-research",
@@ -1325,162 +1284,123 @@
     },
     "topPick": {
       "rank": 1,
-      "image": "/sofa-top-pick.jpg",
-      "title": "Mid-Century Modern Tufted Sofa",
-      "description": "A classic mid-century sofa with tufted upholstery and solid wood legs.",
-      "details": "This tufted sofa combines timeless style with comfort, featuring high-density foam cushions and durable linen upholstery. Available in multiple colors to complement various decor styles.",
+      "image": "https://m.media-amazon.com/images/I/81Sx6JZKBoL._SX679_.jpg",
+      "title": "Adorn India Wood Chandler L Shape 5- to 6-Person Sofa Set Plain (Left Hand Side) Grey",
+      "description": "The Adorn India Wood Chandler L Shape 5- to 6-Person Sofa Set is a modern, stylish, and comfortable addition to your living room. Crafted from high-quality wood and foam, this grey upholstered sofa offers durability and support, making it perfect for family gatherings and relaxation.",
+      "details": "Brand: Adorn India. Colour: Grey. Material: Wood and Foam. Upholstery Material: Fabric. Size: Chandler 5 seater LHS. Product Dimensions: 2.13 x 1.6 x 0.66 Meters. Item Weight: 70 kg. Shape: L-Shape. Style: Modern. Assembly Required: No (only legs to be fixed by the customer). Warranty: 1 year for frame and foam. Product Care Instructions: Wipe with dry cloth.",
       "metrics": [
         {
           "name": "Customer Reviews and Ratings",
-          "rating": 4.8
+          "rating": 4.3
         },
         {
-          "name": "Price and Value for Money",
+          "name": "Durability",
           "rating": 4.6
         },
         {
-          "name": "Sofa Comfort and Durability",
-          "rating": 4.7
+          "name": "Support",
+          "rating": 4.5
         },
         {
-          "name": "Brand Reputation and Trustworthiness",
-          "rating": 4.9
+          "name": "Value for Money",
+          "rating": 4.5
+        },
+        {
+          "name": "Comfort",
+          "rating": 4.3
         }
       ],
       "purchaseLinks": [
         {
-          "store": "Wayfair",
-          "price": "$800",
-          "link": "https://wayfair.com/mid-century-tufted-sofa"
-        },
-        {
-          "store": "West Elm",
-          "price": "$850",
-          "link": "https://westelm.com/mid-century-tufted-sofa"
+          "store": "Amazon",
+          "price": "₹18,717.00",
+          "discount": "55% off",
+          "link": "https://amzn.to/3Xve0pW"
         }
       ],
-      "topPick": true
+      "warranty": "1 year for frame and foam (service warranty only for major materials: if wood gets broken, or foam sinks and does not return to its original shape within one hour). No warranty for fabric, stitches, zipper, or legs that bend or get damaged. Foam softening over time is natural and not covered by warranty."
     },
     "competitionSection": {
       "title": "The Competition",
       "competitors": [
         {
           "rank": 2,
-          "image": "/sofa-competitor1.jpg",
-          "title": "Modern Leather Sectional Sofa",
-          "description": "A contemporary leather sectional sofa with adjustable headrests and chrome legs.",
-          "details": "The Modern Leather sectional sofa offers sleek design elements with premium leather upholstery and adjustable headrests for personalized comfort. Ideal for modern living rooms.",
+          "image": "https://m.media-amazon.com/images/I/711AV94lwAS._SX679_.jpg",
+          "title": "Coirfit Jute Fabric Washable Cover with Free Cushions 3 Seater Folding Sofa Cum Bed (Brown, 5' X 6' Feet)",
+          "description": "The Coirfit 3 Seater Folding Sofa Cum Bed is a versatile and practical addition to any living room. Featuring a durable jute fabric cover that is washable, this sofa cum bed is designed for convenience and comfort. It includes free cushions and offers a seating capacity of three, making it ideal for both seating and sleeping arrangements.",
+          "details": "Brand: Coirfit. Colour: Brown. Material: Jute Fabric. Upholstery Fabric Type: Jute. Size: 5x6 Feet. Product Dimensions: 76.2D x 121.9W x 71.1H Centimeters. Item Weight: 26 kg. Shape: Rectangular. Style: L Shaped. Assembly Required: No. Special Features: L Shaped, Armless. Room Type: Living Room. Type: Sofa Bed.",
           "metrics": [
             {
               "name": "Customer Reviews and Ratings",
-              "rating": 4.7
+              "rating": 3.9
             },
             {
-              "name": "Price and Value for Money",
-              "rating": 4.5
+              "name": "Light Weight",
+              "rating": 3.6
             },
             {
-              "name": "Sofa Comfort and Durability",
-              "rating": 4.6
+              "name": "Sturdiness",
+              "rating": 3.6
             },
             {
-              "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.8
+              "name": "Comfort",
+              "rating": 3.5
+            },
+            {
+              "name": "Value for Money",
+              "rating": 3.3
             }
           ],
           "purchaseLinks": [
             {
               "store": "Amazon",
-              "price": "$1200",
-              "link": "https://amazon.com/modern-leather-sectional-sofa"
-            },
-            {
-              "store": "Living Spaces",
-              "price": "$1250",
-              "link": "https://livingspaces.com/modern-leather-sectional-sofa"
+              "price": "₹7,999.00",
+              "discount": "63% off",
+              "link": "https://amzn.to/3xqbWVF"
             }
-          ]
+          ],
+          "warranty": "1 year warranty on the product. The Coirfit Sofa Cum Bed is sanitized before dispatch and does not require assembly. The warranty covers major issues such as structural damage and significant foam sinking."
         },
         {
           "rank": 3,
-          "image": "/sofa-competitor2.jpg",
-          "title": "Contemporary Fabric Sleeper Sofa",
-          "description": "A versatile fabric sleeper sofa with a pull-out bed mechanism and storage compartments.",
-          "details": "The Contemporary Fabric sleeper sofa combines functionality with comfort, featuring a pull-out bed for overnight guests and built-in storage compartments. Suitable for small apartments or guest rooms.",
+          "image": "https://m.media-amazon.com/images/I/61YkxO65XXL._SX679_.jpg",
+          "title": "FURNY Adon 3 Seater Fabric Sofa Set (Blue-Grey)",
+          "description": "The FURNY Adon 3 Seater Fabric Sofa Set offers a comfortable seating experience with its solid wood frame and high-density supersoft air foam. Upholstered in durable fabric, this modern sofa set is perfect for living rooms, guest rooms, and home offices.",
+          "details": "Brand: FURNY. Colour: Blue-Grey. Material: Solid Wood, High Density Supersoft Air Foam. Upholstery Material: Fabric. Size: 3 Seater. Product Dimensions: 177.8D x 83.8W x 83.8H Centimeters. Item Weight: 25 kg. Shape: L-Shape. Style: Modern. Assembly Required: No. Special Features: Recliner. Room Type: Kids Room, Living Room, Guest Room, Home Office. Arm Style: Track. Pattern: Solid. Back Style: Cushion Back.",
           "metrics": [
             {
               "name": "Customer Reviews and Ratings",
-              "rating": 4.6
+              "rating": 3.3
             },
             {
-              "name": "Price and Value for Money",
-              "rating": 4.4
+              "name": "Easy to Assemble",
+              "rating": 3.8
             },
             {
-              "name": "Sofa Comfort and Durability",
-              "rating": 4.5
+              "name": "Value for Money",
+              "rating": 3.6
             },
             {
-              "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.7
-            }
-          ],
-          "purchaseLinks": [
-            {
-              "store": "Wayfair",
-              "price": "$900",
-              "link": "https://wayfair.com/fabric-sleeper-sofa"
-            },
-            {
-              "store": "IKEA",
-              "price": "$950",
-              "link": "https://ikea.com/fabric-sleeper-sofa"
-            }
-          ]
-        },
-        {
-          "rank": 4,
-          "image": "/sofa-competitor3.jpg",
-          "title": "Traditional Velvet Loveseat",
-          "description": "An elegant velvet loveseat with button tufting and rolled arms.",
-          "details": "The Traditional Velvet loveseat offers classic charm with its velvet upholstery and detailed craftsmanship. Perfect for creating a cozy seating area in a formal living room or den.",
-          "metrics": [
-            {
-              "name": "Customer Reviews and Ratings",
-              "rating": 4.5
-            },
-            {
-              "name": "Price and Value for Money",
-              "rating": 4.3
-            },
-            {
-              "name": "Sofa Comfort and Durability",
-              "rating": 4.4
-            },
-            {
-              "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.6
+              "name": "Sturdiness",
+              "rating": 3.6
             }
           ],
           "purchaseLinks": [
             {
               "store": "Amazon",
-              "price": "$700",
-              "link": "https://amazon.com/velvet-loveseat"
-            },
-            {
-              "store": "Wayfair",
-              "price": "$720",
-              "link": "https://wayfair.com/velvet-loveseat"
+              "price": "₹10,951.00",
+              "discount": "79% off",
+              "link": "https://amzn.to/4bjNF1c"
             }
-          ]
+          ],
+          "warranty": "Top Brand product with free delivery, 10 days replacement policy, and secure transaction."
         }
       ]
     }
   },
   {
     "slug": ["home", "furniture", "tables"],
-    "image": "https://example.com/table.jpg",
+    "image": "https://m.media-amazon.com/images/I/71BRnU6sjnL._SX679_.jpg",
     "title": "The Best Tables",
     "updatedDate": "June 17, 2024",
     "researchLink": "/tables-research",
@@ -1520,156 +1440,122 @@
     },
     "topPick": {
       "rank": 1,
-      "image": "/table-top-pick.jpg",
-      "title": "Modern Glass Top Dining Table",
-      "description": "A sleek dining table with a tempered glass top and metal legs.",
-      "details": "This modern dining table combines elegance with durability, featuring a tempered glass top for easy cleaning and sturdy metal legs for stability. Available in different sizes to accommodate various dining spaces.",
+      "image": "https://m.media-amazon.com/images/I/71BRnU6sjnL._SX679_.jpg",
+      "title": "DeckUp Bonton Engineered Wood Coffee Table (Dark Wenge, Matte Finish)",
+      "description": "The DeckUp Bonton Engineered Wood Coffee Table offers a stylish and functional addition to any living space. Its dark wenge color and matte finish provide a contemporary look, while the engineered wood construction ensures durability.",
+      "details": "Brand: DeckUp. Colour: Dark Wenge. Material: High grade European standard E2 engineered wood - Particle board with pre-laminate. Size: 40D x 99.1W x 32H Centimeters. Item Weight: 12.4 kg. Shape: Rectangular. Style: Contemporary. Frame Material: Engineered Wood. Table Design: Coffee Table. Finish Type: Laminated. Base Type: Leg. Product Care Instructions: Wipe it clean with a dry cloth, do not use water, wipe any spills immediately.",
       "metrics": [
         {
           "name": "Customer Reviews and Ratings",
-          "rating": 4.9
+          "rating": 3.9
         },
         {
-          "name": "Price and Value for Money",
-          "rating": 4.7
+          "name": "Easy to Install",
+          "rating": 4.1
         },
         {
-          "name": "Table Durability and Functionality",
-          "rating": 4.8
+          "name": "Easy to Assemble",
+          "rating": 4.0
         },
         {
-          "name": "Brand Reputation and Trustworthiness",
-          "rating": 4.9
+          "name": "Sturdiness",
+          "rating": 3.9
+        },
+        {
+          "name": "Value for Money",
+          "rating": 3.8
         }
       ],
       "purchaseLinks": [
         {
-          "store": "Wayfair",
-          "price": "$600",
-          "link": "https://wayfair.com/modern-glass-dining-table"
-        },
-        {
-          "store": "CB2",
-          "price": "$650",
-          "link": "https://cb2.com/modern-glass-dining-table"
+          "store": "Amazon",
+          "price": "₹2,599.00",
+          "discount": "68% off",
+          "link": "https://www.amazon.in/dp/B08XYZ5678"
         }
       ],
-      "topPick": true
+      "warranty": "Top Brand product with free delivery, 10 days replacement policy."
     },
     "competitionSection": {
       "title": "The Competition",
       "competitors": [
         {
           "rank": 2,
-          "image": "/table-competitor1.jpg",
-          "title": "Rustic Wooden Coffee Table",
-          "description": "A sturdy coffee table crafted from reclaimed wood with a rustic finish.",
-          "details": "The Rustic Wooden coffee table offers charm and durability with its reclaimed wood construction and rustic design. Perfect for cozy living rooms or country-style decor.",
+          "image": "https://m.media-amazon.com/images/I/81mU884yNiL._SX569_.jpg",
+          "title": "Nilkamal CNTBL1C Contemporary 1 Cane and Glass Center Coffee Table/Tea Table/Teapoy for Home/Living Room/Office & Outdoor (Weather Brown)",
+          "description": "The Nilkamal CNTBL1C Contemporary Center Coffee Table is designed with a blend of cane and glass, providing a stylish and durable addition to any home, office, or outdoor space. Its elliptical shape, parabolic legs, and crystal pattern on the top and legs offer both aesthetic appeal and high load-bearing capacity.",
+          "details": "Brand: Nilkamal. Colour: Weather Brown. Material: 100% Polypropylene, Glass. Size: 23.6D x 36.2W x 18.5H Centimeters. Item Weight: 5104 Grams. Shape: Rectangular. Style: Contemporary. Frame Material: Plastic. Table Design: Coffee Table. Finish Type: Glossy. Base Type: Leg. Product Care Instructions: Wipe with Dry Cloth.",
           "metrics": [
             {
               "name": "Customer Reviews and Ratings",
-              "rating": 4.7
+              "rating": 4.0
             },
             {
-              "name": "Price and Value for Money",
-              "rating": 4.6
-            },
-            {
-              "name": "Table Durability and Functionality",
-              "rating": 4.6
-            },
-            {
-              "name": "Brand Reputation and Trustworthiness",
+              "name": "Easy to Install",
               "rating": 4.8
-            }
-          ],
-          "purchaseLinks": [
-            {
-              "store": "Wayfair",
-              "price": "$300",
-              "link": "https://wayfair.com/rustic-wood-coffee-table"
             },
             {
-              "store": "Pottery Barn",
-              "price": "$320",
-              "link": "https://potterybarn.com/rustic-wood-coffee-table"
-            }
-          ]
-        },
-        {
-          "rank": 3,
-          "image": "/table-competitor2.jpg",
-          "title": "Contemporary Console Table",
-          "description": "A sleek console table with a minimalist design and metal frame.",
-          "details": "The Contemporary Console table features a slim profile and modern aesthetics, ideal for entryways or narrow spaces. Its metal frame provides stability and a contemporary look.",
-          "metrics": [
-            {
-              "name": "Customer Reviews and Ratings",
-              "rating": 4.6
+              "name": "Easy to Assemble",
+              "rating": 4.1
             },
             {
-              "name": "Price and Value for Money",
-              "rating": 4.5
+              "name": "Regulated Movement",
+              "rating": 4.0
             },
             {
-              "name": "Table Durability and Functionality",
-              "rating": 4.5
-            },
-            {
-              "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.7
-            }
-          ],
-          "purchaseLinks": [
-            {
-              "store": "West Elm",
-              "price": "$250",
-              "link": "https://westelm.com/contemporary-console-table"
-            },
-            {
-              "store": "CB2",
-              "price": "$270",
-              "link": "https://cb2.com/contemporary-console-table"
-            }
-          ]
-        },
-        {
-          "rank": 4,
-          "image": "/table-competitor3.jpg",
-          "title": "Industrial Adjustable Height Desk",
-          "description": "An industrial-style desk with a height-adjustable feature and sturdy metal construction.",
-          "details": "The Industrial Adjustable Height desk offers versatility and durability with its metal frame and adjustable height feature. Suitable for home offices or creative workspaces.",
-          "metrics": [
-            {
-              "name": "Customer Reviews and Ratings",
-              "rating": 4.5
-            },
-            {
-              "name": "Price and Value for Money",
-              "rating": 4.4
-            },
-            {
-              "name": "Table Durability and Functionality",
-              "rating": 4.4
-            },
-            {
-              "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.6
+              "name": "Sturdiness",
+              "rating": 3.8
             }
           ],
           "purchaseLinks": [
             {
               "store": "Amazon",
-              "price": "$400",
-              "link": "https://amazon.com/industrial-adjustable-desk"
+              "price": "₹3,360.00",
+              "discount": "13% off",
+              "link": "https://amzn.to/3RDveOf"
+            }
+          ],
+          "warranty": "Top Brand product with free delivery, 10 days replacement policy, and 1 year warranty."
+        },
+        {
+          "rank": 3,
+          "image": "https://m.media-amazon.com/images/I/716xOV3LrbL._SX569_.jpg",
+          "title": "BLUEWUD Mallium Engineered Wood Study and Computer Laptop Table for Home or Office, WFH Desk with Storage Shelves for Adults Kids Students (Wenge)",
+          "description": "The BLUEWUD Mallium Engineered Wood Study and Computer Laptop Table is designed for home or office use, offering a modern and compact solution with storage shelves for books and decor. It features a keyboard tray, a drawer, and a sleek wenge finish, making it a stylish and functional addition to any living space.",
+          "details": "Brand: BLUEWUD. Colour: Wenge. Material: Engineered Wood. Size: 40D x 103W x 72.5H Centimeters. Item Weight: Not specified. Shape: Rectangular. Style: Modern. Finish Type: Matte. Base Material: Engineered Wood. Top Material Type: Wood. Desk Design: Computer Desk. Room Type: Living Room. Number of Drawers: 1. Special Feature: Keyboard Tray Included, Compact.",
+          "metrics": [
+            {
+              "name": "Customer Reviews and Ratings",
+              "rating": 3.9
             },
             {
-              "store": "Wayfair",
-              "price": "$420",
-              "link": "https://wayfair.com/industrial-adjustable-desk"
+              "name": "Storage Capacity",
+              "rating": 3.8
+            },
+            {
+              "name": "Value for Money",
+              "rating": 3.5
+            },
+            {
+              "name": "Easy to Assemble",
+              "rating": 3.5
+            },
+            {
+              "name": "Sturdiness",
+              "rating": 3.4
             }
-          ]
+          ],
+          "purchaseLinks": [
+            {
+              "store": "Amazon",
+              "price": "Price not provided",
+              "discount": "Discount not specified",
+              "link": "https://amzn.to/3XzSU9T"
+            }
+          ],
+          "warranty": "Top Brand product with a 2-year warranty and secure transaction."
         }
+        
       ]
     }
   },
@@ -2027,7 +1913,7 @@
   },
   {
     "slug": ["home", "kitchen", "gas"],
-    "image": "https://example.com/gas-stove.jpg",
+    "image": "https://m.media-amazon.com/images/I/71KwjDbQ61S._SX679_.jpg",
     "title": "The Best Gas Stoves",
     "updatedDate": "June 17, 2024",
     "researchLink": "/gas-stoves-research",
@@ -2066,116 +1952,139 @@
     },
     "topPick": {
       "rank": 1,
-      "image": "/gas-stove-top-pick.jpg",
-      "title": "Premium Stainless Steel Gas Stove",
-      "description": "A high-performance gas stove with advanced safety features.",
-      "details": "This premium stainless steel gas stove offers excellent heating efficiency and advanced safety features like a flame failure device. Its robust construction ensures durability and reliability.",
+      "image": "https://m.media-amazon.com/images/I/71KwjDbQ61S._SX679_.jpg",
+      "title": "MILTON Premium 3 Burner Black Manual Ignition LPG Glass Top Gas Stove, (ISI Certified)",
+      "description": "The MILTON Premium 3 Burner Gas Stove features a premium finish with a 6mm toughened black glass top, offering a rust-resistant texture and long-lasting performance. It is equipped with three fuel-efficient tri-pin brass burners of different sizes to meet varied cooking needs.",
+      "details": "Colour: Black. Material: Glass. Special Feature: Safety Features. Brand: MILTON. Heating Elements: 3. Product Dimensions: Not provided. Item Weight: Not provided.",
       "metrics": [
         {
           "name": "Customer Reviews and Ratings",
-          "rating": 4.8
+          "rating": 4.1
         },
         {
-          "name": "Price and Value for Money",
-          "rating": 4.7
+          "name": "Build Quality and Durability",
+          "rating": 4.2
         },
         {
-          "name": "Heating Efficiency and Performance",
-          "rating": 4.9
+          "name": "Design and Aesthetics",
+          "rating": 4.3
         },
         {
-          "name": "Safety Features and Build Quality",
-          "rating": 4.8
+          "name": "Safety Features",
+          "rating": 4.0
+        },
+        {
+          "name": "Fuel Efficiency",
+          "rating": 4.4
+        },
+        {
+          "name": "Ease of Cleaning",
+          "rating": 4.3
+        },
+        {
+          "name": "Value for Money",
+          "rating": 4.5
         }
       ],
       "purchaseLinks": [
         {
           "store": "Amazon",
-          "price": "$250",
-          "link": "https://amazon.com/premium-stainless-steel-gas-stove"
-        },
-        {
-          "store": "Home Depot",
-          "price": "$245",
-          "link": "https://homedepot.com/premium-stainless-steel-gas-stove"
+          "price": "₹2,998.00",
+          "discount": "51% off",
+          "link": "https://amzn.to/3z8RicW"
         }
-      ],
-      "topPick": true
+      ]
     },
     "competitionSection": {
       "title": "The Competition",
       "competitors": [
         {
           "rank": 2,
-          "image": "/gas-stove-competitor1.jpg",
-          "title": "Efficient 4-Burner Gas Stove",
-          "description": "A reliable 4-burner gas stove with excellent heating performance.",
-          "details": "The Efficient 4-Burner Gas Stove offers great heating performance and easy maintenance. Its four burners provide flexibility for different cooking needs.",
+          "image": "https://m.media-amazon.com/images/I/614Q2qMRVBL._SX679_.jpg",
+          "title": "Prestige IRIS Toughened Glass-Top 3 Brass Burner LPG Gas Stove | Black Spill Proof Design | Ergonomic Knob | Tri-Pin Burners",
+          "description": "The Prestige IRIS 3 Burner Gas Stove features a toughened glass top with a spill-proof design, ergonomic knobs, and high-efficiency tri-pin burners. It is designed to offer hassle-free cooking and a cleaner kitchen.",
+          "details": "Colour: Black. Material: Powder Coated Mild Steel with Glass Top. Special Feature: Gas. Brand: Prestige. Heating Elements: 3.",
           "metrics": [
             {
               "name": "Customer Reviews and Ratings",
-              "rating": 4.6
+              "rating": 4.0
             },
             {
-              "name": "Price and Value for Money",
-              "rating": 4.5
+              "name": "Build Quality and Durability",
+              "rating": 3.7
             },
             {
-              "name": "Heating Efficiency and Performance",
-              "rating": 4.7
+              "name": "Design and Aesthetics",
+              "rating": 4.0
             },
             {
-              "name": "Safety Features and Build Quality",
-              "rating": 4.6
+              "name": "Safety Features",
+              "rating": 4.0
+            },
+            {
+              "name": "Fuel Efficiency",
+              "rating": 3.3
+            },
+            {
+              "name": "Ease of Cleaning",
+              "rating": 3.5
+            },
+            {
+              "name": "Value for Money",
+              "rating": 4.0
             }
           ],
           "purchaseLinks": [
             {
-              "store": "Walmart",
-              "price": "$200",
-              "link": "https://walmart.com/efficient-4-burner-gas-stove"
-            },
-            {
-              "store": "Best Buy",
-              "price": "$195",
-              "link": "https://bestbuy.com/efficient-4-burner-gas-stove"
+              "store": "Amazon",
+              "price": "₹3,799.00",
+              "discount": "30% off",
+              "link": "https://amzn.to/3VQdEc6"
             }
           ]
         },
         {
           "rank": 3,
-          "image": "/gas-stove-competitor2.jpg",
-          "title": "Compact 2-Burner Gas Stove",
-          "description": "A compact gas stove ideal for small kitchens.",
-          "details": "The Compact 2-Burner Gas Stove is perfect for small kitchens. Its compact design does not compromise on performance or safety features.",
+          "image": "https://m.media-amazon.com/images/I/51SB72zh4QL._SX679_.jpg",
+          "title": "Lifelong 2 Burner Gas Stove Top for Kitchen - Automatic Ignition Cooktop Modern Glass Stove for Modular Kitchen, ISI Certified & Compatible with LPG - 1 Year Manufacturer's (Black, LLGS912)",
+          "description": "The Lifelong 2 Burner Gas Stove features an automatic ignition system and a modern glass top, making it ideal for modular kitchens. It is ISI certified and compatible with LPG, ensuring safety and reliability.",
+          "details": "Brand: Lifelong. Fuel Type: Liquefied Petroleum Gas. Material: Glass. Product Dimensions: 58.5 x 35 x 12 cm. Maximum Energy Output: 2000 Watts. Item Weight: 4.62 Kilograms.",
           "metrics": [
             {
               "name": "Customer Reviews and Ratings",
-              "rating": 4.5
+              "rating": 3.8
             },
             {
-              "name": "Price and Value for Money",
-              "rating": 4.4
+              "name": "Build Quality and Durability",
+              "rating": 3.9
             },
             {
-              "name": "Heating Efficiency and Performance",
-              "rating": 4.6
+              "name": "Design and Aesthetics",
+              "rating": 3.9
             },
             {
-              "name": "Safety Features and Build Quality",
-              "rating": 4.5
+              "name": "Safety Features",
+              "rating": 3.8
+            },
+            {
+              "name": "Fuel Efficiency",
+              "rating": 3.8
+            },
+            {
+              "name": "Ease of Cleaning",
+              "rating": 3.9
+            },
+            {
+              "name": "Value for Money",
+              "rating": 3.6
             }
           ],
           "purchaseLinks": [
             {
-              "store": "Target",
-              "price": "$150",
-              "link": "https://target.com/compact-2-burner-gas-stove"
-            },
-            {
-              "store": "Wayfair",
-              "price": "$145",
-              "link": "https://wayfair.com/compact-2-burner-gas-stove"
+              "store": "Amazon",
+              "price": "₹1,599.00",
+              "discount": "79% off",
+              "link": "https://amzn.to/4cAYeyd"
             }
           ]
         }
@@ -2184,7 +2093,7 @@
   },
   {
     "slug": ["home", "kitchen", "chimney"],
-    "image": "https://example.com/chimney.jpg",
+    "image": "https://m.media-amazon.com/images/I/519G427PbtL._SX679_.jpg",
     "title": "The Best Chimneys",
     "updatedDate": "June 17, 2024",
     "researchLink": "/chimneys-research",
@@ -2223,116 +2132,139 @@
     },
     "topPick": {
       "rank": 1,
-      "image": "/chimney-top-pick.jpg",
-      "title": "High-Suction Stainless Steel Chimney",
-      "description": "A powerful chimney with advanced noise reduction features.",
-      "details": "This high-suction stainless steel chimney offers excellent ventilation performance with advanced noise reduction features. Its sleek design complements modern kitchens.",
+      "image": "https://m.media-amazon.com/images/I/519G427PbtL._SX679_.jpg",
+      "title": "KAFF K-Series KET 90A T-Shape Filterless Auto Clean Kitchen Chimney, 90 CM, 1450 m3/hr Suction Capacity with Touch & Motion Sensor, 2 Years Comprehensive Warranty and Lifetime on Motor* (Black)",
+      "description": "The KAFF K-Series KET 90A Kitchen Chimney offers a powerful suction capacity of 1450 m3/hr with a T-shape design. It features touch and motion sensor controls, filterless technology, and auto-clean functionality with a built-in oil collector. This chimney is designed to provide a clean and smoke-free kitchen environment.",
+      "details": "Brand: KAFF. Product Dimensions: 50D x 89.5W x 65H Centimeters. Colour: Black. Special Features: Perforated Filter, LED Lighting, Higher Suction, Auto Clean, Built-In Sleek Oil Collector. Material: Stainless Steel. Control Type: Thermostatic Touch Panel with 3 Speed Gesture Motion Control. Noise Level: 58-64 dBA. Warranty: 2 years comprehensive on product, 10 years on motor.",
       "metrics": [
         {
           "name": "Customer Reviews and Ratings",
-          "rating": 4.8
+          "rating": 4.2
         },
         {
-          "name": "Price and Value for Money",
-          "rating": 4.7
+          "name": "Suction Power",
+          "rating": 4.4
         },
         {
-          "name": "Suction Power and Performance",
-          "rating": 4.9
+          "name": "Build Quality and Durability",
+          "rating": 4.3
         },
         {
-          "name": "Noise Levels and Build Quality",
-          "rating": 4.8
+          "name": "Ease of Use",
+          "rating": 4.1
+        },
+        {
+          "name": "Design and Aesthetics",
+          "rating": 4.2
+        },
+        {
+          "name": "Noise Level",
+          "rating": 4.0
+        },
+        {
+          "name": "Ease of Cleaning",
+          "rating": 4.3
         }
       ],
       "purchaseLinks": [
         {
           "store": "Amazon",
-          "price": "$300",
-          "link": "https://amazon.com/high-suction-stainless-steel-chimney"
-        },
-        {
-          "store": "Best Buy",
-          "price": "$295",
-          "link": "https://bestbuy.com/high-suction-stainless-steel-chimney"
+          "price": "₹11,990.00",
+          "discount": "60% off",
+          "link": "https://amzn.to/45DFtaP"
         }
-      ],
-      "topPick": true
+      ]
     },
     "competitionSection": {
       "title": "The Competition",
       "competitors": [
         {
           "rank": 2,
-          "image": "/chimney-competitor1.jpg",
-          "title": "Silent Kitchen Chimney",
-          "description": "A chimney with silent operation and powerful suction.",
-          "details": "The Silent Kitchen Chimney offers powerful suction and operates quietly, ensuring a peaceful kitchen environment. Its modern design adds a stylish touch to any kitchen.",
+          "image": "https://m.media-amazon.com/images/I/61-NpR9KD7L._SX679_.jpg",
+          "title": "Elica 60 cm 1200 m3/hr Filterless Autoclean Kitchen Chimney (FL 600 SLIM HAC MS NERO, Touch + Motion Sensor Control, Black)",
+          "description": "The Elica 60 cm Kitchen Chimney features a filterless autoclean system with a suction capacity of 1200 m3/hr. It comes with touch and motion sensor controls for easy operation. The chimney is designed to provide a clean and healthy cooking environment with its wide suction chamber and built-in oil collector.",
+          "details": "Brand: Elica. Product Dimensions: 42D x 60W x 47.8H Centimeters. Colour: Black. Special Features: LED Lighting, Built-In Oil Collector, Auto Clean. Finish Type: Black. Control Type: Touch + Motion Sensor Control. No. of Lamps: 2. Shape: Curved Glass. Type: Wall Mounted Kitchen Chimney. Warranty: 5 years on Motor and 2 years comprehensive if purchased after 1st March 2023.",
           "metrics": [
             {
               "name": "Customer Reviews and Ratings",
               "rating": 4.6
             },
             {
-              "name": "Price and Value for Money",
-              "rating": 4.5
-            },
-            {
-              "name": "Suction Power and Performance",
+              "name": "Suction Power",
               "rating": 4.7
             },
             {
-              "name": "Noise Levels and Build Quality",
+              "name": "Build Quality and Durability",
+              "rating": 4.5
+            },
+            {
+              "name": "Ease of Use",
               "rating": 4.6
+            },
+            {
+              "name": "Design and Aesthetics",
+              "rating": 4.6
+            },
+            {
+              "name": "Noise Level",
+              "rating": 4.4
+            },
+            {
+              "name": "Ease of Cleaning",
+              "rating": 4.5
             }
           ],
           "purchaseLinks": [
             {
-              "store": "Home Depot",
-              "price": "$250",
-              "link": "https://homedepot.com/silent-kitchen-chimney"
-            },
-            {
-              "store": "Wayfair",
-              "price": "$245",
-              "link": "https://wayfair.com/silent-kitchen-chimney"
+              "store": "Amazon",
+              "price": "₹10,999.00",
+              "discount": "56% off",
+              "link": "https://amzn.to/4cys85W"
             }
           ]
         },
         {
           "rank": 3,
-          "image": "/chimney-competitor2.jpg",
-          "title": "Compact Wall-Mount Chimney",
-          "description": "A space-saving chimney with efficient suction power.",
-          "details": "The Compact Wall-Mount Chimney is ideal for small kitchens. Its space-saving design doesn’t compromise on suction power or performance.",
+          "image": "https://m.media-amazon.com/images/I/610C1bn33ZL._SX679_.jpg",
+          "title": "Faber Hood Marcus 90cm 1300 m³/hr Filterless Autoclean Chimney | Touch & Gesture Control | Curved Shaped |12Yr on Motor, 2Yr Comprehensive Warranty by Faber | HOOD MARCUS HC SC BK FL 90, Black",
+          "description": "The Faber Hood Marcus 90cm Kitchen Chimney features a filterless autoclean system with a high suction capacity of 1300 m³/hr. It offers touch and gesture control for ease of use, and its curved glass design adds a modern touch to your kitchen. The chimney includes built-in oil collector and LED lighting for enhanced functionality.",
+          "details": "Brand: Faber. Product Dimensions: 41D x 90W x 43.6H Centimeters. Colour: Black. Special Features: LED Lighting, Built-In Oil Collector, Auto Clean. Finish Type: Painted. Control Type: Touch & Gesture. Suction Capacity: 1300 m³/hr. Power: 240W. Noise Level: 58 dB. Lamp: 1 LED of 1.5W. Warranty: 12 years on Motor, 2 years comprehensive.",
           "metrics": [
             {
               "name": "Customer Reviews and Ratings",
-              "rating": 4.5
-            },
-            {
-              "name": "Price and Value for Money",
               "rating": 4.4
             },
             {
-              "name": "Suction Power and Performance",
+              "name": "Suction Power",
+              "rating": 4.5
+            },
+            {
+              "name": "Build Quality and Durability",
+              "rating": 4.4
+            },
+            {
+              "name": "Ease of Use",
+              "rating": 4.5
+            },
+            {
+              "name": "Design and Aesthetics",
               "rating": 4.6
             },
             {
-              "name": "Noise Levels and Build Quality",
+              "name": "Noise Level",
+              "rating": 4.3
+            },
+            {
+              "name": "Ease of Cleaning",
               "rating": 4.5
             }
           ],
           "purchaseLinks": [
             {
-              "store": "IKEA",
-              "price": "$200",
-              "link": "https://ikea.com/compact-wall-mount-chimney"
-            },
-            {
-              "store": "Walmart",
-              "price": "$195",
-              "link": "https://walmart.com/compact-wall-mount-chimney"
+              "store": "Amazon",
+              "price": "₹14,990.00",
+              "discount": "50% off",
+              "link": "https://amzn.to/4cvQVYy"
             }
           ]
         }
@@ -2340,315 +2272,142 @@
     }
   },
   {
-    "slug": ["home", "kitchen", "plates"],
-    "image": "https://example.com/plates.jpg",
-    "title": "The Best Plates",
+    "slug": ["home", "kitchen", "washbasin"],
+    "image": "https://m.media-amazon.com/images/I/41kqy4Kp8LL.jpg",
+    "title": "The Best Kitchen Wash Basins",
     "updatedDate": "June 17, 2024",
-    "researchLink": "/plates-research",
+    "researchLink": "/kitchen-wash-basins-research",
     "authors": "Ayush",
-    "description": "Elevate your dining experience with our top plate reviews. We’ve researched and tested the best plates to help you choose ones that offer excellent durability, style, and functionality.",
+    "description": "Upgrade your kitchen with our top wash basin reviews. We’ve researched and tested the best kitchen wash basins to help you choose ones that offer excellent durability, style, and functionality.",
     "whyTrustUs": {
       "title": "Why You Should Trust Us",
-      "content": "At OurCompany, we conduct meticulous research and testing to provide reliable plate recommendations. Here’s why our reviews are trustworthy:",
+      "content": "At OurCompany, we conduct meticulous research and testing to provide reliable kitchen wash basin recommendations. Here’s why our reviews are trustworthy:",
       "points": [
-        "We evaluate plates based on factors like material quality, design, durability, and ease of cleaning.",
+        "We evaluate kitchen wash basins based on factors like material quality, design, durability, and ease of cleaning.",
         "Our team includes kitchenware experts with extensive knowledge and experience.",
-        "We prioritize transparency, offering detailed evaluations of each plate’s strengths and weaknesses.",
-        "Your satisfaction and dining experience are our primary goals."
+        "We prioritize transparency, offering detailed evaluations of each wash basin’s strengths and weaknesses.",
+        "Your satisfaction and kitchen experience are our primary goals."
       ],
-      "conclusion": "Choosing plates from our recommendations means selecting quality, style, and durability for your dining needs."
+      "conclusion": "Choosing kitchen wash basins from our recommendations means selecting quality, style, and durability for your kitchen needs."
     },
     "researchProcess": {
       "title": "Our Research Process",
       "content": [
-        "We start by researching popular plate styles and materials, considering factors like durability, design, and ease of cleaning.",
-        "Each plate undergoes thorough testing to assess its material quality, design, durability, and overall functionality.",
-        "Our team collaborates to review and analyze findings, ensuring comprehensive evaluations of each plate’s performance.",
+        "We start by researching popular kitchen wash basin styles and materials, considering factors like durability, design, and ease of cleaning.",
+        "Each kitchen wash basin undergoes thorough testing to assess its material quality, design, durability, and overall functionality.",
+        "Our team collaborates to review and analyze findings, ensuring comprehensive evaluations of each wash basin’s performance.",
         "We present our top picks based on their exceptional durability, design, ease of cleaning, and value."
       ]
     },
     "comparisonSection": {
       "title": "Who it’s for:",
-      "content": "Ideal for individuals seeking high-quality plates that provide durability, style, and functionality for everyday use or special occasions.",
+      "content": "Ideal for individuals seeking high-quality kitchen wash basins that provide durability, style, and functionality for everyday use or special occasions.",
       "keyPoints": [
-        "Variety of materials (e.g., ceramic, porcelain, glass)",
+        "Variety of materials (e.g., stainless steel, ceramic, granite)",
         "Design and style options",
         "Durability and resistance to chipping",
-        "Ease of cleaning and dishwasher safety",
+        "Ease of cleaning and installation",
         "Suitability for everyday use and special occasions"
       ]
     },
     "topPick": {
       "rank": 1,
-      "image": "/plates-top-pick.jpg",
-      "title": "Elegant Porcelain Dinner Plates",
-      "description": "Stylish and durable porcelain plates perfect for any dining occasion.",
-      "details": "These elegant porcelain dinner plates offer a perfect blend of style and durability. Their classic design makes them suitable for both everyday use and special occasions.",
+      "image": "https://m.media-amazon.com/images/I/41kqy4Kp8LL.jpg",
+      "title": "CROCODILE 304 GRADE SINGLE BOWL STAINLESS STEEL HANDMADE KITCHEN SINK (21\" x 18\" x 10\")",
+      "description": "The CROCODILE 304 Grade Single Bowl Stainless Steel Handmade Kitchen Sink is a best-seller with a size of 21\" x 18\" x 10\". It is made of 304 grade stainless steel and features a satin finish. This sink comes with a coupling, PVC waste pipe, and fruit basket, and offers a 7-year warranty.",
+      "details": "Brand: CROCODILE. Colour: SATIN. Material: Stainless Steel. Size: 21\" x 18\" x 10\". Product Dimensions: 25D x 25W x 25H Centimeters. Model: DIAMOND CUT SQUARE SINGLE BOWL SS KITCHEN SINK. BOX INCLUDES: KITCHEN SINK, COUPLING, PVC WASTE PIPE & FRUIT BASKET. COLLAR Thickness: 2 mm, BOWL Thickness: 1 mm. Warranty: 7 years from date of purchase.",
       "metrics": [
         {
           "name": "Customer Reviews and Ratings",
-          "rating": 4.8
+          "rating": 4.1
         },
         {
-          "name": "Price and Value for Money",
-          "rating": 4.7
+          "name": "Sturdiness",
+          "rating": 4.0
         },
         {
-          "name": "Material Quality and Durability",
-          "rating": 4.9
+          "name": "Value for Money",
+          "rating": 4.0
         },
         {
-          "name": "Design and Aesthetic Appeal",
-          "rating": 4.8
+          "name": "Noise Cancellation",
+          "rating": 3.8
+        },
+        {
+          "name": "Durability",
+          "rating": 3.8
         }
       ],
       "purchaseLinks": [
         {
           "store": "Amazon",
-          "price": "$60",
-          "link": "https://amazon.com/elegant-porcelain-dinner-plates"
-        },
-        {
-          "store": "Wayfair",
-          "price": "$55",
-          "link": "https://wayfair.com/elegant-porcelain-dinner-plates"
+          "price": "₹2,895.00",
+          "discount": "71% off",
+          "link": "https://amzn.to/4ewL1bn"
         }
-      ],
-      "topPick": true
+      ]
     },
     "competitionSection": {
       "title": "The Competition",
       "competitors": [
         {
           "rank": 2,
-          "image": "/plates-competitor1.jpg",
-          "title": "Durable Ceramic Plates",
-          "description": "Sturdy ceramic plates ideal for everyday use.",
-          "details": "These durable ceramic plates are perfect for daily use. They are resistant to chipping and feature a simple yet elegant design.",
+          "image": "https://m.media-amazon.com/images/I/61MWA5b+ZuL._SX569_.jpg",
+          "title": "ALTON Stainless Steel, Handmade Single Bowl Kitchen Sink With Basket (Matte, 24x18x10 INCH)",
+          "description": "The ALTON Stainless Steel, Handmade Single Bowl Kitchen Sink with Basket features a matte finish, high-quality stainless steel construction, and advanced noise reduction technology. Its spacious basin design and efficient drainage system ensure practicality and durability, making it ideal for both everyday use and entertaining.",
+          "details": "Brand: ALTON. Colour: Matte. Material: Stainless Steel. Size: 24x18x10 INCH. Product Dimensions: 45.7D x 61W x 25.4H Centimeters. Features: High-quality stainless steel, spacious basin, efficient drainage, noise reduction technology, elegant polished finish. Warranty: 5 years.",
           "metrics": [
             {
               "name": "Customer Reviews and Ratings",
-              "rating": 4.6
+              "rating": 3.8
             },
             {
-              "name": "Price and Value for Money",
+              "name": "Easy to Install",
               "rating": 4.5
             },
             {
-              "name": "Material Quality and Durability",
-              "rating": 4.7
+              "name": "Value for Money",
+              "rating": 3.6
             },
             {
-              "name": "Design and Aesthetic Appeal",
-              "rating": 4.6
+              "name": "Durability",
+              "rating": 3.5
+            },
+            {
+              "name": "Sturdiness",
+              "rating": 3.4
             }
           ],
           "purchaseLinks": [
             {
-              "store": "Target",
-              "price": "$40",
-              "link": "https://target.com/durable-ceramic-plates"
-            },
-            {
-              "store": "Walmart",
-              "price": "$38",
-              "link": "https://walmart.com/durable-ceramic-plates"
+              "store": "Amazon",
+              "price": "₹2,599.00",
+              "discount": "53% off",
+              "link": "https://amzn.to/3xjysiZ"
             }
           ]
         },
         {
           "rank": 3,
-          "image": "/plates-competitor2.jpg",
-          "title": "Modern Glass Plates",
-          "description": "Sleek glass plates perfect for contemporary dining.",
-          "details": "These modern glass plates feature a sleek design, ideal for contemporary dining settings. They are durable and easy to clean.",
+          "image": "https://m.media-amazon.com/images/I/515I86LIlgL._SX569_.jpg",
+          "title": "CROCODILE Stainless Steel 304 Grade Double Bowl Handmade Kitchen Sink (45\"x20\"x10\", BLACK)",
+          "description": "The CROCODILE Stainless Steel 304 Grade Double Bowl Handmade Kitchen Sink features a sleek black finish, high-quality 304 grade stainless steel construction, and a spacious double bowl design. This sink is designed for durability and practicality, offering ample space for various kitchen tasks and easy maintenance.",
+          "details": "Brand: CROCODILE. Colour: Black. Material: 304 Grade Stainless Steel. Size: 45\"x20\"x10\". Product Dimensions: 45\" (L) x 20\" (W) x 10\" (D). Bowl Size: 21\" (L) x 18\" (W). Collar Thickness: 2 mm. Bowl Thickness: 1 mm. Finish: Black. Item Weight: 15 kg. Shape: Rectangular. Warranty: 7 years.",
           "metrics": [
             {
               "name": "Customer Reviews and Ratings",
-              "rating": 4.5
-            },
-            {
-              "name": "Price and Value for Money",
-              "rating": 4.4
-            },
-            {
-              "name": "Material Quality and Durability",
-              "rating": 4.6
-            },
-            {
-              "name": "Design and Aesthetic Appeal",
-              "rating": 4.5
+              "rating": 3.7
             }
           ],
           "purchaseLinks": [
             {
-              "store": "IKEA",
-              "price": "$30",
-              "link": "https://ikea.com/modern-glass-plates"
-            },
-            {
-              "store": "Walmart",
-              "price": "$28",
-              "link": "https://walmart.com/modern-glass-plates"
-            }
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "slug": ["home", "kitchen", "cup-set"],
-    "image": "https://example.com/cup-set.jpg",
-    "title": "The Best Cup Sets",
-    "updatedDate": "June 17, 2024",
-    "researchLink": "/cup-sets-research",
-    "authors": "Ayush",
-    "description": "Discover the best cup sets for your kitchen with our in-depth reviews. We’ve researched and tested the best cup sets to help you choose ones that offer excellent design, durability, and functionality.",
-    "whyTrustUs": {
-      "title": "Why You Should Trust Us",
-      "content": "At OurCompany, we conduct thorough research and testing to provide reliable cup set recommendations. Here’s why our reviews are trustworthy:",
-      "points": [
-        "We evaluate cup sets based on factors like material quality, design, durability, and ease of cleaning.",
-        "Our team includes kitchenware experts with extensive knowledge and experience.",
-        "We prioritize transparency, offering detailed evaluations of each cup set’s strengths and weaknesses.",
-        "Your satisfaction and drinking experience are our primary goals."
-      ],
-      "conclusion": "Choosing cup sets from our recommendations means selecting quality, style, and durability for your drinking needs."
-    },
-    "researchProcess": {
-      "title": "Our Research Process",
-      "content": [
-        "We start by researching popular cup set styles and materials, considering factors like durability, design, and ease of cleaning.",
-        "Each cup set undergoes thorough testing to assess its material quality, design, durability, and overall functionality.",
-        "Our team collaborates to review and analyze findings, ensuring comprehensive evaluations of each cup set’s performance.",
-        "We present our top picks based on their exceptional durability, design, ease of cleaning, and value."
-      ]
-    },
-    "comparisonSection": {
-      "title": "Who it’s for:",
-      "content": "Ideal for individuals seeking high-quality cup sets that provide durability, style, and functionality for everyday use or special occasions.",
-      "keyPoints": [
-        "Variety of materials (e.g., ceramic, glass, stainless steel)",
-        "Design and style options",
-        "Durability and resistance to chipping",
-        "Ease of cleaning and dishwasher safety",
-        "Suitability for different beverages (e.g., coffee, tea, juice)"
-      ]
-    },
-    "topPick": {
-      "rank": 1,
-      "image": "/cup-set-top-pick.jpg",
-      "title": "Elegant Ceramic Cup Set",
-      "description": "Stylish and durable ceramic cup set perfect for any occasion.",
-      "details": "This elegant ceramic cup set offers a perfect blend of style and durability. Their classic design makes them suitable for both everyday use and special occasions.",
-      "metrics": [
-        {
-          "name": "Customer Reviews and Ratings",
-          "rating": 4.8
-        },
-        {
-          "name": "Price and Value for Money",
-          "rating": 4.7
-        },
-        {
-          "name": "Material Quality and Durability",
-          "rating": 4.9
-        },
-        {
-          "name": "Design and Aesthetic Appeal",
-          "rating": 4.8
-        }
-      ],
-      "purchaseLinks": [
-        {
-          "store": "Amazon",
-          "price": "$40",
-          "link": "https://amazon.com/elegant-ceramic-cup-set"
-        },
-        {
-          "store": "Wayfair",
-          "price": "$38",
-          "link": "https://wayfair.com/elegant-ceramic-cup-set"
-        }
-      ],
-      "topPick": true
-    },
-    "competitionSection": {
-      "title": "The Competition",
-      "competitors": [
-        {
-          "rank": 2,
-          "image": "/cup-set-competitor1.jpg",
-          "title": "Modern Glass Cup Set",
-          "description": "Sleek glass cup set perfect for contemporary kitchens.",
-          "details": "The Modern Glass Cup Set features a sleek design, ideal for contemporary kitchen settings. They are durable and easy to clean.",
-          "metrics": [
-            {
-              "name": "Customer Reviews and Ratings",
-              "rating": 4.6
-            },
-            {
-              "name": "Price and Value for Money",
-              "rating": 4.5
-            },
-            {
-              "name": "Material Quality and Durability",
-              "rating": 4.7
-            },
-            {
-              "name": "Design and Aesthetic Appeal",
-              "rating": 4.6
+              "store": "Amazon",
+              "price": "₹8,999.00",
+              "discount": "50% off",
+              "link": "https://amzn.to/3KY6xs1"
             }
           ],
-          "purchaseLinks": [
-            {
-              "store": "Target",
-              "price": "$30",
-              "link": "https://target.com/modern-glass-cup-set"
-            },
-            {
-              "store": "Walmart",
-              "price": "$28",
-              "link": "https://walmart.com/modern-glass-cup-set"
-            }
-          ]
-        },
-        {
-          "rank": 3,
-          "image": "/cup-set-competitor2.jpg",
-          "title": "Durable Stainless Steel Cup Set",
-          "description": "Sturdy stainless steel cup set ideal for outdoor use.",
-          "details": "The Durable Stainless Steel Cup Set is perfect for outdoor use. Their robust construction ensures longevity and resistance to damage.",
-          "metrics": [
-            {
-              "name": "Customer Reviews and Ratings",
-              "rating": 4.5
-            },
-            {
-              "name": "Price and Value for Money",
-              "rating": 4.4
-            },
-            {
-              "name": "Material Quality and Durability",
-              "rating": 4.6
-            },
-            {
-              "name": "Design and Aesthetic Appeal",
-              "rating": 4.5
-            }
-          ],
-          "purchaseLinks": [
-            {
-              "store": "IKEA",
-              "price": "$25",
-              "link": "https://ikea.com/durable-stainless-steel-cup-set"
-            },
-            {
-              "store": "Walmart",
-              "price": "$23",
-              "link": "https://walmart.com/durable-stainless-steel-cup-set"
-            }
-          ]
+          "careInstructions": "PLEASE GET PROFESSIONAL HELP FROM PLUMBER TO INSTALL THE SINK. USE NORMAL DISH WASHER DETERGENT FOR CLEANING THE SINK. AVOID STRONG ACIDS AS IT MAY LEAD TO BLACK STAINS ON THE SINK."
         }
       ]
     }

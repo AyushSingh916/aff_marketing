@@ -49,8 +49,7 @@
         "sublinks": [
           { "text": "Gas", "href": "/home/kitchen/gas" },
           { "text": "Chimney", "href": "/home/kitchen/chimney" },
-          { "text": "Plates", "href": "/home/kitchen/plates" },
-          { "text": "Cup Set", "href": "/home/kitchen/cup-set" }
+          { "text": "Wash Basin", "href": "/home/kitchen/washbasin" }
         ]
       },
       {
