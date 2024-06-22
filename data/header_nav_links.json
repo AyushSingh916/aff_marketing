@@ -34,12 +34,12 @@
             "href": "/home/bedroom-appliances/bedsheet"
           },
           {
-            "text": "Pillows",
-            "href": "/home/bedroom-appliances/pillows"
-          },
-          {
             "text": "Blankets",
             "href": "/home/bedroom-appliances/blankets"
+          },
+          {
+            "text": "Lamp",
+            "href": "/home/bedroom-appliances/lamp"
           }
         ]
       },

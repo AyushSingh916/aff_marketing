@@ -38,7 +38,7 @@
         "Warranty information and customer support details"
       ]
     },
-    "topPick" : {
+    "topPick": {
       "rank": 1,
       "image": "https://m.media-amazon.com/images/I/81ABZ75FBPL._SL1500_.jpg",
       "title": "ishro home 3 x 5 Feet 3D Jet Multi Printed 3D Jet Vintage Persian Carpet Rug Runner and Carpets for Bedroom/Living Area/Home with Anti Slip Backing (3x5 ft, Persian Retro)",
@@ -71,7 +71,7 @@
       ],
       "topPick": true
     },
-    
+
     "competitionSection": {
       "title": "The Competition",
       "competitors": [
@@ -106,7 +106,7 @@
               "link": "https://amzn.to/3VRsor9"
             }
           ]
-        } ,      
+        },
         {
           "rank": 3,
           "image": "https://m.media-amazon.com/images/I/71mvm8lNxaL._SX679_.jpg",
@@ -138,7 +138,7 @@
               "link": "https://amzn.to/4cdUHpC"
             }
           ]
-        }, 
+        },
         {
           "rank": 4,
           "image": "https://m.media-amazon.com/images/I/A1czi53s8gL._SX679_.jpg",
@@ -170,7 +170,7 @@
               "link": "https://amzn.to/3VRMmlC"
             }
           ]
-        }            
+        }
       ]
     }
   },
@@ -387,8 +387,7 @@
           "link": "https://amzn.to/3XxxsCk"
         }
       ]
-    }
-    ,
+    },
     "competitionSection": {
       "title": "The Competition",
       "competitors": [
@@ -578,8 +577,7 @@
               "link": "https://amzn.to/4ezJBNd"
             }
           ]
-        }
-        ,
+        },
         {
           "rank": 3,
           "image": "https://m.media-amazon.com/images/I/51GvwVPNRsL._SX679_.jpg",
@@ -621,7 +619,7 @@
   },
   {
     "slug": ["home", "bedroom-appliances", "bedsheet"],
-    "image": "https://example.com/bedding-set.jpg",
+    "image": "https://m.media-amazon.com/images/I/91CF54IPh6L._SX425_.jpg",
     "title": "The Best Bedding Set",
     "updatedDate": "April 30, 2024",
     "researchLink": "/research-link",
@@ -661,10 +659,10 @@
     },
     "topPick": {
       "rank": 1,
-      "image": "/bedding-set.jpg",
-      "title": "Luxe Bedding Cotton Sheets and Duvet Set",
-      "description": "A luxurious and breathable bedding set made from high-quality cotton.",
-      "details": "This bedding set features soft, long-staple cotton sheets with a sateen weave for a silky-smooth feel. The duvet cover and shams are crisp and stylish, while the pillows provide plush support for a comfortable night's sleep.",
+      "image": "https://m.media-amazon.com/images/I/91CF54IPh6L._SX425_.jpg",
+      "title": "JAIPUR PRINTS 100% Cotton Traditional Jaipuri Printed Bedsheet for Double Bed King Size with 2 Pillow Covers - Brown01",
+      "description": "A traditional Jaipuri printed bedsheets set made from 100% cotton, proudly crafted in India. Includes 1 double bedsheet and 2 pillow covers with floral patterns in brown.",
+      "details": "Material: 100% Cotton. Size: Double. Colour: Brown. Pattern: Floral. Thread Count: 144. Dimensions: Bedsheet - 83 inches x 94 inches (210 cm x 235 cm), Pillow Covers - 17 inches x 27 inches (43 cm x 66 cm). Special features include lightweight and long-lasting fabric.",
       "metrics": [
         {
           "name": "Customer Reviews and Ratings",
@@ -685,14 +683,9 @@
       ],
       "purchaseLinks": [
         {
-          "store": "Luxe Bedding",
-          "price": "$250",
-          "link": "https://luxebedding.com"
-        },
-        {
-          "store": "Nordstrom",
-          "price": "$275",
-          "link": "https://nordstrom.com"
+          "store": "Amazon",
+          "price": "Check on Amazon",
+          "link": "https://amzn.to/45ze4qK"
         }
       ],
       "topPick": true
@@ -702,22 +695,22 @@
       "competitors": [
         {
           "rank": 2,
-          "image": "/bedding-set.jpg",
-          "title": "Brooklinen Luxe Core Sheet Set and Duvet Cover",
-          "description": "A high-quality and sustainable bedding set made from long-staple cotton.",
-          "details": "Brooklinen's Luxe Core bedding set features soft, breathable cotton sheets with a sateen weave, and a cozy duvet cover made from the same premium fabric. The pillows are filled with plush down alternative for a comfortable night's sleep.",
+          "image": "https://m.media-amazon.com/images/I/61kVq63u7XL._SX679_.jpg",
+          "title": "Sleepwell Ortho Mattress | Quilted | 5-inch Double Bed Size, Impressions Memory Foam, Medium Firm Mattress (Purple, 72x48x5)",
+          "description": "Experience orthopedic support and comfort with the Sleepwell Ortho Mattress. It features Impressions Memory Foam and High Density Foam, designed for pressure relief and low motion transfer. The mattress is quilted with Sleepwell Quiltec foam for added comfort and is enhanced with Airmesh fabric for ventilation.",
+          "details": "Size: Double. Dimensions: 72 inches (Length) x 48 inches (Width) x 5 inches (Height). Cover Material: Polycotton. Number of Layers: 3. Special Features: Orthopedic, Pressure Relief, Breathable, Low Motion Transfer. Colour: Purple.",
           "metrics": [
             {
               "name": "Customer Reviews and Ratings",
-              "rating": 4.8
+              "rating": 4.1
             },
             {
               "name": "Price and Value for Money",
-              "rating": 4.6
+              "rating": 4.0
             },
             {
-              "name": "Fabric Quality and Durability",
-              "rating": 4.7
+              "name": "Softness",
+              "rating": 3.9
             },
             {
               "name": "Brand Reputation and Trustworthiness",
@@ -726,88 +719,41 @@
           ],
           "purchaseLinks": [
             {
-              "store": "Brooklinen",
-              "price": "$220",
-              "link": "https://brooklinen.com"
-            },
-            {
               "store": "Amazon",
-              "price": "$230",
-              "link": "https://amazon.com"
+              "price": "₹8,275.00",
+              "link": "https://amzn.to/3VQMdPv"
             }
           ]
         },
         {
           "rank": 3,
-          "image": "/bedding-set.jpg",
-          "title": "Boll & Branch Signature Hemmed Sheet Set and Duvet Cover",
-          "description": "A luxurious and eco-friendly bedding set made from organic cotton.",
-          "details": "Boll & Branch's Signature bedding set features soft, breathable organic cotton sheets with a crisp percale weave, and a stylish duvet cover made from the same premium fabric. The pillows are filled with plush down alternative for a comfortable night's sleep.",
+          "image": "https://m.media-amazon.com/images/I/71Gr8fAP35L._SX569_.jpg",
+          "title": "100% Cotton Double Bedsheet with 2 Pillow Covers, White",
+          "description": "Experience feather-light comfort with the Solimo 100% Cotton Double Bedsheet. Made from high-quality brushed cotton, it offers a soft and comfortable feel. The bedsheets are wrinkle-resistant and breathable, ensuring a cool and cozy sleep experience.",
+          "details": "Size: Double. Material: Cotton. Colour: White 5. Pattern: Abstract. Brand: Amazon Brand - Solimo. Special Features: Wrinkle Resistant, Breathable. Thread Count: 144.",
           "metrics": [
             {
               "name": "Customer Reviews and Ratings",
-              "rating": 4.7
+              "rating": 4.3
             },
             {
               "name": "Price and Value for Money",
-              "rating": 4.5
+              "rating": 4.2
             },
             {
               "name": "Fabric Quality and Durability",
-              "rating": 4.8
+              "rating": 4.1
             },
             {
               "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.8
-            }
-          ],
-          "purchaseLinks": [
-            {
-              "store": "Boll & Branch",
-              "price": "$280",
-              "link": "https://bollandbranch.com"
-            },
-            {
-              "store": "Nordstrom",
-              "price": "$290",
-              "link": "https://nordstrom.com"
-            }
-          ]
-        },
-        {
-          "rank": 4,
-          "image": "/bedding-set.jpg",
-          "title": "Mellanni Brushed Microfiber Bed Sheet Set and Duvet Cover",
-          "description": "An affordable and ultra-soft bedding set made from brushed microfiber.",
-          "details": "Mellanni's bedding set features soft, brushed microfiber sheets that are wrinkle-resistant and hypoallergenic. The duvet cover and shams are equally plush and cozy, while the pillows provide ample support for a comfortable night's sleep.",
-          "metrics": [
-            {
-              "name": "Customer Reviews and Ratings",
-              "rating": 4.6
-            },
-            {
-              "name": "Price and Value for Money",
-              "rating": 4.8
-            },
-            {
-              "name": "Fabric Quality and Durability",
-              "rating": 4.5
-            },
-            {
-              "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.7
+              "rating": 3.9
             }
           ],
           "purchaseLinks": [
             {
               "store": "Amazon",
-              "price": "$50",
-              "link": "https://amazon.com"
-            },
-            {
-              "store": "Wallmart",
-              "price": "$59",
-              "link": "https://wallmark.com"
+              "price": "₹8,998.00",
+              "link": "https://amzn.to/4c9Kr1r"
             }
           ]
         }
@@ -816,7 +762,7 @@
   },
   {
     "slug": ["home", "bedroom-appliances", "blankets"],
-    "image": "https://example.com/blanket.jpg",
+    "image": "https://m.media-amazon.com/images/I/61LMG6VyuWL._SX569_.jpg",
     "title": "The Best Blankets",
     "updatedDate": "June 17, 2024",
     "researchLink": "/blankets-research",
@@ -855,153 +801,103 @@
     },
     "topPick": {
       "rank": 1,
-      "image": "/blanket-top-pick.jpg",
-      "title": "Premium Fleece Blanket",
-      "description": "A super-soft fleece blanket that provides exceptional warmth and comfort.",
-      "details": "This premium fleece blanket is perfect for cold nights, offering a soft touch and excellent warmth. It's machine washable and comes in various sizes and colors to match any decor.",
-      "metrics": [
-        {
-          "name": "Customer Reviews and Ratings",
-          "rating": 4.9
-        },
-        {
-          "name": "Price and Value for Money",
-          "rating": 4.8
-        },
-        {
-          "name": "Material Quality and Warmth",
-          "rating": 4.9
-        },
-        {
-          "name": "Brand Reputation and Trustworthiness",
-          "rating": 4.8
-        }
-      ],
+      "image": "https://m.media-amazon.com/images/I/61LMG6VyuWL._SX569_.jpg",
+      "title": "Urban Space 100% Cotton Blankets Single Bed, All Season Reversible AC Blanket Comforter, 3 Layered Quilted Dohar (Venus Beige, 145 cm x 225 cm AC Blanket Single Bed)",
+      "description": "Experience all-season comfort with the Urban Space 100% Cotton Blankets. This reversible AC blanket is perfect for single beds and features a stylish, quilted design. Made from soft, triple-layered cotton, it is lightweight, skin-friendly, and easy to maintain.",
+      "details": "Size: Single. Material: Cotton. Colour: Venus Beige. Brand: Urban Space. Special Features: 100% Malmal Cotton, Multi-use of Dohar and comforter, Skin-friendly & cozy, Lightweight, All Season AC Blanket. Style: Modern. Blanket Form: Comforter. Age Range: Adult. Product Dimensions: 2.25L x 1.45W Meters. Pattern: Venus Beige.",
+        "metrics": [
+          {
+            "name": "Customer Reviews and Ratings",
+            "rating": 4.0
+          },
+          {
+            "name": "Price and Value for Money",
+            "rating": 4.1
+          },
+          {
+            "name": "Fabric Quality and Durability",
+            "rating": 4.0
+          },
+          {
+            "name": "Brand Reputation and Trustworthiness",
+            "rating": 4.2
+          }
+        ],
       "purchaseLinks": [
         {
           "store": "Amazon",
-          "price": "$25",
-          "link": "https://amazon.com/premium-fleece-blanket"
-        },
-        {
-          "store": "Walmart",
-          "price": "$28",
-          "link": "https://walmart.com/premium-fleece-blanket"
+          "price": "₹1,349.00",
+          "discount": "46% off",
+          "link": "https://amzn.to/4cyhkom"
         }
-      ],
-      "topPick": true
+      ]
     },
     "competitionSection": {
       "title": "The Competition",
       "competitors": [
         {
           "rank": 2,
-          "image": "/blanket-competitor1.jpg",
-          "title": "Cotton Throw Blanket",
-          "description": "A lightweight cotton throw blanket, perfect for layering or summer use.",
-          "details": "The Cotton Throw blanket offers a light and breathable option, ideal for layering on beds or using during warmer months. Made from 100% cotton, it provides comfort without overheating.",
+          "image": "https://m.media-amazon.com/images/I/71+TFelrDzL._SX569_.jpg",
+          "title": "Story@Home Cotton AC Blanket, Blanket for Winter, 100% Cotton Reversible Light Weight Dohar Single| 144 X 220 CM| Charcoal Grey and Whiteish",
+          "description": "Enjoy year-round comfort with the Story@Home Cotton AC Blanket. This lightweight, reversible dohar is perfect for single beds and features a stylish floral and abstract pattern. Made from organic cotton, it is skin-friendly and durable for everyday use.",
+          "details": "Size: Single. Material: Cotton. Colour: Charcoal Grey and Whiteish. Brand: Story@Home. Special Features: Reversible, Skin Friendly, Lightweight, Fade Resistant. Style: Comforter. Blanket Form: Comforter. Age Range: All Age Groups. Product Dimensions: 2.2L x 1.44W Meters. Pattern: Floral & Abstract.",
           "metrics": [
             {
-              "name": "Customer Reviews and Ratings",
-              "rating": 4.7
+              "name": "Light weight",
+              "rating": 4.3
             },
             {
-              "name": "Price and Value for Money",
-              "rating": 4.6
+              "name": "Softness",
+              "rating": 4.1
             },
             {
-              "name": "Material Quality and Warmth",
-              "rating": 4.5
+              "name": "Comfort",
+              "rating": 4.1
             },
             {
-              "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.7
-            }
-          ],
-          "purchaseLinks": [
-            {
-              "store": "Target",
-              "price": "$20",
-              "link": "https://target.com/cotton-throw-blanket"
-            },
-            {
-              "store": "Bed Bath & Beyond",
-              "price": "$22",
-              "link": "https://bedbathandbeyond.com/cotton-throw-blanket"
-            }
-          ]
-        },
-        {
-          "rank": 3,
-          "image": "/blanket-competitor2.jpg",
-          "title": "Wool Blanket",
-          "description": "A durable wool blanket that offers natural warmth and breathability.",
-          "details": "The Wool blanket is ideal for those who prefer natural materials, providing excellent warmth and breathability. It's durable and perfect for outdoor use or chilly indoor settings.",
-          "metrics": [
-            {
-              "name": "Customer Reviews and Ratings",
-              "rating": 4.6
-            },
-            {
-              "name": "Price and Value for Money",
-              "rating": 4.5
-            },
-            {
-              "name": "Material Quality and Warmth",
-              "rating": 4.7
-            },
-            {
-              "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.6
-            }
-          ],
-          "purchaseLinks": [
-            {
-              "store": "REI",
-              "price": "$50",
-              "link": "https://rei.com/wool-blanket"
-            },
-            {
-              "store": "LL Bean",
-              "price": "$55",
-              "link": "https://llbean.com/wool-blanket"
-            }
-          ]
-        },
-        {
-          "rank": 4,
-          "image": "/blanket-competitor3.jpg",
-          "title": "Weighted Blanket",
-          "description": "A therapeutic weighted blanket designed to improve sleep quality and reduce anxiety.",
-          "details": "The Weighted blanket provides gentle pressure stimulation to help improve sleep quality and reduce anxiety. Available in various weights and sizes, it's perfect for a restful night.",
-          "metrics": [
-            {
-              "name": "Customer Reviews and Ratings",
-              "rating": 4.5
-            },
-            {
-              "name": "Price and Value for Money",
-              "rating": 4.4
-            },
-            {
-              "name": "Material Quality and Warmth",
-              "rating": 4.6
-            },
-            {
-              "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.5
+              "name": "Value for money",
+              "rating": 3.6
             }
           ],
           "purchaseLinks": [
             {
               "store": "Amazon",
-              "price": "$60",
-              "link": "https://amazon.com/weighted-blanket"
+              "price": "₹859.00",
+              "discount": "66% off",
+              "link": "https://amzn.to/3KVb7XP"
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "image": "https://m.media-amazon.com/images/I/81akM0n-L3L._SX569_.jpg",
+          "title": "Urban Space All Season AC Blanket, 3 Layered Super Soft 100% Malmal Cotton Dohar, Reversible use Cotton Comforter (Blue Pink Floral 2, Single - 57\" x 88\")",
+          "description": "Experience year-round comfort with the Urban Space All Season AC Blanket. This lightweight, reversible comforter features a stylish floral pattern and is made from 100% Malmal cotton for a soft and cozy feel.",
+          "details": "Size: Single. Material: Cotton. Colour: Blue Pink Floral 2. Brand: Urban Space. Special Features: Top and Bottom - 100% Malmal Cotton, Multi-use of Dohar and comforter, Skin friendly & cozy, All Season AC Blanket, Light weight, easy to wash. Style: Comforter. Blanket Form: Comforter. Age Range: Adult. Product Dimensions: 2.24L x 1.45W Meters. Pattern: Blue Pink Floral 2.",
+          "metrics": [
+            {
+              "name": "Light weight",
+              "rating": 3.9
             },
             {
-              "store": "Target",
-              "price": "$65",
-              "link": "https://target.com/weighted-blanket"
+              "name": "Comfort",
+              "rating": 3.8
+            },
+            {
+              "name": "Value for money",
+              "rating": 3.8
+            },
+            {
+              "name": "Softness",
+              "rating": 3.7
+            }
+          ],
+          "purchaseLinks": [
+            {
+              "store": "Amazon",
+              "price": "₹1,338.00",
+              "discount": "46% off",
+              "link": "https://amzn.to/3KUJrm8"
             }
           ]
         }
@@ -1203,128 +1099,119 @@
     }
   },
   {
-    "slug": ["home", "bedroom-appliances", "pillows"],
-    "image": "https://example.com/pillow.jpg",
-    "title": "The Best Pillows",
+    "slug": ["home", "bedroom-appliances", "lamp"],
+    "image": "https://m.media-amazon.com/images/I/81dGkYK8BlL._SX569_.jpg",
+    "title": "The Best Lamps",
     "updatedDate": "June 17, 2024",
-    "researchLink": "/pillows-research",
+    "researchLink": "/lamps-research",
     "authors": "Ayush",
-    "description": "Achieve better sleep with our comprehensive pillow reviews. We’ve meticulously evaluated and selected the best pillows that offer superior comfort, support, and durability for all types of sleepers.",
+    "description": "Illuminate your space with our top lamp picks. We’ve meticulously evaluated and selected the best lamps that offer superior lighting, design, and functionality for your home.",
     "whyTrustUs": {
       "title": "Why You Should Trust Us",
-      "content": "At OurCompany, we conduct thorough research and testing to provide reliable pillow recommendations. Here’s why our reviews are trustworthy:",
+      "content": "At OurCompany, we conduct thorough research and testing to provide reliable lamp recommendations. Here’s why our reviews are trustworthy:",
       "points": [
-        "We evaluate pillows based on factors like material quality, support, comfort, and durability.",
-        "Our team includes sleep experts who bring extensive knowledge and experience to our reviews.",
-        "We prioritize transparency, offering detailed evaluations of each pillow’s strengths and weaknesses.",
+        "We evaluate lamps based on factors like brightness, design, energy efficiency, and durability.",
+        "Our team includes lighting experts who bring extensive knowledge and experience to our reviews.",
+        "We prioritize transparency, offering detailed evaluations of each lamp’s strengths and weaknesses.",
         "Your satisfaction and confidence in our recommendations are our primary goals."
       ],
-      "conclusion": "Choosing a pillow from our recommendations means selecting comfort, support, and quality for a restful sleep."
+      "conclusion": "Choosing a lamp from our recommendations means selecting superior lighting, design, and quality for a well-lit home."
     },
     "researchProcess": {
       "title": "Our Research Process",
       "content": [
-        "We start by researching popular pillow materials and designs, considering factors like support, comfort, and ease of care.",
-        "Each pillow undergoes hands-on testing to assess its firmness, support, comfort, and durability under regular use.",
-        "Our team collaborates to review and analyze findings, ensuring thorough evaluations of each pillow’s performance.",
-        "We present our top picks based on their exceptional support, comfort, durability, and value, aiming to help you make informed decisions."
+        "We start by researching popular lamp types and designs, considering factors like brightness, energy efficiency, and aesthetic appeal.",
+        "Each lamp undergoes hands-on testing to assess its brightness, design, energy consumption, and durability under regular use.",
+        "Our team collaborates to review and analyze findings, ensuring thorough evaluations of each lamp’s performance.",
+        "We present our top picks based on their exceptional lighting, design, durability, and value, aiming to help you make informed decisions."
       ]
     },
     "comparisonSection": {
       "title": "Who it’s for:",
-      "content": "Ideal for individuals seeking high-quality pillows that provide optimal support and comfort for various sleeping positions and preferences.",
+      "content": "Ideal for individuals seeking high-quality lamps that provide optimal lighting and design for various spaces and preferences.",
       "keyPoints": [
-        "Variety of pillow types and materials (e.g., memory foam, down, latex, cooling gel)",
-        "Support and comfort levels",
-        "Sizes and configurations (e.g., standard, queen, king)",
-        "Ease of care and maintenance",
-        "Additional features like hypoallergenic materials or adjustable fill"
+        "Variety of lamp types and designs (e.g., table lamps, floor lamps, desk lamps)",
+        "Brightness and energy efficiency levels",
+        "Materials and build quality",
+        "Ease of use and maintenance",
+        "Additional features like adjustable brightness or smart home compatibility"
       ]
     },
     "topPick": {
       "rank": 1,
-      "image": "/pillow-top-pick.jpg",
-      "title": "Memory Foam Pillow",
-      "description": "A high-quality memory foam pillow that provides excellent support and comfort.",
-      "details": "This memory foam pillow offers superior support and conforms to the shape of your head and neck for optimal comfort. It's ideal for all sleep positions and features a removable, machine-washable cover.",
+      "image": "https://m.media-amazon.com/images/I/81dGkYK8BlL._SX569_.jpg",
+      "title": "Homesake® Lamp, Table Lamp, Night Lamp for Bedroom, Home Decor Items, Lamp for Living Room, Light Lamp, Bedside Lamp, Room Decor, Dovel Pot - (Wooden Base, Birds)",
+      "description": "Enhance your home decor with the elegant Homesake® Table Lamp featuring a wooden base and a multicolor birds-themed cotton shade. Perfect for living rooms, bedrooms, offices, kids' rooms, or college dorms.",
+      "details": "Colour: Birds. Finish Type: Polished. Base Material: Wood. Bulb Base: E27. Product Dimensions: 20D x 20W x 38H Centimeters. Item Weight: 1200 Grams. Lamp Type: Table Lamp. Shade Colour: Multicolor. Shade Material: Cotton. Switch Type: Toggle. Style: Birds.",
       "metrics": [
         {
           "name": "Customer Reviews and Ratings",
-          "rating": 4.9
+          "rating": 4.7
         },
         {
-          "name": "Price and Value for Money",
-          "rating": 4.8
+          "name": "Design and Aesthetics",
+          "rating": 4.3
         },
         {
-          "name": "Material Quality and Support",
-          "rating": 4.9
+          "name": "Build Quality and Durability",
+          "rating": 4.6
         },
         {
-          "name": "Brand Reputation and Trustworthiness",
-          "rating": 4.8
+          "name": "Light Quality and Brightness",
+          "rating": 4.3
         }
       ],
       "purchaseLinks": [
         {
           "store": "Amazon",
-          "price": "$40",
-          "link": "https://amazon.com/memory-foam-pillow"
-        },
-        {
-          "store": "Walmart",
-          "price": "$45",
-          "link": "https://walmart.com/memory-foam-pillow"
+          "price": "₹899.00",
+          "discount": "70% off",
+          "link": "https://amzn.to/45DvbHP"
         }
-      ],
-      "topPick": true
+      ]
     },
     "competitionSection": {
       "title": "The Competition",
       "competitors": [
         {
           "rank": 2,
-          "image": "/pillow-competitor1.jpg",
-          "title": "Down Pillow",
-          "description": "A luxurious down pillow, perfect for those who prefer a soft and fluffy feel.",
-          "details": "The Down Pillow offers a plush and luxurious feel, ideal for stomach and back sleepers. Made with high-quality down, it provides softness and gentle support.",
+          "image": "https://m.media-amazon.com/images/I/81EI0r9vEpL._SX569_.jpg",
+          "title": "Murphy Black Table Lamp with Bird and Floral Shade, LED Bulb Included (Gold Peacock Shade)",
+          "description": "Enhance your home decor with the elegant Murphy Black Table Lamp featuring a Gold Peacock Shade. This metal wire table lamp with a matte black finish and linen shade adds a touch of sophistication to any room.",
+          "details": "Style: Gold Peacock shade. Finish Type: Polished. Base Material: Metal. Bulb Base: E27. Product Dimensions: 20D x 20W x 44H Centimeters. Lamp Type: Table Lamp. Shade Colour: Gold. Shade Material: Linen. Switch Type: Rocker. Brand: Homesake.",
           "metrics": [
             {
               "name": "Customer Reviews and Ratings",
-              "rating": 4.7
+              "rating": 4.3
             },
             {
-              "name": "Price and Value for Money",
+              "name": "Design and Aesthetics",
               "rating": 4.6
             },
             {
-              "name": "Material Quality and Support",
-              "rating": 4.5
+              "name": "Build Quality and Durability",
+              "rating": 4.4
             },
             {
-              "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.7
+              "name": "Light Quality and Brightness",
+              "rating": 4.5
             }
           ],
           "purchaseLinks": [
             {
-              "store": "Bed Bath & Beyond",
-              "price": "$50",
-              "link": "https://bedbathandbeyond.com/down-pillow"
-            },
-            {
-              "store": "Macy's",
-              "price": "$55",
-              "link": "https://macys.com/down-pillow"
+              "store": "Amazon",
+              "price": "₹999.00",
+              "discount": "67% off",
+              "link": "https://amzn.to/45Dtav9"
             }
           ]
         },
         {
           "rank": 3,
-          "image": "/pillow-competitor2.jpg",
-          "title": "Latex Pillow",
-          "description": "A durable latex pillow that provides excellent support and is naturally hypoallergenic.",
-          "details": "The Latex Pillow offers firm support and is ideal for side and back sleepers. Made from natural latex, it is hypoallergenic and resistant to dust mites and mold.",
+          "image": "/lamp-competitor2.jpg",
+          "title": "Smart Table Lamp",
+          "description": "A smart table lamp that provides customizable lighting and integrates with your smart home devices.",
+          "details": "The Smart Table Lamp offers customizable lighting options, including adjustable color temperature and brightness. It integrates with smart home systems for voice control and scheduling.",
           "metrics": [
             {
               "name": "Customer Reviews and Ratings",
@@ -1335,7 +1222,7 @@
               "rating": 4.5
             },
             {
-              "name": "Material Quality and Support",
+              "name": "Material Quality and Design",
               "rating": 4.7
             },
             {
@@ -1347,21 +1234,21 @@
             {
               "store": "Wayfair",
               "price": "$60",
-              "link": "https://wayfair.com/latex-pillow"
+              "link": "https://wayfair.com/smart-table-lamp"
             },
             {
               "store": "LL Bean",
               "price": "$65",
-              "link": "https://llbean.com/latex-pillow"
+              "link": "https://llbean.com/smart-table-lamp"
             }
           ]
         },
         {
           "rank": 4,
-          "image": "/pillow-competitor3.jpg",
-          "title": "Cooling Gel Pillow",
-          "description": "A cooling gel pillow designed to keep you cool and comfortable throughout the night.",
-          "details": "The Cooling Gel Pillow is perfect for hot sleepers, providing a cool and comfortable surface. It combines the support of memory foam with a cooling gel layer to help regulate temperature.",
+          "image": "/lamp-competitor3.jpg",
+          "title": "Bedside Lamp",
+          "description": "A bedside lamp designed to provide soft, calming light for your bedroom.",
+          "details": "The Bedside Lamp is perfect for creating a calming atmosphere in your bedroom. It features a touch-sensitive control for easy operation and adjustable brightness levels.",
           "metrics": [
             {
               "name": "Customer Reviews and Ratings",
@@ -1372,7 +1259,7 @@
               "rating": 4.4
             },
             {
-              "name": "Material Quality and Support",
+              "name": "Material Quality and Design",
               "rating": 4.6
             },
             {
@@ -1384,12 +1271,12 @@
             {
               "store": "Target",
               "price": "$30",
-              "link": "https://target.com/cooling-gel-pillow"
+              "link": "https://target.com/bedside-lamp"
             },
             {
               "store": "Amazon",
               "price": "$35",
-              "link": "https://amazon.com/cooling-gel-pillow"
+              "link": "https://amazon.com/bedside-lamp"
             }
           ]
         }
