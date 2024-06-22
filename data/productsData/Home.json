@@ -905,200 +905,6 @@
     }
   },
   {
-    "slug": ["home", "furniture", "cupboard"],
-    "image": "https://example.com/cupboard.jpg",
-    "title": "The Best Cupboards",
-    "updatedDate": "June 17, 2024",
-    "researchLink": "/cupboards-research",
-    "authors": "Ayush",
-    "description": "Upgrade your storage solutions with our detailed cupboard reviews. We’ve carefully researched and selected the best cupboards that offer durability, style, and functionality for any room in your home.",
-    "whyTrustUs": {
-      "title": "Why You Should Trust Us",
-      "content": "At OurCompany, we conduct thorough research and testing to provide reliable cupboard recommendations. Here’s why our reviews are trustworthy:",
-      "points": [
-        "We evaluate cupboards based on factors like material quality, storage capacity, design, and ease of assembly.",
-        "Our team includes furniture experts with extensive knowledge and experience.",
-        "We prioritize transparency, offering detailed evaluations of each cupboard’s strengths and weaknesses.",
-        "Your satisfaction and convenience are our primary goals."
-      ],
-      "conclusion": "Choosing cupboards from our recommendations means selecting quality, functionality, and stylish designs."
-    },
-    "researchProcess": {
-      "title": "Our Research Process",
-      "content": [
-        "We start by researching popular cupboard styles and materials, considering factors like storage needs, room size, and decor.",
-        "Each cupboard undergoes hands-on testing to assess its durability, storage capacity, ease of assembly, and overall quality.",
-        "Our team collaborates to review and analyze findings, ensuring thorough evaluations of each cupboard’s performance.",
-        "We present our top picks based on their exceptional durability, design, functionality, and value."
-      ]
-    },
-    "comparisonSection": {
-      "title": "Who it’s for:",
-      "content": "Ideal for individuals seeking high-quality cupboards that provide ample storage, durability, and complement their home decor.",
-      "keyPoints": [
-        "Variety of cupboard types and materials (e.g., wood, metal, glass)",
-        "Storage capacity and shelf configurations",
-        "Ease of assembly and installation",
-        "Design and style options",
-        "Additional features like adjustable shelves or locking mechanisms"
-      ]
-    },
-    "topPick": {
-      "rank": 1,
-      "image": "/cupboard-top-pick.jpg",
-      "title": "Modern Wooden Cupboard",
-      "description": "A stylish, durable wooden cupboard with ample storage space.",
-      "details": "This modern wooden cupboard offers a perfect blend of style and functionality. It features multiple shelves and compartments for organized storage. The high-quality wood ensures durability and longevity.",
-      "metrics": [
-        {
-          "name": "Customer Reviews and Ratings",
-          "rating": 4.8
-        },
-        {
-          "name": "Price and Value for Money",
-          "rating": 4.7
-        },
-        {
-          "name": "Material Quality and Durability",
-          "rating": 4.9
-        },
-        {
-          "name": "Brand Reputation and Trustworthiness",
-          "rating": 4.8
-        }
-      ],
-      "purchaseLinks": [
-        {
-          "store": "Amazon",
-          "price": "$150",
-          "link": "https://amazon.com/modern-wooden-cupboard"
-        },
-        {
-          "store": "Wayfair",
-          "price": "$140",
-          "link": "https://wayfair.com/modern-wooden-cupboard"
-        }
-      ],
-      "topPick": true
-    },
-    "competitionSection": {
-      "title": "The Competition",
-      "competitors": [
-        {
-          "rank": 2,
-          "image": "/cupboard-competitor1.jpg",
-          "title": "Metal Storage Cabinet",
-          "description": "A sturdy metal storage cabinet ideal for garages or offices.",
-          "details": "The Metal Storage Cabinet provides robust storage with adjustable shelves, making it perfect for heavy-duty use in garages or offices. Its lockable doors ensure secure storage.",
-          "metrics": [
-            {
-              "name": "Customer Reviews and Ratings",
-              "rating": 4.6
-            },
-            {
-              "name": "Price and Value for Money",
-              "rating": 4.5
-            },
-            {
-              "name": "Material Quality and Durability",
-              "rating": 4.7
-            },
-            {
-              "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.6
-            }
-          ],
-          "purchaseLinks": [
-            {
-              "store": "Home Depot",
-              "price": "$180",
-              "link": "https://homedepot.com/metal-storage-cabinet"
-            },
-            {
-              "store": "Lowe's",
-              "price": "$175",
-              "link": "https://lowes.com/metal-storage-cabinet"
-            }
-          ]
-        },
-        {
-          "rank": 3,
-          "image": "/cupboard-competitor2.jpg",
-          "title": "Glass Display Cabinet",
-          "description": "A sleek glass display cabinet perfect for showcasing collectibles.",
-          "details": "The Glass Display Cabinet features tempered glass shelves and a stylish design, making it ideal for displaying collectibles or decorative items in your living room or office.",
-          "metrics": [
-            {
-              "name": "Customer Reviews and Ratings",
-              "rating": 4.5
-            },
-            {
-              "name": "Price and Value for Money",
-              "rating": 4.4
-            },
-            {
-              "name": "Material Quality and Durability",
-              "rating": 4.6
-            },
-            {
-              "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.5
-            }
-          ],
-          "purchaseLinks": [
-            {
-              "store": "IKEA",
-              "price": "$120",
-              "link": "https://ikea.com/glass-display-cabinet"
-            },
-            {
-              "store": "Walmart",
-              "price": "$115",
-              "link": "https://walmart.com/glass-display-cabinet"
-            }
-          ]
-        },
-        {
-          "rank": 4,
-          "image": "/cupboard-competitor3.jpg",
-          "title": "Compact Corner Cabinet",
-          "description": "A space-saving corner cabinet for additional storage.",
-          "details": "The Compact Corner Cabinet is designed to fit snugly in corners, providing extra storage without taking up much space. It's ideal for small rooms or apartments.",
-          "metrics": [
-            {
-              "name": "Customer Reviews and Ratings",
-              "rating": 4.4
-            },
-            {
-              "name": "Price and Value for Money",
-              "rating": 4.3
-            },
-            {
-              "name": "Material Quality and Durability",
-              "rating": 4.5
-            },
-            {
-              "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.4
-            }
-          ],
-          "purchaseLinks": [
-            {
-              "store": "Wayfair",
-              "price": "$90",
-              "link": "https://wayfair.com/compact-corner-cabinet"
-            },
-            {
-              "store": "Amazon",
-              "price": "$95",
-              "link": "https://amazon.com/compact-corner-cabinet"
-            }
-          ]
-        }
-      ]
-    }
-  },
-  {
     "slug": ["home", "bedroom-appliances", "lamp"],
     "image": "https://m.media-amazon.com/images/I/81dGkYK8BlL._SX569_.jpg",
     "title": "The Best Lamps",
@@ -1561,7 +1367,7 @@
   },
   {
     "slug": ["home", "furniture", "chairs"],
-    "image": "https://example.com/chair.jpg",
+    "image": "https://m.media-amazon.com/images/I/61wlmkVQsgL._SX569_.jpg",
     "title": "The Best Chairs",
     "updatedDate": "June 17, 2024",
     "researchLink": "/chairs-research",
@@ -1601,162 +1407,303 @@
     },
     "topPick": {
       "rank": 1,
-      "image": "/chair-top-pick.jpg",
-      "title": "Ergonomic Office Chair with Mesh Back",
-      "description": "An ergonomic office chair with breathable mesh back and adjustable lumbar support.",
-      "details": "This ergonomic office chair combines comfort with functionality, featuring a breathable mesh back for ventilation and adjustable lumbar support to prevent back pain. Designed for long hours of sitting comfort.",
+      "image": "https://m.media-amazon.com/images/I/61wlmkVQsgL._SX569_.jpg",
+      "title": "CELLBELL Desire C104 Mesh Mid Back Ergonomic Office Chair/Study Chair/Revolving Chair/Computer Chair for Work from Home Metal Base Seat Height Adjustable Chair [BLACK]",
+      "description": "The CELLBELL Desire C104 Office Chair is designed for ultimate comfort, featuring ergonomic nylon back support, breathable mesh to keep you sweat-free, adjustable height, smart tilting mechanism with locking feature, and smooth 360-degree swivel. This chair is perfect for office work, study, or computer use, providing excellent lumbar support and a sturdy metal base.",
+      "details": "Brand: CELLBELL. Colour: Black. Material: Metal. Size: Mid-Back. Product Dimensions: 53D x 61W x 109H Centimeters. Item Weight: 14 Kilograms. Frame Material: Nylon. Maximum Weight Recommendation: 105 Kilograms. Back Style: Medium Back. Special Feature: Ergonomic, Arm Rest, Adjustable Height. Product Care Instructions: Wipe Clean. Net Quantity: 1. Recommended Uses: Office.",
+      "features": [
+        "Ergonomic Sitting Position with fully adjustable chair",
+        "Breathable Mesh Back Fabric",
+        "2 inch Thick Foam Cushion Padded Seat",
+        "Pneumatic Hydraulic with 3 inch seat height adjustment",
+        "Sturdy Metal Base",
+        "Lumbar Adjustments for back support",
+        "Height Suitability: 5 ft to 6 ft",
+        "Do-it-Yourself Installation",
+        "Weight Capacity: 105 Kgs",
+        "1 Year Warranty against Manufacturing Defects",
+        "BIFMA Certified Accessories"
+      ],
       "metrics": [
         {
-          "name": "Customer Reviews and Ratings",
-          "rating": 4.9
+          "name": "Comfort",
+          "rating": 4.5
         },
         {
-          "name": "Price and Value for Money",
-          "rating": 4.7
+          "name": "Value for money",
+          "rating": 4.5
         },
         {
-          "name": "Chair Comfort and Ergonomic Support",
-          "rating": 4.8
+          "name": "Easy to assemble",
+          "rating": 4.4
         },
         {
-          "name": "Brand Reputation and Trustworthiness",
-          "rating": 4.9
+          "name": "Support",
+          "rating": 4.3
         }
       ],
       "purchaseLinks": [
         {
           "store": "Amazon",
-          "price": "$300",
-          "link": "https://amazon.com/ergonomic-office-chair"
-        },
-        {
-          "store": "Staples",
-          "price": "$320",
-          "link": "https://staples.com/ergonomic-office-chair"
+          "price": "₹3,499.00",
+          "discount": "65% off",
+          "link": "https://amzn.to/3VVNlAn"
         }
       ],
-      "topPick": true
+      "warranty": "Top Brand product with free delivery, 10 days replacement policy, and 1 year warranty."
     },
     "competitionSection": {
       "title": "The Competition",
       "competitors": [
         {
           "rank": 2,
-          "image": "/chair-competitor1.jpg",
-          "title": "Gaming Recliner Chair",
-          "description": "A gaming chair with ergonomic design, reclining function, and lumbar support pillows.",
-          "details": "The Gaming Recliner chair offers comfort and style with its ergonomic design, reclining function, and lumbar support pillows, ideal for gaming enthusiasts or home entertainment setups.",
-          "metrics": [
-            {
-              "name": "Customer Reviews and Ratings",
-              "rating": 4.7
-            },
-            {
-              "name": "Price and Value for Money",
-              "rating": 4.6
-            },
-            {
-              "name": "Chair Comfort and Ergonomic Support",
-              "rating": 4.6
-            },
-            {
-              "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.8
-            }
+          "image": "https://m.media-amazon.com/images/I/61X2MXt7p4L._SX679_.jpg",
+          "title": "Da URBAN® Spectrum Pro High Back Mesh Ergonomic Office Chair with 3 Years Warranty, Adjustable Armrests, 3D Adjustable PU Pads Handrest, Cool Gel Pu Foam Adjustable Lumbar Support (Grey)",
+          "description": "The Da URBAN Spectrum Pro Office Chair offers a high back ergonomic design, adjustable armrests, 3D adjustable PU pads, and cool gel PU foam for ultimate comfort and support. It's ideal for prolonged sitting, providing adjustable lumbar support and a breathable mesh back.",
+          "details": "Brand: Da URBAN. Colour: Grey. Material: Mesh. Size: High Back. Product Dimensions: 63.5D x 60.9W x 119.3H Centimeters. Item Weight: 20 Kilograms. Frame Material: Nylon. Maximum Weight Recommendation: 140 Kilograms. Back Style: High Back. Special Feature: Adjustable Lumbar Support, Height Adjustable Headrest, 3D Adjustable PU Pads, Adjustable Armrests, Cool Gel PU Foam, 360 Degree Swivel, Ergonomic Sitting Position, Smart Any-Angle Tilt Lock Mechanism. Product Care Instructions: Wipe Clean. Net Quantity: 1. Seat Material Type: Mesh.",
+          "features": [
+            "Ergonomic Design with natural curve backrest",
+            "Cool Gel PU Foam Seat reducing body temperature by 4-5°C",
+            "High Back Support for long sitting sessions",
+            "Adjustable Height with Smart Any-Angle Tilt Lock Mechanism",
+            "Adjustable Lumbar Support",
+            "360º Swivel with heavy-duty chrome base",
+            "DIY easy assembly with provided manual and videos"
           ],
-          "purchaseLinks": [
-            {
-              "store": "Wayfair",
-              "price": "$250",
-              "link": "https://wayfair.com/gaming-recliner-chair"
-            },
-            {
-              "store": "Best Buy",
-              "price": "$270",
-              "link": "https://bestbuy.com/gaming-recliner-chair"
-            }
-          ]
-        },
-        {
-          "rank": 3,
-          "image": "/chair-competitor2.jpg",
-          "title": "Modern Dining Chair Set",
-          "description": "A set of modern dining chairs with upholstered seats and solid wood legs.",
-          "details": "The Modern Dining chair set offers elegance and comfort with its upholstered seats and sturdy wood legs, suitable for dining rooms or kitchen spaces.",
           "metrics": [
             {
-              "name": "Customer Reviews and Ratings",
+              "name": "Ergonomic",
               "rating": 4.6
             },
             {
-              "name": "Price and Value for Money",
+              "name": "Easy to assemble",
               "rating": 4.5
             },
             {
-              "name": "Chair Comfort and Ergonomic Support",
+              "name": "Support",
               "rating": 4.5
             },
             {
-              "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.7
-            }
-          ],
-          "purchaseLinks": [
-            {
-              "store": "IKEA",
-              "price": "$150",
-              "link": "https://ikea.com/modern-dining-chair-set"
-            },
-            {
-              "store": "West Elm",
-              "price": "$160",
-              "link": "https://westelm.com/modern-dining-chair-set"
-            }
-          ]
-        },
-        {
-          "rank": 4,
-          "image": "/chair-competitor3.jpg",
-          "title": "Executive Leather Office Chair",
-          "description": "An executive office chair with leather upholstery and ergonomic design.",
-          "details": "The Executive Leather office chair combines luxury with ergonomic support, featuring leather upholstery and adjustable settings for comfort during long work hours.",
-          "metrics": [
-            {
-              "name": "Customer Reviews and Ratings",
-              "rating": 4.5
-            },
-            {
-              "name": "Price and Value for Money",
+              "name": "Comfort",
               "rating": 4.4
-            },
-            {
-              "name": "Chair Comfort and Ergonomic Support",
-              "rating": 4.4
-            },
-            {
-              "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.6
             }
           ],
           "purchaseLinks": [
             {
               "store": "Amazon",
-              "price": "$200",
-              "link": "https://amazon.com/executive-leather-office-chair"
+              "price": "₹9,999.00",
+              "discount": "67% off",
+              "link": "https://amzn.to/3VUqk1G"
+            }
+          ],
+          "warranty": "Top Brand product with free delivery, 10 days replacement policy, and 3 years warranty."
+        },
+        {
+          "rank": 3,
+          "image": "https://m.media-amazon.com/images/I/71DNVtkoDoL._SX569_.jpg",
+          "title": "SAVYA HOME Beatle High Back Ergonomic Office Chair with 3D Adjustable Arms, Synchronous 3 Position Tilt Lock Mechanism and 2D Lumbar Support (Ergonomic Meshback, Black, Qty-1,DIY)",
+          "description": "The SAVYA HOME Beatle Office Chair offers a high back ergonomic design, 3D adjustable arms, synchronous 3 position tilt lock mechanism, and 2D lumbar support. It's ideal for home office, corporate office, gaming, and study, providing maximum comfort and support with a durable alloy steel chrome-plated base.",
+          "details": "Brand: SAVYA HOME. Colour: Black. Material: Alloy Steel. Size: High Back. Product Dimensions: 50D x 46W x 130H Centimeters. Item Weight: 18 Kilograms. Frame Material: Blend of Glass-filled engineering polymer and others. Back Style: Ergonomic shape Mesh Back. Special Feature: Synchronous swivel tilt mechanism with tilt tension control, 360 degree smooth revolving chair, headrest with height and depth adjustment, aluminium base 650mm, adjustable seat height, adjustable armrest with soft PU pad, class 3 pneumatic gaslift, mesh back for daylong ergonomic support, 50mm hooded twin wheel nylon caster, height and depth adjustable lumbar support. Product Care Instructions: Wipe Clean. Net Quantity: 1. Seat Material Type: PU Foam and Leatherette.",
+          "features": [
+            "Alloy Steel Chrome Plated Base for durability and balance",
+            "Universal use for home office, study, corporate office, gaming",
+            "Height adjustable armrests",
+            "Made in India",
+            "Class 3 Gaslift for smooth movement",
+            "DIY assembly with provided toolkit and instructions"
+          ],
+          "metrics": [
+            {
+              "name": "Value for money",
+              "rating": 4.2
             },
             {
-              "store": "Office Depot",
-              "price": "$220",
-              "link": "https://officedepot.com/executive-leather-office-chair"
+              "name": "Easy to assemble",
+              "rating": 4.0
+            },
+            {
+              "name": "Comfort",
+              "rating": 3.9
+            },
+            {
+              "name": "Support",
+              "rating": 3.9
             }
-          ]
+          ],
+          "purchaseLinks": [
+            {
+              "store": "Amazon",
+              "price": "₹6,490.00",
+              "discount": "68% off",
+              "link": "https://amzn.to/3Xy4iTG"
+            }
+          ],
+          "warranty": "Top Brand product with free delivery, 10 days replacement policy, and 1 year warranty."
+        }        
+      ]
+    }
+  },
+  {
+    "slug": ["home", "furniture", "cupboard"],
+    "image": "https://m.media-amazon.com/images/I/71hMwwqIXOL._SX679_.jpg",
+    "title": "The Best Cupboards",
+    "updatedDate": "June 17, 2024",
+    "researchLink": "/cupboards-research",
+    "authors": "Ayush",
+    "description": "Upgrade your storage solutions with our detailed cupboard reviews. We’ve carefully researched and selected the best cupboards that offer durability, style, and functionality for any room in your home.",
+    "whyTrustUs": {
+      "title": "Why You Should Trust Us",
+      "content": "At OurCompany, we conduct thorough research and testing to provide reliable cupboard recommendations. Here’s why our reviews are trustworthy:",
+      "points": [
+        "We evaluate cupboards based on factors like material quality, storage capacity, design, and ease of assembly.",
+        "Our team includes furniture experts with extensive knowledge and experience.",
+        "We prioritize transparency, offering detailed evaluations of each cupboard’s strengths and weaknesses.",
+        "Your satisfaction and convenience are our primary goals."
+      ],
+      "conclusion": "Choosing cupboards from our recommendations means selecting quality, functionality, and stylish designs."
+    },
+    "researchProcess": {
+      "title": "Our Research Process",
+      "content": [
+        "We start by researching popular cupboard styles and materials, considering factors like storage needs, room size, and decor.",
+        "Each cupboard undergoes hands-on testing to assess its durability, storage capacity, ease of assembly, and overall quality.",
+        "Our team collaborates to review and analyze findings, ensuring thorough evaluations of each cupboard’s performance.",
+        "We present our top picks based on their exceptional durability, design, functionality, and value."
+      ]
+    },
+    "comparisonSection": {
+      "title": "Who it’s for:",
+      "content": "Ideal for individuals seeking high-quality cupboards that provide ample storage, durability, and complement their home decor.",
+      "keyPoints": [
+        "Variety of cupboard types and materials (e.g., wood, metal, glass)",
+        "Storage capacity and shelf configurations",
+        "Ease of assembly and installation",
+        "Design and style options",
+        "Additional features like adjustable shelves or locking mechanisms"
+      ]
+    },
+    "topPick": {
+      "rank": 1,
+      "image": "https://m.media-amazon.com/images/I/71hMwwqIXOL._SX679_.jpg",
+      "title": "Cello Novelty Big Plastic 2 Door Cupboard with 3 Shelves (Brown and Beige)",
+      "description": "The Cello Novelty Big Plastic 2 Door Cupboard offers a practical storage solution with three shelves, lockable doors, and a durable plastic construction. Suitable for storing clothes, books, toys, and more, it features easy assembly and low maintenance.",
+      "details": "Brand: CELLO. Colour: Brown & Beige. Material: Plastic. Recommended Uses For Product: Storage. Product Dimensions: 14.6D x 23.3W x 48.2H Centimeters. Special Feature: Lockable. Mounting Type: Floor Mount. Room Type: Living Room. Door Style: Lock. Weight Limit: 200 Kilograms. Style: Modern. Number of Doors: 2. Shape: Rectangular. Item Weight: 11.87 Kilograms.",
+      "features": [
+        "Compact, strong, and durable made with molded plastic",
+        "2 door cabinet with lock for secure storage",
+        "Easy assembly with provided instructions",
+        "Multiple shelves for efficient storage",
+        "Low maintenance, wipe with a damp cloth to clean",
+        "1-year warranty against manufacturing defects"
+      ],
+      "metrics": [
+        {
+          "name": "Easy to assemble",
+          "rating": 4.0
+        },
+        {
+          "name": "Value for money",
+          "rating": 3.8
+        },
+        {
+          "name": "Storage Capacity",
+          "rating": 3.8
+        },
+        {
+          "name": "Sturdiness",
+          "rating": 3.7
         }
+      ],
+      "purchaseLinks": [
+        {
+          "store": "Amazon",
+          "price": "₹4,825.00",
+          "discount": "41% off",
+          "link": "https://amzn.to/4caLfmJ"
+        }
+      ],
+      "warranty": "Top Brand product with free delivery, pay on delivery, 10 days replacement policy, and 1 year warranty."
+    },
+    "competitionSection": {
+      "title": "The Competition",
+      "competitors": [
+        {
+          "rank": 2,
+          "image": "https://m.media-amazon.com/images/I/81yswKKDH3L._SX679_.jpg",
+          "title": "Nilkamal Freedom Mini Medium (FMM) Plastic Cabinet for Storage| Space & Clothes Organizer| Shelves| Cupboard| Almari| Wardrobe| Living Room| Adult & Kids| Multipurpose for Home Kitchen & Office",
+          "description": "The Nilkamal Freedom Mini Medium (FMM) Plastic Cabinet is a versatile storage solution suitable for various purposes including organizing space, clothes, and kitchen items. It features a contemporary design, multiple compartments, and easy assembly.",
+          "details": "Brand: Nilkamal. Colour: Brown. Material: Plastic. Recommended Uses For Product: Kitchen. Product Dimensions: 35.5D x 59.5W x 123H Centimeters. Special Feature: Hinged Door. Mounting Type: Floor Mount. Room Type: Kitchen, Living Room, Home Office. Door Style: Flat Panel. Included Components: 1 Wardrobe. Style: Contemporary. Number of Doors: 2. Shape: Square. Item Weight: 11,000 Grams.",
+          "features": [
+            "Dimensions: 59.5 x 35.5 x 123 cm",
+            "Multiple compartments for organized storage",
+            "Easy assembly with provided instructions",
+            "Versatile use for various rooms and purposes",
+            "Low maintenance, wipe with a clean dry cloth",
+            "1-year warranty against manufacturing defects"
+          ],
+          "metrics": [
+            {
+              "name": "Storage Capacity",
+              "rating": 3.7
+            },
+            {
+              "name": "Sturdiness",
+              "rating": 3.6
+            },
+            {
+              "name": "Easy to assemble",
+              "rating": 3.5
+            },
+            {
+              "name": "Quality of material",
+              "rating": 3.5
+            }
+          ],
+          "purchaseLinks": [
+            {
+              "store": "Amazon",
+              "price": "₹4,849.00",
+              "discount": "39% off",
+              "link": "https://amzn.to/3VDZ7ii"
+            }
+          ],
+          "warranty": "Top Brand product with free delivery, pay on delivery, 10 days replacement policy, and 1 year warranty."
+        },
+        {
+          "rank": 3,
+          "image": "https://m.media-amazon.com/images/I/51H+4llmbHL._SX679_.jpg",
+          "title": "Laxmi KAPAT Metal Office Wardrobe | 2 Door Almirah Cupboard with 4 Adjustable Shelves & Locking System | Utility Cabinets for Office School (Powder Coated – Grey 78 X 36 X 19 Inch)",
+          "description": "The Laxmi KAPAT Metal Office Wardrobe is a robust and secure storage solution for offices and schools. It features a powder-coated grey finish, high-precision dimple key lock, and adjustable shelves, providing versatile storage for files, folders, and other items.",
+          "details": "Brand: Laxmi KAPAT. Colour: TA Grey. Material: Metal. Recommended Uses For Product: Files & Folders, Storage, etc. Product Dimensions: 48.3D x 91.4W x 198.1H Centimeters. Special Feature: Lockable. Mounting Type: Free Standing. Room Type: Home Office. Door Style: Front Open 02 Door. Weight Limit: 100 Kilograms. Style: Modern. Number of Doors: 2. Shape: Rectangular. Item Weight: 50 Kilograms.",
+          "features": [
+            "Dimensions: 78 X 36 X 19 inches",
+            "High-precision dimple key lock for security",
+            "Made of durable metal with powder-coated finish",
+            "4 adjustable shelves for flexible storage",
+            "Free-standing design for easy placement",
+            "Ideal for office and school use"
+          ],
+          "metrics": [
+            {
+              "name": "Overall Rating",
+              "rating": 4.3
+            }
+          ],
+          "purchaseLinks": [
+            {
+              "store": "Laxmi KAPAT Store",
+              "price": "Currently unavailable",
+              "link": "https://amzn.to/3KTrWCq"
+            }
+          ],
+          "warranty": "Top Brand product with a 1-year warranty and secure transaction."
+        }        
       ]
     }
   },
   {
     "slug": ["home", "furniture", "bed-furniture"],
-    "image": "https://example.com/bed-furniture.jpg",
+    "image": "https://m.media-amazon.com/images/I/61Ie4YSD-7L._SX569_.jpg",
     "title": "The Best Bed Furniture",
     "updatedDate": "June 17, 2024",
     "researchLink": "/bed-furniture-research",
@@ -1795,118 +1742,119 @@
     },
     "topPick": {
       "rank": 1,
-      "image": "/bed-furniture-top-pick.jpg",
-      "title": "Modern Upholstered Bed Frame",
-      "description": "Stylish and comfortable upholstered bed frame perfect for any bedroom.",
-      "details": "This modern upholstered bed frame offers a perfect blend of style and comfort. Its sturdy construction and elegant design make it suitable for any bedroom setting.",
-      "metrics": [
-        {
-          "name": "Customer Reviews and Ratings",
-          "rating": 4.8
-        },
-        {
-          "name": "Price and Value for Money",
-          "rating": 4.7
-        },
-        {
-          "name": "Build Quality and Durability",
-          "rating": 4.9
-        },
-        {
-          "name": "Design and Aesthetic Appeal",
-          "rating": 4.8
-        }
+      "image": "https://m.media-amazon.com/images/I/61Ie4YSD-7L._SX569_.jpg",
+      "title": "Wakefit Bed | 1 Year Warranty | Double Bed, Queen Size Bed, Cosmo Engineered Wood Bed, Platform Low Height Bed, Wooden Bed (Matte Finish_Brown)",
+      "description": "The Wakefit Cosmo Queen Size Bed is a sturdy, low-height platform bed made from engineered wood with a matte brown finish. It is designed for durability and comfort, featuring a water-resistant base and a sleek Columbian Walnut color.",
+      "details": "Size: Queen. Material: Engineered Wood. Product Dimensions: 2.1L x 1.57W x 0.6H Meters. Special Feature: Sturdy. Colour: Brown. Finish Type: Glossy. Included Components: 1 Bed. Compatible with Mattress Size: 78 X 60 inches. Brand: Wakefit. Product Care Instructions: Wipe with Dry Cloth. Style: Cosmo Non Storage - Columbian Walnut. Maximum Weight Recommendation: 250 Kilograms. Item Weight: 64 Kilograms. Furniture Finish: Walnut.",
+      "features": [
+        "Strong 18mm Engineered Wood Particle Board construction",
+        "Water-resistant bed base with top 11mm MDF and bottom 800 GSM PP sheet",
+        "Product Dimensions: Length: 209.7cm, Width: 156.9cm, Height: 60cm",
+        "Bed seating height of 20cm (7.87 inches)",
+        "Compatible with 78 x 60 inches mattress size",
+        "Installation/assembly within 4 working days of delivery"
       ],
+      "metrics": [
+    {
+      "name": "Overall Rating",
+      "rating": 4.5
+    },
+    {
+      "name": "Value for Money",
+      "rating": 4.6
+    },
+    {
+      "name": "Easy to Assemble",
+      "rating": 4.5
+    },
+    {
+      "name": "Storage Capacity",
+      "rating": 4.5
+    },
+    {
+      "name": "Sturdiness",
+      "rating": 4.3
+    }
+  ],
       "purchaseLinks": [
         {
-          "store": "Amazon",
-          "price": "$500",
-          "link": "https://amazon.com/modern-upholstered-bed-frame"
-        },
-        {
-          "store": "Wayfair",
-          "price": "$480",
-          "link": "https://wayfair.com/modern-upholstered-bed-frame"
+          "store": "Wakefit Store",
+          "price": "Currently unavailable",
+          "link": "https://amzn.to/3Xy6KcQ"
         }
       ],
-      "topPick": true
+      "warranty": "Top Brand product with a 1-year warranty and secure transaction."
     },
     "competitionSection": {
       "title": "The Competition",
       "competitors": [
         {
           "rank": 2,
-          "image": "/bed-furniture-competitor1.jpg",
-          "title": "Classic Wooden Bed Frame",
-          "description": "Durable wooden bed frame with a timeless design.",
-          "details": "This classic wooden bed frame offers durability and a timeless design that complements any bedroom decor. Its solid construction ensures long-lasting comfort.",
+          "image": "https://m.media-amazon.com/images/I/71ZdxgbNpZL._SX679_.jpg",
+          "title": "Amazon Brand - Solimo Kaimbe Queen Size Solid Sheesham Wood Bed Without Storage (Natural Finish)",
+          "description": "The Solimo Kaimbe Queen Size Bed is a sturdy, solid Sheesham wood bed with a natural finish. It features a termite-free and durable design, perfect for modern bedrooms.",
+          "details": "Size: Queen. Material: Rose Wood. Product Dimensions: 2.06L x 1.58W x 0.76H Meters. Special Feature: Termite Free, Durable. Colour: Natural. Finish Type: Lacquered. Included Components: Queen Size Bed With Accessories. Brand: Amazon Brand - Solimo. Product Care Instructions: Wipe with Dry Cloth. Assembly Required: Yes. Style: Without Storage. Maximum Weight Recommendation: 200 Kilograms. Item Weight: 90000 Grams. Furniture Finish: Natural Finish.",
+          "features": [
+            "Solid Sheesham Wood construction",
+            "Natural finish with lacquered coating",
+            "Product Dimensions: Length: 205.72 cm, Width: 158 cm, Height: 76 cm",
+            "Recommended Mattress Size: 78 X 60 inches (Not Included)",
+            "Contemporary style with termite-free and durable design",
+            "Basic self-assembly required with instructions and necessary accessories provided",
+            "Free installation provided by Amazon Brand - Solimo in case of difficulty"
+          ],
           "metrics": [
             {
-              "name": "Customer Reviews and Ratings",
-              "rating": 4.6
-            },
-            {
-              "name": "Price and Value for Money",
-              "rating": 4.5
-            },
-            {
-              "name": "Build Quality and Durability",
-              "rating": 4.7
-            },
-            {
-              "name": "Design and Aesthetic Appeal",
-              "rating": 4.6
+              "name": "Overall Rating",
+              "rating": 4.2
             }
           ],
           "purchaseLinks": [
             {
-              "store": "Target",
-              "price": "$400",
-              "link": "https://target.com/classic-wooden-bed-frame"
-            },
-            {
-              "store": "Walmart",
-              "price": "$380",
-              "link": "https://walmart.com/classic-wooden-bed-frame"
+              "store": "Amazon Brand - Solimo Store",
+              "price": "₹14,999.00",
+              "link": "https://amzn.to/45E5yql"
             }
-          ]
+          ],
+          "warranty": "Top Brand product with a 3-year warranty and secure transaction."
         },
         {
           "rank": 3,
-          "image": "/bed-furniture-competitor2.jpg",
-          "title": "Minimalist Metal Bed Frame",
-          "description": "Sleek metal bed frame ideal for modern bedrooms.",
-          "details": "This minimalist metal bed frame features a sleek design, ideal for modern bedroom settings. It is durable and easy to assemble.",
+          "image": "https://m.media-amazon.com/images/I/7162n3GJ7GL._SX569_.jpg",
+          "title": "Amazon Brand - Solimo Agnus Queen Size Solid Sheesham Wood Bed Without Storage (Honey Finish)",
+          "description": "The Amazon Brand - Solimo Agnus Queen Size Solid Sheesham Wood Bed offers a blend of classic design and durable construction. Crafted from solid sheesham wood with a honey finish, this bed is perfect for those looking to enhance their bedroom with elegance and comfort.",
+          "details": "Brand: Amazon Brand - Solimo. Colour: Honey. Material: Sheesham Wood. Recommended Uses For Product: Bedroom. Product Dimensions: 161.5L x 214W x 102H Centimeters. Special Feature: Termite Free, Without Storage. Mounting Type: Floor Mount. Room Type: Bedroom. Weight Limit: 200 Kilograms. Style: Classic. Shape: Rectangular. Item Weight: 100,000 Grams.",
+          "features": [
+            "Solid sheesham wood construction with a honey finish",
+            "Termite-free for long-lasting durability",
+            "Queen-size dimensions suitable for 78X60 inches mattresses",
+            "Requires assembly, includes all necessary accessories",
+            "Sturdy design with a maximum weight recommendation of 200 kilograms",
+            "3-year warranty against manufacturing defects"
+          ],
           "metrics": [
             {
-              "name": "Customer Reviews and Ratings",
-              "rating": 4.5
-            },
-            {
-              "name": "Price and Value for Money",
+              "name": "Sturdiness",
               "rating": 4.4
             },
             {
-              "name": "Build Quality and Durability",
-              "rating": 4.6
+              "name": "Easy to assemble",
+              "rating": 4.1
             },
             {
-              "name": "Design and Aesthetic Appeal",
-              "rating": 4.5
+              "name": "Value for money",
+              "rating": 4.0
             }
           ],
           "purchaseLinks": [
             {
-              "store": "IKEA",
-              "price": "$350",
-              "link": "https://ikea.com/minimalist-metal-bed-frame"
-            },
-            {
-              "store": "Walmart",
-              "price": "$340",
-              "link": "https://walmart.com/minimalist-metal-bed-frame"
+              "store": "Amazon",
+              "price": "₹23,499.00",
+              "discount": "47% off",
+              "link": "https://amzn.to/3zaB6YW"
             }
-          ]
+          ],
+          "warranty": "Top Brand product with free delivery, pay on delivery, 10 days replacement policy, and 3 years warranty."
         }
       ]
     }
