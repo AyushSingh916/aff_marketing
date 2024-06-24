@@ -2,6 +2,7 @@
 
 import React from 'react';
 import Image from 'next/image';
+import Link from 'next/link';
 import './globals.css';
 import latestUpdates from '@/data/latest_update.json';
 import deals from '@/data/daily_deals.json';
@@ -44,13 +45,15 @@ const Home: React.FC = () => {
             </p>
             {deals.map((deal, index) => (
               <div key={index} className="mb-8">
-                <Image
-                  src="/main.jpg"
-                  alt={deal.alt}
-                  width={100}
-                  height={100}
-                  className="w-full h-auto object-cover mb-2 rounded-lg"
-                />
+                <Link href={deal.link}>
+                  <Image
+                    src={deal.image}
+                    alt={deal.alt}
+                    width={100}
+                    height={100}
+                    className="w-full h-auto object-cover mb-2 rounded-lg"
+                  />
+                </Link>
                 <h3 className="text-xl font-semibold">{deal.name}</h3>
                 <p className="text-gray-500 text-sm">
                   <span className="line-through">{deal.originalPrice}</span>{' '}
@@ -74,17 +77,18 @@ const Home: React.FC = () => {
             }}
           >
             <Image
-              src="/main.jpg"
+              src="https://m.media-amazon.com/images/I/81Sx6JZKBoL._SX679_.jpg"
               alt="Main Content"
               width={600}
               height={400}
               className="w-full h-auto object-cover mb-4 rounded-lg"
             />
-            <h2 className="text-3xl font-bold mb-4">Lorem Ipsum</h2>
+            <h2 className="text-3xl font-bold mb-4">Best Sofa for your Living Room</h2>
             <p className="text-gray-600">
-              Lorem ipsum is placeholder text commonly used in the graphic,
-              print, and publishing industries for previewing layouts and visual
-              mockups.
+              The Coirfit 3 Seater Folding Sofa Cum Bed is a versatile and practical addition to any living room. Featuring a durable jute fabric cover that is washable, this sofa cum bed is designed for convenience and comfort. It includes free cushions and offers a seating capacity of three, making it ideal for both seating and sleeping arrangements.
+            </p>
+            <p className="text-gray-600">
+              <strong>Details:</strong> Brand: Coirfit. Colour: Brown. Material: Jute Fabric. Upholstery Fabric Type: Jute. Size: 5x6 Feet. Product Dimensions: 76.2D x 121.9W x 71.1H Centimeters. Item Weight: 26 kg. Shape: Rectangular. Style: L Shaped. Assembly Required: No. Special Features: L Shaped, Armless. Room Type: Living Room. Type: Sofa Bed.
             </p>
           </div>
 
@@ -97,11 +101,10 @@ const Home: React.FC = () => {
             }}
           >
             <h2 className="text-2xl font-bold mb-4">Latest Updates</h2>
-            <p className="text-sm text-gray-600 mb-6">Top reviews and deals</p>
             {latestUpdates.map((update, index) => (
               <div key={index} className="mb-8">
                 <h3 className="text-lg font-semibold">{update.title}</h3>
-                <p className="text-gray-500 text-sm">{update.link}</p>
+                <p className="text-gray-500 text-sm">{update.update}</p>
               </div>
             ))}
           </div>
@@ -109,13 +112,14 @@ const Home: React.FC = () => {
       </section>
 
       {renderSection(data.home, Horizontal, '/home')}
-      {renderSection(data.electronicDevices, Vertical, '/electronic-devices')}
+      {/* Uncomment and use these sections as needed */}
+      {/* {renderSection(data.electronicDevices, Vertical, '/electronic-devices')}
       {renderSection(data.electronicAppliances, Horizontal, '/electronic-appliances')}
       {renderSection(data.automobiles, Vertical, '/automobiles')}
       {renderSection(data.aiTools, Horizontal, '/ai-tools')}
       {renderSection(data.healthLifestyle, Vertical, '/health-lifestyle')}
       {renderSection(data.clothingBags, Horizontal, '/clothing')}
-      {renderSection(data.shoes, Vertical, '/shoes')}
+      {renderSection(data.shoes, Vertical, '/shoes')} */}
     </main>
   );
 };

@@ -1,6 +1,3 @@
-// /app/globals.css
-import '@/app/globals.css';
-
 // /components/ComparisionCard.tsx
 import React from 'react';
 import Image from 'next/image';
@@ -20,6 +17,7 @@ interface CardProps {
     store: string;
     price: string;
     link: string;
+    discount?: string;
   }[];
 }
 
@@ -107,7 +105,9 @@ const Card: React.FC<CardProps> = ({
           </h1>
           <p className="mt-2 text-gray-600">{description}</p>
           <div className="mt-4">
-            <h2 className="text-md font-semibold text-gray-700">Product Metrics</h2>
+            <h2 className="text-md font-semibold text-gray-700">
+              Product Metrics
+            </h2>
             <ul className="mt-2 space-y-2">
               {metrics.map((metric, index) => (
                 <li key={index} className="flex justify-between text-gray-600">
@@ -117,11 +117,20 @@ const Card: React.FC<CardProps> = ({
               ))}
             </ul>
           </div>
-          <div className="mt-4 flex justify-between">
+          <div className="mt-4 flex flex-col">
             {priceLinks.map((link, index) => (
-              <Link key={index} href={link.link}>
-                <p className="text-blue-500 hover:underline">{link.price}</p>
-              </Link>
+              <div key={index} className="mb-2">
+                <Link href={link.link}>
+                  <p className="text-blue-500 hover:underline">
+                    {link.price}
+                    {link.discount && (
+                      <span className="text-red-500 ml-2">
+                        ({link.discount})
+                      </span>
+                    )}
+                  </p>
+                </Link>
+              </div>
             ))}
           </div>
           {rank === 1 && (

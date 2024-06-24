@@ -1,26 +1,29 @@
 [
-    {
-      "image": "/laptop_stand.jpg",
-      "alt": "Laptop Stand",
-      "name": "Laptop Stand",
-      "originalPrice": "$30",
-      "discountedPrice": "$10",
-      "discountPercentage": "50% off from Amazon"
-    },
-    {
-        "image": "/laptop_stand.jpg",
-        "alt": "Laptop Stand",
-        "name": "Laptop Stand",
-        "originalPrice": "$30",
-        "discountedPrice": "$10",
-        "discountPercentage": "50% off from Amazon"
-      },
-      {
-        "image": "/laptop_stand.jpg",
-        "alt": "Laptop Stand",
-        "name": "Laptop Stand",
-        "originalPrice": "$30",
-        "discountedPrice": "$10",
-        "discountPercentage": "50% off from Amazon"
-      }
-  ]
+  {
+    "image": "https://m.media-amazon.com/images/I/71Zf9uUp+GL._SX679_.jpg",
+    "alt": "Laptop Stand",
+    "name": "Laptop Stand",
+    "originalPrice": "₹1499",
+    "discountedPrice": "₹269",
+    "discountPercentage": "82% off from Amazon",
+    "link": "https://amzn.to/3KYTGWk"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/51r2CHmWWYL._SX679_.jpg",
+    "alt": "Chandelier",
+    "name": "Chandelier",
+    "originalPrice": " ₹9,999",
+    "discountedPrice": "₹2,745",
+    "discountPercentage": "73% off from Amazon",
+    "link": "https://amzn.to/4czdN9B"
+  },
+  {
+    "image": "https://m.media-amazon.com/images/I/519G427PbtL._SX679_.jpg",
+    "alt": "Chimney",
+    "name": "Chimneys",
+    "originalPrice": "₹30,190",
+    "discountedPrice": "₹11,990",
+    "discountPercentage": "60% off from Amazon",
+    "link": "https://amzn.to/45DFtaP"
+  }
+]

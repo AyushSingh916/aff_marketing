@@ -1,21 +1,35 @@
 {
   "home": {
     "main": {
-      "src": "/home_main.png",
+      "src": "https://m.media-amazon.com/images/I/61Ie4YSD-7L._SX569_.jpg",
       "alt": "Home Image",
-      "title": "10 Essential Upgrades for a Cozy Home",
+      "title": "4 Essential Upgrades for a Cozy Home",
       "description": "Transform your living space into a haven of comfort with these easy upgrades."
     },
     "articles": [
       {
-        "image": { "src": "/home_article_1.png", "alt": "Home Article Image" },
-        "title": "How to Decorate Your Living Room",
-        "date": "UPDATED JUNE 10, 2024 by Jane Doe"
+        "image": { "src": "https://m.media-amazon.com/images/I/81Sx6JZKBoL._SX679_.jpg", "alt": "Home Article Image" },
+        "title": "How to Decorate Your Living Room with best Sofa",
+        "date": "UPDATED JUNE 10, 2024 by Ayush Singh",
+        "link": "https://www.peakpicks.in/home/furniture/sofa/"
       },
       {
-        "image": { "src": "/home_article_2.png", "alt": "Home Article Image" },
-        "title": "The Best Vacuum Cleaners for 2024",
-        "date": "UPDATED JUNE 8, 2024 by John Smith"
+        "image": { "src": "https://m.media-amazon.com/images/I/51r2CHmWWYL._SX679_.jpg", "alt": "Home Article Image" },
+        "title": "The Best Chandelier for our home",
+        "date": "UPDATED JUNE 8, 2024 by Ayush Singh",
+        "link" : "https://www.peakpicks.in/home/home-decor/chandeliers/"
+      },
+      {
+        "image": { "src": "https://m.media-amazon.com/images/I/813tzrKnhEL._SX569_.jpg", "alt": "Home Article Image" },
+        "title": "The Best Curtains for our home",
+        "date": "UPDATED JUNE 8, 2024 by Ayush Singh",
+        "link" : "https://www.peakpicks.in/home/home-decor/curtains/"
+      },
+      {
+        "image": { "src": "https://m.media-amazon.com/images/I/71BRnU6sjnL._SX679_.jpg", "alt": "Home Article Image" },
+        "title": "The Best Table for our home",
+        "date": "UPDATED JUNE 8, 2024 by Ayush Singh",
+        "link" : "https://www.peakpicks.in/home/furniture/tables/"
       }
     ]
   },

@@ -1,27 +1,32 @@
 [
-    {
-      "title": "Smartphone Case with Built-in Charger",
-      "link": "https://example.com/smartphone-case"
-    },
-    {
-      "title": "Wireless Earbuds with Noise-Canceling Technology",
-      "link": "https://example.com/wireless-earbuds"
-    },
-    {
-      "title": "Portable UV-C Sanitizer Wand",
-      "link": "https://example.com/uv-sanitizer"
-    },
-    {
-      "title": "Smartwatch with Health Monitoring Features",
-      "link": "https://example.com/smartwatch"
-    },
-    {
-      "title": "AI-Powered Smart Home Security Camera",
-      "link": "https://example.com/security-camera"
-    },
-    {
-      "title": "Electric Scooter with Long Battery Life",
-      "link": "https://example.com/electric-scooter"
-    }
-  ]
-  
+  {
+    "title": "Apple Intelligence",
+    "link": "https://www.apple.com/apple-intelligence/",
+    "launch_date": "June 10, 2024",
+    "update": "Apple Intelligence combines the power of generative models with personal context to deliver intelligence that's useful and relevant to the user."
+  },
+  {
+    "title": "Apple Vision Pro",
+    "link": "https://www.apple.com/apple-vision-pro/",
+    "launch_date": "February 2, 2024",
+    "update": "Apple's entry into the virtual reality (VR) and augmented reality (AR) headset market, with a higher price point than any competing product, but with plenty of features to justify that expense."
+  },
+  {
+    "title": "Samsung Galaxy Ring",
+    "link": "https://www.cnet.com/tech/mobile/samsungs-surprise-galaxy-ring-whos-the-wearable-actually-for/",
+    "launch_date": "Third quarter of 2024",
+    "update": "Samsung's new smart ring, enabling users to track their sleep patterns and spot potential signs of sleep apnea, with features like blood oxygen and body temperature tracking, medication reminders, and alerts regarding interactions between medications."
+  },
+  {
+    "title": "Apple Watch X",
+    "link": "https://www.macrumors.com/guide/apple-watch-x/",
+    "launch_date": "Late 2024 or early 2025",
+    "update": "A thinner, sleeker watch, celebrating the tenth birthday of the Apple Watch, with rumored design and feature updates."
+  },
+  {
+    "title": "Eargo 7",
+    "link": "https://shop.eargo.com/eargo-7",
+    "launch_date": "Not announced",
+    "update": "A cutting-edge hearing aid, offering innovative features in the hearing care industry."
+  }
+]

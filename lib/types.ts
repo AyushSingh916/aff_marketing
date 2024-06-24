@@ -1,3 +1,4 @@
+// types.ts
 export interface Article {
   image: {
     src: string;
@@ -9,75 +10,80 @@ export interface Article {
 
 export interface MainContent {
   src: string;
-  alt: string;
-  title: string;
-  description: string;
+    alt: string;
+    title: string;
+    description: string;
 }
 
 export interface CategoryData {
-  main: MainContent;
-  articles: Article[];
+    main: MainContent;
+    articles: Article[];
 }
 
 export interface Data {
-  home: CategoryData;
-  electronicDevices: CategoryData;
-  electronicAppliances: CategoryData;
-  automobiles: CategoryData;
-  aiTools: CategoryData;
-  healthLifestyle: CategoryData;
-  clothingBags: CategoryData;
-  shoes: CategoryData;
+    home: CategoryData;
+    electronicDevices: CategoryData;
+    electronicAppliances: CategoryData;
+    automobiles: CategoryData;
+    aiTools: CategoryData;
+    healthLifestyle: CategoryData;
+    clothingBags: CategoryData;
+    shoes: CategoryData;
 }
 
-
 export interface Metric {
-  name: string;
-  rating: number;
+    name: string;
+    rating: number;
 }
 
 export interface PurchaseLink {
-  store: string;
-  price: string;
-  link: string;
+    store: string;
+    price: string;
+    link: string;
+    discount?: string; // Make discount optional
 }
 
 export interface Competitor {
-  rank: number;
-  image: string;
-  title: string;
-  description: string;
-  details: string;
-  metrics: Metric[];
-  purchaseLinks: PurchaseLink[];
-  topPick: boolean;
+    rank: number;
+    image: string;
+    title: string;
+    description: string;
+    metrics: Metric[];
+    purchaseLinks: PurchaseLink[];
+    topPick: boolean;
 }
 
 export interface Product {
-  slug: string[];
-  image: string;
-  title: string;
-  updatedDate: string;
-  researchLink: string;
-  authors: string;
-  description: string;
-  whyTrustUs: {
+    slug: string[];
+    image: string;
     title: string;
-    content: string;
-    points: string[];
-    conclusion: string;
-  };
-  researchProcess: {
-    title: string;
-    content: string[];
-  };
-  comparisonSection: {
-    title: string;
-    content: string;
-    keyPoints: string[];
-  };
-  competitionSection: {
-    title: string;
-    competitors: Competitor[];
-  };
+    updatedDate: string;
+    description: string;
+    whyTrustUs: {
+        title: string;
+        content: string;
+        points: string[];
+        conclusion: string;
+    };
+    researchProcess: {
+        title: string;
+        content: string[];
+    };
+    comparisonSection: {
+        title: string;
+        content: string;
+        keyPoints: string[];
+    };
+    competitionSection: {
+        title: string;
+        competitors: Competitor[];
+    };
+    topPick: {
+        image: string;
+        title: string;
+        rank: number;
+        description: string;
+        metrics: Metric[];
+        purchaseLinks: PurchaseLink[];
+    };
 }
