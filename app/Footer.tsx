@@ -91,7 +91,7 @@ function Footer() {
       </div>
 
       <div className='flex justify-between lg:justify-center w-full max-w-7xl'>
-        <div>Copyright &copy; 2024, All Rights Reserved</div>
+        <div>Copyright &copy; {new Date().getFullYear()}, All Rights Reserved</div>
       </div>
     </footer>
   );
