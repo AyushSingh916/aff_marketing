@@ -32,27 +32,27 @@ function Footer() {
         <div className="flex flex-col w-fit gap-2">
           <h2 className="w-fit font-bold text-lg lg:text-2xl mt-4 half-underline">Follow Us</h2>
           <div className="flex flex-col gap-2">
-            {/* <a
-              href="https://www.linkedin.com"
+            <a
+              href="https://www.linkedin.com/company/peak-picks/?viewAsMember=true"
               className="group flex items-center justify-center gap-2 hover:bg-blue-800 rounded-sm overflow-clip w-fit"
             >
               <span className='group-hover:bg-white p-1'><LinkedinIcon className='group-hover:stroke-black' size="1rem" /></span>
               <div className='h-min pr-2'>LinkedIn</div>
             </a>
             <a
-              href="https://www.facebook.com"
+              href="https://www.facebook.com/profile.php?id=61561221100641"
               className="group flex items-center justify-center gap-2 hover:bg-blue-600 rounded-sm overflow-clip w-fit"
             >
               <span className='group-hover:bg-white p-1'><FacebookIcon className='group-hover:stroke-black' size="1rem" /></span>
               <div className='h-min pr-2'>Facebook</div>
             </a>
             <a
-              href="https://twitter.com"
+              href="https://x.com/PeakPicks1"
               className="group flex items-center justify-center gap-2 hover:bg-black rounded-sm overflow-clip w-fit"
             >
               <span className='group-hover:bg-white p-1'><XIcon className='group-hover:stroke-black' size="1rem" /></span>
               <div className='h-min pr-2'>Twitter</div>
-            </a> */}
+            </a>
             <a
               href="https://www.instagram.com/peakpicksinsta"
               className="group flex items-center justify-center gap-2 hover:bg-purple-600 rounded-sm overflow-clip w-fit"

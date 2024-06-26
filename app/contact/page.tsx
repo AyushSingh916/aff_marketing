@@ -90,12 +90,12 @@ const ContactUs: React.FC = () => {
         <div className="w-full lg:w-1/2">
           <h2 className="text-3xl lg:text-4xl font-star-jedi mb-4">Reach Out to Us</h2>
           <div className="flex gap-6">
-            {/* <a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.facebook.com/profile.php?id=61561221100641" target="_blank" rel="noopener noreferrer">
               <FaFacebookF className="h-8 w-8 text-gray-700 hover:text-accent transition-colors" />
             </a>
-            <a href="https://www.twitter.com" target="_blank" rel="noopener noreferrer">
+            <a href="https://x.com/PeakPicks1" target="_blank" rel="noopener noreferrer">
               <FaTwitter className="h-8 w-8 text-gray-700 hover:text-accent transition-colors" />
-            </a> */}
+            </a>
             <a href="https://www.instagram.com/peakpicksinsta" target="_blank" rel="noopener noreferrer">
               <FaInstagram className="h-8 w-8 text-gray-700 hover:text-accent transition-colors" />
             </a>
