@@ -305,58 +305,17 @@
   },
 
   {
-    "text": "Automobiles",
-    "href": "/automobiles",
+    "text": "Smart Devices",
+    "href": "/ai-tools",
     "sublinks": [
       {
-        "text": "Cars",
-        "href": "/automobiles/cars",
-        "sublinks": [
-          { "text": "Electric Car", "href": "/automobiles/cars/electric" },
-          { "text": "Manual Gear Car", "href": "/automobiles/cars/manualgear" },
-          { "text": "Auto Gear Cars", "href": "/automobiles/cars/autogear" },
-          { "text": "Sports Car", "href": "/automobiles/cars/sportscar" },
-          { "text": "SUV's", "href": "/automobiles/cars/suv" }
-        ]
-      },
-      {
-        "text": "Motorcycles",
-        "href": "/automobiles/motorcycles",
+        "text": "Audio Device",
+        "href": "/ai-tools/audio-device",
         "sublinks": [
           {
-            "text": "Electric Scooty",
-            "href": "/automobiles/motorcycles/electric-scooty"
-          },
-          {
-            "text": "Fuel Based Scooty",
-            "href": "/automobiles/motorcycles/fuel-scooty"
-          },
-          {
-            "text": "Electric Bikes",
-            "href": "/automobiles/motorcycles/electric-bike"
-          },
-          {
-            "text": "Fuel Based Bikes",
-            "href": "/automobiles/motorcycles/fuel-bike"
-          },
-          {
-            "text": "Electric Cycle",
-            "href": "/automobiles/motorcycles/electric-cycle"
-          },
-          {
-            "text": "Manual Cycle",
-            "href": "/automobiles/motorcycles/manual-cycle"
+            "text": "Smart Devices",
+            "href": "/ai-tools/audio-device/smart-speakers"
           }
-        ]
-      },
-      {
-        "text": "Other Vehicles",
-        "href": "/automobiles/trucks",
-        "sublinks": [
-          { "text": "Electric Rickshaw", "href": "/automobiles/other-vehicle/electric-rickshaw" },
-          { "text": "Trucks", "href": "/automobiles/other-vehicle/trucks" },
-          { "text": "Bus", "href": "/automobiles/other-vehicle/bus" },
-          { "text": "Van", "href": "/automobiles/other-vehicle/van" }
         ]
       }
     ]
