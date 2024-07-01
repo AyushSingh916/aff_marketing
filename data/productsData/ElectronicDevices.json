@@ -317,7 +317,7 @@
   },
   {
     "slug": ["electronic-devices", "phone", "iphone"],
-    "image": "https://m.media-amazon.com/images/I/81vWxvKVfTL._AC_SL1500_.jpg",
+    "image": "https://m.media-amazon.com/images/I/61VuVU94RnL._SX679_.jpg",
     "title": "The Best iPhones",
     "updatedDate": "April 29, 2024",
     "researchLink": "/research-link-iphone",
@@ -357,9 +357,9 @@
     },
     "topPick": {
       "rank": 1,
-      "image": "/iPhone14ProMax.png",
-      "title": "iPhone 14 Pro Max",
-      "description": "The ultimate iPhone with top-notch performance and features.",
+      "image": "https://m.media-amazon.com/images/I/61VuVU94RnL._SX679_.jpg",
+      "title": "Apple iPhone 13 (256GB) - Midnight",
+      "description": "A super-bright display in a durable design. Hollywood-worthy video shooting made easy. A lightning-fast chip. And a big boost in battery life you'll notice every day.",
       "details": "The iPhone 14 Pro Max features the A16 Bionic chip, a stunning 6.7-inch Super Retina XDR display, and a versatile triple-camera system. Perfect for power users and photography enthusiasts.",
       "metrics": [
         {
@@ -381,14 +381,9 @@
       ],
       "purchaseLinks": [
         {
-          "store": "Apple",
-          "price": "$1199",
-          "link": "https://apple.com"
-        },
-        {
-          "store": "Best Buy",
-          "price": "$1179",
-          "link": "https://bestbuy.com"
+          "store": "Amazon",
+          "price": "₹61,490",
+          "link": "https://amzn.to/4bpr8Am"
         }
       ],
       "topPick": true
@@ -958,7 +953,7 @@
   },
   {
     "slug": ["electronic-devices", "laptop", "mac"],
-    "image": "https://m.media-amazon.com/images/I/A1MY25C-yiL._AC_SL1500_.jpg",
+    "image": "https://m.media-amazon.com/images/I/71f5Eu5lJSL._SX679_.jpg",
     "title": "The Best MAC",
     "updatedDate": "April 29, 2024",
     "researchLink": "/research-link",
@@ -998,38 +993,33 @@
     },
     "topPick": {
       "rank": 1,
-      "image": "/MAC.png",
-      "title": "Apple MacBook Pro 16-inch",
+      "image": "https://m.media-amazon.com/images/I/71f5Eu5lJSL._SX679_.jpg",
+      "title": "Apple 2022 MacBook Air Laptop with M2 chip",
       "description": "A powerful and sleek laptop perfect for professional use.",
-      "details": "The MacBook Pro 16-inch combines top-tier performance with a stunning Retina display, making it ideal for demanding tasks and creative work. Available in various configurations to suit different needs.",
+      "details": "Apple 2022 MacBook Air Laptop with M2 chip: 34.46 cm (13.6-inch) Liquid Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera. Works with iPhone/iPad; Space Grey. The redesigned MacBook Air is more portable than ever and weighs just 1.24 kg (2.7 pounds). It's the ultra-capable laptop that lets you work, play or create just about anything — anywhere. SUPERCHARGED BY M2 – Get more done faster with a next-generation 8-core CPU, up to 10-core GPU and up to 24GB of unified memory. UP TO 18 HOURS OF BATTERY LIFE – Go all day and into the night, thanks to the power-efficient performance of the Apple M2 chip. BIG, BEAUTIFUL DISPLAY – The 34.46-centimetre (13.6-inch) Liquid Retina display features over 500 nits of brightness, P3 wide colour and support for one billion colours for vibrant images and incredible detail. ADVANCED CAMERA AND AUDIO – Look sharp and sound great with a 1080p FaceTime HD camera, three-mic array and four-speaker sound system with Spatial Audio. VERSATILE CONNECTIVITY – MacBook Air features a MagSafe charging port, two Thunderbolt ports and a headphone jack. EASY TO USE – Your Mac feels familiar from the moment you turn it on and works seamlessly with all your Apple devices.",
       "metrics": [
         {
           "name": "Customer Reviews and Ratings",
-          "rating": 4.9
+          "rating": 4.5
         },
         {
           "name": "Price and Value for Money",
-          "rating": 4.7
+          "rating": 4.5
         },
         {
           "name": "Performance and Durability",
-          "rating": 4.8
+          "rating": 4.5
         },
         {
           "name": "Brand Reputation and Trustworthiness",
-          "rating": 4.9
+          "rating": 4.5
         }
       ],
       "purchaseLinks": [
         {
-          "store": "Apple",
-          "price": "$2399",
-          "link": "https://apple.com"
-        },
-        {
-          "store": "Best Buy",
-          "price": "$2299",
-          "link": "https://bestbuy.com"
+          "store": "Amazon",
+          "price": "₹89,990",
+          "link": "https://amzn.to/3XLsj9P"
         }
       ],
       "topPick": true
@@ -1039,8 +1029,8 @@
       "competitors": [
         {
           "rank": 2,
-          "image": "/MAC.png",
-          "title": "Apple MacBook Air 13-inch",
+          "image": "https://m.media-amazon.com/images/I/314kVw1vC6L._SY445_SX342_QL70_FMwebp_.jpg",
+          "title": "Apple 2023 MacBook Pro (14-inch, M3 Pro chip with 11‑core CPU and 14‑core GPU, 18GB Unified Memory, 512GB) - Space Black",
           "description": "A lightweight and efficient laptop suitable for everyday use.",
           "details": "The MacBook Air 13-inch offers a balance of performance and portability, featuring the M1 chip and a vibrant Retina display. Perfect for students and casual users.",
           "metrics": [
@@ -1063,51 +1053,9 @@
           ],
           "purchaseLinks": [
             {
-              "store": "Apple",
-              "price": "$999",
-              "link": "https://apple.com"
-            },
-            {
               "store": "Amazon",
-              "price": "$949",
-              "link": "https://amazon.com"
-            }
-          ]
-        },
-        {
-          "rank": 3,
-          "image": "/MAC.png",
-          "title": "Apple iMac 24-inch",
-          "description": "A versatile desktop computer with an immersive display.",
-          "details": "The iMac 24-inch features the M1 chip and a stunning 4.5K Retina display, making it perfect for both work and entertainment. Available in various colors and configurations.",
-          "metrics": [
-            {
-              "name": "Customer Reviews and Ratings",
-              "rating": 4.7
-            },
-            {
-              "name": "Price and Value for Money",
-              "rating": 4.5
-            },
-            {
-              "name": "Performance and Durability",
-              "rating": 4.6
-            },
-            {
-              "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.8
-            }
-          ],
-          "purchaseLinks": [
-            {
-              "store": "Apple",
-              "price": "$1299",
-              "link": "https://apple.com"
-            },
-            {
-              "store": "Best Buy",
-              "price": "$1249",
-              "link": "https://bestbuy.com"
+              "price": "₹1,86,899",
+              "link": "https://amzn.to/3xLZDTy"
             }
           ]
         }
@@ -1116,7 +1064,7 @@
   },
   {
     "slug": ["electronic-devices", "laptop", "business"],
-    "image": "https://m.media-amazon.com/images/I/A1MY25C-yiL._AC_SL1500_.jpg",
+    "image": "https://m.media-amazon.com/images/I/41PcflzSsVL._SX300_SY300_QL70_FMwebp_.jpg",
     "title": "The Best Business Laptop",
     "updatedDate": "April 29, 2024",
     "researchLink": "/research-link",
@@ -1156,38 +1104,33 @@
     },
     "topPick": {
       "rank": 1,
-      "image": "/BusinessLaptop.png",
-      "title": "Dell XPS 13",
+      "image": "https://m.media-amazon.com/images/I/41PcflzSsVL._SX300_SY300_QL70_FMwebp_.jpg",
+      "title": "HP 15s Thin & Light Laptop",
       "description": "A powerful and sleek laptop perfect for business use.",
-      "details": "The Dell XPS 13 offers top-tier performance with a stunning InfinityEdge display, making it ideal for demanding tasks and professional work. Available in various configurations to suit different needs.",
+      "details": "HP 15s Thin & Light Laptop: Intel Core i3 or Ryzen 3 processors, 4GB to 8GB DDR4 RAM, 256GB to 512GB SSD, 15.6 inch Full HD (1920 × 1080) display, and up to 7-8 hours battery life. Thin and lightweight design, suitable for basic business tasks like office applications and web browsing.",
       "metrics": [
         {
           "name": "Customer Reviews and Ratings",
-          "rating": 4.9
+          "rating": 4.5
         },
         {
           "name": "Price and Value for Money",
-          "rating": 4.7
+          "rating": 4.5
         },
         {
           "name": "Performance and Durability",
-          "rating": 4.8
+          "rating": 4.5
         },
         {
           "name": "Brand Reputation and Trustworthiness",
-          "rating": 4.9
+          "rating": 4.5
         }
       ],
       "purchaseLinks": [
         {
-          "store": "Dell",
-          "price": "$1199",
-          "link": "https://dell.com"
-        },
-        {
           "store": "Amazon",
-          "price": "$1149",
-          "link": "https://amazon.com"
+          "price": "₹38,990",
+          "link": "https://amzn.to/3RKGHvp"
         }
       ],
       "topPick": true
@@ -1197,75 +1140,97 @@
       "competitors": [
         {
           "rank": 2,
-          "image": "/BusinessLaptop.png",
-          "title": "HP Spectre x360",
-          "description": "A versatile 2-in-1 laptop suitable for business professionals.",
-          "details": "The HP Spectre x360 combines powerful performance with a flexible 2-in-1 design, featuring a stunning display and long battery life. Ideal for both work and entertainment.",
+          "image": "https://m.media-amazon.com/images/I/71czGb00k5L._SX679_.jpg",
+          "title": "Acer Aspire 5",
+          "description": "A versatile laptop suitable for business professionals.",
+          "details": "Acer Aspire 5: Intel Core i3 or Ryzen 3 processors, 4GB to 8GB DDR4 RAM, 256GB to 512GB SSD, 15.6 inch Full HD (1920×1080) display, and up to 7-8 hours battery life. Good performance for multitasking, decent display and adequate connectivity options.",
           "metrics": [
             {
               "name": "Customer Reviews and Ratings",
-              "rating": 4.8
+              "rating": 4.4
             },
             {
               "name": "Price and Value for Money",
-              "rating": 4.6
+              "rating": 4.4
             },
             {
               "name": "Performance and Durability",
-              "rating": 4.7
+              "rating": 4.4
             },
             {
               "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.8
+              "rating": 4.4
             }
           ],
           "purchaseLinks": [
             {
-              "store": "HP",
-              "price": "$1299",
-              "link": "https://hp.com"
-            },
-            {
-              "store": "Best Buy",
-              "price": "$1249",
-              "link": "https://bestbuy.com"
+              "store": "Amazon",
+              "price": "₹36,990",
+              "link": "https://amzn.to/4d0B6JJ"
             }
           ]
         },
         {
           "rank": 3,
-          "image": "/BusinessLaptop.png",
-          "title": "Lenovo ThinkPad X1 Carbon",
-          "description": "A robust and reliable laptop for business use.",
-          "details": "The Lenovo ThinkPad X1 Carbon offers exceptional build quality and performance, with a focus on security and productivity features. Perfect for professionals needing a reliable workhorse.",
+          "image": "https://m.media-amazon.com/images/I/41vbEaLGzAL._SY300_SX300_QL70_FMwebp_.jpg",
+          "title": "Lenovo IdeaPad Slim 3i",
+          "description": "A reliable laptop suitable for everyday business tasks.",
+          "details": "Lenovo IdeaPad Slim 3i: Intel Core i3 or Ryzen 3 processors, 4GB to 8GB DDR4 RAM, 256GB to 512GB SSD, 14 inch or 15.6 inch Full HD (1920×1080) display, and up to 6-7 hours battery life. Reliable build quality, comfortable keyboard, and suitable for everyday office tasks.",
           "metrics": [
             {
               "name": "Customer Reviews and Ratings",
-              "rating": 4.7
+              "rating": 4.3
             },
             {
               "name": "Price and Value for Money",
-              "rating": 4.5
+              "rating": 4.3
             },
             {
               "name": "Performance and Durability",
-              "rating": 4.6
+              "rating": 4.3
             },
             {
               "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.8
+              "rating": 4.3
             }
           ],
           "purchaseLinks": [
             {
-              "store": "Lenovo",
-              "price": "$1399",
-              "link": "https://lenovo.com"
+              "store": "Amazon",
+              "price": "₹47,990",
+              "link": "https://amzn.to/4cI9fO1"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "image": "https://m.media-amazon.com/images/I/31W3w7ZY-7L._SX300_SY300_QL70_FMwebp_.jpg",
+          "title": "Dell Vostro 3401",
+          "description": "A sturdy laptop suitable for business applications.",
+          "details": "Dell Vostro 3401: Intel Core i3 or Ryzen 3 processors, 4GB to 8GB DDR4 RAM, 256GB SSD, 14 inch Full HD (1920×1080) display, and up to 5-6 hours battery life. Sturdy build, good keyboard, and adequate performance for business applications.",
+          "metrics": [
+            {
+              "name": "Customer Reviews and Ratings",
+              "rating": 4.2
             },
             {
+              "name": "Price and Value for Money",
+              "rating": 4.2
+            },
+            {
+              "name": "Performance and Durability",
+              "rating": 4.2
+            },
+            {
+              "name": "Brand Reputation and Trustworthiness",
+              "rating": 4.2
+            }
+          ],
+          "purchaseLinks": [
+            {
               "store": "Amazon",
-              "price": "$1349",
-              "link": "https://amazon.com"
+              "price": "₹39,999",
+              "link": "https://amzn.to/3L7XODu"
             }
           ]
         }
@@ -1274,7 +1239,7 @@
   },
   {
     "slug": ["electronic-devices", "laptop", "college"],
-    "image": "https://m.media-amazon.com/images/I/A1MY25C-yiL._AC_SL1500_.jpg",
+    "image": "https://m.media-amazon.com/images/I/61d9J+Af64L._SX679_.jpg",
     "title": "The Best College Laptop",
     "updatedDate": "April 29, 2024",
     "researchLink": "/research-link",
@@ -1314,10 +1279,10 @@
     },
     "topPick": {
       "rank": 1,
-      "image": "/CollegeLaptop.png",
-      "title": "Apple MacBook Air M1",
-      "description": "A lightweight and powerful laptop perfect for college students.",
-      "details": "The MacBook Air M1 offers excellent performance with a stunning Retina display, long battery life, and a sleek design. Ideal for students needing a reliable and portable laptop.",
+      "image": "https://m.media-amazon.com/images/I/61d9J+Af64L._SX679_.jpg",
+      "title": "Asus VivoBook Ultra 14/15",
+      "description": "A thin and lightweight laptop with good performance for multitasking, suitable for college tasks and light gaming.",
+      "details": "• Processor: AMD Ryzen 5 5500U or Intel Core i5-1135G7\n• RAM: 8GB DDR4 (expandable)\n• Storage: 512GB SSD\n• Display: 14 inch or 15.6 inch Full HD (1920×1080)\n• Graphics: Integrated AMD Radeon or Intel Iris Xe Graphics\n• Battery Life: Up to 6-7 hours\n• Features: Thin and Lightweight design, good performance for multitasking, suitable for college tasks and light gaming.",
       "metrics": [
         {
           "name": "Customer Reviews and Ratings",
@@ -1338,14 +1303,9 @@
       ],
       "purchaseLinks": [
         {
-          "store": "Apple",
-          "price": "$999",
-          "link": "https://apple.com"
-        },
-        {
-          "store": "Best Buy",
-          "price": "$949",
-          "link": "https://bestbuy.com"
+          "store": "Amazon",
+          "price": "₹47,500",
+          "link": "https://amzn.to/4cs0WWX"
         }
       ],
       "topPick": true
@@ -1355,10 +1315,10 @@
       "competitors": [
         {
           "rank": 2,
-          "image": "/CollegeLaptop.png",
-          "title": "Dell Inspiron 14",
-          "description": "A budget-friendly laptop suitable for students.",
-          "details": "The Dell Inspiron 14 offers a good balance of performance and affordability, featuring a vibrant display and solid build quality. Perfect for students on a budget.",
+          "image": "https://m.media-amazon.com/images/I/71Njhmxnc5L._SX679_.jpg",
+          "title": "HP Pavilion x360 14/15",
+          "description": "A versatile 2-in-1 laptop with a touchscreen display, ideal for note-taking and entertainment.",
+          "details": "• Processor: AMD Ryzen 5 5500U or Intel Core i5-1135G7\n• RAM: 8GB DDR4 (expandable)\n• Storage: 512GB SSD\n• Display: 14 inch or 15.6 inch Full HD IPS touchscreen (1920×1080)\n• Graphics: Integrated AMD Radeon or Intel Iris Xe Graphics\n• Battery Life: Up to 7-8 hours\n• Features: Convertible design (2-in-1), touchscreen display, good for note-taking with stylus support, versatile for both productivity and entertainment.",
           "metrics": [
             {
               "name": "Customer Reviews and Ratings",
@@ -1379,23 +1339,18 @@
           ],
           "purchaseLinks": [
             {
-              "store": "Dell",
-              "price": "$699",
-              "link": "https://dell.com"
-            },
-            {
               "store": "Amazon",
-              "price": "$649",
-              "link": "https://amazon.com"
+              "price": "₹66,950",
+              "link": "https://amzn.to/4cKEHLt"
             }
           ]
         },
         {
           "rank": 3,
-          "image": "/CollegeLaptop.png",
-          "title": "HP Pavilion x360",
-          "description": "A versatile 2-in-1 laptop perfect for students.",
-          "details": "The HP Pavilion x360 combines good performance with a flexible 2-in-1 design, featuring a bright touchscreen and long battery life. Ideal for students needing versatility.",
+          "image": "https://m.media-amazon.com/images/I/81X6Nf5rAhL._SX679_.jpg",
+          "title": "Acer Swift 3",
+          "description": "A thin and lightweight laptop with excellent performance for productivity tasks.",
+          "details": "• Processor: AMD Ryzen 5 4500U or Intel Core i5-1135G7\n• RAM: 8GB DDR4 (expandable)\n• Storage: 512GB SSD\n• Display: 14 inch full HD IPS (1920×1080)\n• Graphics: Integrated AMD Radeon or Intel Iris Xe Graphics\n• Features: Thin and lightweight, good build quality, excellent performance for productivity tasks, and decent battery life.",
           "metrics": [
             {
               "name": "Customer Reviews and Ratings",
@@ -1416,14 +1371,41 @@
           ],
           "purchaseLinks": [
             {
-              "store": "HP",
-              "price": "$799",
-              "link": "https://hp.com"
+              "store": "Amazon",
+              "price": "₹59,990",
+              "link": "https://amzn.to/4eHoRDn"
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "image": "https://m.media-amazon.com/images/I/81mCpJX7nFL._SX679_.jpg",
+          "title": "Lenovo IdeaPad Slim 5i",
+          "description": "A sleek and well-performing laptop ideal for everyday tasks.",
+          "details": "• Processor: Intel Core i5-1135G7\n• RAM: 8GB DDR4 (expandable)\n• Storage: 512GB SSD\n• Display: 15.6 inch full HD IPS (1920×1080)\n• Graphics: Intel Iris Xe Graphics\n• Battery Life: Up to 8-9 hours\n• Features: Sleek design, good keyboard, solid performance for everyday tasks, suitable for college students.",
+          "metrics": [
+            {
+              "name": "Customer Reviews and Ratings",
+              "rating": 4.6
             },
             {
-              "store": "Best Buy",
-              "price": "$749",
-              "link": "https://bestbuy.com"
+              "name": "Price and Value for Money",
+              "rating": 4.4
+            },
+            {
+              "name": "Performance and Durability",
+              "rating": 4.5
+            },
+            {
+              "name": "Brand Reputation and Trustworthiness",
+              "rating": 4.7
+            }
+          ],
+          "purchaseLinks": [
+            {
+              "store": "Amazon",
+              "price": "₹65,990",
+              "link": "https://amzn.to/3zihodC"
             }
           ]
         }
@@ -1432,7 +1414,7 @@
   },
   {
     "slug": ["electronic-devices", "laptop", "gaming"],
-    "image": "https://m.media-amazon.com/images/I/A1MY25C-yiL._AC_SL1500_.jpg",
+    "image": "https://m.media-amazon.com/images/I/71BlZZ2w16L._SX679_.jpg",
     "title": "The Best Gaming Laptop",
     "updatedDate": "April 29, 2024",
     "researchLink": "/research-link",
@@ -1472,10 +1454,10 @@
     },
     "topPick": {
       "rank": 1,
-      "image": "/GamingLaptop.png",
-      "title": "Asus ROG Zephyrus G14",
-      "description": "A powerful and portable gaming laptop perfect for serious gamers.",
-      "details": "The Asus ROG Zephyrus G14 offers top-tier performance with a stunning display and excellent cooling, making it ideal for demanding games and multitasking. Available in various configurations to suit different needs.",
+      "image": "https://m.media-amazon.com/images/I/71BlZZ2w16L._SX679_.jpg",
+      "title": "ASUS TUF Gaming A15/A17 (2024 Model)",
+      "description": "A powerful gaming laptop with robust performance and multitasking capabilities.",
+      "details": "ASUS TUF Gaming laptops often feature AMD Ryzen processors, which offer good gaming performance and multitasking capabilities. Look for configurations with Ryzen 5000 series processors or newer if possible.",
       "metrics": [
         {
           "name": "Customer Reviews and Ratings",
@@ -1496,14 +1478,9 @@
       ],
       "purchaseLinks": [
         {
-          "store": "Asus",
-          "price": "$1499",
-          "link": "https://asus.com"
-        },
-        {
           "store": "Amazon",
-          "price": "$1449",
-          "link": "https://amazon.com"
+          "price": "₹1,49,000",
+          "link": "https://amzn.to/4co9oq3"
         }
       ],
       "topPick": true
@@ -1513,10 +1490,10 @@
       "competitors": [
         {
           "rank": 2,
-          "image": "/GamingLaptop.png",
-          "title": "Razer Blade 15",
-          "description": "A sleek and powerful gaming laptop with a premium build.",
-          "details": "The Razer Blade 15 offers high performance with a sleek design and customizable RGB lighting, making it perfect for gamers who value aesthetics and power.",
+          "image": "https://m.media-amazon.com/images/I/617mK-DMDeL._SX679_.jpg",
+          "title": "Acer Nitro 5 (2024 Model)",
+          "description": "An affordable gaming laptop with decent performance.",
+          "details": "Acer Nitro series laptops are known for their affordability and decent gaming performance. Aim for models with newer AMD Ryzen or Intel Core processors paired with NVIDIA GTX or RTX graphics.",
           "metrics": [
             {
               "name": "Customer Reviews and Ratings",
@@ -1537,23 +1514,18 @@
           ],
           "purchaseLinks": [
             {
-              "store": "Razer",
-              "price": "$1799",
-              "link": "https://razer.com"
-            },
-            {
-              "store": "Best Buy",
-              "price": "$1749",
-              "link": "https://bestbuy.com"
+              "store": "Amazon",
+              "price": "₹76,646",
+              "link": "https://amzn.to/45NRaMn"
             }
           ]
         },
         {
           "rank": 3,
-          "image": "/GamingLaptop.png",
-          "title": "MSI GS66 Stealth",
-          "description": "A high-performance gaming laptop with a sleek design.",
-          "details": "The MSI GS66 Stealth combines powerful hardware with a slim design, featuring a high-refresh-rate display and excellent cooling. Ideal for gamers needing both performance and portability.",
+          "image": "https://m.media-amazon.com/images/I/81MQOV40FbL._SX679_.jpg",
+          "title": "Lenovo Legion 5/5i (2024 Model)",
+          "description": "A well-regarded gaming laptop with excellent performance.",
+          "details": "Lenovo Legion laptops are well-regarded for their performance. Look for models with AMD Ryzen 5000 series or Intel Core i5/i7 processors and NVIDIA GTX or RTX graphics.",
           "metrics": [
             {
               "name": "Customer Reviews and Ratings",
@@ -1574,144 +1546,18 @@
           ],
           "purchaseLinks": [
             {
-              "store": "MSI",
-              "price": "$1699",
-              "link": "https://msi.com"
-            },
-            {
               "store": "Amazon",
-              "price": "$1649",
-              "link": "https://amazon.com"
-            }
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "slug": ["electronic-devices", "laptop", "budget-gaming"],
-    "image": "https://m.media-amazon.com/images/I/A1MY25C-yiL._AC_SL1500_.jpg",
-    "title": "The Best Budget Gaming Laptop",
-    "updatedDate": "April 29, 2024",
-    "researchLink": "/research-link",
-    "authors": "Ayush",
-    "description": "Discover the best budget gaming laptops that offer a great gaming experience without breaking the bank. Our research and testing have identified the top affordable options for gamers.",
-    "whyTrustUs": {
-      "title": "Why You Should Trust Us",
-      "content": "At OurCompany, we provide reliable reviews based on rigorous testing and analysis. Here's why you can trust our recommendations:",
-      "points": [
-        "We invest significant time in researching and testing each product to ensure it meets our stringent standards.",
-        "Our team comprises industry experts who understand the needs of budget-conscious gamers.",
-        "Transparency is our priority; we provide comprehensive insights into each product's strengths and weaknesses.",
-        "Your satisfaction and trust are paramount to us, and we aim to recommend products that offer great value for your gaming needs."
-      ],
-      "conclusion": "Choosing our recommended budget gaming laptops means choosing quality, performance, and affordability for your gaming experience."
-    },
-    "researchProcess": {
-      "title": "Our Research Process",
-      "content": [
-        "We begin by identifying popular budget gaming laptop models and customer preferences. Our research includes analyzing customer reviews, consulting tech experts, and considering industry trends.",
-        "After narrowing down our choices, we acquire the laptops for hands-on testing. Each device undergoes thorough evaluation based on performance, graphics, display quality, and value.",
-        "Our team collaborates to evaluate and compare findings, ensuring a balanced assessment of each laptop's pros and cons.",
-        "Our top recommendations are budget gaming laptops that excel in quality, performance, and value, providing you with reliable options for your gaming needs."
-      ]
-    },
-    "comparisonSection": {
-      "title": "Who it’s for:",
-      "content": "Ideal for gamers on a budget, students, and anyone needing a cost-effective gaming laptop.",
-      "keyPoints": [
-        "Wide variety of models and configurations",
-        "Performance and graphics capabilities",
-        "Design and build quality",
-        "Display quality and refresh rates",
-        "Cooling systems and thermal performance",
-        "Warranty information and customer support details"
-      ]
-    },
-    "topPick": {
-      "rank": 1,
-      "image": "/BudgetGamingLaptop.png",
-      "title": "Acer Nitro 5",
-      "description": "A powerful and affordable gaming laptop perfect for budget-conscious gamers.",
-      "details": "The Acer Nitro 5 offers impressive performance with a high-refresh-rate display and solid build quality, making it ideal for gaming on a budget. Available in various configurations to suit different needs.",
-      "metrics": [
-        {
-          "name": "Customer Reviews and Ratings",
-          "rating": 4.8
-        },
-        {
-          "name": "Price and Value for Money",
-          "rating": 4.7
-        },
-        {
-          "name": "Performance and Durability",
-          "rating": 4.6
-        },
-        {
-          "name": "Brand Reputation and Trustworthiness",
-          "rating": 4.7
-        }
-      ],
-      "purchaseLinks": [
-        {
-          "store": "Acer",
-          "price": "$799",
-          "link": "https://acer.com"
-        },
-        {
-          "store": "Amazon",
-          "price": "$749",
-          "link": "https://amazon.com"
-        }
-      ],
-      "topPick": true
-    },
-    "competitionSection": {
-      "title": "The Competition",
-      "competitors": [
-        {
-          "rank": 2,
-          "image": "/BudgetGamingLaptop.png",
-          "title": "Dell G5 15",
-          "description": "A reliable and affordable gaming laptop with solid performance.",
-          "details": "The Dell G5 15 offers a good balance of performance and value, featuring a vibrant display and sturdy build. Perfect for budget-conscious gamers seeking reliability.",
-          "metrics": [
-            {
-              "name": "Customer Reviews and Ratings",
-              "rating": 4.7
-            },
-            {
-              "name": "Price and Value for Money",
-              "rating": 4.6
-            },
-            {
-              "name": "Performance and Durability",
-              "rating": 4.6
-            },
-            {
-              "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.7
-            }
-          ],
-          "purchaseLinks": [
-            {
-              "store": "Dell",
-              "price": "$849",
-              "link": "https://dell.com"
-            },
-            {
-              "store": "Amazon",
-              "price": "$799",
-              "link": "https://amazon.com"
+              "price": "₹87,990",
+              "link": "https://amzn.to/4cLdJDN"
             }
           ]
         },
         {
-          "rank": 3,
-          "image": "/BudgetGamingLaptop.png",
-          "title": "HP Omen 15",
-          "description": "A cost-effective gaming laptop with impressive features.",
-          "details": "The HP Omen 15 combines good performance with a sleek design and high-refresh-rate display, making it ideal for gamers on a budget.",
+          "rank": 4,
+          "image": "https://m.media-amazon.com/images/I/71tS4CdaQ8L._SX679_.jpg",
+          "title": "HP Omen (2024 Model)",
+          "description": "A feature-packed gaming laptop with robust hardware.",
+          "details": "HP Omen series laptops are often feature-packed for gaming. Check for models with AMD Ryzen or Intel Core processors and dedicated NVIDIA GTX or RTX graphics.",
           "metrics": [
             {
               "name": "Customer Reviews and Ratings",
@@ -1719,7 +1565,7 @@
             },
             {
               "name": "Price and Value for Money",
-              "rating": 4.5
+              "rating": 4.4
             },
             {
               "name": "Performance and Durability",
@@ -1732,14 +1578,9 @@
           ],
           "purchaseLinks": [
             {
-              "store": "HP",
-              "price": "$899",
-              "link": "https://hp.com"
-            },
-            {
-              "store": "Best Buy",
-              "price": "$849",
-              "link": "https://bestbuy.com"
+              "store": "Amazon",
+              "price": "₹99,490",
+              "link": "https://amzn.to/3LcuSKx"
             }
           ]
         }
