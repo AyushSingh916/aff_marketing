@@ -799,7 +799,7 @@
   },
   {
     "slug": ["electronic-appliances", "refrigerator", "high-end"],
-    "image": "",
+    "image": "https://m.media-amazon.com/images/I/61KTSu7mEbL._SX679_.jpg",
     "title": "Best High-End Refrigerators",
     "updatedDate": "June 27, 2024",
     "researchLink": "",
@@ -832,9 +832,9 @@
     },
     "topPick": {
       "rank": 1,
-      "image": "",
-      "title": "Samsung Family Hub 27.9 Cu. Ft. 4-Door French Door Refrigerator",
-      "description": "Advanced Technology: Family Hub feature allows you to manage your groceries and connect with family. FlexZone Drawer: Adjustable settings for different types of food. Triple Cooling System: Maintains optimal temperature and humidity levels.",
+      "image": "https://m.media-amazon.com/images/I/61KTSu7mEbL._SX679_.jpg",
+      "title": "LG 655 L",
+      "description": "Capacity 655 L: Suitable for Suitable for families with 5 or more members I freezer capacity: 239 L, fresh food capacity: 416 L",
       "details": "Capacity: 27.9 Cu. Ft. Special Features: Family Hub, FlexZone Drawer, Triple Cooling System Our Take: The Samsung Family Hub refrigerator offers advanced technology and features, making it perfect for modern homes. Dimensions: 70 x 35.75 x 31.25 inches In The Box: Refrigerator, User Manual, Warranty Card Build: Stainless Steel",
       "metrics": [
         {
@@ -856,111 +856,84 @@
       ],
       "purchaseLinks": [
         {
-          "store": "Best Buy",
-          "price": "$3,599",
-          "link": "https://www.bestbuy.com/site/samsung-family-hub-27-9-cu-ft-4-door-french-door-refrigerator-stainless-steel/6401741.p"
-        },
-        {
-          "store": "Home Depot",
-          "price": "$3,499",
-          "link": "https://www.homedepot.com/p/Samsung-27-9-cu-ft-Family-Hub-French-Door-Refrigerator-in-Stainless-Steel-RF28R7551SR/308545785"
+          "store": "Amazon",
+          "price": "₹74,990",
+          "link": "https://amzn.to/4cN1Z3C"
         }
       ],
       "topPick": true
     },
-    "competitionSection": {
-      "title": "The Competition",
-      "competitors": [
-        {
-          "rank": 2,
-          "image": "",
-          "title": "LG Signature 31 Cu. Ft. Smart Wi-Fi Enabled French Door Refrigerator",
-          "description": "InstaView Door-in-Door: Easy access to your favorite items. SmartThinQ Technology: Allows remote control via smartphone. CustomChill Drawer: Adjustable settings for different storage needs.",
-          "details": "Capacity: 31 Cu. Ft. Special Features: InstaView Door-in-Door, SmartThinQ Technology, CustomChill Drawer Our Take: The LG Signature refrigerator combines advanced features and smart technology for a high-end experience. Dimensions: 70.25 x 36 x 36.25 inches In The Box: Refrigerator, User Manual, Warranty Card Build: Stainless Steel",
-          "metrics": [
-            {
-              "name": "Customer Reviews and Ratings",
-              "rating": 4.7
-            },
-            {
-              "name": "Price and Value for Money",
-              "rating": 4.5
-            },
-            {
-              "name": "Product Build Quality",
-              "rating": 4.8
-            },
-            {
-              "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.6
-            }
-          ],
-          "purchaseLinks": [
-            {
-              "store": "Best Buy",
-              "price": "$3,999",
-              "link": "https://www.bestbuy.com/site/lg-signature-31-cu-ft-smart-wi-fi-enabled-french-door-refrigerator-stainless-steel/6412759.p"
-            },
-            {
-              "store": "Home Depot",
-              "price": "$3,899",
-              "link": "https://www.homedepot.com/p/LG-Signature-31-cu-ft-Smart-French-Door-Refrigerator-with-InstaView-Door-in-Door-in-Stainless-Steel-LUPXS3186N/300291775"
-            }
-          ],
-          "topPick": false
-        },
-        {
-          "rank": 3,
-          "image": "",
-          "title": "Bosch 800 Series 21 Cu. Ft. Counter-Depth French Door Refrigerator",
-          "description": "Home Connect: Smart technology for remote control. VitaFreshPro: Maintains optimal temperature and humidity for fresh food. FlexBar: Flexible storage options for various items.",
-          "details": "Capacity: 21 Cu. Ft. Special Features: Home Connect, VitaFreshPro, FlexBar Our Take: The Bosch 800 Series refrigerator offers premium features and smart technology in a sleek design. Dimensions: 69.5 x 35.625 x 24 inches In The Box: Refrigerator, User Manual, Warranty Card Build: Stainless Steel",
-          "metrics": [
-            {
-              "name": "Customer Reviews and Ratings",
-              "rating": 4.6
-            },
-            {
-              "name": "Price and Value for Money",
-              "rating": 4.4
-            },
-            {
-              "name": "Product Build Quality",
-              "rating": 4.7
-            },
-            {
-              "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.5
-            }
-          ],
-          "purchaseLinks": [
-            {
-              "store": "Best Buy",
-              "price": "$2,999",
-              "link": "https://www.bestbuy.com/site/bosch-800-series-21-cu-ft-counter-depth-french-door-refrigerator-stainless-steel/6295902.p"
-            },
-            {
-              "store": "Home Depot",
-              "price": "$2,899",
-              "link": "https://www.homedepot.com/p/Bosch-800-Series-21-cu-ft-French-Door-Refrigerator-in-Stainless-Steel-with-Inside-Water-Dispenser-Counter-Depth-B36CL80SNS/309280541"
-            }
-          ],
-          "topPick": false
-        }
-      ]
+    
+      "competitionSection": {
+        "title": "The Competition",
+        "competitors": [
+          {
+            "rank": 2,
+            "image": "https://m.media-amazon.com/images/I/61CuSuIui1L._SX569_.jpg",
+            "title": "Haier 602L, 3-Star, WiFi Enabled, 100% Convertible Fridge Space, Expert Inverter 2-Door Side by Side Refrigerator",
+            "description": "Capacity 602 Litres: Suitable for families with 5 or more members | Freezer capacity: 204 Ltr , Fresh food capacity: 398 Ltr",
+            "details": "WiFi Enabled Side By Side Frost-Free Refrigerators: With 100% Convertible fridge space and regulate temperature settings ranging from -24°C to 5°C.\nCapacity 602 Litres: Suitable for families with 5 or more members | Freezer capacity: 204 Ltr , Fresh food capacity: 398 Ltr\nEnergy Rating: 3 Star Energy Efficiency\nManufacturer Warranty: The product comes with a 1 year comprehensive warranty and a 10 years warranty on the inverter compressor\nExpert Inverter technology provides greater energy efficiency, less noise and long-lasting performance while consuming less power, backed up by 10 years warranty\nInterior Description: Fresh Food Capacity: 398 Ltr | Freezer Capacity: 204 Ltr | Total no. of compartments: 4 | Drawers: 4 | Shelves: 5 | Shelf Type: Toughened Glass Shelves | Anti Bacterial Gasket\nSpecial Features: Wifi Enabled Smart Connectivity | 100% Convertible Fridge Space | Magic Convertible Zone| Expert Inverter Technology | Magic Cooling with Deo Fresh Technology | Jumbo Ice Maker| External Digital Display for temperature settings\nAdditional Features: Stabilizer Free Operation (110v - 300v) | Recess Handle | Easy Clean Back | Veg & Fruit Box | 2 Sets of Freezer Box | Big Bottle Guard | LED Light | Auto Connect to Home Inverter\nItem Dimensions: (WxHxD)(mm): 905x1775x697 mm | Net Weight 103 kg\nIncluded in the box: 1 Refrigerator Unit, Egg Tray, Ice Tray, User Manual, Warranty Card",
+            "metrics": [
+              {
+                "name": "Customer Reviews and Ratings",
+                "rating": 4.5
+              },
+              {
+                "name": "Price and Value for Money",
+                "rating": 4.4
+              },
+              {
+                "name": "Performance and Durability",
+                "rating": 4.3
+              },
+              {
+                "name": "Brand Reputation and Trustworthiness",
+                "rating": 4.4
+              }
+            ],
+            "purchaseLinks": [
+              {
+                "store": "Amazon",
+                "price": "₹74990 / $898",
+                "link": "https://amzn.to/3VSw9eG"
+              }
+            ]
+          },
+          {
+            "rank": 3,
+            "image": "https://m.media-amazon.com/images/I/31+QfdC9FKL._SY445_SX342_.jpg",
+            "title": "Samsung 550 L, Convertible, Digital Inverter, Frost Free French Door Refrigerator",
+            "description": "Capacity 550 liters: Suitable for families with 5 or more members Twin Cooling Plus: Ensures food stays fresh and moist longer",
+            "details": "French Door Frost free Refrigerators: Premium with auto-defrost function and bottom freezer easy access to food and drinks\nCapacity 550 liters: Suitable for families with 5 or more members\nTwin Cooling Plus: Ensures food stays fresh and moist longer. Prevents odor from mixing between compartments\nManufacturer Warranty: The product comes with a 1 year comprehensive warranty and a 20 years warranty on the digital inverter compressor\nDigital Inverter Compressor provides greater energy efficiency, less noise and long-lasting performance while consuming 50% less power, backed up by 20 year warranty\nInterior Description: Fresh Food Capacity: 381 Ltr | Freezer Capacity: 199 Ltr | Total no. of compartments: 3 | Drawers: 2 | Shelves: 3 | Vegetable Drawers: 2 | Shelf Type: Toughened Glass Shelves | Anti Bacterial Gasket\nSpecial Features: Convertible | Power Freeze | Power Cool | Fingerprint Resistant\nAdditional Features: Stabilizer Free Operation (100v - 300v) | Up to 15 Days of Fresh Food | Recess Handle | Door Alarm | Easy Clean Back | Veg Box | Big Bottle Guard (Deep Door Guard) | LED Light\nItem Dimensions: (WxHxD)(mm): 81.7x177.6x76.5 cm | Net Weight 97.5 kg\nIncluded in the box: 1 Refrigerator unit, User Manual, Warranty Card, Movable Ice Maker",
+            "metrics": [
+              {
+                "name": "Customer Reviews and Ratings",
+                "rating": 4.0
+              },
+              {
+                "name": "Price and Value for Money",
+                "rating": 4.2
+              },
+              {
+                "name": "Performance and Durability",
+                "rating": 4.3
+              },
+              {
+                "name": "Brand Reputation and Trustworthiness",
+                "rating": 4.5
+              }
+            ],
+            "purchaseLinks": [
+              {
+                "store": "Amazon",
+                "price": "₹71490 / $856",
+                "link": "https://amzn.to/3xF6LkP"
+              }
+            ]
+          }
+        ]
+      }
     },
-    "careSection": {
-      "title": "How to Care for Your Refrigerator",
-      "content": [
-        "Proper care of your refrigerator ensures longevity and optimal performance. Here are some tips to keep your refrigerator in great shape:",
-        "1. **Clean Regularly**: Clean the interior and exterior of your refrigerator regularly to prevent odors and mold growth.",
-        "2. **Check Temperature Settings**: Ensure your refrigerator is set to the correct temperature for efficient cooling.",
-        "3. **Avoid Overloading**: Do not overload the refrigerator, as it can hinder airflow and cooling performance.",
-        "4. **Keep Vents Clear**: Ensure that the vents inside the refrigerator are not blocked for proper air circulation.",
-        "5. **Inspect Seals**: Regularly check the door seals to ensure they are intact and providing a proper seal to keep the cold air in."
-      ]
-    }
-  },
   {
     "slug": ["electronic-appliances", "washing-machines", "top-load"],
     "image": "",
@@ -2252,7 +2225,7 @@
   },
   {
     "slug": ["electronic-appliances", "air-quality", "air-purifiers"],
-    "image": "",
+    "image": "https://m.media-amazon.com/images/I/61fa2R3PsWL._SX679_.jpg",
     "title": "Best Air Purifiers",
     "updatedDate": "",
     "researchLink": "",
@@ -2293,7 +2266,7 @@
     },
     "topPick": {
       "rank": 1,
-      "image": "/DysonAirPurifier.png",
+      "image": "https://m.media-amazon.com/images/I/51XKx8Qhw7L._SX679_.jpg",
       "title": "Dyson Pure Cool Air Purifier",
       "description": "An advanced air purifier and fan that captures pollutants and circulates purified air throughout the room.",
       "details": "The Dyson Pure Cool Air Purifier features HEPA and activated carbon filters, Air Multiplier technology, and intelligent purification. Perfect for removing allergens and pollutants while providing cooling.",
@@ -2317,14 +2290,9 @@
       ],
       "purchaseLinks": [
         {
-          "store": "Dyson",
-          "price": "$549",
-          "link": "https://www.dyson.com"
-        },
-        {
-          "store": "Best Buy",
-          "price": "$529",
-          "link": "https://www.bestbuy.com"
+          "store": "Amazon",
+          "price": "₹33,799",
+          "link": "https://amzn.to/4cLrDFN"
         }
       ],
       "topPick": true
@@ -2334,10 +2302,9 @@
       "competitors": [
         {
           "rank": 2,
-          "image": "/HoneywellAirPurifier.png",
-          "title": "Honeywell True HEPA Air Purifier",
-          "description": "A reliable air purifier with HEPA filtration and allergen remover that circulates cleaner air throughout the room.",
-          "details": "The Honeywell True HEPA Air Purifier features a 360-degree air intake, HEPA filtration, and activated carbon pre-filter. Ideal for capturing dust, allergens, and pet dander.",
+          "image": "https://m.media-amazon.com/images/I/51oQCJUGOeL._SX679_.jpg",
+          "title": "Philips AC1711 Smart Air Purifier",
+          "description": "Philips AC1711 Smart Air Purifier for Home| Real Time AQI Display | Covers upto 350 sqft|Removes 99.97% of Viruses,Allergens,Dust and PM2.5 |HEPA Filter|Filter Life Upto 15000 Hrs | Ideal for Bedrooms",
           "metrics": [
             {
               "name": "Customer Reviews and Ratings",
@@ -2359,21 +2326,16 @@
           "purchaseLinks": [
             {
               "store": "Amazon",
-              "price": "$199",
-              "link": "https://www.amazon.com/Honeywell-True-Allergen-Remover-HPA300/dp/B00BWYO53G/"
-            },
-            {
-              "store": "Walmart",
-              "price": "$189",
-              "link": "https://www.walmart.com/ip/Honeywell-True-HEPA-Allergen-Remover-High-Capacity-Black-Air-Purifier-HPA300/39276504"
+              "price": "₹12,199",
+              "link": "https://amzn.to/45OzBvG"
             }
           ]
         },
         {
           "rank": 3,
-          "image": "/LevoitAirPurifier.png",
-          "title": "Levoit Core 300 Air Purifier",
-          "description": "An affordable air purifier with a HEPA filter that captures 99.97% of particles as small as 0.3 microns.",
+          "image": "https://m.media-amazon.com/images/I/71do9CVwcVL._SX679_.jpg",
+          "title": "MI Xiaomi Smart Air Purifier",
+          "description": "MI Xiaomi Smart Air Purifier 4 Lite, High Efficiency Filter, Removes 99.97% Airpollutants, Bacteria & Viruses & Odor, Large Coverage Area Up To 462 Sq. Ft, App, Wi-Fi & Voice Control-Alexa/Ga",
           "details": "The Levoit Core 300 Air Purifier features a VortexAir technology, QuietKEAP technology, and optional night light. Perfect for bedrooms and small to medium-sized rooms.",
           "metrics": [
             {
@@ -2395,14 +2357,9 @@
           ],
           "purchaseLinks": [
             {
-              "store": "Levoit",
-              "price": "$99",
-              "link": "https://www.levoit.com"
-            },
-            {
-              "store": "Target",
-              "price": "$89",
-              "link": "https://www.target.com/p/levoit-core-300-true-hepa-air-purifier/-/A-79573516"
+              "store": "Amazon",
+              "price": "₹9,999",
+              "link": "https://amzn.to/3VT3ian"
             }
           ]
         }
