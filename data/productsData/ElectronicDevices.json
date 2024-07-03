@@ -1,7 +1,7 @@
 [
   {
     "slug": ["electronic-devices", "phone", "android"],
-    "image": "https://m.media-amazon.com/images/I/A1MY25C-yiL._AC_SL1500_.jpg",
+    "image": "https://m.media-amazon.com/images/I/41VFvti1aEL._SX300_SY300_QL70_FMwebp_.jpg",
     "title": "The Best Android Phones",
     "updatedDate": "April 29, 2024",
     "researchLink": "/research-link",
@@ -41,8 +41,8 @@
     },
     "topPick": {
       "rank": 1,
-      "image": "/SamsungGalaxyS23Ultra.png",
-      "title": "Samsung Galaxy S23 Ultra",
+      "image": "https://m.media-amazon.com/images/I/41VFvti1aEL._SX300_SY300_QL70_FMwebp_.jpg",
+      "title": "REALME GT 6T 5G",
       "description": "The ultimate Android phone with top-notch performance and features.",
       "details": "The Samsung Galaxy S23 Ultra features the Snapdragon 8 Gen 2 chip, a stunning 6.8-inch Dynamic AMOLED display, and a versatile quad-camera system. Perfect for power users and photography enthusiasts.",
       "metrics": [
@@ -65,14 +65,9 @@
       ],
       "purchaseLinks": [
         {
-          "store": "Samsung",
-          "price": "$1199",
-          "link": "https://samsung.com"
-        },
-        {
-          "store": "Best Buy",
-          "price": "$1179",
-          "link": "https://bestbuy.com"
+          "store": "Amazon",
+          "price": "₹32,999",
+          "link": "https://amzn.to/3VKRbvN"
         }
       ],
       "topPick": true
@@ -82,9 +77,9 @@
       "competitors": [
         {
           "rank": 2,
-          "image": "/GooglePixel7Pro.png",
-          "title": "Google Pixel 7 Pro",
-          "description": "A powerful and sleek Android phone with excellent camera capabilities.",
+          "image": "https://m.media-amazon.com/images/I/718jcIFYaAL._SX679_.jpg",
+          "title": "IQOO NEO9 Pro 5G",
+          "description": "iQOO Neo9 Pro 5G (Fiery Red, 8GB RAM, 256GB Storage) | Snapdragon 8 Gen 2 processor | Supercomputing Chip Q1 | Flagship level Sony IMX920 camera",
           "details": "The Google Pixel 7 Pro features the Google Tensor G3 chip, a 6.7-inch OLED display, and an advanced triple-camera system. Perfect for those who prioritize camera quality and software updates.",
           "metrics": [
             {
@@ -106,21 +101,16 @@
           ],
           "purchaseLinks": [
             {
-              "store": "Google",
-              "price": "$899",
-              "link": "https://store.google.com"
-            },
-            {
               "store": "Amazon",
-              "price": "$879",
-              "link": "https://amazon.com"
+              "price": "₹36,999",
+              "link": "https://amzn.to/4cI5E2B"
             }
           ]
         },
         {
           "rank": 3,
-          "image": "/OnePlus10Pro.png",
-          "title": "OnePlus 10 Pro",
+          "image": "https://m.media-amazon.com/images/I/4172-I2V+AL._SY741_.jpg",
+          "title": "Nothing phone (2a)5G",
           "description": "A high-performance Android phone with a sleek design.",
           "details": "The OnePlus 10 Pro features the Snapdragon 8 Gen 1 chip, a 6.7-inch Fluid AMOLED display, and a versatile triple-camera system. Ideal for users who want flagship performance at a slightly lower price.",
           "metrics": [
@@ -143,172 +133,9 @@
           ],
           "purchaseLinks": [
             {
-              "store": "OnePlus",
-              "price": "$799",
-              "link": "https://oneplus.com"
-            },
-            {
               "store": "Amazon",
               "price": "$779",
-              "link": "https://amazon.com"
-            }
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "slug": ["electronic-devices", "phone", "budget-android"],
-    "image": "https://m.media-amazon.com/images/I/71V--WZVUIL._AC_SL1500_.jpg",
-    "title": "The Best Budget Android Phones",
-    "updatedDate": "April 29, 2024",
-    "researchLink": "/research-link-budget-android",
-    "authors": "Ayush",
-    "description": "Discover the best budget Android phones that offer excellent performance without breaking the bank.",
-    "whyTrustUs": {
-      "title": "Why You Should Trust Us",
-      "content": "At OurCompany, we provide reliable reviews based on rigorous testing and analysis. Here's why you can trust our recommendations:",
-      "points": [
-        "We invest significant time in researching and testing each product to ensure it meets our stringent standards.",
-        "Our team comprises industry experts who understand the nuances of Android technology.",
-        "Transparency is our priority; we provide comprehensive insights into each product's strengths and weaknesses.",
-        "Your satisfaction and trust are paramount to us, and we aim to recommend products that enhance your smartphone experience."
-      ],
-      "conclusion": "Choosing our recommended budget Android phones means choosing quality, innovation, and value."
-    },
-    "researchProcess": {
-      "title": "Our Research Process",
-      "content": [
-        "We begin by identifying popular budget Android phone models and user preferences. Our research includes analyzing customer reviews, consulting tech experts, and considering industry trends.",
-        "After narrowing down our choices, we acquire the devices for hands-on testing. Each phone undergoes thorough evaluation based on performance, design, battery life, and value.",
-        "Our team collaborates to evaluate and compare findings, ensuring a balanced assessment of each device's pros and cons.",
-        "Our top recommendations are budget Android phones that excel in quality, functionality, and value, providing reliable options for your smartphone needs."
-      ]
-    },
-    "comparisonSection": {
-      "title": "Who it’s for:",
-      "content": "Ideal for anyone looking for a high-quality Android phone that offers top performance, cutting-edge features, and great value at an affordable price.",
-      "keyPoints": [
-        "Performance and speed",
-        "Display quality and size options",
-        "Battery life and charging options",
-        "Camera quality and features",
-        "Operating system and updates",
-        "Warranty information and customer support details"
-      ]
-    },
-    "topPick": {
-      "rank": 1,
-      "image": "/MotoGPower.png",
-      "title": "Moto G Power",
-      "description": "The best budget Android phone with a large battery and solid performance.",
-      "details": "The Moto G Power features a Snapdragon 662 chip, a 6.6-inch IPS LCD display, and a long-lasting 5000mAh battery. Perfect for users who need a reliable phone with excellent battery life.",
-      "metrics": [
-        {
-          "name": "Customer Reviews and Ratings",
-          "rating": 4.5
-        },
-        {
-          "name": "Price and Value for Money",
-          "rating": 4.7
-        },
-        {
-          "name": "Performance and Durability",
-          "rating": 4.4
-        },
-        {
-          "name": "Brand Reputation and Trustworthiness",
-          "rating": 4.5
-        }
-      ],
-      "purchaseLinks": [
-        {
-          "store": "Motorola",
-          "price": "$199",
-          "link": "https://motorola.com"
-        },
-        {
-          "store": "Amazon",
-          "price": "$189",
-          "link": "https://amazon.com"
-        }
-      ],
-      "topPick": true
-    },
-    "competitionSection": {
-      "title": "The Competition",
-      "competitors": [
-        {
-          "rank": 2,
-          "image": "/SamsungGalaxyA32.png",
-          "title": "Samsung Galaxy A32",
-          "description": "A budget-friendly Android phone with a great display and solid performance.",
-          "details": "The Samsung Galaxy A32 features the MediaTek Helio G80 chip, a 6.4-inch Super AMOLED display, and a quad-camera system. Ideal for users who want a quality display and good performance on a budget.",
-          "metrics": [
-            {
-              "name": "Customer Reviews and Ratings",
-              "rating": 4.4
-            },
-            {
-              "name": "Price and Value for Money",
-              "rating": 4.6
-            },
-            {
-              "name": "Performance and Durability",
-              "rating": 4.3
-            },
-            {
-              "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.5
-            }
-          ],
-          "purchaseLinks": [
-            {
-              "store": "Samsung",
-              "price": "$249",
-              "link": "https://samsung.com"
-            },
-            {
-              "store": "Best Buy",
-              "price": "$229",
-              "link": "https://bestbuy.com"
-            }
-          ]
-        },
-        {
-          "rank": 3,
-          "image": "/NokiaG50.png",
-          "title": "Nokia G50",
-          "description": "An affordable Android phone with a durable build and good battery life.",
-          "details": "The Nokia G50 features the Snapdragon 480 chip, a 6.82-inch IPS LCD display, and a 5000mAh battery. Ideal for users who need a robust phone with long battery life.",
-          "metrics": [
-            {
-              "name": "Customer Reviews and Ratings",
-              "rating": 4.3
-            },
-            {
-              "name": "Price and Value for Money",
-              "rating": 4.5
-            },
-            {
-              "name": "Performance and Durability",
-              "rating": 4.2
-            },
-            {
-              "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.4
-            }
-          ],
-          "purchaseLinks": [
-            {
-              "store": "Nokia",
-              "price": "$199",
-              "link": "https://nokia.com"
-            },
-            {
-              "store": "Amazon",
-              "price": "$179",
-              "link": "https://amazon.com"
+              "link": "https://amzn.to/4bpdzkf"
             }
           ]
         }
@@ -393,8 +220,8 @@
       "competitors": [
         {
           "rank": 2,
-          "image": "/iPhone13Pro.png",
-          "title": "iPhone 13 Pro",
+          "image": "https://m.media-amazon.com/images/I/61cwywLZR-L._SX679_.jpg",
+          "title": "Apple iPhone 14 (128 GB) - Midnight",
           "description": "A powerful and sleek iPhone with excellent camera capabilities.",
           "details": "The iPhone 13 Pro features the A15 Bionic chip, a 6.1-inch Super Retina XDR display, and an advanced triple-camera system. Perfect for those who prioritize camera quality and performance.",
           "metrics": [
@@ -417,21 +244,16 @@
           ],
           "purchaseLinks": [
             {
-              "store": "Apple",
-              "price": "$999",
-              "link": "https://apple.com"
-            },
-            {
               "store": "Amazon",
-              "price": "$979",
-              "link": "https://amazon.com"
+              "price": "₹62,800",
+              "link": "https://amzn.to/3W68ety"
             }
           ]
         },
         {
           "rank": 3,
-          "image": "/iPhone12.png",
-          "title": "iPhone 12",
+          "image": "https://m.media-amazon.com/images/I/71657TiFeHL._SX679_.jpg",
+          "title": "iPhone 15",
           "description": "A high-performance iPhone with a sleek design.",
           "details": "The iPhone 12 features the A14 Bionic chip, a 6.1-inch Super Retina XDR display, and a dual-camera system. Ideal for users who want flagship performance at a slightly lower price.",
           "metrics": [
@@ -454,191 +276,14 @@
           ],
           "purchaseLinks": [
             {
-              "store": "Apple",
-              "price": "$799",
-              "link": "https://apple.com"
-            },
-            {
               "store": "Amazon",
-              "price": "$779",
-              "link": "https://amazon.com"
+              "price": "₹71,900",
+              "link": "https://amzn.to/3RO74AB"
             }
           ]
         }
       ]
     }
-  },
-  {
-    "slug": ["electronic-devices", "phone", "budget-iphone"],
-    "image": "https://m.media-amazon.com/images/I/71ZOtNdaZCL._AC_SL1500_.jpg",
-    "title": "The Best Budget iPhones",
-    "updatedDate": "April 29, 2024",
-    "researchLink": "/research-link-budget-iphone",
-    "authors": "Ayush",
-    "description": "Find the best budget iPhones that offer great performance and features at an affordable price.",
-    "whyTrustUs": {
-      "title": "Why You Should Trust Us",
-      "content": "At OurCompany, we provide reliable reviews based on rigorous testing and analysis. Here's why you can trust our recommendations:",
-      "points": [
-        "We invest significant time in researching and testing each product to ensure it meets our stringent standards.",
-        "Our team comprises industry experts who understand the nuances of Apple technology.",
-        "Transparency is our priority; we provide comprehensive insights into each product's strengths and weaknesses.",
-        "Your satisfaction and trust are paramount to us, and we aim to recommend products that enhance your smartphone experience."
-      ],
-      "conclusion": "Choosing our recommended budget iPhones means choosing quality, innovation, and value."
-    },
-    "researchProcess": {
-      "title": "Our Research Process",
-      "content": [
-        "We begin by identifying popular budget iPhone models and user preferences. Our research includes analyzing customer reviews, consulting tech experts, and considering industry trends.",
-        "After narrowing down our choices, we acquire the devices for hands-on testing. Each phone undergoes thorough evaluation based on performance, design, battery life, and value.",
-        "Our team collaborates to evaluate and compare findings, ensuring a balanced assessment of each device's pros and cons.",
-        "Our top recommendations are budget iPhones that excel in quality, functionality, and value, providing reliable options for your smartphone needs."
-      ]
-    },
-    "comparisonSection": {
-      "title": "Who it’s for:",
-      "content": "Ideal for anyone looking for a high-quality iPhone that offers top performance, cutting-edge features, and great value at an affordable price.",
-      "keyPoints": [
-        "Performance and speed",
-        "Display quality and size options",
-        "Battery life and charging options",
-        "Camera quality and features",
-        "Operating system and updates",
-        "Warranty information and customer support details"
-      ]
-    },
-    "topPick": {
-      "rank": 1,
-      "image": "/iPhoneSE2024.png",
-      "title": "iPhone SE (2024)",
-      "description": "The best budget iPhone with a powerful chip and compact design.",
-      "details": "The iPhone SE (2024) features the A15 Bionic chip, a 4.7-inch Retina HD display, and a 12MP single-camera system. Perfect for users who want a compact phone with excellent performance.",
-      "metrics": [
-        {
-          "name": "Customer Reviews and Ratings",
-          "rating": 4.6
-        },
-        {
-          "name": "Price and Value for Money",
-          "rating": 4.7
-        },
-        {
-          "name": "Performance and Durability",
-          "rating": 4.5
-        },
-        {
-          "name": "Brand Reputation and Trustworthiness",
-          "rating": 4.8
-        }
-      ],
-      "purchaseLinks": [
-        {
-          "store": "Apple",
-          "price": "$429",
-          "link": "https://apple.com"
-        },
-        {
-          "store": "Best Buy",
-          "price": "$409",
-          "link": "https://bestbuy.com"
-        }
-      ],
-      "topPick": true
-    },
-    "competitionSection": {
-      "title": "The Competition",
-      "competitors": [
-        {
-          "rank": 2,
-          "image": "/iPhone11.png",
-          "title": "iPhone 11",
-          "description": "A budget-friendly iPhone with a great display and solid performance.",
-          "details": "The iPhone 11 features the A13 Bionic chip, a 6.1-inch Liquid Retina HD display, and a dual-camera system. Ideal for users who want a larger display and good performance at a budget price.",
-          "metrics": [
-            {
-              "name": "Customer Reviews and Ratings",
-              "rating": 4.5
-            },
-            {
-              "name": "Price and Value for Money",
-              "rating": 4.6
-            },
-            {
-              "name": "Performance and Durability",
-              "rating": 4.4
-            },
-            {
-              "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.7
-            }
-          ],
-          "purchaseLinks": [
-            {
-              "store": "Apple",
-              "price": "$499",
-              "link": "https://apple.com"
-            },
-            {
-              "store": "Amazon",
-              "price": "$479",
-              "link": "https://amazon.com"
-            }
-          ]
-        },
-        {
-          "rank": 3,
-          "image": "/iPhoneXR.png",
-          "title": "iPhone XR",
-          "description": "An affordable iPhone with a durable build and good battery life.",
-          "details": "The iPhone XR features the A12 Bionic chip, a 6.1-inch Liquid Retina HD display, and a single-camera system. Ideal for users who need a robust phone with good performance.",
-          "metrics": [
-            {
-              "name": "Customer Reviews and Ratings",
-              "rating": 4.4
-            },
-            {
-              "name": "Price and Value for Money",
-              "rating": 4.5
-            },
-            {
-              "name": "Performance and Durability",
-              "rating": 4.3
-            },
-            {
-              "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.6
-            }
-          ],
-          "purchaseLinks": [
-            {
-              "store": "Apple",
-              "price": "$399",
-              "link": "https://apple.com"
-            },
-            {
-              "store": "Amazon",
-              "price": "$379",
-              "link": "https://amazon.com"
-            }
-          ]
-        }
-      ]
-    },
-    "relatedLinks": [
-      {
-        "text": "Budget Android Phone",
-        "href": "/electronic-devices/phone/budget-android"
-      },
-      {
-        "text": "Android Phones",
-        "href": "/electronic-devices/phone/android"
-      },
-      {
-        "text": "iPhone",
-        "href": "/electronic-devices/phone/iphone"
-      }
-    ]
   },
   {
     "slug": ["electronic-devices", "audio-equipment", "earphone"],
@@ -789,8 +434,8 @@
   },
   {
     "slug": ["electronic-devices", "audio-equipment", "headphone"],
-    "image": "",
-    "title": "Best Headphones Under 2000rs",
+    "image": "https://m.media-amazon.com/images/I/61vJtKbAssL._SX466_.jpg",
+    "title": "Best Headphones",
     "updatedDate": "June 27, 2024",
     "researchLink": "",
     "authors": "Ashutosh",
@@ -822,9 +467,9 @@
     },
     "topPick": {
       "rank": 1,
-      "image": "",
-      "title": "Sony WH-CH510",
-      "description": "Wireless Freedom: The Sony WH-CH510 offers wireless connectivity with Bluetooth, providing freedom from tangled cables. All-Day Battery Life: With up to 35 hours of battery life, these headphones are perfect for long listening sessions. Compact and Lightweight: The lightweight design and swivel ear cups make these headphones easy to carry and comfortable to wear. Clear Sound Quality: Enjoy clear and crisp sound with 30mm drivers that deliver a balanced audio experience.",
+      "image": "https://m.media-amazon.com/images/I/61vJtKbAssL._SX466_.jpg",
+      "title": "Sony WH-1000XM5 Wireless",
+      "description": "Sony WH-1000XM5 Wireless The Best Active Noise Cancelling Headphones, 8 Mics for Clear Calling, Battery- 40Hrs(w/o NC), 30Hrs(with NC), 3Min Quick Charge=3Hrs Playback, Multi Point Connectivity -Black",
       "details": "Sound Signature: Balanced: A mix of highs, mids, and lows for all-around listening. Driver Configuration: 30mm Dynamic Drivers Noise Control: Passive Noise Isolation Our Take: The Sony WH-CH510 stands out with its impressive battery life and balanced sound quality, making it an excellent choice for everyday use. Connectivity: Bluetooth 5.0 Frequency Response: 20-20,000 Hz In The Box: Sony WH-CH510 Headphones, USB-C Charging Cable IMPEDANCE: 32 Ohms Build: Plastic",
       "metrics": [
         {
@@ -847,13 +492,8 @@
       "purchaseLinks": [
         {
           "store": "Amazon",
-          "price": "2,499",
-          "link": "https://www.amazon.in/Sony-WH-CH510-Wireless-Headphones/dp/B07WZWGV6S/"
-        },
-        {
-          "store": "Flipkart",
-          "price": "2,299",
-          "link": "https://www.flipkart.com/sony-wh-ch510-bluetooth-headset/p/itm60f8d4b4b3d2d"
+          "price": "₹31,990",
+          "link": "https://amzn.to/3L8F32L/"
         }
       ],
       "topPick": true
@@ -863,9 +503,9 @@
       "competitors": [
         {
           "rank": 2,
-          "image": "",
+          "image": "https://m.media-amazon.com/images/I/61rgsnfRJlL._SX466_.jpg",
           "title": "JBL Tune 500",
-          "description": "Pure Bass Sound: The JBL Tune 500 delivers JBL's signature Pure Bass sound for an immersive audio experience. Lightweight and Comfortable: The lightweight design and padded ear cups ensure comfort for long listening sessions. One-Button Remote/Mic: The built-in microphone and remote allow for hands-free calls and easy music control. Foldable Design: The foldable design makes it easy to carry and store these headphones.",
+          "description": "Bose Noise Cancelling 700 Bluetooth Wireless Over Ear Headphones with Mic for Clear Calls & Alexa Enabled and Touch Control, (Black).",
           "details": "Drivers: 32mm Dynamic Drivers Frequency Response: 20-20,000 Hz Impedance: 32 Ohms Cable Length: 1.2m Connector Type: 3.5mm Our Take: The JBL Tune 500 offers a rich bass sound and comfortable fit, making it a great choice for bass lovers. In The Box: JBL Tune 500 Headphones, Warranty Card Build: Plastic",
           "metrics": [
             {
@@ -888,23 +528,17 @@
           "purchaseLinks": [
             {
               "store": "Amazon",
-              "price": "1,999",
-              "link": "https://www.amazon.in/JBL-Tune-500-Pure-Bass-Headphones/dp/B07N2ZHFY9/"
-            },
-            {
-              "store": "Flipkart",
-              "price": "1,849",
-              "link": "https://www.flipkart.com/jbl-tune-500-wired-headset/p/itm50515f8deffb5"
+              "price": "₹24,900",
+              "link": "https://amzn.to/3ztBkKM"
             }
           ],
           "topPick": false
         },
         {
           "rank": 3,
-          "image": "",
-          "title": "boAt Rockerz 450",
-          "description": "HD Sound Quality: The boAt Rockerz 450 offers HD sound quality with its 40mm dynamic drivers. Long Battery Life: Enjoy up to 15 hours of playtime on a single charge. Dual Modes: These headphones support both wireless and wired modes for versatile use. Ergonomic Design: The ergonomic design and padded ear cushions provide comfort during extended listening sessions.",
-          "details": "Drivers: 40mm Dynamic Drivers Frequency Response: 20-20,000 Hz Impedance: 32 Ohms Connectivity: Bluetooth 4.2 Our Take: The boAt Rockerz 450 is a budget-friendly option with good sound quality and long battery life, suitable for all-day use. In The Box: boAt Rockerz 450 Headphones, Micro-USB Charging Cable, User Manual Build: Plastic",
+          "image": "https://m.media-amazon.com/images/I/41pfR5sluHL._SX300_SY300_QL70_FMwebp_.jpg",
+          "title": "Sennheiser Momentum 4",
+          "description": "Sennheiser Momentum 4 Wireless Over ear Headphones Designed in Germany - Bluetooth Adaptive Noise Cancelling-ANC,4 Digital Mics for Crystal-Clear Calls,60h Battery, 2 Yr Warranty, Black/Copper",
           "metrics": [
             {
               "name": "Customer Reviews and Ratings",
@@ -926,13 +560,8 @@
           "purchaseLinks": [
             {
               "store": "Amazon",
-              "price": "1,499",
-              "link": "https://www.amazon.in/boAt-Rockerz-450-Headphone-Playtime/dp/B07X1XQ2D5/"
-            },
-            {
-              "store": "Flipkart",
-              "price": "1,399",
-              "link": "https://www.flipkart.com/boat-rockerz-450-bluetooth-headset/p/itm17b3fbf4af7c5"
+              "price": "₹24,990",
+              "link": "https://amzn.to/45MtuYR"
             }
           ],
           "topPick": false
@@ -1589,7 +1218,7 @@
   },
   {
     "slug": ["electronic-devices", "vr", "applevisionpro"],
-    "image": "https://m.media-amazon.com/images/I/A1MY25C-yiL._AC_SL1500_.jpg",
+    "image": "https://m.media-amazon.com/images/I/51fi3EZPqyL._SX679_.jpg",
     "title": "The Best Apple Vision Pro",
     "updatedDate": "April 29, 2024",
     "researchLink": "/research-link",
@@ -1629,7 +1258,7 @@
     },
     "topPick": {
       "rank": 1,
-      "image": "/AppleVisionPro.png",
+      "image": "https://m.media-amazon.com/images/I/51fi3EZPqyL._SX679_.jpg",
       "title": "Apple Vision Pro",
       "description": "The leading AR device offering unparalleled performance and innovation.",
       "details": "The Apple Vision Pro sets the standard for AR devices with its cutting-edge technology, seamless integration with Apple’s ecosystem, and exceptional user experience. Ideal for a wide range of applications from professional use to entertainment.",
@@ -1653,102 +1282,18 @@
       ],
       "purchaseLinks": [
         {
-          "store": "Apple",
-          "price": "$3499",
-          "link": "https://apple.com"
-        },
-        {
-          "store": "Best Buy",
-          "price": "$3449",
-          "link": "https://bestbuy.com"
+          "store": "Amazon",
+          "price": "₹2,95,000",
+          "link": "https://amzn.to/45Oizh2"
         }
       ],
       "topPick": true
-    },
-    "competitionSection": {
-      "title": "The Competition",
-      "competitors": [
-        {
-          "rank": 2,
-          "image": "/ARDevice.png",
-          "title": "Microsoft HoloLens 2",
-          "description": "A powerful AR device with advanced features for professional use.",
-          "details": "The Microsoft HoloLens 2 offers exceptional AR capabilities with a focus on productivity and collaboration. Ideal for industries requiring advanced AR solutions.",
-          "metrics": [
-            {
-              "name": "Customer Reviews and Ratings",
-              "rating": 4.8
-            },
-            {
-              "name": "Price and Value for Money",
-              "rating": 4.5
-            },
-            {
-              "name": "Performance and Durability",
-              "rating": 4.7
-            },
-            {
-              "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.8
-            }
-          ],
-          "purchaseLinks": [
-            {
-              "store": "Microsoft",
-              "price": "$3500",
-              "link": "https://microsoft.com"
-            },
-            {
-              "store": "Amazon",
-              "price": "$3449",
-              "link": "https://amazon.com"
-            }
-          ]
-        },
-        {
-          "rank": 3,
-          "image": "/ARDevice.png",
-          "title": "Magic Leap 1",
-          "description": "A versatile AR device with a strong focus on creative applications.",
-          "details": "The Magic Leap 1 offers a unique AR experience with a focus on creative and innovative applications. Ideal for developers and creative professionals.",
-          "metrics": [
-            {
-              "name": "Customer Reviews and Ratings",
-              "rating": 4.6
-            },
-            {
-              "name": "Price and Value for Money",
-              "rating": 4.4
-            },
-            {
-              "name": "Performance and Durability",
-              "rating": 4.5
-            },
-            {
-              "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.7
-            }
-          ],
-          "purchaseLinks": [
-            {
-              "store": "Magic Leap",
-              "price": "$2295",
-              "link": "https://magicleap.com"
-            },
-            {
-              "store": "Amazon",
-              "price": "$2249",
-              "link": "https://amazon.com"
-            }
-          ]
-        }
-      ]
     }
   },
   {
     "slug": ["electronic-devices", "vr", "metaquest2"],
-    "image": "https://m.media-amazon.com/images/I/A1MY25C-yiL._AC_SL1500_.jpg",
-    "title": "The Best Meta Quest 2",
+    "image": "https://m.media-amazon.com/images/I/51jE5IdZerL._SX569_.jpg",
+    "title": "Meta Quest 2",
     "updatedDate": "April 29, 2024",
     "researchLink": "/research-link",
     "authors": "Ayush",
@@ -1787,7 +1332,7 @@
     },
     "topPick": {
       "rank": 1,
-      "image": "/MetaQuest2.png",
+      "image": "https://m.media-amazon.com/images/I/51jE5IdZerL._SX569_.jpg",
       "title": "Meta Quest 2",
       "description": "The leading VR headset offering unparalleled performance and immersion.",
       "details": "The Meta Quest 2 sets the standard for VR headsets with its cutting-edge technology, seamless integration with various platforms, and exceptional user experience. Ideal for a wide range of applications from gaming to virtual meetings.",
@@ -1811,101 +1356,17 @@
       ],
       "purchaseLinks": [
         {
-          "store": "Meta",
-          "price": "$299",
-          "link": "https://meta.com"
-        },
-        {
           "store": "Amazon",
-          "price": "$299",
-          "link": "https://amazon.com"
+          "price": "₹48,650",
+          "link": "https://amzn.to/4cGzNjn"
         }
       ],
       "topPick": true
-    },
-    "competitionSection": {
-      "title": "The Competition",
-      "competitors": [
-        {
-          "rank": 2,
-          "image": "/VRDevice.png",
-          "title": "Sony PlayStation VR2",
-          "description": "A powerful VR headset with advanced features for PlayStation users.",
-          "details": "The Sony PlayStation VR2 offers exceptional VR capabilities with a focus on gaming and immersive experiences. Ideal for PlayStation enthusiasts seeking advanced VR solutions.",
-          "metrics": [
-            {
-              "name": "Customer Reviews and Ratings",
-              "rating": 4.8
-            },
-            {
-              "name": "Price and Value for Money",
-              "rating": 4.7
-            },
-            {
-              "name": "Performance and Durability",
-              "rating": 4.7
-            },
-            {
-              "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.8
-            }
-          ],
-          "purchaseLinks": [
-            {
-              "store": "Sony",
-              "price": "$549",
-              "link": "https://sony.com"
-            },
-            {
-              "store": "Best Buy",
-              "price": "$549",
-              "link": "https://bestbuy.com"
-            }
-          ]
-        },
-        {
-          "rank": 3,
-          "image": "/VRDevice.png",
-          "title": "HTC Vive Pro 2",
-          "description": "A high-end VR headset with excellent performance for advanced users.",
-          "details": "The HTC Vive Pro 2 offers a top-tier VR experience with stunning visuals and immersive capabilities. Ideal for users seeking a premium VR experience.",
-          "metrics": [
-            {
-              "name": "Customer Reviews and Ratings",
-              "rating": 4.7
-            },
-            {
-              "name": "Price and Value for Money",
-              "rating": 4.5
-            },
-            {
-              "name": "Performance and Durability",
-              "rating": 4.7
-            },
-            {
-              "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.8
-            }
-          ],
-          "purchaseLinks": [
-            {
-              "store": "HTC",
-              "price": "$749",
-              "link": "https://htc.com"
-            },
-            {
-              "store": "Amazon",
-              "price": "$749",
-              "link": "https://amazon.com"
-            }
-          ]
-        }
-      ]
     }
   },
   {
     "slug": ["electronic-devices", "tablets", "ipad"],
-    "image": "https://m.media-amazon.com/images/I/A1MY25C-yiL._AC_SL1500_.jpg",
+    "image": "https://m.media-amazon.com/images/I/61PnHlc0HCL._SX679_.jpg",
     "title": "The Best iPad",
     "updatedDate": "April 29, 2024",
     "researchLink": "/research-link",
@@ -1945,8 +1406,8 @@
     },
     "topPick": {
       "rank": 1,
-      "image": "/iPadPro.png",
-      "title": "iPad Pro",
+      "image": "https://m.media-amazon.com/images/I/61PnHlc0HCL._SX679_.jpg",
+      "title": "Apple iPad (9th generation)",
       "description": "The ultimate iPad offering unmatched performance and versatility.",
       "details": "The iPad Pro sets the standard for tablets with its powerful M1 chip, stunning Liquid Retina XDR display, and seamless integration with the Apple ecosystem. Ideal for both professional and personal use.",
       "metrics": [
@@ -1969,14 +1430,9 @@
       ],
       "purchaseLinks": [
         {
-          "store": "Apple",
-          "price": "$1099",
-          "link": "https://apple.com"
-        },
-        {
-          "store": "Best Buy",
-          "price": "$1049",
-          "link": "https://bestbuy.com"
+          "store": "Amazon",
+          "price": "₹32,900",
+          "link": "https://amzn.to/3RSddvu"
         }
       ],
       "topPick": true
@@ -1986,8 +1442,8 @@
       "competitors": [
         {
           "rank": 2,
-          "image": "/iPadAir.png",
-          "title": "iPad Air",
+          "image": "https://m.media-amazon.com/images/I/71ey-9D8yDL._SX679_.jpg",
+          "title": "Apple iPad mini (6th generation)",
           "description": "A powerful and versatile tablet with a sleek design.",
           "details": "The iPad Air offers a balance of performance and portability, featuring the A14 Bionic chip and a vibrant 10.9-inch display. Perfect for everyday tasks and light professional use.",
           "metrics": [
@@ -2010,21 +1466,16 @@
           ],
           "purchaseLinks": [
             {
-              "store": "Apple",
-              "price": "$599",
-              "link": "https://apple.com"
-            },
-            {
               "store": "Amazon",
-              "price": "$579",
-              "link": "https://amazon.com"
+              "price": "₹48,399",
+              "link": "https://amzn.to/3zttQaE"
             }
           ]
         },
         {
           "rank": 3,
-          "image": "/iPadMini.png",
-          "title": "iPad Mini",
+          "image": "https://m.media-amazon.com/images/I/41-+36gPjxL._SX342_SY445_.jpg",
+          "title": "Apple iPad Air (5th generation)",
           "description": "A compact and powerful tablet with a stunning display.",
           "details": "The iPad Mini combines the power of the A15 Bionic chip with a compact form factor, featuring an 8.3-inch Liquid Retina display. Ideal for on-the-go use and media consumption.",
           "metrics": [
@@ -2047,14 +1498,9 @@
           ],
           "purchaseLinks": [
             {
-              "store": "Apple",
-              "price": "$499",
-              "link": "https://apple.com"
-            },
-            {
-              "store": "Best Buy",
-              "price": "$479",
-              "link": "https://bestbuy.com"
+              "store": "Amazon",
+              "price": "₹69,900",
+              "link": "https://amzn.to/4cqFp0U"
             }
           ]
         }
@@ -2062,8 +1508,8 @@
     }
   },
   {
-    "slug": ["electronic-devices", "tablets", "android"],
-    "image": "https://m.media-amazon.com/images/I/A1MY25C-yiL._AC_SL1500_.jpg",
+    "slug": ["electronic-devices", "tablets", "android-tablets"],
+    "image": "https://m.media-amazon.com/images/I/915rA4VNXuL._SX679_.jpg",
     "title": "The Best Android Tablets",
     "updatedDate": "April 29, 2024",
     "researchLink": "/research-link",
@@ -2103,8 +1549,8 @@
     },
     "topPick": {
       "rank": 1,
-      "image": "/SamsungGalaxyTabS8.png",
-      "title": "Samsung Galaxy Tab S8",
+      "image": "https://m.media-amazon.com/images/I/915rA4VNXuL._SX679_.jpg",
+      "title": "Samsung Galaxy Tab S7",
       "description": "The ultimate Android tablet offering unmatched performance and versatility.",
       "details": "The Samsung Galaxy Tab S8 sets the standard for Android tablets with its powerful Snapdragon 8 Gen 1 chip, stunning AMOLED display, and seamless integration with the Samsung ecosystem. Ideal for both professional and personal use.",
       "metrics": [
@@ -2127,14 +1573,9 @@
       ],
       "purchaseLinks": [
         {
-          "store": "Samsung",
-          "price": "$799",
-          "link": "https://samsung.com"
-        },
-        {
-          "store": "Best Buy",
-          "price": "$779",
-          "link": "https://bestbuy.com"
+          "store": "Amazon",
+          "price": "₹34,999",
+          "link": "https://amzn.to/4eRHGnx"
         }
       ],
       "topPick": true
@@ -2144,8 +1585,8 @@
       "competitors": [
         {
           "rank": 2,
-          "image": "/HuaweiMatePadPro.png",
-          "title": "Huawei MatePad Pro",
+          "image": "https://m.media-amazon.com/images/I/51QRtIPG9NL._SX679_.jpg",
+          "title": "Lenovo Tab P11 Pro Gen-2",
           "description": "A powerful and versatile tablet with a sleek design.",
           "details": "The Huawei MatePad Pro offers a balance of performance and portability, featuring the Kirin 9000E chip and a vibrant 10.8-inch display. Perfect for everyday tasks and light professional use.",
           "metrics": [
@@ -2168,51 +1609,9 @@
           ],
           "purchaseLinks": [
             {
-              "store": "Huawei",
-              "price": "$699",
-              "link": "https://huawei.com"
-            },
-            {
               "store": "Amazon",
-              "price": "$679",
-              "link": "https://amazon.com"
-            }
-          ]
-        },
-        {
-          "rank": 3,
-          "image": "/LenovoTabP11Pro.png",
-          "title": "Lenovo Tab P11 Pro",
-          "description": "A stylish and powerful tablet with great display quality.",
-          "details": "The Lenovo Tab P11 Pro combines a powerful Qualcomm Snapdragon 730G processor with a stunning 11.5-inch OLED display. Ideal for multimedia consumption and light productivity tasks.",
-          "metrics": [
-            {
-              "name": "Customer Reviews and Ratings",
-              "rating": 4.6
-            },
-            {
-              "name": "Price and Value for Money",
-              "rating": 4.4
-            },
-            {
-              "name": "Performance and Durability",
-              "rating": 4.5
-            },
-            {
-              "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.6
-            }
-          ],
-          "purchaseLinks": [
-            {
-              "store": "Lenovo",
-              "price": "$499",
-              "link": "https://lenovo.com"
-            },
-            {
-              "store": "Best Buy",
-              "price": "$479",
-              "link": "https://bestbuy.com"
+              "price": " ₹32,999",
+              "link": "https://amzn.to/3XUopfb"
             }
           ]
         }
@@ -2220,166 +1619,8 @@
     }
   },
   {
-    "slug": ["electronic-devices", "tablets", "college"],
-    "image": "https://m.media-amazon.com/images/I/A1MY25C-yiL._AC_SL1500_.jpg",
-    "title": "The Best Tablets for College Students",
-    "updatedDate": "April 29, 2024",
-    "researchLink": "/research-link",
-    "authors": "Ayush",
-    "description": "Find the best tablets for college students that offer a balance of performance, portability, and value. Our thorough research and testing have identified the top options for students.",
-    "whyTrustUs": {
-      "title": "Why You Should Trust Us",
-      "content": "At OurCompany, we provide reliable reviews based on rigorous testing and analysis. Here's why you can trust our recommendations:",
-      "points": [
-        "We invest significant time in researching and testing each product to ensure it meets our stringent standards.",
-        "Our team comprises industry experts who understand the needs of college students.",
-        "Transparency is our priority; we provide comprehensive insights into each product's strengths and weaknesses.",
-        "Your satisfaction and trust are paramount to us, and we aim to recommend products that enhance your academic experience."
-      ],
-      "conclusion": "Choosing our recommended tablets means choosing quality, functionality, and value for your college needs."
-    },
-    "researchProcess": {
-      "title": "Our Research Process",
-      "content": [
-        "We begin by identifying popular tablet models and student preferences. Our research includes analyzing customer reviews, consulting educational tech experts, and considering industry trends.",
-        "After narrowing down our choices, we acquire the devices for hands-on testing. Each tablet undergoes thorough evaluation based on performance, portability, and value.",
-        "Our team collaborates to evaluate and compare findings, ensuring a balanced assessment of each device's pros and cons.",
-        "Our top recommendations are tablets that excel in quality, functionality, and value, providing reliable options for students."
-      ]
-    },
-    "comparisonSection": {
-      "title": "Who it’s for:",
-      "content": "Ideal for college students looking for a high-quality tablet that offers performance, portability, and a range of features to support their academic and personal needs.",
-      "keyPoints": [
-        "Performance and speed",
-        "Display quality and size options",
-        "Battery life and charging options",
-        "Compatibility with educational apps and accessories",
-        "Available storage capacities",
-        "Warranty information and customer support details"
-      ]
-    },
-    "topPick": {
-      "rank": 1,
-      "image": "/iPadAir.png",
-      "title": "iPad Air",
-      "description": "The ideal tablet for college students offering a balance of performance and portability.",
-      "details": "The iPad Air features the A14 Bionic chip, a 10.9-inch Liquid Retina display, and compatibility with Apple Pencil and Magic Keyboard. Perfect for note-taking, research, and entertainment.",
-      "metrics": [
-        {
-          "name": "Customer Reviews and Ratings",
-          "rating": 4.8
-        },
-        {
-          "name": "Price and Value for Money",
-          "rating": 4.7
-        },
-        {
-          "name": "Performance and Durability",
-          "rating": 4.8
-        },
-        {
-          "name": "Brand Reputation and Trustworthiness",
-          "rating": 4.9
-        }
-      ],
-      "purchaseLinks": [
-        {
-          "store": "Apple",
-          "price": "$599",
-          "link": "https://apple.com"
-        },
-        {
-          "store": "Amazon",
-          "price": "$579",
-          "link": "https://amazon.com"
-        }
-      ],
-      "topPick": true
-    },
-    "competitionSection": {
-      "title": "The Competition",
-      "competitors": [
-        {
-          "rank": 2,
-          "image": "/SamsungGalaxyTabS7.png",
-          "title": "Samsung Galaxy Tab S7",
-          "description": "A powerful and versatile tablet with a sleek design.",
-          "details": "The Samsung Galaxy Tab S7 offers a balance of performance and portability, featuring the Snapdragon 865+ chip and a vibrant 11-inch display. Perfect for academic tasks and light entertainment.",
-          "metrics": [
-            {
-              "name": "Customer Reviews and Ratings",
-              "rating": 4.7
-            },
-            {
-              "name": "Price and Value for Money",
-              "rating": 4.6
-            },
-            {
-              "name": "Performance and Durability",
-              "rating": 4.7
-            },
-            {
-              "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.8
-            }
-          ],
-          "purchaseLinks": [
-            {
-              "store": "Samsung",
-              "price": "$649",
-              "link": "https://samsung.com"
-            },
-            {
-              "store": "Best Buy",
-              "price": "$629",
-              "link": "https://bestbuy.com"
-            }
-          ]
-        },
-        {
-          "rank": 3,
-          "image": "/SurfaceGo3.png",
-          "title": "Microsoft Surface Go 3",
-          "description": "A compact and versatile tablet with Windows 11.",
-          "details": "The Microsoft Surface Go 3 combines the power of Windows 11 with a compact form factor, featuring a 10.5-inch PixelSense display. Ideal for on-the-go use and academic tasks.",
-          "metrics": [
-            {
-              "name": "Customer Reviews and Ratings",
-              "rating": 4.6
-            },
-            {
-              "name": "Price and Value for Money",
-              "rating": 4.5
-            },
-            {
-              "name": "Performance and Durability",
-              "rating": 4.6
-            },
-            {
-              "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.7
-            }
-          ],
-          "purchaseLinks": [
-            {
-              "store": "Microsoft",
-              "price": "$399",
-              "link": "https://microsoft.com"
-            },
-            {
-              "store": "Best Buy",
-              "price": "$379",
-              "link": "https://bestbuy.com"
-            }
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "slug": ["electronic-devices", "tablets", "budget"],
-    "image": "https://m.media-amazon.com/images/I/A1MY25C-yiL._AC_SL1500_.jpg",
+    "slug": ["electronic-devices", "tablets", "budget-tablets"],
+    "image": "https://m.media-amazon.com/images/I/61vsK7h3zVL._SX679_.jpg",
     "title": "The Best Budget Tablets",
     "updatedDate": "April 29, 2024",
     "researchLink": "/research-link",
@@ -2419,38 +1660,33 @@
     },
     "topPick": {
       "rank": 1,
-      "image": "/FireHD10.png",
-      "title": "Amazon Fire HD 10",
-      "description": "The best budget tablet offering excellent performance and value.",
-      "details": "The Amazon Fire HD 10 features a powerful octa-core processor, a vibrant 10.1-inch Full HD display, and access to the Amazon ecosystem. Ideal for media consumption and casual use.",
+      "image": "https://m.media-amazon.com/images/I/61vsK7h3zVL._SX679_.jpg",
+      "title": "Samsung Galaxy Tab S6 Lite",
+      "description": "The ultimate Android tablet offering unmatched performance and versatility.",
+      "details": "The Samsung Galaxy Tab S8 sets the standard for Android tablets with its powerful Snapdragon 8 Gen 1 chip, stunning AMOLED display, and seamless integration with the Samsung ecosystem. Ideal for both professional and personal use.",
       "metrics": [
         {
           "name": "Customer Reviews and Ratings",
-          "rating": 4.7
-        },
-        {
-          "name": "Price and Value for Money",
           "rating": 4.8
         },
         {
-          "name": "Performance and Durability",
+          "name": "Price and Value for Money",
           "rating": 4.6
         },
         {
-          "name": "Brand Reputation and Trustworthiness",
+          "name": "Performance and Durability",
           "rating": 4.7
+        },
+        {
+          "name": "Brand Reputation and Trustworthiness",
+          "rating": 4.8
         }
       ],
       "purchaseLinks": [
         {
-          "store": "Amazon",
-          "price": "$149",
-          "link": "https://amazon.com"
-        },
-        {
-          "store": "Best Buy",
-          "price": "$139",
-          "link": "https://bestbuy.com"
+          "store": "Samsung",
+          "price": "24,999",
+          "link": "https://amzn.to/3LaScbO"
         }
       ],
       "topPick": true
@@ -2460,14 +1696,14 @@
       "competitors": [
         {
           "rank": 2,
-          "image": "/LenovoTabM10.png",
-          "title": "Lenovo Tab M10",
-          "description": "A budget-friendly tablet with a sleek design.",
-          "details": "The Lenovo Tab M10 offers a balance of performance and affordability, featuring a Snapdragon 429 processor and a 10.1-inch HD display. Perfect for casual use and light entertainment.",
+          "image": "https://m.media-amazon.com/images/I/517Rd6DfZRL._SX679_.jpg",
+          "title": "Lenovo Tab P11 (2nd Gen)",
+          "description": "A powerful and versatile tablet with a sleek design.",
+          "details": "The Huawei MatePad Pro offers a balance of performance and portability, featuring the Kirin 9000E chip and a vibrant 10.8-inch display. Perfect for everyday tasks and light professional use.",
           "metrics": [
             {
               "name": "Customer Reviews and Ratings",
-              "rating": 4.6
+              "rating": 4.7
             },
             {
               "name": "Price and Value for Money",
@@ -2475,36 +1711,31 @@
             },
             {
               "name": "Performance and Durability",
-              "rating": 4.4
+              "rating": 4.6
             },
             {
               "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.6
+              "rating": 4.7
             }
           ],
           "purchaseLinks": [
             {
-              "store": "Lenovo",
-              "price": "$129",
-              "link": "https://lenovo.com"
-            },
-            {
-              "store": "Best Buy",
-              "price": "$119",
-              "link": "https://bestbuy.com"
+              "store": "Amazon",
+              "price": "₹17,999",
+              "link": "https://amzn.to/45PawAB"
             }
           ]
         },
         {
           "rank": 3,
-          "image": "/SamsungGalaxyTabA7.png",
-          "title": "Samsung Galaxy Tab A7",
-          "description": "A stylish and affordable tablet with great display quality.",
-          "details": "The Samsung Galaxy Tab A7 combines a powerful Snapdragon 662 processor with a stunning 10.4-inch display. Ideal for multimedia consumption and casual productivity tasks.",
+          "image": "https://m.media-amazon.com/images/I/61zy47FDI3L._SX679_.jpg",
+          "title": "Samsung Galaxy Tab A9",
+          "description": "A stylish and powerful tablet with great display quality.",
+          "details": "The Lenovo Tab P11 Pro combines a powerful Qualcomm Snapdragon 730G processor with a stunning 11.5-inch OLED display. Ideal for multimedia consumption and light productivity tasks.",
           "metrics": [
             {
               "name": "Customer Reviews and Ratings",
-              "rating": 4.5
+              "rating": 4.6
             },
             {
               "name": "Price and Value for Money",
@@ -2512,23 +1743,18 @@
             },
             {
               "name": "Performance and Durability",
-              "rating": 4.4
+              "rating": 4.5
             },
             {
               "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.5
+              "rating": 4.6
             }
           ],
           "purchaseLinks": [
             {
-              "store": "Samsung",
-              "price": "$179",
-              "link": "https://samsung.com"
-            },
-            {
               "store": "Amazon",
-              "price": "$169",
-              "link": "https://amazon.com"
+              "price": "₹12,999",
+              "link": "https://amzn.to/4btEviL"
             }
           ]
         }

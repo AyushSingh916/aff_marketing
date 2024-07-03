@@ -80,15 +80,7 @@
             "text": "Android Phone",
             "href": "/electronic-devices/phone/android"
           },
-          {
-            "text": "Budget Android Phone",
-            "href": "/electronic-devices/phone/budget-android"
-          },
-          { "text": "iPhone", "href": "/electronic-devices/phone/iphone" },
-          {
-            "text": "Budget iPhone",
-            "href": "/electronic-devices/phone/budget-iphone"
-          }
+          { "text": "iPhone", "href": "/electronic-devices/phone/iphone" }
         ]
       },
       {
@@ -115,14 +107,10 @@
         "href": "/electronic-devices/tablets",
         "sublinks": [
           { "text": "iPad", "href": "/electronic-devices/tablets/ipad" },
-          { "text": "Android", "href": "/electronic-devices/tablets/android" },
-          {
-            "text": "College Tablets",
-            "href": "/electronic-devices/tablets/college"
-          },
+          { "text": "Android", "href": "/electronic-devices/tablets/android-tablets" },
           {
             "text": "Budget Tablets",
-            "href": "/electronic-devices/tablets/budget"
+            "href": "/electronic-devices/tablets/budget-tablets"
           }
         ]
       },

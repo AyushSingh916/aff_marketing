@@ -2,7 +2,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import data from '@/data/productsData/ElectronicDevices.json';
 import Card from '@/components/ComparisionCard';
-import {PurchaseLink} from '@/lib/types';
+import { PurchaseLink } from '@/lib/types';
 
 interface ProductPageProps {
   params: { slug: string; sublink: string };
@@ -98,41 +98,47 @@ export default function ProductPage({ params }: ProductPageProps) {
             name: metric.name,
             rating: metric.rating,
           }))}
-          priceLinks={product.topPick.purchaseLinks.map((link : PurchaseLink) => ({
-            store: link.store,
-            price: link.price,
-            link: link.link,
-            discount: link.discount,
-          }))}
+          priceLinks={product.topPick.purchaseLinks.map(
+            (link: PurchaseLink) => ({
+              store: link.store,
+              price: link.price,
+              link: link.link,
+              discount: link.discount,
+            })
+          )}
         />
       </div>
-      <div className="bg-white shadow-lg rounded-lg p-8">
-        <h2 className="text-2xl font-bold text-center mb-4">
-          {product.competitionSection.title}
-        </h2>
-        <div className="space-y-4">
-          {product.competitionSection.competitors.map((competitor, index) => (
-            <Card
-              key={index}
-              imageSrc={competitor.image}
-              altText={competitor.title}
-              rank={competitor.rank}
-              title={competitor.title}
-              description={competitor.description}
-              metrics={competitor.metrics.map((metric) => ({
-                name: metric.name,
-                rating: metric.rating,
-              }))}
-              priceLinks={competitor.purchaseLinks.map((link : PurchaseLink) => ({
-                store: link.store,
-                price: link.price,
-                link: link.link,
-                discount: link.discount,
-              }))}
-            />
-          ))}
+      {product.competitionSection && (
+        <div className="bg-white shadow-lg rounded-lg p-8">
+          <h2 className="text-2xl font-bold text-center mb-4">
+            {product.competitionSection.title}
+          </h2>
+          <div className="space-y-4">
+            {product.competitionSection.competitors.map((competitor, index) => (
+              <Card
+                key={index}
+                imageSrc={competitor.image}
+                altText={competitor.title}
+                rank={competitor.rank}
+                title={competitor.title}
+                description={competitor.description}
+                metrics={competitor.metrics.map((metric) => ({
+                  name: metric.name,
+                  rating: metric.rating,
+                }))}
+                priceLinks={competitor.purchaseLinks.map(
+                  (link: PurchaseLink) => ({
+                    store: link.store,
+                    price: link.price,
+                    link: link.link,
+                    discount: link.discount,
+                  })
+                )}
+              />
+            ))}
+          </div>
         </div>
-      </div>
+      )}
     </div>
   );
 }
