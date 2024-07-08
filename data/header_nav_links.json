@@ -155,19 +155,11 @@
         "sublinks": [
           {
             "text": "Low voltage AC",
-            "href": "/electronic-appliances/air-conditioner/low-voltage"
+            "href": "/electronic-appliances/air-conditioner/low-voltage_ac"
           },
           {
             "text": "Budget AC",
-            "href": "/electronic-appliances/air-conditioner/budget"
-          },
-          {
-            "text": "Portable air conditioners",
-            "href": "/electronic-appliances/air-conditioner/portable"
-          },
-          {
-            "text": "Ductless air conditioners",
-            "href": "/electronic-appliances/air-conditioner/ductless"
+            "href": "/electronic-appliances/air-conditioner/budget_ac"
           }
         ]
       },

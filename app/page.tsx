@@ -12,8 +12,11 @@ import data from '@/data/home_products.json';
 import { CategoryData } from '@/lib/types';
 
 const Home: React.FC = () => {
-
-  const renderSection = (data: CategoryData, Component: React.FC<any>, sectionId: string) => (
+  const renderSection = (
+    data: CategoryData,
+    Component: React.FC<any>,
+    sectionId: string
+  ) => (
     <section id={sectionId} className="w-full max-w-7xl px-4 mb-12">
       <Component
         mainImage={data.main}
@@ -83,12 +86,24 @@ const Home: React.FC = () => {
               height={400}
               className="w-full h-auto object-cover mb-4 rounded-lg"
             />
-            <h2 className="text-3xl font-bold mb-4">Best Sofa for your Living Room</h2>
+            <h2 className="text-3xl font-bold mb-4">
+              Best Sofa for your Living Room
+            </h2>
             <p className="text-gray-600">
-              The Coirfit 3 Seater Folding Sofa Cum Bed is a versatile and practical addition to any living room. Featuring a durable jute fabric cover that is washable, this sofa cum bed is designed for convenience and comfort. It includes free cushions and offers a seating capacity of three, making it ideal for both seating and sleeping arrangements.
+              The Coirfit 3 Seater Folding Sofa Cum Bed is a versatile and
+              practical addition to any living room. Featuring a durable jute
+              fabric cover that is washable, this sofa cum bed is designed for
+              convenience and comfort. It includes free cushions and offers a
+              seating capacity of three, making it ideal for both seating and
+              sleeping arrangements.
             </p>
             <p className="text-gray-600">
-              <strong>Details:</strong> Brand: Coirfit. Colour: Brown. Material: Jute Fabric. Upholstery Fabric Type: Jute. Size: 5x6 Feet. Product Dimensions: 76.2D x 121.9W x 71.1H Centimeters. Item Weight: 26 kg. Shape: Rectangular. Style: L Shaped. Assembly Required: No. Special Features: L Shaped, Armless. Room Type: Living Room. Type: Sofa Bed.
+              <strong>Details:</strong> Brand: Coirfit. Colour: Brown. Material:
+              Jute Fabric. Upholstery Fabric Type: Jute. Size: 5x6 Feet. Product
+              Dimensions: 76.2D x 121.9W x 71.1H Centimeters. Item Weight: 26
+              kg. Shape: Rectangular. Style: L Shaped. Assembly Required: No.
+              Special Features: L Shaped, Armless. Room Type: Living Room. Type:
+              Sofa Bed.
             </p>
           </div>
 
