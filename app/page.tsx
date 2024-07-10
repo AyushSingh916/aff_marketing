@@ -28,20 +28,11 @@ const Home: React.FC = () => {
   );
 
   return (
-    <main
-      className="flex flex-col items-center py-8 min-h-screen"
-      style={{ backgroundColor: '#F5F5F7' }}
-    >
+    <main className="flex flex-col items-center py-8 min-h-screen bg-gray-100">
       <section className="w-full max-w-7xl px-4" style={{ width: '90%' }}>
         <div className="flex flex-col lg:flex-row gap-8 mb-12">
           {/* Daily Deals Section */}
-          <div
-            className="w-full lg:w-1/4 p-6 rounded-xl shadow-lg"
-            style={{
-              background: '#FFFFFF',
-              boxShadow: `0 4px 6px rgba(0, 0, 0, 0.1)`,
-            }}
-          >
+          <div className="w-full lg:w-1/4 p-6 rounded-xl shadow-lg bg-white">
             <h2 className="text-2xl font-bold mb-4">Daily Deals</h2>
             <p className="text-sm text-gray-600 mb-6">
               Price drops on products we love
@@ -72,13 +63,7 @@ const Home: React.FC = () => {
           </div>
 
           {/* Main Content Section */}
-          <div
-            className="w-full lg:w-1/2 p-6 rounded-xl shadow-lg"
-            style={{
-              background: '#FFFFFF',
-              boxShadow: `0 4px 6px rgba(0, 0, 0, 0.1)`,
-            }}
-          >
+          <div className="w-full lg:w-1/2 p-6 rounded-xl shadow-lg bg-white">
             <Image
               src="https://m.media-amazon.com/images/I/81Sx6JZKBoL._SX679_.jpg"
               alt="Main Content"
@@ -108,13 +93,7 @@ const Home: React.FC = () => {
           </div>
 
           {/* Latest Updates Section */}
-          <div
-            className="w-full lg:w-1/4 p-6 rounded-xl shadow-lg"
-            style={{
-              background: '#FFFFFF',
-              boxShadow: `0 4px 6px rgba(0, 0, 0, 0.1)`,
-            }}
-          >
+          <div className="w-full lg:w-1/4 p-6 rounded-xl shadow-lg bg-white">
             <h2 className="text-2xl font-bold mb-4">Latest Updates</h2>
             {latestUpdates.map((update, index) => (
               <div key={index} className="mb-8">

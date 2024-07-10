@@ -436,7 +436,7 @@
     },
   {
     "slug": ["electronic-appliances", "washing-machines", "top-load"],
-    "image": "",
+    "image": "https://m.media-amazon.com/images/I/71UQCBlw7WL._SX679_.jpg",
     "title": "Best Top Load Washing Machines",
     "updatedDate": "June 27, 2024",
     "researchLink": "",
@@ -469,7 +469,7 @@
     },
     "topPick": {
       "rank": 1,
-      "image": "",
+      "image": "https://m.media-amazon.com/images/I/71UQCBlw7WL._SX679_.jpg",
       "title": "LG 6.5 kg Inverter Fully-Automatic Top Loading Washing Machine",
       "description": "Smart Inverter Technology: Provides efficient energy usage and quiet operation. TurboDrum: Ensures powerful washing with less fabric damage. Smart Diagnosis: Quickly troubleshoots issues via your smartphone.",
       "details": "Capacity: 6.5 kg Special Features: Smart Inverter Technology, TurboDrum, Smart Diagnosis Our Take: The LG 6.5 kg washing machine offers advanced features and efficient performance, making it ideal for small families. Dimensions: 54 x 54 x 91 cm In The Box: Washing Machine, User Manual, Warranty Card Build: Plastic and Metal",
@@ -494,13 +494,8 @@
       "purchaseLinks": [
         {
           "store": "Amazon",
-          "price": "16,999",
-          "link": "https://www.amazon.in/LG-Inverter-Fully-Automatic-Washing-T65SKSF4Z/dp/B07PFT9XW9/"
-        },
-        {
-          "store": "Flipkart",
-          "price": "16,490",
-          "link": "https://www.flipkart.com/lg-6-5-kg-inverter-fully-automatic-top-loading-washing-machine/p/itmf3zqyxzvxskxw"
+          "price": "₹16,490",
+          "link": "https://amzn.to/3VQN15K/"
         }
       ],
       "topPick": true
@@ -510,7 +505,7 @@
       "competitors": [
         {
           "rank": 2,
-          "image": "",
+          "image": "https://m.media-amazon.com/images/I/51nt4zKQfsL._SY741_.jpg",
           "title": "Samsung 7 kg Fully-Automatic Top Loading Washing Machine",
           "description": "Diamond Drum: Ensures gentle yet effective cleaning. Center Jet Technology: Improves washing performance and prevents tangling. Eco Tub Clean: Automatically cleans the tub without chemicals.",
           "details": "Capacity: 7 kg Special Features: Diamond Drum, Center Jet Technology, Eco Tub Clean Our Take: The Samsung 7 kg washing machine offers reliable performance and easy maintenance at an affordable price. Dimensions: 54 x 54 x 92 cm In The Box: Washing Machine, User Manual, Warranty Card Build: Plastic and Metal",
@@ -535,20 +530,15 @@
           "purchaseLinks": [
             {
               "store": "Amazon",
-              "price": "17,490",
-              "link": "https://www.amazon.in/Samsung-Fully-Automatic-Loading-Washing-WA70A4002GS/dp/B08FB3JRMX/"
-            },
-            {
-              "store": "Flipkart",
-              "price": "16,999",
-              "link": "https://www.flipkart.com/samsung-7-kg-fully-automatic-top-loading-washing-machine/p/itmf3zqyxzvxskxy"
+              "price": "₹15,690",
+              "link": "https://m.media-amazon.com/images/I/51nt4zKQfsL._SY741_.jpg"
             }
           ],
           "topPick": false
         },
         {
           "rank": 3,
-          "image": "",
+          "image": "https://m.media-amazon.com/images/I/51zKpDNKMYL._SY741_.jpg",
           "title": "Whirlpool 6.2 kg Fully-Automatic Top Loading Washing Machine",
           "description": "6th Sense Technology: Automatically senses and adapts the wash cycle for optimal performance. Hard Water Wash: Adjusts the wash cycle to ensure effective cleaning in hard water conditions. Spa Wash System: Reduces tangling and damage to clothes.",
           "details": "Capacity: 6.2 kg Special Features: 6th Sense Technology, Hard Water Wash, Spa Wash System Our Take: The Whirlpool 6.2 kg washing machine offers efficient cleaning and advanced features at a budget-friendly price. Dimensions: 54 x 54 x 90 cm In The Box: Washing Machine, User Manual, Warranty Card Build: Plastic and Metal",
@@ -573,13 +563,8 @@
           "purchaseLinks": [
             {
               "store": "Amazon",
-              "price": "15,999",
-              "link": "https://www.amazon.in/Whirlpool-Fully-Automatic-Top-Loading-Washing/dp/B08F3MRLZH/"
-            },
-            {
-              "store": "Flipkart",
-              "price": "15,490",
-              "link": "https://www.flipkart.com/whirlpool-6-2-kg-fully-automatic-top-loading-washing-machine/p/itmf3zqyxzvxskxy"
+              "price": "₹14,570",
+              "link": "https://amzn.to/3LknblE"
             }
           ],
           "topPick": false
@@ -600,7 +585,7 @@
   },
   {
     "slug": ["electronic-appliances", "washing-machines", "front-load"],
-    "image": "",
+    "image": "https://m.media-amazon.com/images/I/51J0Pfye79L._SY445_SX342_QL70_FMwebp_.jpg",
     "title": "Best Front Load Washing Machines",
     "updatedDate": "June 27, 2024",
     "researchLink": "",
@@ -633,7 +618,7 @@
     },
     "topPick": {
       "rank": 1,
-      "image": "",
+      "image": "https://m.media-amazon.com/images/I/51J0Pfye79L._SY445_SX342_QL70_FMwebp_.jpg",
       "title": "Bosch 7 kg Fully-Automatic Front Loading Washing Machine",
       "description": "EcoSilence Drive: Ensures quiet operation and energy efficiency. SpeedPerfect: Reduces wash time by up to 65%. AntiVibration Design: Minimizes noise and vibration for smooth operation.",
       "details": "Capacity: 7 kg Special Features: EcoSilence Drive, SpeedPerfect, AntiVibration Design Our Take: The Bosch 7 kg washing machine combines advanced features and reliable performance, making it ideal for families. Dimensions: 60 x 55 x 85 cm In The Box: Washing Machine, User Manual, Warranty Card Build: Metal and Plastic",
@@ -658,13 +643,8 @@
       "purchaseLinks": [
         {
           "store": "Amazon",
-          "price": "28,999",
-          "link": "https://www.amazon.in/Bosch-Fully-Automatic-Loading-Washing-WAK24168IN/dp/B00U1Y2MDC/"
-        },
-        {
-          "store": "Flipkart",
-          "price": "27,990",
-          "link": "https://www.flipkart.com/bosch-7-kg-fully-automatic-front-loading-washing-machine/p/itmf3zqyxzvxskxg"
+          "price": "₹30,490",
+          "link": "https://amzn.to/3RWG15Z"
         }
       ],
       "topPick": true
@@ -674,7 +654,7 @@
       "competitors": [
         {
           "rank": 2,
-          "image": "",
+          "image": "https://m.media-amazon.com/images/I/61XEW0cyE7L._SY741_.jpg",
           "title": "IFB 6.5 kg Fully-Automatic Front Loading Washing Machine",
           "description": "Aqua Energie: Treats hard water to improve detergent efficiency. 3D Wash System: Ensures thorough cleaning with dynamic water jets. Ball Valve Technology: Prevents detergent wastage.",
           "details": "Capacity: 6.5 kg Special Features: Aqua Energie, 3D Wash System, Ball Valve Technology Our Take: The IFB 6.5 kg washing machine offers efficient cleaning and water treatment features at a reasonable price. Dimensions: 59.8 x 53.6 x 87.5 cm In The Box: Washing Machine, User Manual, Warranty Card Build: Metal and Plastic",
@@ -699,20 +679,15 @@
           "purchaseLinks": [
             {
               "store": "Amazon",
-              "price": "27,499",
-              "link": "https://www.amazon.in/IFB-Fully-Automatic-Loading-Washing-DIVA-AQUA-VX/dp/B00U1Y2MG0/"
-            },
-            {
-              "store": "Flipkart",
-              "price": "26,999",
-              "link": "https://www.flipkart.com/ifb-6-5-kg-fully-automatic-front-loading-washing-machine/p/itmf3zqyxzvxskxs"
+              "price": "₹26,490",
+              "link": "https://amzn.to/3zxeotY"
             }
           ],
           "topPick": false
         },
         {
           "rank": 3,
-          "image": "",
+          "image": "https://m.media-amazon.com/images/I/712rc3pxl4L._SX679_.jpg",
           "title": "LG 6 kg Inverter Fully-Automatic Front Loading Washing Machine",
           "description": "Inverter Direct Drive: Reduces noise and vibration for a quieter wash. 6 Motion DD: Combines different wash motions for effective cleaning. Smart Diagnosis: Quickly troubleshoots issues via your smartphone.",
           "details": "Capacity: 6 kg Special Features: Inverter Direct Drive, 6 Motion DD, Smart Diagnosis Our Take: The LG 6 kg washing machine offers advanced features and reliable performance at a competitive price. Dimensions: 60 x 44 x 85 cm In The Box: Washing Machine, User Manual, Warranty Card Build: Metal and Plastic",
@@ -737,13 +712,8 @@
           "purchaseLinks": [
             {
               "store": "Amazon",
-              "price": "26,999",
-              "link": "https://www.amazon.in/LG-Fully-Automatic-Front-Loading-Washing/dp/B08FB3JRMX/"
-            },
-            {
-              "store": "Flipkart",
-              "price": "25,990",
-              "link": "https://www.flipkart.com/lg-6-kg-inverter-fully-automatic-front-loading-washing-machine/p/itmf3zqyxzvxskxp"
+              "price": "₹26,990",
+              "link": "https://amzn.to/4cr08lb"
             }
           ],
           "topPick": false
@@ -1402,7 +1372,7 @@
   },
   {
     "slug": ["electronic-appliances", "heating", "space-heaters"],
-    "image": "",
+    "image": "https://m.media-amazon.com/images/I/51A3YFLZpaL._SX569_.jpg",
     "title": "Best Space Heaters",
     "updatedDate": "",
     "researchLink": "",
@@ -1443,7 +1413,7 @@
     },
     "topPick": {
       "rank": 1,
-      "image": "/DysonHotCool.png",
+      "image": "https://m.media-amazon.com/images/I/51A3YFLZpaL._SX569_.jpg",
       "title": "Dyson Hot + Cool",
       "description": "A versatile space heater with efficient heating and cooling capabilities.",
       "details": "The Dyson Hot + Cool features Air Multiplier technology, Jet Focus control, and HEPA filter. Perfect for year-round use with precise temperature control.",
@@ -1467,14 +1437,9 @@
       ],
       "purchaseLinks": [
         {
-          "store": "Dyson",
-          "price": "$499",
-          "link": "https://www.dyson.com"
-        },
-        {
-          "store": "Best Buy",
-          "price": "$479",
-          "link": "https://www.bestbuy.com"
+          "store": "Amazon",
+          "price": "₹66,695",
+          "link": "https://amzn.to/3XSRK9G"
         }
       ],
       "topPick": true
@@ -1484,9 +1449,9 @@
       "competitors": [
         {
           "rank": 2,
-          "image": "/LaskoCeramicHeater.png",
-          "title": "Lasko Ceramic Tower Heater",
-          "description": "A compact and efficient ceramic tower heater with oscillation and adjustable thermostat.",
+          "image": "https://m.media-amazon.com/images/I/71RKFnz3fXS._SY879_.jpg",
+          "title": "DeLonghi Trd40615E Full Room Radiant Heater,1500 Watts, White",
+          "description": "A silent and energy-efficient oil-filled radiator heater with multiple heat settings.",
           "details": "The Lasko Ceramic Tower Heater features widespread oscillation, remote control, and built-in safety features. Ideal for heating smaller rooms with consistent warmth.",
           "metrics": [
             {
@@ -1509,50 +1474,8 @@
           "purchaseLinks": [
             {
               "store": "Amazon",
-              "price": "$69",
-              "link": "https://www.amazon.com/Lasko-755320-Ceramic-Space-Heater/dp/B000TGDGLU/"
-            },
-            {
-              "store": "Walmart",
-              "price": "$65",
-              "link": "https://www.walmart.com/ip/Lasko-Electric-Ceramic-Tower-Space-Heater-with-Remote-Control-755320/23209107"
-            }
-          ]
-        },
-        {
-          "rank": 3,
-          "image": "/DeLonghiOilFilled.png",
-          "title": "De'Longhi Oil-Filled Radiator",
-          "description": "A silent and energy-efficient oil-filled radiator heater with multiple heat settings.",
-          "details": "The De'Longhi Oil-Filled Radiator features thermal slots, adjustable thermostat, and energy-saving timer. Ideal for long-term heating with minimal noise.",
-          "metrics": [
-            {
-              "name": "Customer Reviews and Ratings",
-              "rating": 4.6
-            },
-            {
-              "name": "Price and Value for Money",
-              "rating": 4.4
-            },
-            {
-              "name": "Heating Performance and Efficiency",
-              "rating": 4.7
-            },
-            {
-              "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.5
-            }
-          ],
-          "purchaseLinks": [
-            {
-              "store": "De'Longhi",
-              "price": "$99",
-              "link": "https://www.delonghi.com"
-            },
-            {
-              "store": "Home Depot",
-              "price": "$89",
-              "link": "https://www.homedepot.com/p/DeLonghi-Oil-Filled-Radiator-TRD40615E/204811275"
+              "price": "₹51,096",
+              "link": "https://amzn.to/3Wh7uSC"
             }
           ]
         }
@@ -1561,7 +1484,7 @@
   },
   {
     "slug": ["electronic-appliances", "heating", "heat-pumps"],
-    "image": "",
+    "image": "https://heatpumps.ca/images/products/MSZ-FH25-hyper-heat.png",
     "title": "Best Heat Pumps",
     "updatedDate": "",
     "researchLink": "",
@@ -1602,7 +1525,7 @@
     },
     "topPick": {
       "rank": 1,
-      "image": "/MitsubishiElectric.png",
+      "image": "https://hvacdirect.com/media/catalog/product/m/s/msz-wr09na-scene.jpg?width=280&height=430&canvas=280,430&optimize=high&bg-color=255,255,255&fit=bounds",
       "title": "Mitsubishi Electric Heat Pump",
       "description": "An advanced heat pump system with superior energy efficiency and quiet operation.",
       "details": "The Mitsubishi Electric Heat Pump features Hyper-Heating INVERTER technology, multiple fan speeds, and Wi-Fi control. Perfect for year-round comfort with minimal energy consumption.",
@@ -1627,95 +1550,11 @@
       "purchaseLinks": [
         {
           "store": "Mitsubishi Electric",
-          "price": "$3999",
-          "link": "https://www.mitsubishielectric.com"
-        },
-        {
-          "store": "Home Depot",
-          "price": "$3899",
-          "link": "https://www.homedepot.com/p/Mitsubishi-Electric-Zoned-Comfort-Solutions-MXZ-4C36NAHZ2-U1/314928070"
+          "price": "Price Variable",
+          "link": "https://hvacdirect.com/brands/mitsubishi-products/filter/zone-1-18k/low-ambient-heating.html"
         }
       ],
       "topPick": true
-    },
-    "competitionSection": {
-      "title": "The Competition",
-      "competitors": [
-        {
-          "rank": 2,
-          "image": "/CarrierInfinity.png",
-          "title": "Carrier Infinity Heat Pump",
-          "description": "A high-performance heat pump system with Greenspeed intelligence and quiet operation.",
-          "details": "The Carrier Infinity Heat Pump features Greenspeed intelligence, variable-speed operation, and Hybrid Heat dual fuel compatibility. Ideal for optimizing comfort and efficiency.",
-          "metrics": [
-            {
-              "name": "Customer Reviews and Ratings",
-              "rating": 4.7
-            },
-            {
-              "name": "Price and Value for Money",
-              "rating": 4.5
-            },
-            {
-              "name": "Heating and Cooling Performance",
-              "rating": 4.8
-            },
-            {
-              "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.6
-            }
-          ],
-          "purchaseLinks": [
-            {
-              "store": "Carrier",
-              "price": "$4199",
-              "link": "https://www.carrier.com"
-            },
-            {
-              "store": "Lowe's",
-              "price": "$4099",
-              "link": "https://www.lowes.com/pd/Carrier-Infinity-Greenspeed-Heat-Pump-System/1000189873"
-            }
-          ]
-        },
-        {
-          "rank": 3,
-          "image": "/LennoxXP.png",
-          "title": "Lennox XP Heat Pump",
-          "description": "A reliable heat pump system known for its energy efficiency and quiet operation.",
-          "details": "The Lennox XP Heat Pump features Precise Comfort technology, SilentComfort technology, and SmartHinge louvered panels. Perfect for achieving optimal comfort with minimal noise.",
-          "metrics": [
-            {
-              "name": "Customer Reviews and Ratings",
-              "rating": 4.6
-            },
-            {
-              "name": "Price and Value for Money",
-              "rating": 4.4
-            },
-            {
-              "name": "Heating and Cooling Performance",
-              "rating": 4.7
-            },
-            {
-              "name": "Brand Reputation and Trustworthiness",
-              "rating": 4.5
-            }
-          ],
-          "purchaseLinks": [
-            {
-              "store": "Lennox",
-              "price": "$3899",
-              "link": "https://www.lennox.com"
-            },
-            {
-              "store": "Home Depot",
-              "price": "$3799",
-              "link": "https://www.homedepot.com/p/Lennox-XP25-5-Ton-Variable-Speed-Heat-Pump/308091383"
-            }
-          ]
-        }
-      ]
     }
   },
   {
